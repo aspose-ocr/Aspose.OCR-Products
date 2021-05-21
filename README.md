@@ -1,2 +1,1 @@
-# Aspose.OCR-Products
-Aspose.OCR product family landing pages
+This repository contains Aspose.OCR Product Family landing pages.
