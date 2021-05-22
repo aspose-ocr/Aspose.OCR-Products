@@ -40,21 +40,7 @@ Aspose.OCRCloud SDK for .NET
 
 {{< /blocks/products/pf/product-card-row >}}
 
-{{< blocks/products/pf/product-card-row title="Aspose.OCR Cross Platform Apps Include" >}}
-
-{{< blocks/products/pf/product pfName="Aspose.OCR " title="Convert Image to Text" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_image-app.png" >}}
-Aspose.OCR Convert Image to Text
-{{< /blocks/products/pf/product >}}
-
-{{< blocks/products/pf/product pfName="Aspose.OCR " title="Convert Image to PDF" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_ocr-to-pdf.png" >}}
-Aspose.OCR Convert Image to PDF
-{{< /blocks/products/pf/product >}}
-
-{{< blocks/products/pf/product pfName="Aspose.OCR " title="Scan Receipt" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose-scan-receipt.png" >}}
-Aspose.OCR Scan Receipt
-{{< /blocks/products/pf/product >}}
-
-{{< blocks/products/pf/center-button href="https://products.aspose.app/ocr/family" innerText="View All Cross Platform Apps" >}}
+{{< /blocks/products/pf/product-card-row >}}
 
 {{< /blocks/products/pf/product-card-row >}}
 
