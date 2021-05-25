@@ -40,10 +40,6 @@ Aspose.OCRCloud SDK for .NET
 
 {{< /blocks/products/pf/product-card-row >}}
 
-{{< /blocks/products/pf/product-card-row >}}
-
-{{< /blocks/products/pf/product-card-row >}}
-
 {{< /blocks/products/pf/main-container >}}
 
 {{< blocks/products/pf/testimonials title="" subTitle="" >}}
