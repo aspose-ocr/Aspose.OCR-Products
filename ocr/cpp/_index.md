@@ -18,7 +18,175 @@ url: /cpp/
 <!--Diagrams Start-->
 {{< blocks/products/pf/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="" description="" >}}
+{{< blocks/products/pf/carousel-item h3="At a Glance" description="An overview of the capabilities of API." >}}
+<div class="diagram1 d1-cplus">
+ <div class="d1-row">
+  <div class="d1-col d1-left">
+   <header>
+    <i class="fa fa-cogs">
+    </i>
+    Main Features
+   </header>
+   <ul>
+    <li>
+     Load Multiple Formats
+    </li>
+    <li>
+     Supports Different Fonts
+    </li>
+    <li>
+     Supports Multiple Styles
+    </li>
+    <li>
+     Detect Full Text From Page
+    </li>
+    <li>
+     Extract Single Line Text
+    </li>
+    <li>
+     Calculate Skew Angle
+    </li>
+   </ul>
+  </div>
+  <!--/left-->
+  <div class="d1-col d1-right">
+   <!--<header><i class="fa fa-text-width"> </i>Supported Font Styles</header>
+
+<ul>
+
+<li>Regular</li>
+
+<li>Bold</li>
+
+<li>Italic</li>
+
+</ul>-->
+  </div>
+  <!--/right-->
+ </div>
+ <!--/row-->
+ <div class="d1-logo">
+  <img alt="Optical Character Recognition Library" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/ocr/272x272/aspose_ocr-for-cpp.png"/>
+  <header>
+   Aspose.OCR
+  </header>
+  <footer>
+   <small>
+    <em>
+     for
+    </em>
+    C++
+   </small>
+  </footer>
+ </div>
+ <!--/logo-->
+</div>
+
+{{< /blocks/products/pf/carousel-item >}}
+
+{{< blocks/products/pf/carousel-item h3="Platform Independence" description="The OCR library fully supports C++ applications developed on the following platforms having [system requirements](https://docs.aspose.com/ocr/net/system-requirements/)  ." >}}
+<div class="diagram1 d1-cplus">
+ <div class="d1-row">
+  <div class="d1-col d1-left">
+   <header>
+    <i class="fa fa-cubes">
+    </i>
+    Windows 64 bit
+   </header>
+  </div>
+  <!--/left-->
+  <div class="d1-col d1-right">
+   <header>
+    <i class="fa fa-cubes">
+    </i>
+    Linux 64 bit
+   </header>
+  </div>
+  <!--/right-->
+ </div>
+ <!--/row-->
+ <div class="d1-logo">
+  <img alt="C++ OCR API" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/ocr/272x272/aspose_ocr-for-cpp.png"/>
+  <header>
+   Aspose.OCR
+  </header>
+  <footer>
+   <small>
+    <em>
+     for
+    </em>
+    C++
+   </small>
+  </footer>
+ </div>
+ <!--/logo-->
+</div>
+
+{{< /blocks/products/pf/carousel-item >}}
+
+{{< blocks/products/pf/carousel-item h3="Supported File Formats" description="Aspose.OCR for C++ supports most commonly used image [file formats](https://docs.aspose.com/ocr/cpp/supported-file-formats/)  ." >}}
+<div class="diagram1 d2 d1-cplus">
+ <div class="d1-row">
+  <div class="d1-col d1-left">
+   <header>
+    <i class="fa fa-long-arrow-down">
+    </i>
+    Input Only
+   </header>
+   <ul>
+    <li>
+     BMP
+    </li>
+    <li>
+     JPG
+    </li>
+    <li>
+     PNG
+    </li>
+    <!--<li><strong>Windows Bitmap</strong>: bmp, dib</li>
+
+<li><strong>JPEG</strong>: jpeg, jpg, jpe, jp2</li>
+
+<li><strong>TIFF</strong>: tiff, tif</li>
+
+<li><strong>Sun rasters</strong>: sr, ras</li>
+
+<li><strong>Radiance HDR</strong>: hdr, pic</li>
+
+<li><strong>OpenEXR</strong>: exr</li>
+
+<li>PNG</li>
+
+<li>WebP</li>
+
+<li>GDAL</li>
+
+<li><strong>Portable formats</strong>: pbm, pgm, ppm pxm, pnm</li>-->
+   </ul>
+  </div>
+  <!--/left-->
+  <div class="d1-col d1-right">
+  </div>
+  <!--/right-->
+ </div>
+ <!--/row-->
+ <div class="d1-logo">
+  <img alt="Text Recognition API" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/ocr/272x272/aspose_ocr-for-cpp.png"/>
+  <header>
+   Aspose.OCR
+  </header>
+  <footer>
+   <small>
+    <em>
+     for
+    </em>
+    C++
+   </small>
+  </footer>
+ </div>
+ <!--/logo-->
+</div>
+
 {{< /blocks/products/pf/carousel-item >}}
 
 {{< /blocks/products/pf/carousel >}}
