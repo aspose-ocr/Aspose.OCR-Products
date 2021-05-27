@@ -197,6 +197,152 @@ description: Optical character recognition OCR C++ library to extract text from 
 <!--Diagrams End-->
 
 <!--Feature-section Start-->
+<div class="container-fluid features-section bg-gray">
+ <a class="anchor" id="features" name="features">
+ </a>
+ <div class="row">
+  <div class="container">
+   <h2 class="pr-ft">
+    Advanced C++ OCR API Features
+   </h2>
+   <p>
+   </p>
+   <div class="col-lg-4">
+    <em class="fa fa-file-text-o ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Recognize characters from images
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-image ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Support multiple image file formats
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-language ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Support multiple characters
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-font ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Recognize characters or text in popular fonts
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-bold ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Multi styles support
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-image ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Scan the whole image or any part of it
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-refresh ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Recognize text in paragraphs
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-filter ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Recognize text in headers
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-angle-right ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Calculate the skew angle of images
+    </p>
+   </div>
+   <!--<div class="col-lg-12">
+
+<h2 class="h2title">Capture Text from Images</h2>
+
+<p>In just 4 lines of code, add OCR functionality to your C++ applications to capture text from images. It is really that simple!</p>
+
+
+
+</div>-->
+   <div class="col-lg-12">
+    <h2 class="h2title">
+     Perform OCR of an Image
+    </h2>
+    <p>
+     Aspose.OCR for C++ allows the developers to recognize each text segment like text and related information such as different characters, font and style of an image of a page. Just few lines of code that allows performing the OCR operation.
+    </p>
+    <div class="codeblock" id="code">
+     <h3>
+      Perform OCR of an image of a Page - C++
+     </h3>
+     <pre><code class="cs">std::string img_path = "../srcSample.png";
+
+// Prepare buffer for result (in symbols, len_byte = len * sizeof(wchar_t))
+
+const size_t len = 4096;
+
+wchar_t bfr[len] = { 0 };
+
+size_t result = aspose::ocr::page(image_path.c_str(), bfr, len);
+
+//Print result
+
+std::wcout &lt;&lt; bfr &lt;&lt; L"\n";
+
+</code></pre>
+    </div>
+   </div>
+   <div class="col-lg-12">
+    <h2 class="h2title">
+     Muti-Fonts &amp; Styles Support
+    </h2>
+    <p>
+     C++ OCR API supports to recognize Text in popular fonts &amp; styles like Arial, Times New Roman, Courier New, Verdana, Tahoma and Calibri fonts in regular, bold and italic text styles.
+    </p>
+   </div>
+   <!--<div class="col-lg-12">
+
+<h2 class="h2title">Multi-Language Support</h2>
+
+<p>Aspose.OCR for C++ supports multiple languages such as English, French, Spanish and Portuguese. More languages are to be supported with future releases of API.</p>
+
+</div>-->
+   <div class="col-lg-12">
+    <h2 class="h2title">
+     Calculate Skew Angle of the Image
+    </h2>
+    <p>
+     The library calculates the skew angle of the image. It takes the image path as input and returns the skew angle.
+    </p>
+    <div class="codeblock" id="code">
+     <h3>
+      Calculate Skew Angle - C++
+     </h3>
+     <pre><code class="cs">std::string image_path = "../srcSkew.png";
+
+std::double_t result = aspose::ocr::get_skew(image_path.c_str());
+
+std::wcout &lt;&lt; result &lt;&lt; L'\n';</code></pre>
+    </div>
+   </div>
+  </div>
+ </div>
+</div>
 <!--Feature-section End-->
 
 {{< /blocks/products/pf/main-container >}}

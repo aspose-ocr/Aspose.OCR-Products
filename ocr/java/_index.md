@@ -205,6 +205,142 @@ description: Java Optical Character Recognition library to convert images into t
 <!--Diagrams End-->
 
 <!--Feature-section Start-->
+<div class="container-fluid features-section bg-gray">
+ <a class="anchor" id="features" name="features">
+ </a>
+ <div class="row">
+  <div class="container">
+   <h2 class="pr-ft">
+    Image to Text Java API Features
+   </h2>
+   <p>
+   </p>
+   <div class="col-lg-4">
+    <em class="fa fa-file-text-o ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Read different characters from images
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-image ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Support for common image formats
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-image ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Scan any part of an image or as a whole
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-refresh ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Scan rotated images
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-font ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Read the text in multiple fonts
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-bold ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Support for common font styles
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-filter ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Get skew angle of images
+    </p>
+   </div>
+   <div class="col-lg-12">
+    <h2 class="h2title">
+     Perform OCR On Image Selected Areas
+    </h2>
+    <p>
+     Using the library, developers can extract text from image specific parts by specifying rectangles, fonts, and styles. Recognizing text in pixels from images specific areas is simple, with just a few lines of code.
+    </p>
+    <div class="codeblock" id="code">
+     <h3>
+      Perform OCR on selected areas - Java
+     </h3>
+     <pre><code class="java">//Create API instance
+
+AsposeOCR api = new AsposeOCR();
+
+//Prepare rectangles with texts.
+
+ArrayList rectArray = new ArrayList();
+
+rectArray.add(new Rectangle(138, 352, 2033, 537));
+
+rectArray.add(new Rectangle(147, 890, 2033, 1157));
+
+String result = api.RecognizePage("srcImage.png", rectArray);
+
+System.out.println("Result with rect: " + result);</code></pre>
+    </div>
+   </div>
+   <!--<div class="col-lg-12">
+
+<h2 class="h2title">Scan Whole Image or Portion</h2>
+
+<p>Using Aspose.OCR for Java, developers can extract text and related information such as font, style & location of the text from specific parts of an image. This feature allows performing the OCR operation quickly on document scans that follow the similar structure.</p>
+
+</div>-->
+   <div class="col-lg-12">
+    <h2 class="h2title">
+     Recognize Text in Different Fonts
+    </h2>
+    <p>
+     Aspose.OCR for Java API supports Times New Roman, Arial,  Verdana, Courier New,  Tahoma and Calibri fonts in regular, italic and bold text styles as well as different language characters.
+    </p>
+   </div>
+   <!--<div class="col-lg-12">
+
+<h2 class="h2title">Support for Global Languages</h2>
+
+<p>Aspose.OCR for Java API supports multiple languages such as English, French, Spanish, and Portuguese.</p>
+
+</div>-->
+   <div class="col-lg-12">
+    <h2 class="h2title">
+     Easy to Calculate Skew Angle
+    </h2>
+    <p>
+     Using the Java OCR library, calculating the image skew angle is fast and simple. Developers can use CalcSkewImage function by providing image path that returns the skew angle.
+    </p>
+    <div class="codeblock" id="code">
+     <h3>
+      Calculate Skew Angle of the Image - Java
+     </h3>
+     <pre><code class="java">//Create api instance
+
+AsposeOCR api = new AsposeOCR();
+
+// Get skew
+
+double angle = api.CalcSkewImage("sourceImage.png");
+
+System.out.println("Skew text is:" + angle + " degrees.");
+
+</code></pre>
+    </div>
+   </div>
+  </div>
+ </div>
+</div>
 <!--Feature-section End-->
 
 {{< /blocks/products/pf/main-container >}}
