@@ -2,6 +2,7 @@
 title:  
 weight: 130
 url: /net/conversion/gif-to-txt/ 
+description: Try our On-Premise APIs with your document on .NET Framework, Windows Application, ASP.NET Web Application and Web Services.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

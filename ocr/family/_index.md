@@ -2,6 +2,7 @@
 title: .NET Java and C++ OCR APIs | Add OCR Capabilities 
 weight: 10
 url: /family
+description: Convert images to text with .NET and Java OCR libraries for English, French, Spanish and Portuguese languages.
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}

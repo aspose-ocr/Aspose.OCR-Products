@@ -2,6 +2,7 @@
 title:  
 weight: 120
 url: /net/conversion/bmp-to-txt/ 
+description: Try our On-Premise APIs with your document on .NET Framework, Windows Application, ASP.NET Web Application and Web Services.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

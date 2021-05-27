@@ -2,6 +2,7 @@
 title: C# .NET Optical Character Recognition OCR API - Aspose 
 weight: 160
 url: /net/ 
+description: C# ASP.NET VB.NET Optical character recognition OCR library to find and extract text from images in Windows and Web Services apps
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}

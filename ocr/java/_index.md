@@ -2,6 +2,7 @@
 title: Java OCR API | Perform Optical Character Recognition 
 weight: 110
 url: /java/ 
+description: Java Optical Character Recognition library to convert images into text. OCR API can extract text from scanned documents within multiple languages
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
