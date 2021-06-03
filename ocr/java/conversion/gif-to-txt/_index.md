@@ -1,6 +1,6 @@
 ---
 title: Convert GIF to TXT via Java 
-weight: 70
+weight: 110
 url: /java/conversion/gif-to-txt/ 
 description: Try our On-Premise APIs for your document conversion on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
@@ -13,7 +13,7 @@ description: Try our On-Premise APIs for your document conversion on Java Runtim
 
 {{% blocks/products/pf/agp/content h2="How to Convert GIF to TXT Using Java" %}}
 
- In order to render GIF to TXT, weвЂ™ll use
+ In order to render GIF to TXT, we’ll use
  [Aspose.OCR for Java](https://products.aspose.com/ocr/java) 
  API which is a feature-rich, powerful and easy to use conversion API for Java platform. You can download its latest version directly from
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-ocr) 
@@ -77,7 +77,7 @@ description: Try our On-Premise APIs for your document conversion on Java Runtim
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Convert GIF to TXT - JavaвЂЋ" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="Convert GIF to TXT - Java‎" offSpacer="" %}}
 
 ```cs
 // initialize an instance of AsposeOcr
@@ -106,7 +106,7 @@ System.out.print(riText);
 
     {{% blocks/products/pf/agp/content h2="" %}}
 
- Aspose.OCR is an OCR API. Developers can easily perform image to text conversion and optical character recognition. API is capable to read multiple characters, different styles and fonts. API also supports multiple image formats. Its a standalone API and does not require any external software installation. вЂЋ
+ Aspose.OCR is an OCR API. Developers can easily perform image to text conversion and optical character recognition. API is capable to read multiple characters, different styles and fonts. API also supports multiple image formats. Its a standalone API and does not require any external software installation. ‎
 
 
 

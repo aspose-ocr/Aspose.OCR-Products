@@ -1,6 +1,6 @@
 ---
 title: On Premise, Cloud & App Based Solutions to Perform OCR on Images 
-weight: 170
+weight: 100
 url: /
 description: Build Optical Character Recognition (OCR) solutions via On Premise APIs or Cloud-based SDKs. Or use our simple cross-platform apps for text extraction.
 ---

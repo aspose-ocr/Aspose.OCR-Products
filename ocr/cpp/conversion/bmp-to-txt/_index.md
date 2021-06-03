@@ -1,6 +1,6 @@
 ---
 title: Convert BMP to TXT via C++ application 
-weight: 20
+weight: 30
 url: /cpp/conversion/bmp-to-txt/ 
 description: Try our On-Premise APIs for your document conversion using C++ Runtime Environment for Windows 32 bit, Windows 64 bit and Linux 64 bit.
 ---
@@ -13,7 +13,7 @@ description: Try our On-Premise APIs for your document conversion using C++ Runt
 
 {{% blocks/products/pf/agp/content h2="How to Convert BMP to TXT Using C++" %}}
 
- In order to convert BMP to TXT, weвЂ™ll use
+ In order to convert BMP to TXT, we’ll use
  [Aspose.OCR for C++](https://products.aspose.com/ocr/cpp) 
  API which is a feature-rich, powerful and easy to use document manipulation and conversion API for C++ platform. You can download its latest version directly, just open
  [NuGet](https://www.nuget.org/packages/aspose.ocr) 
@@ -61,7 +61,7 @@ PM> Install-Package Aspose.OCR.Cpp
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Convert BMP to TXT - C++вЂЋ" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="Convert BMP to TXT - C++‎" offSpacer="" %}}
 
 ```cs
 std::string image_path = u"sourceFile.bmp";
@@ -94,7 +94,7 @@ std::wcout << buffer << L"\n";
 
     {{% blocks/products/pf/agp/content h2="" %}}
 
- Aspose.OCR is an OCR API. Developers can easily perform image to text conversion and optical character recognition. API is capable to read multiple characters, different styles and fonts. API also supports multiple image formats. Its a standalone API and does not require any external software installation. вЂЋ
+ Aspose.OCR is an OCR API. Developers can easily perform image to text conversion and optical character recognition. API is capable to read multiple characters, different styles and fonts. API also supports multiple image formats. Its a standalone API and does not require any external software installation. ‎
 
 
 

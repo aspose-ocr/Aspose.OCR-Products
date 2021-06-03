@@ -1,6 +1,6 @@
 ---
 title: Image to Text C++ OCR API - Aspose 
-weight: 50
+weight: 130
 url: /cpp/ 
 description: Optical character recognition OCR C++ library to extract text from PNG, JPG and more image formats either at page level or just single line of text.
 ---

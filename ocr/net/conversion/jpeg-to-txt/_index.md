@@ -1,6 +1,6 @@
 ---
 title: Convert JPEG to TXT via .NET 
-weight: 140
+weight: 80
 url: /net/conversion/jpeg-to-txt/ 
 description: Try our On-Premise APIs with your document on .NET Framework, Windows Application, ASP.NET Web Application and Web Services.
 ---
@@ -13,7 +13,7 @@ description: Try our On-Premise APIs with your document on .NET Framework, Windo
 
 {{% blocks/products/pf/agp/content h2="How to Convert JPEG to TXT Using C#" %}}
 
- In order to convert JPEG to TXT, weвЂ™ll use
+ In order to convert JPEG to TXT, we’ll use
  [Aspose.OCR for .NET](https://products.aspose.com/ocr/net) 
  API which is a feature-rich, powerful and easy to use document manipulation and conversion API for C# platform. Open
  [NuGet](https://www.nuget.org/packages/aspose.ocr) 
