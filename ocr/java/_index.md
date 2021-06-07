@@ -6,11 +6,11 @@ description: Java Optical Character Recognition library to convert images into t
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Java OCR API" h2="Add Optical Character Recognition and Document Scanning Functionality to any Java-based OCR application." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/ocr/header/aspose_ocr-for-java.png" pfName="Aspose.OCR for Java" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/ocr/java" >}}
+{{< blocks/products/pf/upper-banner h1="Java OCR API" h2="Add Optical Character Recognition and Document Scanning Functionality to any Java-based OCR application." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/ocr/header/aspose_ocr-for-java.png" pfName="Aspose.OCR" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/ocr/java" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.OCR" subTitlepfName="for Java" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/ocr/272x272/aspose_ocr-for-java.png" liveDemosLink="https://products.aspose.app/ocr/family" PricingLink="https://purchase.aspose.com/pricing/ocr/java" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/ocr/java/" instalationsDocsLink="https://docs.aspose.com/ocr/java/installation/" nugetLink="" nugetPackageName="" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/ocr/272x272/aspose_ocr-for-java.png" liveDemosLink="https://products.aspose.app/ocr/family" PricingLink="https://purchase.aspose.com/pricing/ocr/java" buyLink="https://purchase.aspose.com/pricing/ocr/java" docsLink="https://docs.aspose.com/ocr/java/" installationsDocsLink="https://docs.aspose.com/ocr/java/installation/" nugetLink="" nugetPackageName="" mavenRepoLink="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-ocr" directDownloadLink="https://downloads.aspose.com/ocr/java" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p align="justify">
