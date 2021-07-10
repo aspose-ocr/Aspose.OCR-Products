@@ -14,7 +14,7 @@ description: Optical character recognition OCR C++ library to extract text from 
 
 {{< blocks/products/pf/tab-content >}}
 <p align="justify">
- Aspose.OCR for C++ is a robust and reliable professional optical character recognition API. Developers can easily add OCR operations in their software applications. OCR library can work offline for business applications as well. Furthermore, this premise OCR API can perform OCR using the GPU instead of the core processor. Major API feature is the text fragment detection that enables to recognize header and paragraphs for pages having pictures or tables. It supports commonly used formats for reading characters and fonts having different styles, noise removal filters, recognizing the whole page, or just single line form it.
+ Aspose.OCR for C++ is a robust and reliable professional optical character recognition API. Developers can easily add OCR operations in their software applications. OCR library can work offline for business applications as well. Furthermore, this premise OCR API can perform OCR using the GPU instead of the core processor. Major API feature is the text fragment detection that enables to recognize header and paragraphs for pages having pictures or tables. It supports commonly used formats for reading characters and fonts having different styles, noise removal filters, recognizing the whole page, or just single line.
 </p>
 
 {{< /blocks/products/pf/tab-content >}}
