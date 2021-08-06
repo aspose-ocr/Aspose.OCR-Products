@@ -169,7 +169,17 @@ description: Optical character recognition OCR C++ library to extract text from 
    </ul>
   </div>
   <!--/left-->
-  <div class="d1-col d1-right">
+<div class="d1-col d1-right">
+   <header>
+    <i class="fa fa-mail-forward">
+    </i>
+    Output Only
+   </header>
+   <ul>
+    <li>TXT</li>
+    <li>DOCX</li>
+    <li>PDF</li>
+   </ul>
   </div>
   <!--/right-->
  </div>

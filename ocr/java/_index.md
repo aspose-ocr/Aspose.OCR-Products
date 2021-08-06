@@ -178,6 +178,16 @@ description: Java Optical Character Recognition library to convert images into t
   </div>
   <!--/left-->
   <div class="d1-col d1-right">
+   <header>
+    <i class="fa fa-mail-forward">
+    </i>
+    Output Only
+   </header>
+   <ul>
+    <li>TXT</li>
+    <li>DOCX</li>
+    <li>PDF</li>
+   </ul>
   </div>
   <!--/right-->
  </div>
