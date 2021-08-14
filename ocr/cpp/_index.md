@@ -10,7 +10,7 @@ description: Optical character recognition OCR C++ library to extract text from 
 
 {{< blocks/products/pf/main-container pfName="Aspose.OCR" subTitlepfName="for C++" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/ocr/272x272/aspose_ocr-for-cpp.png" liveDemosLink="https://products.aspose.app/ocr/family" PricingLink="https://purchase.aspose.com/pricing/ocr/cpp" buyLink="https://purchase.aspose.com/pricing/ocr/cpp" docsLink="https://docs.aspose.com/ocr/cpp/" installationsDocsLink="https://docs.aspose.com/ocr/cpp/installation/" nugetLink="https://www.nuget.org/packages/Aspose.OCR.cpp/" nugetPackageName="Aspose.OCR.Cpp" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/ocr/cpp" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-cpp.svg" liveDemosLink="https://products.aspose.app/ocr/family" PricingLink="https://purchase.aspose.com/pricing/ocr/cpp" buyLink="https://purchase.aspose.com/pricing/ocr/cpp" docsLink="https://docs.aspose.com/ocr/cpp/" installationsDocsLink="https://docs.aspose.com/ocr/cpp/installation/" nugetLink="https://www.nuget.org/packages/Aspose.OCR.cpp/" nugetPackageName="Aspose.OCR.Cpp" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/ocr/cpp" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p align="justify">
@@ -70,7 +70,7 @@ description: Optical character recognition OCR C++ library to extract text from 
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="Optical Character Recognition Library" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/ocr/272x272/aspose_ocr-for-cpp.png"/>
+  <img alt="Optical Character Recognition Library" src="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-cpp.svg"/>
   <header>
    Aspose.OCR
   </header>
@@ -110,7 +110,7 @@ description: Optical character recognition OCR C++ library to extract text from 
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="C++ OCR API" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/ocr/272x272/aspose_ocr-for-cpp.png"/>
+  <img alt="C++ OCR API" src="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-cpp.svg"/>
   <header>
    Aspose.OCR
   </header>
@@ -185,7 +185,7 @@ description: Optical character recognition OCR C++ library to extract text from 
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="Text Recognition API" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/ocr/272x272/aspose_ocr-for-cpp.png"/>
+  <img alt="Text Recognition API" src="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-cpp.svg"/>
   <header>
    Aspose.OCR
   </header>
@@ -384,8 +384,8 @@ std::wcout &lt;&lt; result &lt;&lt; L'\n';</code></pre>
 
 {{< blocks/products/pf/offers-section pfName="Aspose.OCR" description="Aspose.OCR offers individual OCR APIs for other popular development environments as listed below:" >}}
 
-    {{< blocks/products/pf/offers-section-item link="/ocr/net" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/ocr/272x272/aspose_ocr-for-net-min.png" sdkName=".NET" >}}
-    {{< blocks/products/pf/offers-section-item link="/ocr/java" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/ocr/272x272/aspose_ocr-for-java-min.png" sdkName="Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/ocr/net/" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/ocr/272x272/aspose_ocr-for-net-min.png" sdkName=".NET" >}}
+    {{< blocks/products/pf/offers-section-item link="/ocr/java/" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/ocr/272x272/aspose_ocr-for-java-min.png" sdkName="Java" >}}
 
 {{< /blocks/products/pf/offers-section >}}
 

@@ -11,15 +11,15 @@ description: Build Optical Character Recognition (OCR) solutions via On Premise 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.OCR On Premise APIs Include" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.OCR for " title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/ocr/272x272/aspose_ocr-for-net.png" productLink="https://products.aspose.com/ocr/net" >}}
+{{< blocks/products/pf/product pfName="Aspose.OCR for " title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-net.svg" productLink="https://products.aspose.com/ocr/net" >}}
 Native .NET APIs to read characters & fonts from scanned images via OCR. Supports extracting text in various languages.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.OCR for " title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/ocr/272x272/aspose_ocr-for-java.png" productLink="https://products.aspose.com/ocr/java" >}}
+{{< blocks/products/pf/product pfName="Aspose.OCR for " title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-java.svg" productLink="https://products.aspose.com/ocr/java" >}}
 Perform OCR on raster images for extracting text. Supports multiple world languages. Configure & apply OCR settings.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.OCR for " title="C++" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/ocr/272x272/aspose_ocr-for-cpp.png" productLink="https://products.aspose.com/ocr/cpp" >}}
+{{< blocks/products/pf/product pfName="Aspose.OCR for " title="C++" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-cpp.svg" productLink="https://products.aspose.com/ocr/cpp" >}}
 Add word recognition and text extraction capilities within C++ based OCR software applications.
 {{< /blocks/products/pf/product >}}
 
