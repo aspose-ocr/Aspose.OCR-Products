@@ -88,7 +88,7 @@ description: Optical character recognition OCR C++ library to extract text from 
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Platform Independence" description="The OCR library fully supports C++ applications developed on the following platforms having [system requirements](https://docs.aspose.com/ocr/net/system-requirements/)  ." >}}
+{{< blocks/products/pf/carousel-item h3="Platform Independence" description="The OCR library fully supports C++ applications developed on the following platforms having [system requirements](https://docs.aspose.com/ocr/net/system-requirements/)." >}}
 <div class="diagram1 d1-cplus">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -128,7 +128,7 @@ description: Optical character recognition OCR C++ library to extract text from 
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Supported File Formats" description="Aspose.OCR for C++ supports most commonly used image [file formats](https://docs.aspose.com/ocr/cpp/supported-file-formats/)  ." >}}
+{{< blocks/products/pf/carousel-item h3="Supported File Formats" description="Aspose.OCR for C++ supports most commonly used image [file formats](https://docs.aspose.com/ocr/cpp/supported-file-formats/)." >}}
 <div class="diagram1 d2 d1-cplus">
  <div class="d1-row">
   <div class="d1-col d1-left">

@@ -152,7 +152,7 @@ description: Java Optical Character Recognition library to convert images into t
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Supported File Formats" description="API supports most popular raster image [file formats](https://docs.aspose.com/ocr/java/supported-file-formats/)  ." >}}
+{{< blocks/products/pf/carousel-item h3="Supported File Formats" description="API supports most popular raster image [file formats](https://docs.aspose.com/ocr/java/supported-file-formats/)." >}}
 <div class="diagram1 d2 d1-java">
  <div class="d1-row">
   <div class="d1-col d1-left">
