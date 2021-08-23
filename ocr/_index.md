@@ -37,6 +37,10 @@ Use simple cURL commands to perform OCR on raster images to extract English, Fre
 Read character & font information from scanned raster images to extract text via OCR. Supports English, Spanish & French text extraction.
 {{< /blocks/products/pf/product >}}
 
+{{< blocks/products/pf/product pfName="Aspose.OCR" title="Cloud SDK for Java" imgSrc="https://www.aspose.cloud/templates/asposecloud/App_Themes/V3/images/sdk/272x272/aspose_ocr-for-java.png" productLink="https://products.aspose.cloud/ocr/java" >}}
+Easy to use Java SDK to communicate with Aspose.OCR Cloud API for converting images to text.
+{{< /blocks/products/pf/product >}}
+
 {{< blocks/products/pf/center-button href="https://products.aspose.cloud/ocr/family" innerText="View All Cloud APIs" >}}
 
 {{< /blocks/products/pf/product-card-row >}}
