@@ -47,6 +47,6 @@ Native C and C++ OCR API for performing OCR on both Windows and Linux.
 
 {{< /blocks/products/pf/support-learning-resources >}}
 
-{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/ocr" pricingInformationLink="https://purchase.aspose.com/pricing/ocr" >}}
+{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/ocr" pricingInformationLink="https://purchase.aspose.com/pricing/ocr/family" >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}
