@@ -6,7 +6,7 @@ description: Build Optical Character Recognition (OCR) solutions via On Premise 
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Optical Character Recognition Solution" h2="Extract text from images via OCR technology. Use Aspose.OCR On Premise & Cloud APIs to develop your own apps or simply use ours." logoImageSrc="https://www.aspose.com/templates/brand/images/ocr/aspose_ocr-brand.png" imageAlt="" >}}
+{{< blocks/products/pf/upper-banner h1="Optical Character Recognition Solution" h2="Extract text from images via OCR technology. Use Aspose.OCR On Premise & Cloud APIs to develop your own apps or simply use ours." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/headers/aspose_ocr-brand.svg" imageAlt="" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.OCR On Premise APIs Include" >}}
