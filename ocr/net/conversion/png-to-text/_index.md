@@ -63,7 +63,7 @@ PM> Install-Package Aspose.OCR
 
 ```cs
 // initialize an instance of AsposeOcr
-AsposeOcr ocr = new AsposeOcr;
+AsposeOcr ocr = new AsposeOcr();
 // recognize image
 string riText = ocr.RecognizeImage("template.png");
 // print text
