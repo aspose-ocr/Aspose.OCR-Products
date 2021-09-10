@@ -6,7 +6,7 @@ description: Optical character recognition OCR C++ library to extract text from 
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="C++ OCR Library" h2="Extract text from BMP, JPEG and other images having different fonts and styles within any C++ application." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/ocr/header/aspose_ocr-for-cpp.png" pfName="Aspose.OCR" subTitlepfName="for C++" downloadUrl="https://downloads.aspose.com/ocr/cpp" >}}
+{{< blocks/products/pf/upper-banner h1="C++ OCR Library" h2="Extract text from BMP, JPEG and other images having different fonts and styles within any C++ application." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/headers/aspose_ocr-for-cpp.svg" pfName="Aspose.OCR" subTitlepfName="for C++" downloadUrl="https://downloads.aspose.com/ocr/cpp" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.OCR" subTitlepfName="for C++" >}}
 

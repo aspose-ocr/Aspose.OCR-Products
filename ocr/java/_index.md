@@ -6,7 +6,7 @@ description: Java Optical Character Recognition library to convert images into t
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Java OCR API" h2="Add Optical Character Recognition and Document Scanning Functionality to any Java-based OCR application." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/ocr/header/aspose_ocr-for-java.png" pfName="Aspose.OCR" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/ocr/java" >}}
+{{< blocks/products/pf/upper-banner h1="Java OCR API" h2="Add Optical Character Recognition and Document Scanning Functionality to any Java-based OCR application." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/headers/aspose_ocr-for-java.svg" pfName="Aspose.OCR" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/ocr/java" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.OCR" subTitlepfName="for Java" >}}
 
