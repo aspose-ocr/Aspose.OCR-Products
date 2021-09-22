@@ -114,7 +114,7 @@ A GIF or Graphical Interchange Format is a type of highly compressed image. Owne
 
 {{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert GIF into many other file formats including few listed below." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/ocr/net/conversion/gif-to-txt" name="GIF TO TXT" description="Text Document" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/ocr/net/conversion/gif-to-txt/" name="GIF TO TXT" description="Text Document" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

@@ -114,7 +114,7 @@ PNG, Portable Network Graphics, refers to a type of raster image file format tha
 
 {{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert PNG into many other file formats including few listed below." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/ocr/net/conversion/png-to-txt" name="PNG TO TXT" description="Text Document" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/ocr/net/conversion/png-to-txt/" name="PNG TO TXT" description="Text Document" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

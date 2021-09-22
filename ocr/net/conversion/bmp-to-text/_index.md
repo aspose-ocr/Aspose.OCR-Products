@@ -114,7 +114,7 @@ Files having extension .BMP represent Bitmap Image files that are used to store 
 
 {{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert BMP into many other file formats including few listed below." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/ocr/net/conversion/bmp-to-txt" name="BMP TO TXT" description="Text Document" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/ocr/net/conversion/bmp-to-txt/" name="BMP TO TXT" description="Text Document" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
