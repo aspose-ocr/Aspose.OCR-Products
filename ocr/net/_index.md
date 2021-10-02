@@ -364,7 +364,7 @@ Console.WriteLine(slResult);</code></pre>
      Multi-Language Support
     </h2>
     <p>
-     Aspose.OCR for .NET supports multiple languages such as English, French, Spanish and Portuguese. More languages are to be supported with future releases of API. Performing OCR operation is same for all languages like following few lines perform OCR operation on an image having Spanish text
+     Aspose.OCR for .NET supports different languages such as English, French, Spanish and Portuguese. More languages are to be supported with future releases of API. Performing OCR operation is same for all languages like following few lines perform OCR operation on an image having Spanish text
     </p>
     <div class="codeblock" id="code">
      <h3>
