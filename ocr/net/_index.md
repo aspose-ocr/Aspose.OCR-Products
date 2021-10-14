@@ -13,9 +13,7 @@ description: C# ASP.NET VB.NET Optical character recognition OCR library to find
 {{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-net.svg" liveDemosLink="https://products.aspose.app/ocr/family" PricingLink="https://purchase.aspose.com/pricing/ocr/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/ocr/net/" installationsDocsLink="https://docs.aspose.com/ocr/net/installation/" nugetLink="https://www.nuget.org/packages/Aspose.OCR/" nugetPackageName="Aspose.OCR" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/ocr/net" >}}
 
 {{< blocks/products/pf/tab-content >}}
-<p>
- Aspose.OCR for .NET is a robust optical character recognition API. Developers can easily add OCR functionalities in their applications. API is extensible, easy to use, compact and provides a simple set of classes for controlling character recognition. It supports commonly used image formats and provides functionalities like reading multiple characters and fonts from images, bold and italic styles, noise removal filters, scanning of the whole image or any part of the image and much more. Moreover, API has the ability to perform OCR using the GPU instead of the core processor.
-</p>
+<p>Aspose.OCR for .NET is a robust optical character recognition API. Developers can easily add OCR functionalities in their applications. API is extensible, easy to use, compact and provides a simple set of classes for controlling character recognition. It supports commonly used image formats and provides functionalities like reading multiple characters and fonts from images, bold and italic styles, noise removal filters, scanning of the whole image or any part of the image and much more. Moreover, API has the ability to perform OCR using the GPU instead of the core processor.</p>
 
 {{< /blocks/products/pf/tab-content >}}
 
