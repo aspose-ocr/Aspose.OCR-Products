@@ -6,7 +6,7 @@ description: C# ASP.NET VB.NET Optical character recognition OCR library to find
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1=".NET API to Perform OCR on Images" h2="Add image based Optical Character Recognition feature within any .NET-based application." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/headers/aspose_ocr-for-net.svg" pfName="Aspose.OCR" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/ocr/net" >}}
+{{< blocks/products/pf/upper-banner h1="Perform Image OCR with .NET Library" h2="Add image based Optical Character Recognition feature within any .NET-based application." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/headers/aspose_ocr-for-net.svg" pfName="Aspose.OCR" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/ocr/net" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.OCR" subTitlepfName="for .NET" >}}
 
