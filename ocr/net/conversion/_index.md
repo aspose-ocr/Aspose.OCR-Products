@@ -1,6 +1,6 @@
 ---
 title: C# OCR Image To Text Conversion
-url: /ocr/net/conversion/
+url: /net/conversion/
 description: Convert images to text within your OCR solution with few lines of C# code via .NET library.
 ---
 
