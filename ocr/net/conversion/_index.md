@@ -23,7 +23,7 @@ To convert images to text via any .NET based OCR software, process is simple. Cr
 
 {{% /blocks/products/pf/feature-page-code  %}}
 
-{{% blocks/products/pf/feature-page-code h3="C# Code to get text from image" %}}
+{{% blocks/products/pf/feature-page-code h3="C# Code to Get Text From Image" %}}
 
 {{< gist "aspose-com-gists" "94103a826ebfd9e84e639bca106880ce" "convert-images-to-text-containing-single-line-text.cs" >}}
 
