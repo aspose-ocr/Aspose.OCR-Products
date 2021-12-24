@@ -14,7 +14,7 @@ description: Java Optical Character Recognition library to convert images into t
 
 {{< blocks/products/pf/tab-content >}}
 <p align="justify">
- Aspose.OCR for Java is a stand-alone OCR API for Java applications while allowing the developers to perform optical character recognition on commonly used image types. It provides a simple set of classes to control character recognition for various language characters. Developers can easily read characters in multiple fonts, rotated images, whole images or parts of images. Furthermore, API has the capability to perform OCR through GPU instead of the core processor.
+ Aspose.OCR for Java is a stand-alone OCR API for Java applications while allowing the developers to perform optical character recognition on commonly used image types. It provides a simple set of classes to control character recognition for various language characters. Developers can easily read characters in multiple fonts, rotated images, whole images or parts of images. Furthermore, API has the capability to perform OCR through GPU instead of the core processor.
 </p>
 
 {{< /blocks/products/pf/tab-content >}}
@@ -152,7 +152,7 @@ description: Java Optical Character Recognition library to convert images into t
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Supported File Formats" description="API supports most popular raster image [file formats](https://docs.aspose.com/ocr/java/supported-file-formats/)." >}}
+{{< blocks/products/pf/carousel-item h3="Supported File Formats" description="API supports most popular raster image [file formats](https://docs.aspose.com/ocr/java/supported-file-formats/)." >}}
 <div class="diagram1 d2 d1-java">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -279,7 +279,7 @@ description: Java Optical Character Recognition library to convert images into t
      Perform OCR On Image Selected Areas
     </h2>
     <p>
-     Using the library, developers can extract text from image specific parts by specifying rectangles, fonts, and styles. Recognizing text in pixels from images specific areas is simple, with just a few lines of code.
+     Using the library, developers can extract text from image specific parts by specifying rectangles, fonts, and styles. Recognizing text in pixels from images specific areas is simple, with just a few lines of code.
     </p>
     <div class="codeblock" id="code">
      <h3>
@@ -311,10 +311,10 @@ System.out.println("Result with rect: " + result);</code></pre>
 </div>-->
    <div class="col-lg-12">
     <h2 class="h2title">
-     Recognize Text in Different Fonts
+     Recognize Text in Different Fonts
     </h2>
     <p>
-     Aspose.OCR for Java API supports Times New Roman, Arial,  Verdana, Courier New,  Tahoma and Calibri fonts in regular, italic and bold text styles as well as different language characters.
+     Aspose.OCR for Java API supports Times New Roman, Arial,  Verdana, Courier New,  Tahoma and Calibri fonts in regular, italic and bold text styles as well as different language characters.
     </p>
    </div>
    <!--<div class="col-lg-12">

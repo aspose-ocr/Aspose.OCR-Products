@@ -109,7 +109,7 @@ System.out.print(riText);
 
     {{% blocks/products/pf/agp/content h2="" %}}
 
- Aspose.OCR is an OCR API. Developers can easily perform image to text conversion and optical character recognition. API is capable to read multiple characters, different styles and fonts. API also supports multiple image formats. Its a standalone API and does not require any external software installation. ‎
+ Aspose.OCR is an OCR API. Developers can easily perform image to text conversion and optical character recognition. API is capable to read multiple characters, different styles and fonts. API also supports multiple image formats. Its a standalone API and does not require any external software installation.  
 
 
 

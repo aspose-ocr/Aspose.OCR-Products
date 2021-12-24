@@ -6,15 +6,15 @@ description: Optical character recognition OCR C++ library to extract text from 
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="C++ OCR Library" h2="Extract text from BMP, JPEG and other images having different fonts and styles within any C++ application." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/headers/aspose_ocr-for-cpp.svg" pfName="Aspose.OCR" subTitlepfName="for C++" downloadUrl="https://downloads.aspose.com/ocr/cpp" >}}
+{{< blocks/products/pf/upper-banner h1="C++ OCR Library" h2="Extract text from BMP, JPEG and other images having different fonts and styles within any C++ application." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/headers/aspose_ocr-for-cpp.svg" pfName="Aspose.OCR" subTitlepfName="for C++" downloadUrl="https://downloads.aspose.com/ocr/cpp" >}}
 
-{{< blocks/products/pf/main-container pfName="Aspose.OCR" subTitlepfName="for C++" >}}
+{{< blocks/products/pf/main-container pfName="Aspose.OCR" subTitlepfName="for C++" >}}
 
 {{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-cpp.svg" liveDemosLink="https://products.aspose.app/ocr/family" PricingLink="https://purchase.aspose.com/pricing/ocr/cpp" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/ocr/cpp/" installationsDocsLink="https://docs.aspose.com/ocr/cpp/installation/" nugetLink="https://www.nuget.org/packages/Aspose.OCR.cpp/" nugetPackageName="Aspose.OCR.Cpp" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/ocr/cpp" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p align="justify">
- Aspose.OCR for C++ is a robust and reliable professional optical character recognition API. Developers can easily add OCR operations in their software applications. OCR library can work offline for business applications as well. Furthermore, this premise OCR API can perform OCR using the GPU instead of the core processor. Major API feature is the text fragment detection that enables to recognize header and paragraphs for pages having pictures or tables. It supports commonly used formats for reading characters and fonts having different styles, noise removal filters, recognizing the whole page, or just single line.
+ Aspose.OCR for C++ is a robust and reliable professional optical character recognition API. Developers can easily add OCR operations in their software applications. OCR library can work offline for business applications as well. Furthermore, this premise OCR API can perform OCR using the GPU instead of the core processor. Major API feature is the text fragment detection that enables to recognize header and paragraphs for pages having pictures or tables. It supports commonly used formats for reading characters and fonts having different styles, noise removal filters, recognizing the whole page, or just single line.
 </p>
 
 {{< /blocks/products/pf/tab-content >}}
@@ -54,7 +54,7 @@ description: Optical character recognition OCR C++ library to extract text from 
   </div>
   <!--/left-->
   <div class="d1-col d1-right">
-   <!--<header><i class="fa fa-text-width"> </i>Supported Font Styles</header>
+   <!--<header><i class="fa fa-text-width"> </i>Supported Font Styles</header>
 
 <ul>
 
@@ -128,7 +128,7 @@ description: Optical character recognition OCR C++ library to extract text from 
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Supported File Formats" description="Aspose.OCR for C++ supports most commonly used image [file formats](https://docs.aspose.com/ocr/cpp/supported-file-formats/)." >}}
+{{< blocks/products/pf/carousel-item h3="Supported File Formats" description="Aspose.OCR for C++ supports most commonly used image [file formats](https://docs.aspose.com/ocr/cpp/supported-file-formats/)." >}}
 <div class="diagram1 d2 d1-cplus">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -213,7 +213,7 @@ description: Optical character recognition OCR C++ library to extract text from 
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
-    Advanced C++ OCR API Features
+    Advanced C++ OCR API Features
    </h2>
    <p>
    </p>
@@ -228,7 +228,7 @@ description: Optical character recognition OCR C++ library to extract text from 
     <em class="fa fa-image ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Support multiple image file formats
+     Support multiple image file formats
     </p>
    </div>
    <div class="col-lg-4">
@@ -242,14 +242,14 @@ description: Optical character recognition OCR C++ library to extract text from 
     <em class="fa fa-font ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Recognize characters or text in popular fonts
+     Recognize characters or text in popular fonts
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-bold ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Multi styles support
+     Multi styles support
     </p>
    </div>
    <div class="col-lg-4">
@@ -270,7 +270,7 @@ description: Optical character recognition OCR C++ library to extract text from 
     <em class="fa fa-filter ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Recognize text in headers
+     Recognize text in headers
     </p>
    </div>
    <div class="col-lg-4">
@@ -282,9 +282,9 @@ description: Optical character recognition OCR C++ library to extract text from 
    </div>
    <!--<div class="col-lg-12">
 
-<h2 class="h2title">Capture Text from Images</h2>
+<h2 class="h2title">Capture Text from Images</h2>
 
-<p>In just 4 lines of code, add OCR functionality to your C++ applications to capture text from images. It is really that simple!</p>
+<p>In just 4 lines of code, add OCR functionality to your C++ applications to capture text from images. It is really that simple!</p>
 
 
 
@@ -294,7 +294,7 @@ description: Optical character recognition OCR C++ library to extract text from 
      Perform OCR of an Image
     </h2>
     <p>
-     Aspose.OCR for C++ allows the developers to recognize each text segment like text and related information such as different characters, font and style of an image of a page. Just few lines of code that allows performing the OCR operation.
+     Aspose.OCR for C++ allows the developers to recognize each text segment like text and related information such as different characters, font and style of an image of a page. Just few lines of code that allows performing the OCR operation.
     </p>
     <div class="codeblock" id="code">
      <h3>
@@ -322,14 +322,14 @@ std::wcout &lt;&lt; bfr &lt;&lt; L"\n";
      Muti-Fonts &amp; Styles Support
     </h2>
     <p>
-     C++ OCR API supports to recognize Text in popular fonts &amp; styles like Arial, Times New Roman, Courier New, Verdana, Tahoma and Calibri fonts in regular, bold and italic text styles.
+     C++ OCR API supports to recognize Text in popular fonts &amp; styles like Arial, Times New Roman, Courier New, Verdana, Tahoma and Calibri fonts in regular, bold and italic text styles.
     </p>
    </div>
    <!--<div class="col-lg-12">
 
 <h2 class="h2title">Multi-Language Support</h2>
 
-<p>Aspose.OCR for C++ supports multiple languages such as English, French, Spanish and Portuguese. More languages are to be supported with future releases of API.</p>
+<p>Aspose.OCR for C++ supports multiple languages such as English, French, Spanish and Portuguese. More languages are to be supported with future releases of API.</p>
 
 </div>-->
    <div class="col-lg-12">
@@ -337,7 +337,7 @@ std::wcout &lt;&lt; bfr &lt;&lt; L"\n";
      Calculate Skew Angle of the Image
     </h2>
     <p>
-     The library calculates the skew angle of the image. It takes the image path as input and returns the skew angle.
+     The library calculates the skew angle of the image. It takes the image path as input and returns the skew angle.
     </p>
     <div class="codeblock" id="code">
      <h3>

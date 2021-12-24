@@ -6,7 +6,7 @@ description: C# ASP.NET VB.NET Optical character recognition OCR library to find
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Perform Image OCR with .NET Library" h2="Add image based Optical Character Recognition feature within any .NET-based application." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/headers/aspose_ocr-for-net.svg" pfName="Aspose.OCR" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/ocr/net" >}}
+{{< blocks/products/pf/upper-banner h1="Perform Image OCR with .NET Library" h2="Add image based Optical Character Recognition feature within any .NET-based application." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/headers/aspose_ocr-for-net.svg" pfName="Aspose.OCR" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/ocr/net" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.OCR" subTitlepfName="for .NET" >}}
 
@@ -294,7 +294,7 @@ description: C# ASP.NET VB.NET Optical character recognition OCR library to find
    </div>
    <!--<div class="col-lg-12">
 
-<h2 class="h2title">Capture Text from Images</h2>
+<h2 class="h2title">Capture Text from Images</h2>
 
 <p>In just 4 lines of code, add OCR functionality to your .NET applications to capture text from images. It is really that simple!</p>
 
@@ -323,10 +323,10 @@ Console.WriteLine(engine.Text);</code></pre>
 </div>-->
    <div class="col-lg-12">
     <h2 class="h2title">
-     Perform OCR on Images
+     Perform OCR on Images
     </h2>
     <p>
-     Aspose.OCR for .NET allows the developers to extract text and related information such as font, style &amp; location of the text from specific parts of an image. This feature allows performing the OCR operation quickly on document scans that follow a similar structure. OCR library performs the operation on the image having multiple lines or a single line. Here is code the code for single recognition.
+     Aspose.OCR for .NET allows the developers to extract text and related information such as font, style &amp; location of the text from specific parts of an image. This feature allows performing the OCR operation quickly on document scans that follow a similar structure. OCR library performs the operation on the image having multiple lines or a single line. Here is code the code for single recognition.
     </p>
     <div class="codeblock" id="code">
      <h3>
@@ -354,7 +354,7 @@ Console.WriteLine(slResult);</code></pre>
      Muti-Fonts &amp; Styles Support
     </h2>
     <p>
-     .NET OCR API supports to recognize Text in popular fonts &amp; styles like Arial, Times New Roman, Courier New, Verdana, Tahoma and Calibri fonts in regular, bold and italic text styles.
+     .NET OCR API supports to recognize Text in popular fonts &amp; styles like Arial, Times New Roman, Courier New, Verdana, Tahoma and Calibri fonts in regular, bold and italic text styles.
     </p>
    </div>
    <div class="col-lg-12">
@@ -389,7 +389,7 @@ Console.WriteLine(spanishText);</code></pre>
 
 <h2 class="h2title">Easy to Use Noise Removal Filters</h2>
 
-<p>The library supports noise removal filters. You can apply noise removal filters before image recognition to improve the overall accuracy rate.</p>
+<p>The library supports noise removal filters. You can apply noise removal filters before image recognition to improve the overall accuracy rate.</p>
 
 <div id="code" class="codeblock">
 
