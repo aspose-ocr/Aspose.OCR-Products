@@ -70,7 +70,7 @@ description: Optical character recognition OCR C++ library to extract text from 
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="Optical Character Recognition Library" src="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-cpp.svg"/>
+  <img width="70" height="75" alt="Optical Character Recognition Library" src="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-cpp.svg"/>
   <header>
    Aspose.OCR
   </header>
@@ -110,7 +110,7 @@ description: Optical character recognition OCR C++ library to extract text from 
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="C++ OCR API" src="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-cpp.svg"/>
+  <img width="70" height="75" alt="C++ OCR API" src="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-cpp.svg"/>
   <header>
    Aspose.OCR
   </header>
@@ -185,7 +185,7 @@ description: Optical character recognition OCR C++ library to extract text from 
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="Text Recognition API" src="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-cpp.svg"/>
+  <img width="70" height="75" alt="Text Recognition API" src="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-cpp.svg"/>
   <header>
    Aspose.OCR
   </header>

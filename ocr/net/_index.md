@@ -92,7 +92,7 @@ description: C# ASP.NET VB.NET Optical character recognition OCR library to find
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="Optical Character Recognition Library" src="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-net.svg"/>
+  <img width="70" height="75" alt="Optical Character Recognition Library" src="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-net.svg"/>
   <header>
    Aspose.OCR
   </header>
@@ -138,7 +138,7 @@ description: C# ASP.NET VB.NET Optical character recognition OCR library to find
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt=".NET OCR API" src="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-net.svg"/>
+  <img width="70" height="75" alt=".NET OCR API" src="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-net.svg"/>
   <header>
    Aspose.OCR
   </header>
@@ -197,7 +197,7 @@ description: C# ASP.NET VB.NET Optical character recognition OCR library to find
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="Text Recognition API" src="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-net.svg"/>
+  <img width="70" height="75" alt="Text Recognition API" src="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-net.svg"/>
   <header>
    Aspose.OCR
   </header>

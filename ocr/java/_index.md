@@ -91,7 +91,7 @@ description: Java Optical Character Recognition library to convert images into t
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="OCR API for Java" src="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-java.svg"/>
+  <img width="70" height="75" alt="OCR API for Java" src="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-java.svg"/>
   <header>
    Aspose.OCR
   </header>
@@ -134,7 +134,7 @@ description: Java Optical Character Recognition library to convert images into t
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="Java Image to Text API" src="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-java.svg"/>
+  <img width="70" height="75" alt="Java Image to Text API" src="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-java.svg"/>
   <header>
    Aspose.OCR
   </header>
@@ -193,7 +193,7 @@ description: Java Optical Character Recognition library to convert images into t
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="OCR Java Library" src="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-java.svg"/>
+  <img width="70" height="75" alt="OCR Java Library" src="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-java.svg"/>
   <header>
    Aspose.OCR
   </header>
