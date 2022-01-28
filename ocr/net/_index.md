@@ -78,13 +78,37 @@ description: C# ASP.NET VB.NET Optical character recognition OCR library to find
      English
     </li>
     <li>
+     Chinese
+    </li>
+    <li>
+     German
+    </li>
+    <li>
      French
+    </li>
+    <li>
+     Italian
     </li>
     <li>
      Spanish
     </li>
     <li>
      Portuguese
+    </li>
+    <li>
+     Czech
+    </li>
+    <li>
+     Polish
+    </li>
+    <li>
+     Dutch
+    </li>
+    <li>
+     Estonian
+    </li>
+    <li>
+     and 10+ more
     </li>
    </ul>
   </div>
@@ -114,6 +138,11 @@ description: C# ASP.NET VB.NET Optical character recognition OCR library to find
 <div class="diagram1 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
+     <header>
+    <i class="fa fa-cubes">
+    </i>
+    .NET Core
+   </header>
   </div>
   <!--/left-->
   <div class="d1-col d1-right">
@@ -167,6 +196,9 @@ description: C# ASP.NET VB.NET Optical character recognition OCR library to find
    </header>
    <ul>
     <li>
+     PDF
+    </li>
+    <li>
      JPEG
     </li>
     <li>
@@ -178,6 +210,9 @@ description: C# ASP.NET VB.NET Optical character recognition OCR library to find
     <li>
      BMP
     </li>
+    <li>
+     TIFF
+    </li>
    </ul>
   </div>
   <!--/left-->
@@ -188,9 +223,10 @@ description: C# ASP.NET VB.NET Optical character recognition OCR library to find
     Output Only
    </header>
    <ul>
-    <li>TXT</li>
-    <li>DOCX</li>
     <li>PDF</li>
+    <li>DOCX</li>
+    <li>XLSX</li>
+    <li>TXT</li>
    </ul>
   </div>
   <!--/right-->
@@ -292,61 +328,54 @@ description: C# ASP.NET VB.NET Optical character recognition OCR library to find
      Specify multiple white lists
     </p>
    </div>
-   <!--<div class="col-lg-12">
+   
+   
+<div class="col-lg-12">
 
 <h2 class="h2title">Capture Text from Images</h2>
 
-<p>In just 4 lines of code, add OCR functionality to your .NET applications to capture text from images. It is really that simple!</p>
+<p>In just 2 lines of code, add OCR functionality to your .NET applications to capture text from images. It is really that simple!</p>
 
 <div id="code" class="codeblock">
 
-<h3>Perform OCR on image - C#</h3>
+<h3>Single line OCR Recognition - C#</h3>
 
-<pre><code class="cs">// create an instance of OcrEngine
+<pre><code class="cs">// Initialize an instance of AsposeOcr
+AsposeOcr api = new AsposeOcr();
 
-var engine = new Aspose.OCR.OcrEngine();
+// Recognize image
+string result = api.RecognizeImage(dataDir + "Sampleocr.bmp");
 
-// set image file
-
-engine.Image = ImageStream.FromFile(dir + "template.jpg");
-
-// process the image
-
-engine.Process();
-
-// get results
-
-Console.WriteLine(engine.Text);</code></pre>
+// Display the recognized text
+Console.WriteLine(result);</code></pre>
 
 </div>
 
-</div>-->
+</div>
+
    <div class="col-lg-12">
     <h2 class="h2title">
      Perform OCR on Images
     </h2>
     <p>
-     Aspose.OCR for .NET allows the developers to extract text and related information such as font, style &amp; location of the text from specific parts of an image. This feature allows performing the OCR operation quickly on document scans that follow a similar structure. OCR library performs the operation on the image having multiple lines or a single line. Here is code the code for single recognition.
+     Aspose.OCR for .NET allows the developers to extract text and related information such as location of the text from specific parts of an image. This feature allows performing the OCR operation quickly on document scans that follow a similar structure. OCR library performs the operation on the image having multiple lines or a single line. Here is code the code for single recognition.
     </p>
     <div class="codeblock" id="code">
      <h3>
-      Single line OCR Recognition - C#
+      Perform OCR on image - C#
      </h3>
      <pre><code class="cs">// The path to the documents directory.
-
-string path = "dirPath/";
+     
+  string path = "dirPath/";
 
 // Initialize an instance of AsposeOcr
-
-AsposeOcr libVar = new AsposeOcr();
+var api = new AsposeOcr();
 
 // Recognize image
-
-string slResult = libVar.RecognizeLine(path + "sample_line.png");
+string result = api.RecognizeLine(path + "sample_line.png");
 
 // Print single line recognized text
-
-Console.WriteLine(slResult);</code></pre>
+Console.WriteLine(result);</code></pre>
     </div>
    </div>
    <div class="col-lg-12">
@@ -362,7 +391,7 @@ Console.WriteLine(slResult);</code></pre>
      Multi-Language Support
     </h2>
     <p>
-     Aspose.OCR for .NET supports different languages such as English, French, Spanish and Portuguese. More languages are to be supported with future releases of API. Performing OCR operation is same for all languages like following few lines perform OCR operation on an image having Spanish text
+     Aspose.OCR for .NET supports different languages such as English, French, Spanish and Portuguese. More languages are to be supported with future releases of API. Performing OCR operation is same for all languages like following few lines perform OCR operation on an image having Spanish text.
     </p>
     <div class="codeblock" id="code">
      <h3>
@@ -373,15 +402,12 @@ Console.WriteLine(slResult);</code></pre>
 string dirPath = "directorypath/";
 
 // Initialize an instance
-
 AsposeOcr ocrLanguage = new AsposeOcr();
 
 // Recognize image
-
 string spanishText = ocrLanguage.RecognizeImage(dirPath + "SpanishOCR.bmp");
 
 // Print the recognized text
-
 Console.WriteLine(spanishText);</code></pre>
     </div>
    </div>
