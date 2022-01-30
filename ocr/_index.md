@@ -2,14 +2,14 @@
 title: On Premise, Cloud & App Based Solutions to Perform OCR on Images 
 weight: 100
 url: /
-description: Build Optical Character Recognition (OCR) solutions via On Premise APIs or Cloud-based SDKs. Or use our simple cross-platform apps for text extraction.
+description: Build Optical Character Recognition (OCR) solutions via High Code APIs or Cloud-based SDKs. Or use our simple cross-platform apps for text extraction.
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
 {{< blocks/products/pf/upper-banner h1="Optical Character Recognition Solution" h2="Extract text from images via OCR technology. Use Aspose.OCR On Premise & Cloud APIs to develop your own apps or simply use ours." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/headers/aspose_ocr-brand.svg" imageAlt="" >}}
 
 {{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/product-card-row title="Aspose.OCR On Premise APIs Include" >}}
+{{< blocks/products/pf/product-card-row title="Aspose.OCR High Code APIs Include" >}}
 
 {{< blocks/products/pf/product pfName="Aspose.OCR for " title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-net.svg" productLink="https://products.aspose.com/ocr/net" >}}
 Native .NET APIs to read characters & fonts from scanned images via OCR. Supports extracting text in various languages.
@@ -23,11 +23,11 @@ Perform OCR on raster images for extracting text. Supports multiple world langua
 Add word recognition and text extraction capilities within C++ based OCR software applications.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/center-button href="https://products.aspose.com/ocr/family" innerText="View All On Premise APIs" >}}
+{{< blocks/products/pf/center-button href="https://products.aspose.com/ocr/family/" innerText="View All High Code APIs" >}}
 
 {{< /blocks/products/pf/product-card-row >}}
 
-{{< blocks/products/pf/product-card-row title="Aspose.OCR Cloud APIs Include" >}}
+{{< blocks/products/pf/product-card-row title="Aspose.OCR Low Code APIs Include" >}}
 
 {{< blocks/products/pf/product pfName="Aspose.OCR" title="Cloud for cURL" imgSrc="https://www.aspose.cloud/templates/asposecloud/App_Themes/V3/images/sdk/272x272/aspose_ocr-for-curl.png" productLink="https://products.aspose.cloud/ocr/curl" >}}
 Use simple cURL commands to perform OCR on raster images to extract English, French & Spanish text. No software download is required.
@@ -41,11 +41,11 @@ Read character & font information from scanned raster images to extract text via
 Easy to use Java SDK to communicate with Aspose.OCR Cloud API for converting images to text.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/center-button href="https://products.aspose.cloud/ocr/family" innerText="View All Cloud APIs" >}}
+{{< blocks/products/pf/center-button href="https://products.aspose.cloud/ocr/family" innerText="View All Low Code APIs" >}}
 
 {{< /blocks/products/pf/product-card-row >}}
 
-{{< blocks/products/pf/product-card-row title="Aspose.OCR Cross Platform Apps Include" >}}
+{{< blocks/products/pf/product-card-row title="Aspose.OCR No Code Apps Include" >}}
 
 {{< blocks/products/pf/product pfName="Aspose.OCR " title="Convert Image to Text" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_image-app.png" productLink="https://products.aspose.app/ocr/scan-image" >}}
 Recognize and extract English, Spanish, French, Portuguese text via OCR from popular image formats.
@@ -59,7 +59,7 @@ Free online app to convert Image to searchable PDF using any browser.
 Free online app to scan Receipt Images.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/center-button href="https://products.aspose.app/ocr/family" innerText="View All Cross Platform Apps" >}}
+{{< blocks/products/pf/center-button href="https://products.aspose.app/ocr/family" innerText="View All No Code Apps" >}}
 
 {{< /blocks/products/pf/product-card-row >}}
 

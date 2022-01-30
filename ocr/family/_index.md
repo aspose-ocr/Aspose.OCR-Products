@@ -9,7 +9,7 @@ description: Convert images to text with .NET and Java OCR libraries for English
 {{< blocks/products/pf/upper-banner h1="Convert Images to Text" h2="Native .NET, Java and C++ APIs to add OCR capability to your own applications." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr.svg" pfName="Aspose.OCR" downloadUrl="https://downloads.aspose.com/ocr" tryOnlineUrl="https://products.aspose.app/ocr/scan-image" >}}
 
 {{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/product-card-row title="Aspose.OCR On Premise APIs Include" >}}
+{{< blocks/products/pf/product-card-row title="Aspose.OCR High Code APIs Include" >}}
 
 {{< blocks/products/pf/product pfName="Aspose.OCR for" title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-net.svg" productLink="/ocr/net/" >}}
 Standalone .NET OCR API that enhances your .NET apps to perform OCR on images.
