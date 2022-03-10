@@ -112,7 +112,21 @@ A JPEG is a type of image format that is saved using the method of lossy compres
 
 <!-- aboutfile Ends -->
 
+{{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="Using C# and OCR software you can recognize the following formats." >}}
 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/ocr/net/conversion/bmp-to-text" name="BMP" description="Bitmap Picture" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/ocr/net/conversion/gif-to-text" name="GIF" description="Graphical Interchange Format" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/ocr/net/conversion/jpg-to-text" name="JPG" description="Joint Photographic Experts Group" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/ocr/net/conversion/jpeg-to-txt" name="JPEG" description="Joint Photographic Experts Group" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/ocr/net/conversion/png-to-text" name="PNG" description="Portable Network Graphics" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/ocr/net/conversion/tiff-to-text" name="TIFF" description="Tagged Image File Format" >}}
+
+{{< /blocks/products/pf/agp/other-supported-section >}}
 
 {{< /blocks/products/pf/main-container >}}
     

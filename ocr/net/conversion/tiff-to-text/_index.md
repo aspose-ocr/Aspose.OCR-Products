@@ -122,7 +122,7 @@ A file with .TXT extension represents a text document that contains plain text i
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/ocr/net/conversion/jpg-to-text" name="JPG" description="Joint Photographic Experts Group" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/ocr/net/conversion/jpeg-to-text" name="JPEG" description="Joint Photographic Experts Group" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/ocr/net/conversion/jpeg-to-txt" name="JPEG" description="Joint Photographic Experts Group" >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/ocr/net/conversion/png-to-text" name="PNG" description="Portable Network Graphics" >}}
 
