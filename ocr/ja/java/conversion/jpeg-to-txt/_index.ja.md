@@ -13,9 +13,9 @@ description: JPEG形式からTXTファイルへのサンプルJava変換コー�
 {{% blocks/products/pf/agp/content h2="Javaを使用してJPEGをTXTに変換する方法" %}}
 
 JPEGをTXTにレンダリングするために、
- [Aspose.OCR for Java]（https://products.aspose.com/ocr/java）
+ [Aspose.OCR for Java](https://products.aspose.com/ocr/java)
  機能豊富で強力で使いやすいJavaプラットフォーム用の変換APIであるAPI。最新バージョンはから直接ダウンロードできます
- [Maven]（https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-ocr）
+ [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-ocr)
  次の構成をpom.xmlに追加して、Mavenベースのプロジェクトにインストールします。
 
 {{% blocks/products/pf/agp/code-block title="リポジトリ" offSpacer="true" %}}
