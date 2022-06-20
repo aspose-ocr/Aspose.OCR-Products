@@ -482,8 +482,8 @@ engine.Config.CorrectionFilters = filters;
 
 {{< blocks/products/pf/offers-section pfName="Aspose.OCR" description="Aspose.OCR 為其他流行的開發環境提供單獨的 OCR API，如下所列：" >}}
 
-    {{< blocks/products/pf/offers-section-item link="/ocr/zh-TW/java/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-java.svg" sdkName="Java" >}}
-    {{< blocks/products/pf/offers-section-item link="/ocr/zh-TW/cpp/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-cpp.svg" sdkName="C++" >}}
+    {{< blocks/products/pf/offers-section-item link="/ocr/zh-hant/java/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-java.svg" sdkName="Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/ocr/zh-hant/cpp/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-cpp.svg" sdkName="C++" >}}
 
 {{< /blocks/products/pf/offers-section >}}
 

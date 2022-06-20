@@ -382,8 +382,8 @@ System.out.println("傾斜文本是：" + angle + " degrees.");
 
 {{< blocks/products/pf/offers-section pfName="Aspose.OCR" description="Aspose.OCR 為其他流行的開發環境提供單獨的 OCR API，如下所列：" >}}
 
-    {{< blocks/products/pf/offers-section-item link="/ocr/zh-TW/net/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-net.svg" sdkName=".NET" >}}
-    {{< blocks/products/pf/offers-section-item link="/ocr/zh-TW/cpp/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-cpp.svg" sdkName="C++" >}}
+    {{< blocks/products/pf/offers-section-item link="/ocr/zh-hant/net/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-net.svg" sdkName=".NET" >}}
+    {{< blocks/products/pf/offers-section-item link="/ocr/zh-hant/cpp/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-cpp.svg" sdkName="C++" >}}
 
 {{< /blocks/products/pf/offers-section >}}
 

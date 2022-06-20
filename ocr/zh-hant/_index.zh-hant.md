@@ -11,19 +11,19 @@ description: 通過高代碼 API 或基於雲的 SDK 構建光學字符識別 (O
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.OCR 高代碼 API 包括" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.OCR for " title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-net.svg" productLink="https://products.aspose.com/ocr/zh-TW/net" >}}
+{{< blocks/products/pf/product pfName="Aspose.OCR for " title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-net.svg" productLink="https://products.aspose.com/ocr/zh-hant/net" >}}
 通過 OCR 從掃描圖像中讀取字符和字體的原生 .NET API。支持提取各種語言的文本。
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.OCR for " title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-java.svg" productLink="https://products.aspose.com/ocr/zh-TW/java" >}}
+{{< blocks/products/pf/product pfName="Aspose.OCR for " title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-java.svg" productLink="https://products.aspose.com/ocr/zh-hant/java" >}}
 對光柵圖像執行 OCR 以提取文本。支持多種世界語言。配置和應用 OCR 設置。
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.OCR for " title="C++" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-cpp.svg" productLink="https://products.aspose.com/ocr/zh-TW/cpp" >}}
+{{< blocks/products/pf/product pfName="Aspose.OCR for " title="C++" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-cpp.svg" productLink="https://products.aspose.com/ocr/zh-hant/cpp" >}}
 在基於 C++ 的 OCR 軟件應用程序中添加單詞識別和文本提取功能。
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/center-button href="https://products.aspose.com/ocr/zh-TW/family/" innerText="查看所有高代碼 API" >}}
+{{< blocks/products/pf/center-button href="https://products.aspose.com/ocr/zh-hant/family/" innerText="查看所有高代碼 API" >}}
 
 {{< /blocks/products/pf/product-card-row >}}
 

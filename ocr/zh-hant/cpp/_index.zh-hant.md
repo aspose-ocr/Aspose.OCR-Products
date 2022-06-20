@@ -384,8 +384,8 @@ std::wcout &lt;&lt; result &lt;&lt; L'\n';</code></pre>
 
 {{< blocks/products/pf/offers-section pfName="Aspose.OCR" description="Aspose.OCR 為其他流行的開發環境提供單獨的 OCR API，如下所列：" >}}
 
-    {{< blocks/products/pf/offers-section-item link="/ocr/zh-TW/net/" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/ocr/272x272/aspose_ocr-for-net-min.png" sdkName=".NET" >}}
-    {{< blocks/products/pf/offers-section-item link="/ocr/zh-TW/java/" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/ocr/272x272/aspose_ocr-for-java-min.png" sdkName="Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/ocr/zh-hant/net/" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/ocr/272x272/aspose_ocr-for-net-min.png" sdkName=".NET" >}}
+    {{< blocks/products/pf/offers-section-item link="/ocr/zh-hant/java/" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/ocr/272x272/aspose_ocr-for-java-min.png" sdkName="Java" >}}
 
 {{< /blocks/products/pf/offers-section >}}
 
