@@ -11,15 +11,15 @@ description: Ubah gambar menjadi teks dengan pustaka .NET dan Java OCR untuk bah
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.OCR API Kode Tinggi Termasuk" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.OCR for" title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-net.svg" link="/ocr/id/net/" >}}
+{{< blocks/products/pf/product pfName="Aspose.OCR for" title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-net.svg" productLink="/ocr/id/net/" >}}
 Standalone .NET OCR API yang meningkatkan aplikasi .NET Anda untuk melakukan OCR pada gambar.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.OCR for" title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-java.svg" link="/ocr/id/java/" >}}
+{{< blocks/products/pf/product pfName="Aspose.OCR for" title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-java.svg" productLink="/ocr/id/java/" >}}
 Native Java OCR API untuk desktop, web, atau segala jenis aplikasi berbasis Java SE atau EE.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.OCR for" title="C++" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-cpp.svg" link="/ocr/id/cpp/" >}}
+{{< blocks/products/pf/product pfName="Aspose.OCR for" title="C++" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-cpp.svg" productLink="/ocr/id/cpp/" >}}
 Native C dan C++ OCR API untuk melakukan OCR pada Windows dan Linux.
 {{< /blocks/products/pf/product >}}
 

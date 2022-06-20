@@ -11,15 +11,15 @@ description: 使用适用于英语、法语、西班牙语和葡萄牙语的 .NE
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.OCR 高代码 API 包括" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.OCR for" title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-net.svg" link="/ocr/zh/net/" >}}
+{{< blocks/products/pf/product pfName="Aspose.OCR for" title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-net.svg" productLink="/ocr/zh/net/" >}}
 独立的 .NET OCR API，可增强您的 .NET 应用程序以对图像执行 OCR。
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.OCR for" title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-java.svg" link="/ocr/zh/java/" >}}
+{{< blocks/products/pf/product pfName="Aspose.OCR for" title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-java.svg" productLink="/ocr/zh/java/" >}}
 用于桌面、Web 或任何基于 Java SE 或 EE 的应用程序的原生 Java OCR API。
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.OCR for" title="C++" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-cpp.svg" link="/ocr/zh/cpp/" >}}
+{{< blocks/products/pf/product pfName="Aspose.OCR for" title="C++" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-cpp.svg" productLink="/ocr/zh/cpp/" >}}
 本机 C 和 C++ OCR API，用于在 Windows 和 Linux 上执行 OCR。
 {{< /blocks/products/pf/product >}}
 

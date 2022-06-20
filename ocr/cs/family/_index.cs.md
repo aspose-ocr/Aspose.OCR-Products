@@ -11,15 +11,15 @@ description: Převádějte obrázky na text pomocí knihoven .NET a Java OCR pro
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.OCR High Code API zahrnuje" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.OCR for" title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-net.svg" link="/ocr/cs/net/" >}}
+{{< blocks/products/pf/product pfName="Aspose.OCR for" title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-net.svg" productLink="/ocr/cs/net/" >}}
 Samostatné rozhraní .NET OCR API, které vylepšuje vaše aplikace .NET pro provádění OCR na obrázcích.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.OCR for" title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-java.svg" link="/ocr/cs/java/" >}}
+{{< blocks/products/pf/product pfName="Aspose.OCR for" title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-java.svg" productLink="/ocr/cs/java/" >}}
 Nativní Java OCR API pro desktop, web nebo jakýkoli druh aplikace založené na Java SE nebo EE.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.OCR for" title="C++" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-cpp.svg" link="/ocr/cs/cpp/" >}}
+{{< blocks/products/pf/product pfName="Aspose.OCR for" title="C++" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-cpp.svg" productLink="/ocr/cs/cpp/" >}}
 Nativní C a C++ OCR API pro provádění OCR na Windows i Linuxu.
 {{< /blocks/products/pf/product >}}
 

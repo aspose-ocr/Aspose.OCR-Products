@@ -11,15 +11,15 @@ description: Konwertuj obrazy na tekst za pomocą bibliotek .NET i Java OCR dla 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.OCR High Code API obejmuje" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.OCR for" title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-net.svg" link="/ocr/pl/net/" >}}
+{{< blocks/products/pf/product pfName="Aspose.OCR for" title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-net.svg" productLink="/ocr/pl/net/" >}}
 Samodzielny interfejs API .NET OCR, który usprawnia aplikacje .NET w celu wykonywania OCR na obrazach.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.OCR for" title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-java.svg" link="/ocr/pl/java/" >}}
+{{< blocks/products/pf/product pfName="Aspose.OCR for" title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-java.svg" productLink="/ocr/pl/java/" >}}
 Natywne Java OCR API dla komputerów stacjonarnych, internetowych lub dowolnego rodzaju aplikacji opartej na Java SE lub EE.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.OCR for" title="C++" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-cpp.svg" link="/ocr/pl/cpp/" >}}
+{{< blocks/products/pf/product pfName="Aspose.OCR for" title="C++" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-cpp.svg" productLink="/ocr/pl/cpp/" >}}
 Natywny interfejs API OCR C i C++ do wykonywania OCR zarówno w systemie Windows, jak i Linux.
 {{< /blocks/products/pf/product >}}
 

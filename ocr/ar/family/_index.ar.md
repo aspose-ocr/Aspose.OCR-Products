@@ -11,15 +11,15 @@ description: قم بتحويل الصور إلى نص باستخدام مكتب�
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="تشمل واجهات برمجة تطبيقات Aspose.OCR High Code" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.OCR for" title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-net.svg" link="/ocr/ar/net/" >}}
+{{< blocks/products/pf/product pfName="Aspose.OCR for" title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-net.svg" productLink="/ocr/ar/net/" >}}
 NET OCR API الذي يعمل على تحسين تطبيقات .NET الخاصة بك لأداء OCR على الصور.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.OCR for" title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-java.svg" link="/ocr/ar/java/" >}}
+{{< blocks/products/pf/product pfName="Aspose.OCR for" title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-java.svg" productLink="/ocr/ar/java/" >}}
 واجهة برمجة تطبيقات Java OCR الأصلية لسطح المكتب أو الويب أو أي نوع من التطبيقات القائمة على Java SE أو EE.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.OCR for" title="C++" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-cpp.svg" link="/ocr/ar/cpp/" >}}
+{{< blocks/products/pf/product pfName="Aspose.OCR for" title="C++" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-cpp.svg" productLink="/ocr/ar/cpp/" >}}
 Native C و C ++ OCR API لأداء OCR على كل من Windows و Linux.
 {{< /blocks/products/pf/product >}}
 

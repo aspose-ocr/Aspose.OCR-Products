@@ -11,15 +11,15 @@ description: छवियों को अंग्रेजी, फ्रें
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.OCR हाई कोड API में शामिल हैं" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.OCR for" title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-net.svg" link="/ocr/hi/net/" >}}
+{{< blocks/products/pf/product pfName="Aspose.OCR for" title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-net.svg" productLink="/ocr/hi/net/" >}}
 स्टैंडअलोन .NET OCR API जो छवियों पर OCR करने के लिए आपके .NET ऐप्स को बेहतर बनाता है।
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.OCR for" title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-java.svg" link="/ocr/hi/java/" >}}
+{{< blocks/products/pf/product pfName="Aspose.OCR for" title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-java.svg" productLink="/ocr/hi/java/" >}}
 जावा एसई या ईई पर आधारित डेस्कटॉप, वेब या किसी भी तरह के एप्लिकेशन के लिए नेटिव जावा ओसीआर एपीआई।
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.OCR for" title="C++" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-cpp.svg" link="/ocr/hi/cpp/" >}}
+{{< blocks/products/pf/product pfName="Aspose.OCR for" title="C++" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-cpp.svg" productLink="/ocr/hi/cpp/" >}}
 विंडोज और लिनक्स दोनों पर ओसीआर करने के लिए नेटिव सी और सी ++ ओसीआर एपीआई।
 {{< /blocks/products/pf/product >}}
 

@@ -11,15 +11,15 @@ description: Konvertálja a képeket szöveggé .NET és Java OCR könyvtárak s
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Az Aspose.OCR High Code API-k közé tartozik" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.OCR for" title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-net.svg" link="/ocr/hu/net/" >}}
+{{< blocks/products/pf/product pfName="Aspose.OCR for" title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-net.svg" productLink="/ocr/hu/net/" >}}
 Önálló .NET OCR API, amely továbbfejleszti a .NET-alkalmazásokat, hogy OCR-t hajtsanak végre a képeken.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.OCR for" title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-java.svg" link="/ocr/hu/java/" >}}
+{{< blocks/products/pf/product pfName="Aspose.OCR for" title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-java.svg" productLink="/ocr/hu/java/" >}}
 Natív Java OCR API asztali számítógépekhez, webes vagy bármilyen Java SE vagy EE alapú alkalmazáshoz.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.OCR for" title="C++" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-cpp.svg" link="/ocr/hu/cpp/" >}}
+{{< blocks/products/pf/product pfName="Aspose.OCR for" title="C++" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-cpp.svg" productLink="/ocr/hu/cpp/" >}}
 Natív C és C++ OCR API az OCR végrehajtásához Windows és Linux rendszeren egyaránt.
 {{< /blocks/products/pf/product >}}
 
