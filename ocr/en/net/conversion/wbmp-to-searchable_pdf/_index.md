@@ -9,7 +9,7 @@ description: Sample code for WBMP to Searchable PDF C# conversion. Use API examp
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
-{{< blocks/products/pf/upper-banner h1="Convert WBMP to Searchable PDF in C#" h2="Perform optical character recognition on WBMP document and save text as WBMP document using Aspose.OCR fro .NET library." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="Searchable PDF" pfName="Aspose.OCR" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="OCR" fileiconsmall4="XML" fileiconsmall5="BMP" >}}
+{{< blocks/products/pf/upper-banner h1="Convert WBMP to Searchable PDF in C#" h2="Perform optical character recognition on WBMP document and save text as WBMP document using Aspose.OCR for .NET library." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="Searchable PDF" pfName="Aspose.OCR" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="OCR" fileiconsmall4="XML" fileiconsmall5="BMP" >}}
 
 
 {{< blocks/products/pf/main-container pfName="Aspose.OCR" subTitlepfName="for .NET" >}}
@@ -42,7 +42,7 @@ Aspose.OCR for .NET is a powerful yet easy-to-use and cost-effective library for
 
 {{% blocks/products/pf/agp/text %}}
 
-With C# OCR and just a few lines of code, you can create full-featured application that converts an WBMP image to Searchable PDF document:
+With .NET OCR and just a few lines of code, you can create full-featured application that converts an WBMP image to Searchable PDF document:
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -66,7 +66,7 @@ Before running the example, make sure that .NET API compatible with NET Standard
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="This sample code shows WBMP to Searchable PDF C# Conversion" offSpacer="true" %}}
+{{% blocks/products/pf/agp/code-block title="This sample code shows WBMP to Searchable PDF .NET Conversion" offSpacer="true" %}}
 
 ```cs
 
