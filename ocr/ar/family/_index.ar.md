@@ -1,32 +1,32 @@
 ---
-title: NET Java و C ++ OCR APIs | أضف قدرات التعرف الضوئي على الحروف 
+title: أضف إمكانيات OCR إلى تطبيقات .NET و Java و C ++
 weight: 10
 url: /ar/family
-description: قم بتحويل الصور إلى نص باستخدام مكتبات .NET و Java OCR للغات الإنجليزية والفرنسية والإسبانية والبرتغالية.
+description: قم بتحويل الصور الممسوحة ضوئيًا ولقطات الشاشة ومناطق الصور وملفات PDF إلى نصوص في تطبيقات .NET و Java و C ++ باستخدام واجهات برمجة تطبيقات OCR الأصلية.
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="تحويل الصور إلى نص" h2="NET و Java و C ++ APIs لإضافة إمكانية التعرف الضوئي على الحروف إلى تطبيقاتك الخاصة." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr.svg" pfName="Aspose.OCR" downloadUrl="https://downloads.aspose.com/ocr" tryOnlineUrl="https://products.aspose.app/ocr/scan-image" >}}
+{{< blocks/products/pf/upper-banner h1="تحويل الصور وملفات PDF إلى نص" h2="مكتبات OCR لتطبيقات سطح المكتب والويب مكتوبة بلغة C # و Java و C ++." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr.svg" pfName="Aspose.OCR" downloadUrl="https://downloads.aspose.com/ocr" tryOnlineUrl="https://products.aspose.app/ocr/ar/scan-image" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="تشمل واجهات برمجة تطبيقات Aspose.OCR High Code" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.OCR for" title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-net.svg" productLink="/ocr/ar/net/" >}}
-NET OCR API الذي يعمل على تحسين تطبيقات .NET الخاصة بك لأداء OCR على الصور.
+{{< blocks/products/pf/product pfName="Aspose.OCR for" title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-net.svg" productLink="/ocr/net/" >}}
+حزمة NuGet أو مكتبة قائمة بذاتها تضيف التعرف البصري على الأحرف إلى تطبيق .NET الخاص بك.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.OCR for" title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-java.svg" productLink="/ocr/ar/java/" >}}
-واجهة برمجة تطبيقات Java OCR الأصلية لسطح المكتب أو الويب أو أي نوع من التطبيقات القائمة على Java SE أو EE.
+{{< blocks/products/pf/product pfName="Aspose.OCR for" title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-java.svg" productLink="/ocr/java/" >}}
+واجهة برمجة تطبيقات أصلية لسطح المكتب وتطبيقات الويب التي يمكن تشغيلها على أي نظام أساسي يدعم Java SE أو EE.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.OCR for" title="C++" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-cpp.svg" productLink="/ocr/ar/cpp/" >}}
-Native C و C ++ OCR API لأداء OCR على كل من Windows و Linux.
+{{< blocks/products/pf/product pfName="Aspose.OCR for" title="C++" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-cpp.svg" productLink="/ocr/cpp/" >}}
+C و C ++ OCR API التي تسمح لك بتحويل الصور وملفات PDF إلى نص على كل من Windows و Linux.
 {{< /blocks/products/pf/product >}}
 
 {{< /blocks/products/pf/product-card-row >}}
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/i18n/support-learning-resources >}}
+{{< blocks/products/pf/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="مصادر التعلم" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="توثيق" href="https://docs.aspose.com/ocr/" >}}
 {{< blocks/products/pf/slr-element name="مصدر الرمز" href="https://github.com/aspose-ocr?tab=repositories" >}}
@@ -45,8 +45,8 @@ Native C و C ++ OCR API لأداء OCR على كل من Windows و Linux.
 {{< blocks/products/pf/slr-element name="قصص نجاح" href="https://company.aspose.com/customers/success-stories/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< /blocks/products/pf/i18n/support-learning-resources >}}
+{{< /blocks/products/pf/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/ocr" pricingInformationLink="https://purchase.aspose.com/pricing/ocr/family" >}}
+{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/ocr" pricingInformationLink="https://purchase.aspose.com/pricing/ocr/family" >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

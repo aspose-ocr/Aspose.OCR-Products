@@ -1,26 +1,25 @@
 ---
-title: C# .NET Optical Character Recognition OCR API - Aspose 
+title: Optical Character Recognition API för .NET
 weight: 40
 url: /sv/net/ 
-description: C# ASP.NET VB.NET OCR-bibliotek för optisk teckenigenkänning för att hitta och extrahera text från bilder i appar för Windows och Webbservice
+description: Ett OCR-bibliotek som gör att C#, F# eller Visual Basic skrivbords- och webbapplikationer kan känna igen text i bilder och PDF-filer.
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Utför bild-OCR med .NET Library" h2="Lägg till bildbaserad funktion för optisk teckenigenkänning i alla .NET-baserade program." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/headers/aspose_ocr-for-net.svg" pfName="Aspose.OCR" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/ocr/net" >}}
+{{< blocks/products/pf/upper-banner h1="Konvertera bilder och PDF-filer till text i .NET" h2="Lägg till optisk teckenigenkänning (OCR) till dina .NET-applikationer med några rader kod." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/headers/aspose_ocr-for-net.svg" pfName="Aspose.OCR" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/ocr/net" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.OCR" subTitlepfName="for .NET" >}}
 
-{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-net.svg" liveDemosLink="https://products.aspose.app/ocr/family" PricingLink="https://purchase.aspose.com/pricing/ocr/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/ocr/net/" installationsDocsLink="https://docs.aspose.com/ocr/net/installation/" nugetLink="https://www.nuget.org/packages/Aspose.OCR/" nugetPackageName="Aspose.OCR" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/ocr/net" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-net.svg" liveDemosLink="https://products.aspose.app/ocr/family" PricingLink="https://purchase.aspose.com/pricing/ocr/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/ocr/net/" installationsDocsLink="https://docs.aspose.com/ocr/net/installation/" nugetLink="https://www.nuget.org/packages/Aspose.OCR/" nugetPackageName="Aspose.OCR" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/ocr/net" >}}
 
-{{< blocks/products/pf/i18n/tab-content >}}
-<p>Aspose.OCR för .NET är ett robust API för optisk teckenigenkänning. Utvecklare kan enkelt lägga till OCR-funktioner i sina applikationer. API är utbyggbart, lätt att använda, kompakt och ger en enkel uppsättning klasser för att kontrollera teckenigenkänning. Den stöder vanliga bildformat och tillhandahåller funktioner som att läsa flera tecken och teckensnitt från bilder, fetstil och kursiv stil, filter för brusborttagning, skanning av hela bilden eller någon del av bilden och mycket mer. Dessutom har API möjlighet att utföra OCR med GPU istället för kärnprocessorn.</p>
-
-{{< /blocks/products/pf/i18n/tab-content >}}
+{{< blocks/products/pf/tab-content >}}
+<p>Aspose.OCR för .NET är ett kraftfullt men ändå lättanvänt och kostnadseffektivt API för optisk teckenigenkänning. Med den kan du lägga till OCR-funktionalitet till dina .NET-applikationer på mindre än 5 rader kod utan att behöva oroa dig för komplex matematik, neurala nätverk och andra tekniska detaljer. Vår erfarenhet av maskininlärningsteknik och år av utveckling resulterade i en OCR-motor med överlägsen hastighet och noggrannhet som stöder <b>26</b> språk baserade på <b>latinska</b> och <b>kyrilliska</b> skrifter samt <b>kinesiska</b> . OCR API kan känna igen skannade bilder, smartphonefoton, skärmdumpar, bildområden och skannade PDF-filer och returnera resultat i de mest populära dokument- och datautbytesformaten. Olika förbehandlingsfilter låter dig känna igen roterade, sneda och brusiga bilder. Igenkänningsprestanda och systembelastning kan förbättras ytterligare genom att överföra resurskrävande beräkningsuppgifter till <b>GPU</b> :n.</p>
+{{< /blocks/products/pf/tab-content >}}
 
 <!--Diagrams Start-->
-{{< blocks/products/pf/i18n/carousel >}}
+{{< blocks/products/pf/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="En överblick" description="En översikt över funktionerna hos API." >}}
+{{< blocks/products/pf/carousel-item h3="En överblick" description="En kort sammanfattning av funktionerna för optisk teckenigenkänning." >}}
 <div class="diagram1 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -37,7 +36,7 @@ description: C# ASP.NET VB.NET OCR-bibliotek för optisk teckenigenkänning för
      Times New Roman
     </li>
     <li>
-     Courier Nytt
+     Courier New
     </li>
     <li>
      Tahoma
@@ -56,13 +55,13 @@ description: C# ASP.NET VB.NET OCR-bibliotek för optisk teckenigenkänning för
    </header>
    <ul>
     <li>
-     Regelbunden
+     Vanligt typsnitt
     </li>
     <li>
-     Djärv
+     Fetstil
     </li>
     <li>
-     Kursiv
+     Kursivt teckensnitt
     </li>
    </ul>
   </div>
@@ -75,37 +74,40 @@ description: C# ASP.NET VB.NET OCR-bibliotek för optisk teckenigenkänning för
    </header>
    <ul>
     <li>
-     engelsk
+     engelska språket
     </li>
     <li>
-     kinesiska
+     kinesiskt språk
     </li>
     <li>
-     tysk
+     tyska språket
     </li>
     <li>
-     franska
+     franska språket
     </li>
     <li>
-     italienska
+     italienska språket
     </li>
     <li>
-     spanska
+     spanska språket
     </li>
     <li>
-     portugisiska
+     ryska språket
     </li>
     <li>
-     tjeckiska
+     tjeckiskt språk
     </li>
     <li>
-     putsa
+     polska språket
     </li>
     <li>
-     holländska
+     ukrainska språket
     </li>
     <li>
-     estniska
+     holländska språket
+    </li>
+    <li>
+     estniska språket
     </li>
     <li>
      och 10+ till
@@ -116,7 +118,7 @@ description: C# ASP.NET VB.NET OCR-bibliotek för optisk teckenigenkänning för
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img width="70" height="75" alt="Bibliotek för optisk teckenigenkänning" src="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-net.svg"/>
+  <img width="70" height="75" alt="Optiskt teckenigenkänningsbibliotek" src="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-net.svg"/>
   <header>
    Aspose.OCR
   </header>
@@ -134,32 +136,61 @@ description: C# ASP.NET VB.NET OCR-bibliotek för optisk teckenigenkänning för
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Plattformsoberoende" description="Aspose.OCR för .NET stöder .NET-ramverket." >}}
+{{< blocks/products/pf/carousel-item h3="Plattformsoberoende" description="Aspose.OCR för .NET stöder .NET Standard 2.0." >}}
 <div class="diagram1 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
      <header>
     <i class="fa fa-cubes">
     </i>
-    .NET Core
+    .NET-implementationer
    </header>
+   <ul>
+    <li>
+     .NET 6.0
+    </li>
+    <li>
+     .NET 5.0
+    </li>
+    <li>
+     .NET Core
+    </li>
+    <li>
+     .NET Framework
+    </li>
+    <li>
+    	Mono
+    </li>
+    <li>
+    	Xamarin
+    </li>
+   </ul>
   </div>
   <!--/left-->
   <div class="d1-col d1-right">
    <header>
     <i class="fa fa-cubes">
     </i>
-    .NET Framework
+    Ansökningar
    </header>
    <ul>
     <li>
-     ASP.NET-applikation
+     Desktop-applikationer
     </li>
     <li>
-     Windows-applikation
+     Windows-tjänster
+    </li>
+    <li>
+     ASP.NET MVC
+    </li>
+    <li>
+     ASP.NET Web API
     </li>
     <li>
      Webbservice
+    </li>
+    <li>
+     Molntjänster
     </li>
    </ul>
   </div>
@@ -185,14 +216,14 @@ description: C# ASP.NET VB.NET OCR-bibliotek för optisk teckenigenkänning för
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Filformat som stöds" description="Aspose.OCR för .NET stöder de vanligaste bilderna [filformat](https://docs.aspose.com/ocr/net/supported-file-formats/)." >}}
+{{< blocks/products/pf/carousel-item h3="Filformat som stöds" description="Konvertera [valfri fil](https://docs.aspose.com/ocr/net/supported-file-formats/) du får från en skanner eller kamera till de mest populära dokument- och datautbytesformaten." >}}
 <div class="diagram1 d2 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-long-arrow-down">
     </i>
-    Endast ingång
+    Källfiler
    </header>
    <ul>
     <li>
@@ -205,13 +236,16 @@ description: C# ASP.NET VB.NET OCR-bibliotek för optisk teckenigenkänning för
      PNG
     </li>
     <li>
+     TIFF
+    </li>
+    <li>
      GIF
     </li>
     <li>
      BMP
     </li>
     <li>
-     TIFF
+     DjVu
     </li>
    </ul>
   </div>
@@ -220,13 +254,15 @@ description: C# ASP.NET VB.NET OCR-bibliotek för optisk teckenigenkänning för
    <header>
     <i class="fa fa-mail-forward">
     </i>
-    Endast utgång
+    Erkännande resultat
    </header>
    <ul>
-    <li>PDF</li>
-    <li>DOCX</li>
-    <li>XLSX</li>
-    <li>TXT</li>
+    <li>Sökbar PDF</li>
+    <li>Microsoft Word</li>
+    <li>Microsoft Excel</li>
+    <li>Oformatterad text</li>
+    <li>JSON</li>
+    <li>XML</li>
    </ul>
   </div>
   <!--/right-->
@@ -251,7 +287,7 @@ description: C# ASP.NET VB.NET OCR-bibliotek för optisk teckenigenkänning för
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< /blocks/products/pf/i18n/carousel >}}
+{{< /blocks/products/pf/carousel >}}
 <!--Diagrams End-->
 
 <!--Feature-section Start-->
@@ -261,7 +297,7 @@ description: C# ASP.NET VB.NET OCR-bibliotek för optisk teckenigenkänning för
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
-    Avancerade .NET OCR API-funktioner
+    Funktioner och funktioner i Aspose.OCR för .NET
    </h2>
    <p>
    </p>
@@ -269,194 +305,277 @@ description: C# ASP.NET VB.NET OCR-bibliotek för optisk teckenigenkänning för
     <em class="fa fa-file-text-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Läs text eller tecken från bilder
+     Konverterar bilder och PDF-filer till text
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-image ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Stöd för vanliga bildfilformat
+     Stöder alla bildformat du kan få från en skanner eller kamera
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-globe ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Läser språk baserade på latin och kyrilliska
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-language ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Stöd för globala språk
+     Känner igen mer än 6 000 kinesiska tecken
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-font ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Läs text eller tecken i populära typsnitt
+     Upptäcker och känner igen alla populära typsnitt
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-bold ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Stöd för teckensnitt
+     Bevarar noggrant teckensnittsstilar och formatering
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-image ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Skanna hela bilden eller någon del av den
+     Bearbetar endast hela bilden eller valda områden
     </p>
    </div>
    <div class="col-lg-4">
-    <em class="fa fa-refresh ico-blue fa-2x col-lg-2">
+    <em class="fa fa-map ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Skanna roterade bilder
+     Stöder roterade, sneda och brusiga bilder
     </p>
    </div>
    <div class="col-lg-4">
-    <em class="fa fa-filter ico-blue fa-2x col-lg-2">
+    <em class="fa fa-folder-open ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Applicera brusreducerande filter
+     Batchigenkänning av alla bilder i en mapp eller arkiv
     </p>
    </div>
    <div class="col-lg-4">
-    <em class="fa fa-eye ico-blue fa-2x col-lg-2">
+    <em class="fa fa-link ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Ange flera vita listor
+     Känner igen bilder som tillhandahålls som webblänkar
     </p>
    </div>
-   
+   <div class="col-lg-4">
+    <em class="fa fa-check ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Hittar och korrigerar automatiskt felstavade ord
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-plug ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Fullt kompatibel med andra Aspose-produkter
+    </p>
+   </div>
    
 <div class="col-lg-12">
 
-<h2 class="h2title">Fånga text från bilder</h2>
+<h2 class="h2title">Lätt att installera</h2>
 
-<p>På bara 2 rader kod, lägg till OCR-funktionalitet i dina .NET-applikationer för att fånga text från bilder. Det är verkligen så enkelt!</p>
+<p>Aspose.OCR för .NET distribueras som ett lätt NuGet-paket eller som en <a href="https://releases.aspose.com/ocr/net/">nedladdningsbar fil</a> med minimala beroenden. <a href="https://docs.aspose.com/ocr/net/installation/">Installera</a> det helt enkelt i ditt projekt och du är redo att känna igen texter på alla språk som stöds och spara igenkänningsresultat i något av de format som stöds.</p>
+
+<p><a href="https://purchase.aspose.com/temporary-license">Begär en tillfällig licens</a> för att börja bygga en fullt fungerande OCR-applikation utan några begränsningar och restriktioner.</p>
+
+</div>
+
+<div class="col-lg-12">
+
+<h2 class="h2title">Lätt att använda</h2>
+
+<p>Du behöver <b>tre</b> rader kod för att känna igen bilden och visa resultatet. Ja, så enkelt är det verkligen!</p>
 
 <div id="code" class="codeblock">
 
-<h3>Enkelrads OCR-igenkänning - C#</h3>
+<h3>Bild till text i 3 rader - C#</h3>
 
-<pre><code class="cs">// Initiera en instans av AsposeOcr
-AsposeOcr api = new AsposeOcr();
+<pre><code class="cs">// Initiera OCR-motorn
+var recognitionEngine = new Aspose.OCR.AsposeOcr();
 
-// Känn igen bild
-string result = api.RecognizeImage(dataDir + "Sampleocr.bmp");
+// Känn igen bild till text
+string result = recognitionEngine.RecognizeImage("sample.jpg");
 
-// Visa den igenkända texten
+// Visa igenkänningsresultatet
 Console.WriteLine(result);</code></pre>
 
 </div>
 
 </div>
 
-   <div class="col-lg-12">
-    <h2 class="h2title">
-     Utför OCR på bilder
-    </h2>
-    <p>
-     Aspose.OCR för .NET tillåter utvecklarna att extrahera text och relaterad information såsom plats för texten från specifika delar av en bild. Denna funktion gör det möjligt att utföra OCR-operationen snabbt på dokumentskanningar som följer en liknande struktur. OCR-biblioteket utför operationen på bilden som har flera rader eller en enda rad. Här är kod koden för singeligenkänning.
-    </p>
-    <div class="codeblock" id="code">
-     <h3>
-      Utför OCR på bild - C#
-     </h3>
-     <pre><code class="cs">// Sökvägen till dokumentkatalogen.
-     
-  string path = "dirPath/";
+<div class="col-lg-12">
 
-// Initiera en instans av AsposeOcr
-var api = new AsposeOcr();
+<h2 class="h2title">Cross-Plattform</h2>
 
-// Känn igen bild
-string result = api.RecognizeLine(path + "sample_line.png");
-
-// Skriv ut en rad igenkänd text
-Console.WriteLine(result);</code></pre>
-    </div>
-   </div>
-   <div class="col-lg-12">
-    <h2 class="h2title">
-     Muti-teckensnitt &amp; Stöd för stilar
-    </h2>
-    <p>
-     .NET OCR API stöder för att känna igen text i populära typsnitt &amp; stilar som Arial, Times New Roman, Courier Nytt, Verdana, Tahoma och Calibri typsnitt i vanliga, fetstilta och kursiv stilar.
-    </p>
-   </div>
-   <div class="col-lg-12">
-    <h2 class="h2title">
-     Stöd för flera språk
-    </h2>
-    <p>
-     Aspose.OCR för .NET stöder olika språk som engelska, franska, spanska och portugisiska. Fler språk kommer att stödjas med framtida versioner av API. Att utföra OCR-operation är samma för alla språk som att följa några rader och utföra OCR-operation på en bild med spansk text.
-    </p>
-    <div class="codeblock" id="code">
-     <h3>
-      Stöd för automatisk upptäckt av OCR-språk - C#
-     </h3>
-     <pre><code class="cs">// dokumentkatalogsökväg
-
-string dirPath = "directorypath/";
-
-// Initiera en instans
-AsposeOcr ocrLanguage = new AsposeOcr();
-
-// Känn igen bild
-string spanishText = ocrLanguage.RecognizeImage(dirPath + "spanskaOCR.bmp");
-
-// Skriv ut den igenkända texten
-Console.WriteLine(spanishText);</code></pre>
-    </div>
-   </div>
-   <!--<div class="col-lg-12">
-
-<h2 class="h2title">Easy to Use Noise Removal Filters</h2>
-
-<p>The library supports noise removal filters. You can apply noise removal filters before image recognition to improve the overall accuracy rate.</p>
-
-<div id="code" class="codeblock">
-
-<h3>Apply filters before processing an image - C#</h3>
-
-<pre><code class="cs">// initialize OcrEngine
-
-var engine = new Aspose.OCR.OcrEngine();
-
-// set image
-
-engine.Image = Aspose.OCR.ImageStream.FromFile(dir + "template.jpg");
-
-// create collection of filters
-
-var filters = new Aspose.OCR.CorrectionFilters();
-
-// add a few filters to the collection
-
-filters.Add(new Aspose.OCR.Filters.RemoveNoiseFilter());
-
-filters.Add(new Aspose.OCR.Filters.GaussBlurFilter());
-
-// assign collection to OcrEngine
-
-engine.Config.CorrectionFilters = filters;
-
-// do processing</code></pre>
+<p>Biblioteket stöder fullt ut .NET Standard 2.0. Det betyder att applikationerna kan köras på vilken plattform som helst: stationära Windows, Windows Server, macOS, Linux och moln.</p>
 
 </div>
 
-</div>-->
-  </div>
- </div>
+<div class="col-lg-12">
+
+<h2 class="h2title">26 igenkänningsspråk</h2>
+
+<p>OCR API kan känna igen ett stort antal språk och alla populära skriftskript, inklusive texter med blandade språk.</p>
+<ul>
+<li><b>Utökat latinska alfabet</b> : kroatiska, tjeckiska, danska, holländska, engelska, estniska, finska, franska, tyska, italienska, lettiska, litauiska, norska, polska, portugisiska, rumänska, slovakiska, slovenska, spanska, svenska.</li>
+<li><b>Kyrilliska alfabetet</b> : vitryska, bulgariska, kazakiska, ryska, serbiska, ukrainska.</li>
+<li><b>Kinesiska</b> : mer än 6 000 tecken.</li>
+</ul>
+<p>Du kan lämna språkdetekteringen till biblioteket eller definiera språket själv för att öka igenkänningsprestandan och tillförlitligheten.</p>
+
+</div>
+
+<div class="col-lg-12">
+
+<h2 class="h2title">Känner igen foton</h2>
+
+<p>Det största hindret för OCR-applikationer är att skannrar inte är vanliga för slutanvändare. API:et har kraftfulla inbyggda bildförbehandlingsfilter som kan hantera roterade, sneda och brusiga bilder. I kombination med stöd för alla bildformat möjliggör det tillförlitlig igenkänning av även smartphonefoton. Det mesta av förbearbetningen och bildkorrigeringen sker automatiskt, så du behöver bara ingripa i svåra fall.</p>
+
+<div id="code" class="codeblock">
+
+<h3>Tillämpa automatiska bildkorrigeringar - C#</h3>
+
+<pre><code class="cs">// Initiera OCR-motorn
+var recognitionEngine = new Aspose.OCR.AsposeOcr();
+
+// Aktivera automatisk skevningsberäkning och kontrast
+var recognitionEngine = new Aspose.OCR.AsposeOcr();
+var recognitionSettings = new Aspose.OCR.RecognitionSettings() {
+    AutoContrast = true,
+    AutoSkew = true
+};
+
+// Känner igen bilden
+Aspose.OCR.RecognitionResult result = recognitionEngine.RecognizeImage("IMG_20220622_163123.jpg", recognitionSettings);</code></pre>
+
+</div>
+
+</div>
+
+<div class="col-lg-12">
+
+<h2 class="h2title">Universalomvandlare</h2>
+
+<p>API:et kan läsa bokstavligen vilken bild du kan få från en skanner, kamera eller smartphone: PDF-dokument, JPEG, PNG, TIFF, GIF, BMP-bilder och till och med DjVu-filer. Flersidiga PDF-dokument, TIFF- och DjVu-bilder stöds fullt ut. Du kan också tillhandahålla en bild från webben via en URL.</p>
+<p>Igenkänningsresultat returneras i de mest populära dokument- och datautbytesformaten: vanlig text, PDF, Microsoft Word, Microsoft Excel, JSON och XML.</p>
+
+<div id="code" class="codeblock">
+
+<h3>Känn igen PDF och spara resultat till JSON - C#</h3>
+
+<pre><code class="cs">// Initiera OCR-motorn
+var recognitionEngine = new Aspose.OCR.AsposeOcr();
+
+// Känner igen alla sidor från skannade PDF-filer
+var pages = recognitionEngine.RecognizePdf("sample.pdf", new Aspose.OCR.DocumentRecognitionSettings());
+
+// Mata ut varje sida som JSON
+foreach(var page in pages)
+{
+    Console.WriteLine(page.GetJson());
+}</code></pre>
+
+</div>
+
+</div>
+
+<div class="col-lg-12">
+
+<h2 class="h2title">Resursoptimering</h2>
+
+<p>Optisk teckenigenkänning är en resurskrävande process. API erbjuder mycket flexibla sätt att hitta en balans i den klassiska triaden av tid-pris-kvalitet:</p>
+<ul>
+	<li>Välj mellan grundlig igenkänning och snabb igenkänning.</li>
+	<li>Ange antalet trådar som tilldelats för igenkänning, eller låt biblioteket automatiskt skala till antalet processorkärnor.</li>
+	<li>Frigör CPU:n genom att ladda ner beräkningarna till GPU:n.</li>
+</ul>
+
+<div id="code" class="codeblock">
+
+<h3>Snabb igenkänning - C#</h3>
+
+<pre><code class="cs">// Initiera OCR-motorn
+var recognitionEngine = new Aspose.OCR.AsposeOcr();
+
+// Känn igen bilden i det snabbaste läget
+string result = recognitionEngine.RecognizeImageFast("sample.jpg");</code></pre>
+
+</div>
+
+</div>
+
+<div class="col-lg-12">
+
+<h2 class="h2title">Stavnings kontroll</h2>
+
+<p>Även om OCR ger tillförlitliga resultat, kan damm och utskriftsdefekter göra att vissa symboler identifieras felaktigt. OCR API har en inbyggd stavningskontroll som automatiskt ersätter felstavade ord och befriar dig från att manuellt korrigera igenkänningsresultaten.</p>
+
+<div id="code" class="codeblock">
+
+<h3>Resultat för stavningskontrolligenkänning - C#</h3>
+
+<pre><code class="cs">// Initiera OCR-motorn
+var recognitionEngine = new Aspose.OCR.AsposeOcr();
+
+// Aktivera automatisk kontrast
+var recognitionEngine = new Aspose.OCR.AsposeOcr();
+var recognitionSettings = new Aspose.OCR.RecognitionSettings() {
+    AutoContrast = true
+};
+
+// Känner igen bilden
+Aspose.OCR.RecognitionResult result = recognitionEngine.RecognizeImage("sample.jpg", recognitionSettings);
+
+// Rätta felstavade ord
+string text =  result.GetSpellCheckCorrectedText();</code></pre>
+
+</div>
+
+</div>
+
+<div class="col-lg-12">
+
+<h2 class="h2title">Satsvis bearbetning</h2>
+
+<p>OCR API befriar dig från att känna igen varje bild en efter en genom att erbjuda olika batch-bearbetningsmetoder som låter dig känna igen flera bilder i ett samtal:</p>
+<ul>
+	<li>Igenkänning av flersidiga PDF-, TIFF- och DjVu-filer.</li>
+	<li>Igenkänning av alla filer i en mapp.</li>
+	<li>Igenkänning av alla filer i ett arkiv.</li>
+	<li>Igenkänning av alla filer från en lista.</li>
+</ul>
+
+</div>
+
+<div class="col-lg-12">
+
+<h2 class="h2title">Lär dig genom exempel</h2>
+
+<p>Aspose.OCR för .NET kommer med ett antal <a href="/ocr/net/conversion/">exempel</a> skrivna i C# som gör att du snabbt kan bekanta dig med dess funktioner och möjligheter och ger dig en uppfattning om hur du skapar lösningar för dina affärsbehov.</p>
+
 </div>
 <!--Feature-section End-->
 
 {{< /blocks/products/pf/main-container >}}
 
 
-{{< blocks/products/pf/i18n/support-learning-resources >}}
+{{< blocks/products/pf/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="Lärresurser" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Dokumentation" href="https://docs.aspose.com/ocr/net/" >}}
 {{< blocks/products/pf/slr-element name="Källkod" href="https://github.com/aspose-ocr/Aspose.OCR-for-.NET" >}}
@@ -476,14 +595,14 @@ engine.Config.CorrectionFilters = filters;
 {{< blocks/products/pf/slr-element name="Framgångsberättelser" href="https://company.aspose.com/customers/success-stories/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< /blocks/products/pf/i18n/support-learning-resources >}}
+{{< /blocks/products/pf/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/ocr/net" pricingInformationLink="https://purchase.aspose.com/pricing/ocr/net" >}}
+{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/ocr/net" pricingInformationLink="https://purchase.aspose.com/pricing/ocr/net" >}}
 
-{{< blocks/products/pf/offers-section pfName="Aspose.OCR" description="Aspose.OCR erbjuder individuella OCR API:er för andra populära utvecklingsmiljöer enligt listan nedan:" >}}
+{{< blocks/products/pf/offers-section pfName="Aspose.OCR" description="Aspose erbjuder också inbyggda OCR API:er för andra populära programmeringsspråk:" >}}
 
-    {{< blocks/products/pf/offers-section-item link="/ocr/sv/java/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-java.svg" sdkName="Java" >}}
-    {{< blocks/products/pf/offers-section-item link="/ocr/sv/cpp/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-cpp.svg" sdkName="C++" >}}
+    {{< blocks/products/pf/offers-section-item link="/ocr/java/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-java.svg" sdkName="Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/ocr/cpp/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-cpp.svg" sdkName="C++" >}}
 
 {{< /blocks/products/pf/offers-section >}}
 

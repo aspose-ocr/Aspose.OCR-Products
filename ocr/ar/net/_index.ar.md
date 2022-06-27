@@ -1,26 +1,25 @@
 ---
-title: C # .NET التعرف الضوئي على الحروف API OCR - Aspose 
+title: واجهة برمجة تطبيقات التعرف الضوئي على الأحرف لـ .NET
 weight: 40
 url: /ar/net/ 
-description: C # ASP.NET VB.NET التعرف البصري على الأحرف مكتبة OCR للعثور على النص واستخراجه من الصور في تطبيقات Windows و خدمات الويب
+description: مكتبة OCR تتيح لـ C # أو F # أو Visual Basic سطح المكتب وتطبيقات الويب التعرف على النص في الصور وملفات PDF.
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="قم بإجراء OCR للصور باستخدام مكتبة .NET" h2="إضافة ميزة التعرف الضوئي على الحروف القائمة على الصور داخل أي تطبيق قائم على .NET." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/headers/aspose_ocr-for-net.svg" pfName="Aspose.OCR" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/ocr/net" >}}
+{{< blocks/products/pf/upper-banner h1="تحويل الصور وملفات PDF إلى نص في .NET" h2="أضف التعرف البصري على الأحرف (OCR) إلى تطبيقات .NET الخاصة بك باستخدام بضعة أسطر من التعليمات البرمجية." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/headers/aspose_ocr-for-net.svg" pfName="Aspose.OCR" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/ocr/net" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.OCR" subTitlepfName="for .NET" >}}
 
-{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-net.svg" liveDemosLink="https://products.aspose.app/ocr/family" PricingLink="https://purchase.aspose.com/pricing/ocr/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/ocr/net/" installationsDocsLink="https://docs.aspose.com/ocr/net/installation/" nugetLink="https://www.nuget.org/packages/Aspose.OCR/" nugetPackageName="Aspose.OCR" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/ocr/net" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-net.svg" liveDemosLink="https://products.aspose.app/ocr/family" PricingLink="https://purchase.aspose.com/pricing/ocr/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/ocr/net/" installationsDocsLink="https://docs.aspose.com/ocr/net/installation/" nugetLink="https://www.nuget.org/packages/Aspose.OCR/" nugetPackageName="Aspose.OCR" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/ocr/net" >}}
 
-{{< blocks/products/pf/i18n/tab-content >}}
-<p>Aspose.OCR for .NET هي واجهة برمجة تطبيقات قوية للتعرف على الحروف الضوئية. يمكن للمطورين إضافة وظائف التعرف الضوئي على الحروف بسهولة في تطبيقاتهم. واجهة برمجة التطبيقات (API) قابلة للتوسيع وسهلة الاستخدام ومضغوطة وتوفر مجموعة بسيطة من الفئات للتحكم في التعرف على الأحرف. وهو يدعم تنسيقات الصور الشائعة الاستخدام ويوفر وظائف مثل قراءة العديد من الأحرف والخطوط من الصور والأنماط الغامقة والمائلة ومرشحات إزالة الضوضاء ومسح الصورة بأكملها أو أي جزء من الصورة والمزيد. علاوة على ذلك ، فإن API لديها القدرة على أداء OCR باستخدام GPU بدلاً من المعالج الأساسي.</p>
-
-{{< /blocks/products/pf/i18n/tab-content >}}
+{{< blocks/products/pf/tab-content >}}
+<p style=";text-align:right;direction:rtl">Aspose.OCR for .NET هو واجهة برمجة تطبيقات قوية وسهلة الاستخدام وفعالة من حيث التكلفة للتعرف الضوئي على الأحرف. باستخدامه ، يمكنك إضافة وظيفة OCR إلى تطبيقات .NET الخاصة بك في أقل من 5 أسطر من التعليمات البرمجية دون القلق بشأن الرياضيات المعقدة والشبكات العصبية والتفاصيل الفنية الأخرى. أسفرت خبرتنا في تقنيات التعلم الآلي وسنوات من التطوير عن محرك التعرف الضوئي على الحروف بسرعة ودقة فائقين يدعم <b>26</b> لغة على أساس النصوص <b>اللاتينية</b> <b>والسيريلية</b> وكذلك <b>الصينية</b> . يمكن لـ OCR API التعرف على الصور الممسوحة ضوئيًا وصور الهاتف الذكي ولقطات الشاشة ومناطق الصور وملفات PDF الممسوحة ضوئيًا وإرجاع النتائج في تنسيقات تبادل المستندات والبيانات الأكثر شيوعًا. تسمح لك فلاتر المعالجة المسبقة المختلفة بالتعرف على الصور المستديرة والمنحرفة والصاخبة. يمكن تحسين أداء التعرف وحمل النظام بشكل أكبر عن طريق نقل المهام الحسابية كثيفة الموارد إلى <b>وحدة معالجة الرسومات</b> .</p>
+{{< /blocks/products/pf/tab-content >}}
 
 <!--Diagrams Start-->
-{{< blocks/products/pf/i18n/carousel >}}
+{{< blocks/products/pf/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="لمحة سريعة" description="نظرة عامة على إمكانيات API." >}}
+{{< blocks/products/pf/carousel-item h3="لمحة سريعة" description="ملخص موجز لقدرات التعرف البصري على الحروف." >}}
 <div class="diagram1 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -31,22 +30,22 @@ description: C # ASP.NET VB.NET التعرف البصري على الأحرف م
    </header>
    <ul>
     <li>
-     اريال
+     Arial
     </li>
     <li>
-     تايمز نيو رومان
+     Times New Roman
     </li>
     <li>
-     ساعي جديد
+     Courier New
     </li>
     <li>
-     تاهوما
+     Tahoma
     </li>
     <li>
-     كاليبري
+     Calibri
     </li>
     <li>
-     فيردانا
+     Verdana
     </li>
    </ul>
    <header>
@@ -56,13 +55,13 @@ description: C # ASP.NET VB.NET التعرف البصري على الأحرف م
    </header>
    <ul>
     <li>
-     عادي
+     الخط العادي
     </li>
     <li>
-     عريض
+     خط عريض
     </li>
     <li>
-     مائل
+     خط مائل
     </li>
    </ul>
   </div>
@@ -75,37 +74,40 @@ description: C # ASP.NET VB.NET التعرف البصري على الأحرف م
    </header>
    <ul>
     <li>
-     إنجليزي
+     اللغة الإنجليزية
     </li>
     <li>
-     صينى
+     اللغة الصينية
     </li>
     <li>
-     ألمانية
+     اللغة الالمانية
     </li>
     <li>
-     فرنسي
+     اللغة الفرنسية
     </li>
     <li>
-     إيطالي
+     اللغة الايطالية
     </li>
     <li>
-     الأسبانية
+     اللغة الإسبانية
     </li>
     <li>
-     البرتغالية
+     اللغة الروسية
     </li>
     <li>
-     التشيكية
+     اللغة التشيكية
     </li>
     <li>
-     تلميع
+     اللغة البولندية
     </li>
     <li>
-     هولندي
+     اللغة الأوكرانية
     </li>
     <li>
-     الإستونية
+     لغة هولندية
+    </li>
+    <li>
+     لغة إستونية
     </li>
     <li>
      و 10+ أخرى
@@ -134,32 +136,61 @@ description: C # ASP.NET VB.NET التعرف البصري على الأحرف م
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="منصة الاستقلال" description="Aspose.OCR for .NET يدعم .NET framework." >}}
+{{< blocks/products/pf/carousel-item h3="منصة الاستقلال" description="Aspose.OCR for .NET يدعم .NET Standard 2.0." >}}
 <div class="diagram1 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
      <header>
     <i class="fa fa-cubes">
     </i>
-    NET Core
+    تطبيقات .NET
    </header>
+   <ul>
+    <li>
+     .NET 6.0
+    </li>
+    <li>
+     .NET 5.0
+    </li>
+    <li>
+     .NET Core
+    </li>
+    <li>
+     .NET Framework
+    </li>
+    <li>
+    	Mono
+    </li>
+    <li>
+    	Xamarin
+    </li>
+   </ul>
   </div>
   <!--/left-->
   <div class="d1-col d1-right">
    <header>
     <i class="fa fa-cubes">
     </i>
-    .الإطار الصافي
+    التطبيقات
    </header>
    <ul>
     <li>
-     تطبيق ASP.NET
+     تطبيقات سطح المكتب
     </li>
     <li>
-     تطبيق Windows
+     خدمات الويندوز
+    </li>
+    <li>
+     ASP.NET MVC
+    </li>
+    <li>
+     ASP.NET Web API
     </li>
     <li>
      خدمات الويب
+    </li>
+    <li>
+     خدمات سحابية
     </li>
    </ul>
   </div>
@@ -167,7 +198,7 @@ description: C # ASP.NET VB.NET التعرف البصري على الأحرف م
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img width="70" height="75" alt="NET OCR API" src="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-net.svg"/>
+  <img width="70" height="75" alt=".NET OCR API" src="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-net.svg"/>
   <header>
    Aspose.OCR
   </header>
@@ -185,14 +216,14 @@ description: C # ASP.NET VB.NET التعرف البصري على الأحرف م
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="تنسيقات الملفات المدعومة" description="يدعم Aspose.OCR for .NET الصور الأكثر استخدامًا [تنسيقات الملفات](https://docs.aspose.com/ocr/net/supported-file-formats/)." >}}
+{{< blocks/products/pf/carousel-item h3="تنسيقات الملفات المدعومة" description="قم بتحويل [أي ملف] (https://docs.aspose.com/ocr/net/supported-file-formats/) تحصل عليه من ماسح ضوئي أو كاميرا إلى تنسيقات تبادل المستندات والبيانات الأكثر شيوعًا." >}}
 <div class="diagram1 d2 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-long-arrow-down">
     </i>
-    الإدخال فقط
+    ملفات المصدر
    </header>
    <ul>
     <li>
@@ -205,13 +236,16 @@ description: C # ASP.NET VB.NET التعرف البصري على الأحرف م
      PNG
     </li>
     <li>
+     TIFF
+    </li>
+    <li>
      GIF
     </li>
     <li>
      BMP
     </li>
     <li>
-     TIFF
+     DjVu
     </li>
    </ul>
   </div>
@@ -220,13 +254,15 @@ description: C # ASP.NET VB.NET التعرف البصري على الأحرف م
    <header>
     <i class="fa fa-mail-forward">
     </i>
-    الإخراج فقط
+    نتائج الاعتراف
    </header>
    <ul>
-    <li>PDF</li>
-    <li>DOCX</li>
-    <li>XLSX</li>
-    <li>TXT</li>
+    <li>ملف PDF قابل للبحث فيه</li>
+    <li>Microsoft Word</li>
+    <li>Microsoft Excel</li>
+    <li>نص عادي</li>
+    <li>JSON</li>
+    <li>XML</li>
    </ul>
   </div>
   <!--/right-->
@@ -251,7 +287,7 @@ description: C # ASP.NET VB.NET التعرف البصري على الأحرف م
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< /blocks/products/pf/i18n/carousel >}}
+{{< /blocks/products/pf/carousel >}}
 <!--Diagrams End-->
 
 <!--Feature-section Start-->
@@ -261,7 +297,7 @@ description: C # ASP.NET VB.NET التعرف البصري على الأحرف م
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
-    Advanced NET OCR API Features
+    ميزات وقدرات Aspose.OCR لـ .NET
    </h2>
    <p>
    </p>
@@ -269,194 +305,277 @@ description: C # ASP.NET VB.NET التعرف البصري على الأحرف م
     <em class="fa fa-file-text-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     قراءة نص أو أحرف من الصور
+     يحول الصور وملفات PDF إلى نص
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-image ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     دعم تنسيقات ملفات الصور شائعة الاستخدام
+     يدعم جميع تنسيقات الصور التي يمكنك الحصول عليها من ماسح ضوئي أو كاميرا
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-globe ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     يقرأ اللغات على أساس اللاتينية والسيريلية
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-language ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     دعم اللغات العالمية
+     يتعرف على أكثر من 6000 حرف صيني
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-font ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     اقرأ النص أو الأحرف في الخطوط الشائعة
+     يكتشف ويتعرف على جميع المحارف الشائعة
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-bold ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     دعم أنماط الخطوط
+     يحافظ بعناية على أنماط الخطوط وتنسيقها
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-image ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     مسح الصورة بأكملها أو أي جزء منها
+     يعالج الصورة بأكملها أو المناطق المحددة فقط
     </p>
    </div>
    <div class="col-lg-4">
-    <em class="fa fa-refresh ico-blue fa-2x col-lg-2">
+    <em class="fa fa-map ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     مسح الصور التي تم تدويرها
+     يدعم الصور المستديرة والمنحرفة والصاخبة
     </p>
    </div>
    <div class="col-lg-4">
-    <em class="fa fa-filter ico-blue fa-2x col-lg-2">
+    <em class="fa fa-folder-open ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     تطبيق مرشحات إزالة الضوضاء
+     التعرف على دفعات لجميع الصور في مجلد أو أرشيف
     </p>
    </div>
    <div class="col-lg-4">
-    <em class="fa fa-eye ico-blue fa-2x col-lg-2">
+    <em class="fa fa-link ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     حدد قوائم بيضاء متعددة
+     يتعرف على الصور المقدمة كروابط ويب
     </p>
    </div>
-   
+   <div class="col-lg-4">
+    <em class="fa fa-check ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     البحث عن الكلمات التي بها أخطاء إملائية وتصحيحها تلقائيًا
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-plug ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     متوافق تمامًا مع منتجات Aspose الأخرى
+    </p>
+   </div>
    
 <div class="col-lg-12">
 
-<h2 class="h2title">التقاط نص من الصور</h2>
+<h2 class="h2title">سهل التنصيب</h2>
 
-<p>في سطرين فقط من التعليمات البرمجية ، أضف وظيفة OCR إلى تطبيقات .NET لالتقاط النص من الصور. هي بالفعل بتلك البساطة!</p>
+<p style=";text-align:right;direction:rtl">يتم توزيع Aspose.OCR for .NET كحزمة NuGet خفيفة الوزن أو كملف <a href="https://releases.aspose.com/ocr/net/">قابل للتنزيل</a> مع الحد الأدنى من التبعيات. ما عليك سوى <a href="https://docs.aspose.com/ocr/net/installation/">تثبيته</a> على مشروعك وستكون جاهزًا للتعرف على النصوص بأي لغة مدعومة وحفظ نتائج التعرف في أي من التنسيقات المدعومة.</p>
+
+<p style=";text-align:right;direction:rtl"><a href="https://purchase.aspose.com/temporary-license">اطلب ترخيصًا مؤقتًا</a> لبدء إنشاء تطبيق OCR يعمل بكامل طاقته دون أي قيود أو قيود.</p>
+
+</div>
+
+<div class="col-lg-12">
+
+<h2 class="h2title">سهل الاستخدام</h2>
+
+<p style=";text-align:right;direction:rtl">تحتاج إلى <b>ثلاثة</b> أسطر من التعليمات البرمجية للتعرف على الصورة وعرض النتيجة. نعم، هو حقا بهذه البساطة!</p>
 
 <div id="code" class="codeblock">
 
-<h3>التعرف الضوئي على الحروف بخط أحادي - C #</h3>
+<h3>صورة للنص في 3 أسطر - C #</h3>
 
-<pre><code class="cs">// تهيئة مثيل AsposeOcr
-AsposeOcr api = new AsposeOcr();
+<pre><code class="cs">// تهيئة محرك OCR
+var recognitionEngine = new Aspose.OCR.AsposeOcr();
 
-// التعرف على الصورة
-string result = api.RecognizeImage(dataDir + "Sampleocr.bmp");
+// التعرف على الصورة إلى نص
+string result = recognitionEngine.RecognizeImage("sample.jpg");
 
-// عرض النص الذي تم التعرف عليه
+// اعرض نتيجة التعرف
 Console.WriteLine(result);</code></pre>
 
 </div>
 
 </div>
 
-   <div class="col-lg-12">
-    <h2 class="h2title">
-     قم بإجراء OCR على الصور
-    </h2>
-    <p>
-     يسمح Aspose.OCR for .NET للمطورين باستخراج النص والمعلومات ذات الصلة مثل موقع النص من أجزاء معينة من الصورة. تتيح هذه الميزة إجراء عملية التعرف الضوئي على الحروف بسرعة على عمليات مسح المستندات التي تتبع بنية مماثلة. تقوم مكتبة OCR بتنفيذ العملية على الصورة التي تحتوي على خطوط متعددة أو سطر واحد. هنا رمز رمز التعرف الفردي.
-    </p>
-    <div class="codeblock" id="code">
-     <h3>
-      تنفيذ OCR على الصورة - C #
-     </h3>
-     <pre><code class="cs">// المسار إلى دليل المستندات.
-     
-  string path = "dirPath/";
+<div class="col-lg-12">
 
-// تهيئة مثيل AsposeOcr
-var api = new AsposeOcr();
+<h2 class="h2title">عبر منصة</h2>
 
-// التعرف على الصورة
-string result = api.RecognizeLine(path + "sample_line.png");
-
-// طباعة نص تم التعرف عليه من سطر واحد
-Console.WriteLine(result);</code></pre>
-    </div>
-   </div>
-   <div class="col-lg-12">
-    <h2 class="h2title">
-     خطوط المعطي وأمبير. دعم الأنماط
-    </h2>
-    <p>
-     NET OCR API supports to recognize Text in popular fonts &amp; styles like اريال, تايمز نيو رومان, ساعي جديد, فيردانا, تاهوما and كاليبري fonts in regular, bold and italic text styles.
-    </p>
-   </div>
-   <div class="col-lg-12">
-    <h2 class="h2title">
-     دعم متعدد اللغات
-    </h2>
-    <p>
-     يدعم Aspose.OCR for .NET لغات مختلفة مثل الإنجليزية والفرنسية والإسبانية والبرتغالية. سيتم دعم المزيد من اللغات مع الإصدارات المستقبلية من API. إجراء عملية OCR هو نفسه لجميع اللغات مثل اتباع بعض الأسطر لإجراء عملية OCR على صورة بها نص إسباني.
-    </p>
-    <div class="codeblock" id="code">
-     <h3>
-      دعم الاكتشاف التلقائي للغة OCR - C #
-     </h3>
-     <pre><code class="cs">// وثائق مسار الدليل
-
-string dirPath = "directorypath/";
-
-// تهيئة مثيل
-AsposeOcr ocrLanguage = new AsposeOcr();
-
-// التعرف على الصورة
-string spanishText = ocrLanguage.RecognizeImage(dirPath + "الأسبانيةOCR.bmp");
-
-// طباعة النص المعترف به
-Console.WriteLine(spanishText);</code></pre>
-    </div>
-   </div>
-   <!--<div class="col-lg-12">
-
-<h2 class="h2title">Easy to Use Noise Removal Filters</h2>
-
-<p>The library supports noise removal filters. You can apply noise removal filters before image recognition to improve the overall accuracy rate.</p>
-
-<div id="code" class="codeblock">
-
-<h3>Apply filters before processing an image - C#</h3>
-
-<pre><code class="cs">// initialize OcrEngine
-
-var engine = new Aspose.OCR.OcrEngine();
-
-// set image
-
-engine.Image = Aspose.OCR.ImageStream.FromFile(dir + "template.jpg");
-
-// create collection of filters
-
-var filters = new Aspose.OCR.CorrectionFilters();
-
-// add a few filters to the collection
-
-filters.Add(new Aspose.OCR.Filters.RemoveNoiseFilter());
-
-filters.Add(new Aspose.OCR.Filters.GaussBlurFilter());
-
-// assign collection to OcrEngine
-
-engine.Config.CorrectionFilters = filters;
-
-// do processing</code></pre>
+<p style=";text-align:right;direction:rtl">تدعم المكتبة بشكل كامل .NET Standard 2.0. هذا يعني أنه يمكن تشغيل التطبيقات على أي نظام أساسي: سطح المكتب Windows و Windows Server و macOS و Linux والسحابة.</p>
 
 </div>
 
-</div>-->
-  </div>
- </div>
+<div class="col-lg-12">
+
+<h2 class="h2title">26 لغات التعرف</h2>
+
+<p style=";text-align:right;direction:rtl">يمكن لـ OCR API التعرف على عدد كبير من اللغات وجميع نصوص الكتابة الشائعة ، بما في ذلك النصوص ذات اللغات المختلطة.</p>
+<ul>
+<li style=";text-align:right;direction:rtl"><b>الأبجدية اللاتينية الممتدة</b> : الكرواتية والتشيكية والدنماركية والهولندية والإنجليزية والإستونية والفنلندية والفرنسية والألمانية والإيطالية واللاتفية والليتوانية والنرويجية والبولندية والبرتغالية والرومانية والسلوفاكية والسلوفينية والإسبانية والسويدية.</li>
+<li style=";text-align:right;direction:rtl"><b>الأبجدية السيريلية</b> : البيلاروسية ، البلغارية ، الكازاخستانية ، الروسية ، الصربية ، الأوكرانية.</li>
+<li style=";text-align:right;direction:rtl"><b>الصينية</b> : أكثر من 6000 حرف.</li>
+</ul>
+<p style=";text-align:right;direction:rtl">يمكنك ترك اكتشاف اللغة للمكتبة أو تحديد اللغة بنفسك لزيادة أداء التعرف والموثوقية.</p>
+
+</div>
+
+<div class="col-lg-12">
+
+<h2 class="h2title">التعرف على الصور</h2>
+
+<p style=";text-align:right;direction:rtl">أكبر عائق أمام تطبيقات OCR هو أن الماسحات الضوئية ليست شائعة للمستخدمين النهائيين. تحتوي واجهة برمجة التطبيقات على فلاتر معالجة مسبقة مدمجة قوية للصور يمكنها التعامل مع الصور المستديرة والمنحرفة والصاخبة. بالاقتران مع دعم جميع تنسيقات الصور ، فإنه يسمح بالتعرف الموثوق حتى على صور الهاتف الذكي. تتم معظم عمليات المعالجة المسبقة وتصحيح الصور تلقائيًا ، لذا لن تضطر إلى التدخل إلا في الحالات الصعبة.</p>
+
+<div id="code" class="codeblock">
+
+<h3>تطبيق التصحيحات التلقائية للصور - C #</h3>
+
+<pre><code class="cs">// تهيئة محرك OCR
+var recognitionEngine = new Aspose.OCR.AsposeOcr();
+
+// تفعيل حساب الانحراف التلقائي والتباين
+var recognitionEngine = new Aspose.OCR.AsposeOcr();
+var recognitionSettings = new Aspose.OCR.RecognitionSettings() {
+    AutoContrast = true,
+    AutoSkew = true
+};
+
+// التعرف على الصورة
+Aspose.OCR.RecognitionResult result = recognitionEngine.RecognizeImage("IMG_20220622_163123.jpg", recognitionSettings);</code></pre>
+
+</div>
+
+</div>
+
+<div class="col-lg-12">
+
+<h2 class="h2title">محول عالمي</h2>
+
+<p style=";text-align:right;direction:rtl">يمكن لواجهة برمجة التطبيقات قراءة أي صورة يمكنك الحصول عليها من ماسح ضوئي أو كاميرا أو هاتف ذكي: مستندات PDF و JPEG و PNG و TIFF و GIF وصور BMP وحتى ملفات DjVu. مستندات PDF متعددة الصفحات وصور TIFF و DjVu مدعومة بالكامل. يمكنك أيضًا تقديم صورة من الويب عبر عنوان URL.</p>
+<p style=";text-align:right;direction:rtl">يتم إرجاع نتائج التعرف في أكثر تنسيقات تبادل المستندات والبيانات شيوعًا: نص عادي و PDF و Microsoft Word و Microsoft Excel و JSON و XML.</p>
+
+<div id="code" class="codeblock">
+
+<h3>التعرف على PDF وحفظ النتائج في JSON - C #</h3>
+
+<pre><code class="cs">// تهيئة محرك OCR
+var recognitionEngine = new Aspose.OCR.AsposeOcr();
+
+// التعرف على كل الصفحات من ملف PDF الممسوح ضوئيًا
+var pages = recognitionEngine.RecognizePdf("sample.pdf", new Aspose.OCR.DocumentRecognitionSettings());
+
+// إخراج كل صفحة على هيئة JSON
+foreach(var page in pages)
+{
+    Console.WriteLine(page.GetJson());
+}</code></pre>
+
+</div>
+
+</div>
+
+<div class="col-lg-12">
+
+<h2 class="h2title">تحسين الموارد</h2>
+
+<p style=";text-align:right;direction:rtl">التعرف البصري على الأحرف عملية كثيفة الاستخدام للموارد. توفر واجهة برمجة التطبيقات طرقًا مرنة للغاية لتحقيق التوازن في ثالوث جودة الوقت والسعر الكلاسيكي:</p>
+<ul>
+	<li style=";text-align:right;direction:rtl">اختر بين التعرف الشامل والتعرف السريع.</li>
+	<li style=";text-align:right;direction:rtl">حدد عدد سلاسل الرسائل المخصصة للتعرف عليها ، أو اسمح للمكتبة بالتوسع تلقائيًا في عدد مراكز المعالج.</li>
+	<li style=";text-align:right;direction:rtl">قم بتحرير وحدة المعالجة المركزية عن طريق إلغاء تحميل العمليات الحسابية إلى وحدة معالجة الرسومات.</li>
+</ul>
+
+<div id="code" class="codeblock">
+
+<h3>التعرف السريع - C #</h3>
+
+<pre><code class="cs">// تهيئة محرك OCR
+var recognitionEngine = new Aspose.OCR.AsposeOcr();
+
+// التعرف على الصورة في أسرع وضع
+string result = recognitionEngine.RecognizeImageFast("sample.jpg");</code></pre>
+
+</div>
+
+</div>
+
+<div class="col-lg-12">
+
+<h2 class="h2title">التدقيق الإملائي</h2>
+
+<p style=";text-align:right;direction:rtl">بينما ينتج عن OCR نتائج موثوقة ، قد تتسبب عيوب الطباعة والغبار في التعرف على بعض الرموز بشكل غير صحيح. تحتوي واجهة OCR API على مدقق إملائي مدمج يستبدل تلقائيًا الكلمات التي بها أخطاء إملائية ويخلصك من الاضطرار إلى تصحيح نتائج التعرف يدويًا.</p>
+
+<div id="code" class="codeblock">
+
+<h3>نتائج التعرف على التدقيق الإملائي - C #</h3>
+
+<pre><code class="cs">// تهيئة محرك OCR
+var recognitionEngine = new Aspose.OCR.AsposeOcr();
+
+// تفعيل التباين التلقائي
+var recognitionEngine = new Aspose.OCR.AsposeOcr();
+var recognitionSettings = new Aspose.OCR.RecognitionSettings() {
+    AutoContrast = true
+};
+
+// التعرف على الصورة
+Aspose.OCR.RecognitionResult result = recognitionEngine.RecognizeImage("sample.jpg", recognitionSettings);
+
+// تصحيح الكلمات التي بها أخطاء إملائية
+string text =  result.GetSpellCheckCorrectedText();</code></pre>
+
+</div>
+
+</div>
+
+<div class="col-lg-12">
+
+<h2 class="h2title">تجهيز الدفعات</h2>
+
+<p style=";text-align:right;direction:rtl">تحررك OCR API من التعرف على كل صورة واحدة تلو الأخرى من خلال تقديم طرق معالجة مجمعة متنوعة تتيح لك التعرف على صور متعددة في مكالمة واحدة:</p>
+<ul>
+	<li style=";text-align:right;direction:rtl">التعرف على ملفات PDF و TIFF و DjVu متعددة الصفحات.</li>
+	<li style=";text-align:right;direction:rtl">التعرف على جميع الملفات في مجلد.</li>
+	<li style=";text-align:right;direction:rtl">التعرف على جميع الملفات في الأرشيف.</li>
+	<li style=";text-align:right;direction:rtl">التعرف على جميع الملفات من القائمة.</li>
+</ul>
+
+</div>
+
+<div class="col-lg-12">
+
+<h2 class="h2title">تعلم بالمثال</h2>
+
+<p style=";text-align:right;direction:rtl">يأتي Aspose.OCR for .NET بعدد من <a href="/ocr/net/conversion/">الأمثلة</a> المكتوبة بلغة C # التي تسمح لك بالتعرف سريعًا على وظائفها وقدراتها وتعطيك فكرة عن إنشاء حلول لاحتياجات عملك.</p>
+
 </div>
 <!--Feature-section End-->
 
 {{< /blocks/products/pf/main-container >}}
 
 
-{{< blocks/products/pf/i18n/support-learning-resources >}}
+{{< blocks/products/pf/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="مصادر التعلم" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="توثيق" href="https://docs.aspose.com/ocr/net/" >}}
 {{< blocks/products/pf/slr-element name="مصدر الرمز" href="https://github.com/aspose-ocr/Aspose.OCR-for-.NET" >}}
@@ -468,7 +587,7 @@ engine.Config.CorrectionFilters = filters;
 {{< blocks/products/pf/slr-element name="دعم مجاني" href="https://forum.aspose.com/c/ocr" >}}
 {{< blocks/products/pf/slr-element name="دعم مدفوع" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="مقالات" href="https://blog.aspose.com/category/ocr/" >}}
-{{< blocks/products/pf/slr-element name="Release Notes" href="https://docs.aspose.com/ocr/net/release-notes/" >}}
+{{< blocks/products/pf/slr-element name="ملاحظات الإصدار" href="https://docs.aspose.com/ocr/net/release-notes/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="لماذا Aspose.OCR لـ .NET؟" tabId="success-stories" >}}
@@ -476,14 +595,14 @@ engine.Config.CorrectionFilters = filters;
 {{< blocks/products/pf/slr-element name="قصص نجاح" href="https://company.aspose.com/customers/success-stories/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< /blocks/products/pf/i18n/support-learning-resources >}}
+{{< /blocks/products/pf/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/ocr/net" pricingInformationLink="https://purchase.aspose.com/pricing/ocr/net" >}}
+{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/ocr/net" pricingInformationLink="https://purchase.aspose.com/pricing/ocr/net" >}}
 
-{{< blocks/products/pf/offers-section pfName="Aspose.OCR" description="يقدم Aspose.OCR واجهات برمجة تطبيقات OCR فردية لبيئات التطوير الشائعة الأخرى كما هو مذكور أدناه:" >}}
+{{< blocks/products/pf/offers-section pfName="Aspose.OCR" description="تقدم Aspose أيضًا واجهات برمجة تطبيقات OCR أصلية للغات البرمجة الشائعة الأخرى:" >}}
 
-    {{< blocks/products/pf/offers-section-item link="/ocr/ar/java/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-java.svg" sdkName="Java" >}}
-    {{< blocks/products/pf/offers-section-item link="/ocr/ar/cpp/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-cpp.svg" sdkName="C++" >}}
+    {{< blocks/products/pf/offers-section-item link="/ocr/java/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-java.svg" sdkName="Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/ocr/cpp/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-cpp.svg" sdkName="C++" >}}
 
 {{< /blocks/products/pf/offers-section >}}
 

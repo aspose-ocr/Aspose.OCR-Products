@@ -1,12 +1,12 @@
 ---
-title: Image to Text C++ OCR API - Aspose 
+title: Optical Character Recognition API for C++
 weight: 130
 url: /cpp/ 
-description: Optical character recognition OCR C++ library to extract text from PNG, JPG and more image formats either at page level or just single line of text.
+description: Enhance your C++ applications with Optical Character Recognition (OCR). Extract text from scanned images, photos, screenshots, and PDFs.
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="C++ OCR Library" h2="Extract text from BMP, JPEG and other images having different fonts and styles within any C++ application." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/headers/aspose_ocr-for-cpp.svg" pfName="Aspose.OCR" subTitlepfName="for C++" downloadUrl="https://downloads.aspose.com/ocr/cpp" >}}
+{{< blocks/products/pf/upper-banner h1="Convert images and PDFs to text in C++" h2="Add optical character recognition (OCR) to your C++ applications with a few lines of code." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/headers/aspose_ocr-for-cpp.svg" pfName="Aspose.OCR" subTitlepfName="for C++" downloadUrl="https://downloads.aspose.com/ocr/cpp" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.OCR" subTitlepfName="for C++" >}}
 
@@ -14,7 +14,9 @@ description: Optical character recognition OCR C++ library to extract text from 
 
 {{< blocks/products/pf/tab-content >}}
 <p align="justify">
- Aspose.OCR for C++ is a robust and reliable professional optical character recognition API. Developers can easily add OCR operations in their software applications. OCR library can work offline for business applications as well. Furthermore, this premise OCR API can perform OCR using the GPU instead of the core processor. Major API feature is the text fragment detection that enables to recognize header and paragraphs for pages having pictures or tables. It supports commonly used formats for reading characters and fonts having different styles, noise removal filters, recognizing the whole page, or just single line.
+
+<p>
+Aspose.OCR for C++ extends your applications with optical character recognition capabilities in <b>5</b> lines of code. Our experience in neural networks and machine learning has been translated into an OCR library with superior performance and accuracy that supports <b>26</b> languages based on <b>Latin</b> and <b>Cyrillic</b> scrips as well as <b>Chinese</b>. OCR API can recognize scanned images, smartphone photos, screenshots, areas of images, and scanned PDFs and return results in the most popular document and data exchange formats. It is completely offline and does not require an internet connection to work. The API requires minimal effort to get started and a shallow learning curve to master. All pre-processing, skew correction, noise removal, language detection, multi-threading and other complex tasks are performed automatically, but can be tuned up to deal with hard cases.
 </p>
 
 {{< /blocks/products/pf/tab-content >}}
@@ -22,49 +24,90 @@ description: Optical character recognition OCR C++ library to extract text from 
 <!--Diagrams Start-->
 {{< blocks/products/pf/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="At a Glance" description="An overview of the capabilities of API." >}}
+{{< blocks/products/pf/carousel-item h3="At a Glance" description="A brief summary of optical character recognition capabilities." >}}
 <div class="diagram1 d1-cplus">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-cogs">
     </i>
-    Main Features
+    Core Features
    </header>
    <ul>
     <li>
-     Load Multiple Formats
+     Extract text from photos
     </li>
     <li>
-     Supports Different Fonts
+     Create searchable PDFs
     </li>
     <li>
-     Supports Multiple Styles
+     Automatic image corrections
     </li>
     <li>
-     Detect Full Text From Page
+     Support multiple typefaces
     </li>
     <li>
-     Extract Single Line Text
+     Preserve text formatting
     </li>
     <li>
-     Calculate Skew Angle
+     Detect text fragments
+    </li>
+    <li>
+     Batch processing
+    </li>
+    <li>
+     Spell checking
     </li>
    </ul>
   </div>
   <!--/left-->
   <div class="d1-col d1-right">
-   <!--<header><i class="fa fa-text-width"> </i>Supported Font Styles</header>
-
-<ul>
-
-<li>Regular</li>
-
-<li>Bold</li>
-
-<li>Italic</li>
-
-</ul>-->
+   <header>
+    <i class="fa fa-language">
+    </i>
+    Supported Languages
+   </header>
+   <ul>
+    <li>
+     English
+    </li>
+    <li>
+     Chinese
+    </li>
+    <li>
+     German
+    </li>
+    <li>
+     French
+    </li>
+    <li>
+     Italian
+    </li>
+    <li>
+     Spanish
+    </li>
+    <li>
+     Russian
+    </li>
+    <li>
+     Czech
+    </li>
+    <li>
+     Polish
+    </li>
+    <li>
+     Ukrainian
+    </li>
+    <li>
+     Dutch
+    </li>
+    <li>
+     Estonian
+    </li>
+    <li>
+     and 10+ more
+    </li>
+   </ul>
   </div>
   <!--/right-->
  </div>
@@ -88,7 +131,7 @@ description: Optical character recognition OCR C++ library to extract text from 
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Platform Independence" description="The OCR library fully supports C++ applications developed on the following platforms having [system requirements](https://docs.aspose.com/ocr/net/system-requirements/)." >}}
+{{< blocks/products/pf/carousel-item h3="Platform Independence" description="The OCR library fully supports C++ applications for both Windows and Linux." >}}
 <div class="diagram1 d1-cplus">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -128,44 +171,31 @@ description: Optical character recognition OCR C++ library to extract text from 
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Supported File Formats" description="Aspose.OCR for C++ supports most commonly used image [file formats](https://docs.aspose.com/ocr/cpp/supported-file-formats/)." >}}
+{{< blocks/products/pf/carousel-item h3="Supported File Formats" description="Convert any file you get from a scanner or camera to the most popular document and data exchange formats." >}}
 <div class="diagram1 d2 d1-cplus">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-long-arrow-down">
     </i>
-    Input Only
+    Source files
    </header>
    <ul>
     <li>
-     BMP
+     PDF
     </li>
     <li>
-     JPG
+     JPEG
     </li>
     <li>
      PNG
     </li>
-    <!--<li><strong>Windows Bitmap</strong>: bmp, dib</li>
-
-<li><strong>JPEG</strong>: jpeg, jpg, jpe, jp2</li>
-
-<li><strong>TIFF</strong>: tiff, tif</li>
-
-<li><strong>Sun rasters</strong>: sr, ras</li>
-
-<li><strong>Radiance HDR</strong>: hdr, pic</li>
-
-<li><strong>OpenEXR</strong>: exr</li>
-
-<li>PNG</li>
-
-<li>WebP</li>
-
-<li>GDAL</li>
-
-<li><strong>Portable formats</strong>: pbm, pgm, ppm pxm, pnm</li>-->
+    <li>
+     TIFF
+    </li>
+    <li>
+     BMP
+    </li>
    </ul>
   </div>
   <!--/left-->
@@ -173,12 +203,15 @@ description: Optical character recognition OCR C++ library to extract text from 
    <header>
     <i class="fa fa-mail-forward">
     </i>
-    Output Only
+    Recognition results
    </header>
    <ul>
-    <li>TXT</li>
-    <li>DOCX</li>
-    <li>PDF</li>
+    <li>Searchable PDF</li>
+    <li>Microsoft Word</li>
+    <li>Microsoft Excel</li>
+    <li>Plain text</li>
+    <li>JSON</li>
+    <li>XML</li>
    </ul>
   </div>
   <!--/right-->
@@ -221,138 +254,209 @@ description: Optical character recognition OCR C++ library to extract text from 
     <em class="fa fa-file-text-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Recognize characters from images
+     Extracts text from images and creates searchable PDFs
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-image ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Support multiple image file formats
+     Supports any image you can get form a scanner or camera
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-globe ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Reads Extended Latin and Cyrillic scripts
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-language ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Support multiple characters
+     Recognizes over 6,000 Chinese characters
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-font ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Recognize characters or text in popular fonts
+     Detects and recognizes all popular typefaces and formatting
     </p>
    </div>
    <div class="col-lg-4">
-    <em class="fa fa-bold ico-blue fa-2x col-lg-2">
+    <em class="fa fa-adjust ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Multi styles support
+     Pre-processes images before recognition
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-image ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Scan the whole image or any part of it
+     Processes the whole image or selected areas only
     </p>
    </div>
    <div class="col-lg-4">
-    <em class="fa fa-refresh ico-blue fa-2x col-lg-2">
+    <em class="fa fa-map ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Recognize text in paragraphs
+     Supports rotated, skewed and noisy images
     </p>
    </div>
    <div class="col-lg-4">
-    <em class="fa fa-filter ico-blue fa-2x col-lg-2">
+    <em class="fa fa-folder-open ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Recognize text in headers
+     Batch recognition of all images in a folder or archive
     </p>
    </div>
    <div class="col-lg-4">
-    <em class="fa fa-angle-right ico-blue fa-2x col-lg-2">
+    <em class="fa fa-link ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Calculate the skew angle of images
+     Recognizes images provided as web links
     </p>
    </div>
-   <!--<div class="col-lg-12">
-
-<h2 class="h2title">Capture Text from Images</h2>
-
-<p>In just 4 lines of code, add OCR functionality to your C++ applications to capture text from images. It is really that simple!</p>
-
-
-
-</div>-->
-   <div class="col-lg-12">
-    <h2 class="h2title">
-     Perform OCR of an Image
-    </h2>
-    <p>
-     Aspose.OCR for C++ allows the developers to recognize each text segment like text and related information such as different characters, font and style of an image of a page. Just few lines of code that allows performing the OCR operation.
+   <div class="col-lg-4">
+    <em class="fa fa-check ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Finds and automatically corrects misspelled words
     </p>
-    <div class="codeblock" id="code">
-     <h3>
-      Perform OCR of an image of a Page - C++
-     </h3>
-     <pre><code class="cs">std::string img_path = "../srcSample.png";
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-code ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Get recognition result as JSON
+    </p>
+   </div>
 
-// Prepare buffer for result (in symbols, len_byte = len * sizeof(wchar_t))
 
+<div class="col-lg-12">
+
+<h2 class="h2title">Easy to Use</h2>
+
+<p>Do you still think C++ OCR is hard? With our library, you only need <b>5</b> lines of code to recognize the image and display the result. Try this code and see for yourself:</p>
+
+<div id="code" class="codeblock">
+
+<h3>Image to text in 5 lines - C++</h3>
+
+<pre><code class="cs">// Provide image path
+std::string image_path = "../Data/Source/sample.png";
+
+// Prepare buffer for result
 const size_t len = 4096;
+wchar_t buffer[len] = { 0 };
 
-wchar_t bfr[len] = { 0 };
+// Do the magic
+size_t size = aspose::ocr::page(image_path.c_str(), buffer, len);
 
-size_t result = aspose::ocr::page(image_path.c_str(), bfr, len);
+// Display the recognition result
+std::wcout << buffer << L"\n";</code></pre>
 
-//Print result
-
-std::wcout &lt;&lt; bfr &lt;&lt; L"\n";
-
-</code></pre>
-    </div>
-   </div>
-   <div class="col-lg-12">
-    <h2 class="h2title">
-     Muti-Fonts &amp; Styles Support
-    </h2>
-    <p>
-     C++ OCR API supports to recognize Text in popular fonts &amp; styles like Arial, Times New Roman, Courier New, Verdana, Tahoma and Calibri fonts in regular, bold and italic text styles.
-    </p>
-   </div>
-   <!--<div class="col-lg-12">
-
-<h2 class="h2title">Multi-Language Support</h2>
-
-<p>Aspose.OCR for C++ supports multiple languages such as English, French, Spanish and Portuguese. More languages are to be supported with future releases of API.</p>
-
-</div>-->
-   <div class="col-lg-12">
-    <h2 class="h2title">
-     Calculate Skew Angle of the Image
-    </h2>
-    <p>
-     The library calculates the skew angle of the image. It takes the image path as input and returns the skew angle.
-    </p>
-    <div class="codeblock" id="code">
-     <h3>
-      Calculate Skew Angle - C++
-     </h3>
-     <pre><code class="cs">std::string image_path = "../srcSkew.png";
-
-std::double_t result = aspose::ocr::get_skew(image_path.c_str());
-
-std::wcout &lt;&lt; result &lt;&lt; L'\n';</code></pre>
-    </div>
-   </div>
-  </div>
- </div>
 </div>
+
+</div>
+
+<div class="col-lg-12">
+
+<h2 class="h2title">26 Recognition Languages</h2>
+
+<p>OCR API can recognize a large number of languages and all popular writing scripts, including texts with mixed languages.</p>
+<ul>
+<li><b>Extended Latin alphabet</b>: Croatian, Czech, Danish, Dutch, English, Estonian, Finnish, French, German, Italian, Latvian, Lithuanian, Norwegian, Polish, Portuguese, Romanian, Slovak, Slovenian, Spanish, Swedish.</li>
+<li><b>Cyrillic alphabet</b>: Belorussian, Bulgarian, Kazakh, Russian, Serbian, Ukrainian.</li>
+<li><b>Chinese</b>: more than 6,000 characters.</li>
+</ul>
+<p>You can leave the language detection to the library or define the language yourself to increase the recognition performance and reliability.</p>
+
+</div>
+
+<div class="col-lg-12">
+
+<h2 class="h2title">Batch Processing</h2>
+
+<p>OCR API frees you from recognizing every image one-by-one by offering various batch-processing methods that allow you to recognize multiple images in one call:</p>
+<ul>
+	<li>Recognition of multi-page PDF and TIFF files.</li>
+	<li>Recognition of all files in a folder.</li>
+	<li>Recognition of all files in an archive.</li>
+</ul>
+
+<div id="code" class="codeblock">
+
+<h3>Recognize ZIP archive - C++</h3>
+
+<pre><code class="cs">// Provide archive path
+std::string archive_path = "book.zip";
+
+// Prepare buffer for result
+const size_t len = 4096;
+wchar_t buffer[len] = { 0 };
+
+// Initialize RecognitionSettings object with default values
+RecognitionSettings settings;
+
+// recognize
+size_t res_len = aspose::ocr::pages_multi(archive_path.c_str(), buffer, len, settings);</code></pre>
+
+</div>
+
+</div>
+
+<div class="col-lg-12">
+
+<h2 class="h2title">Preserve Formatting</h2>
+
+<p>The OCR library reads all popular typefaces such as Arial, Times New Roman, Courier New, Tahoma, Calibri and more in regular, bold and italic styles and carefully preserves formatting in OCR results. You can also split recognition results into lines and detect text areas in a page.</p>
+
+</div>
+
+<div class="col-lg-12">
+
+<h2 class="h2title">Recognize Photos</h2>
+
+<p>The widespread adoption of OCR applications is usually stopped by the fact that scanners are not commonplace for most users. Our OCR library has powerful built-in image pre-processing filters that can handle dark, rotated, skewed, and noisy images. In combination with support for all image formats, it allows for reliable recognition of even smartphone photos. Most of the pre-processing and image correction is done automatically, so you will only have to intervene in difficult cases.</p>
+
+<div id="code" class="codeblock">
+
+<h3>Set custom angle for skew correction - C++</h3>
+
+<pre><code class="cs">// Original image
+std::string image_path = "../Data/Source/sample.png";
+rect rectangles[2] = { {90, 186, 775, 95} , { 928, 606, 790, 160 } };
+
+// Prepare buffer for result
+const size_t len = 4096;
+wchar_t buffer[len] = { 0 };
+
+// Adjust skew angle
+RecognitionSettings settings;
+settings.format = export_format::text;
+settings.rectangles = rectangles;
+settings.rectangles_size = 2;
+settings.skew = 5;
+
+// Recognize image
+size_t res_len = aspose::ocr::page_settings(image_path.c_str(), buffer, len, settings);</code></pre>
+
+</div>
+
+</div>
+
+<div class="col-lg-12">
+
+<h2 class="h2title">Spell Check</h2>
+
+<p>While the OCR produces reliable results, dust and print defects might cause some symbols to be recognized incorrectly. OCR API has a built-in spell checker that automatically replaces misspelled words and frees you from having to manually correct the recognition results.</p>
+
+</div>
+
 <!--Feature-section End-->
 
 {{< /blocks/products/pf/main-container >}}
@@ -382,7 +486,7 @@ std::wcout &lt;&lt; result &lt;&lt; L'\n';</code></pre>
 
 {{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/ocr/cpp" pricingInformationLink="https://purchase.aspose.com/pricing/ocr/cpp" >}}
 
-{{< blocks/products/pf/offers-section pfName="Aspose.OCR" description="Aspose.OCR offers individual OCR APIs for other popular development environments as listed below:" >}}
+{{< blocks/products/pf/offers-section pfName="Aspose.OCR" description="Aspose also offers native OCR APIs for other popular programming languages:" >}}
 
     {{< blocks/products/pf/offers-section-item link="/ocr/net/" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/ocr/272x272/aspose_ocr-for-net-min.png" sdkName=".NET" >}}
     {{< blocks/products/pf/offers-section-item link="/ocr/java/" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/ocr/272x272/aspose_ocr-for-java-min.png" sdkName="Java" >}}

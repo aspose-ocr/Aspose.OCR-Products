@@ -1,70 +1,113 @@
 ---
-title: Afbeelding naar tekst C++ OCR-API - Aspose 
+title: Optical Character Recognition API voor C++
 weight: 130
 url: /nl/cpp/ 
-description: Optische tekenherkenning OCR C++ bibliotheek om tekst uit PNG, JPG en meer afbeeldingsformaten te extraheren, hetzij op paginaniveau, hetzij op een enkele regel tekst.
+description: Verbeter uw C++-toepassingen met Optical Character Recognition (OCR). Extraheer tekst uit gescande afbeeldingen, foto&#39;s, schermafbeeldingen en pdf&#39;s.
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="C++ OCR-bibliotheek" h2="Extraheer tekst uit BMP, JPEG en andere afbeeldingen met verschillende lettertypen en stijlen binnen elke C++-toepassing." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/headers/aspose_ocr-for-cpp.svg" pfName="Aspose.OCR" subTitlepfName="for C++" downloadUrl="https://downloads.aspose.com/ocr/cpp" >}}
+{{< blocks/products/pf/upper-banner h1="Converteer afbeeldingen en PDF&#39;s naar tekst in C++" h2="Voeg optische tekenherkenning (OCR) toe aan uw C++-toepassingen met een paar regels code." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/headers/aspose_ocr-for-cpp.svg" pfName="Aspose.OCR" subTitlepfName="for C++" downloadUrl="https://downloads.aspose.com/ocr/cpp" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.OCR" subTitlepfName="for C++" >}}
 
-{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-cpp.svg" liveDemosLink="https://products.aspose.app/ocr/family" PricingLink="https://purchase.aspose.com/pricing/ocr/cpp" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/ocr/cpp/" installationsDocsLink="https://docs.aspose.com/ocr/cpp/installation/" nugetLink="https://www.nuget.org/packages/Aspose.OCR.cpp/" nugetPackageName="Aspose.OCR.Cpp" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/ocr/cpp" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-cpp.svg" liveDemosLink="https://products.aspose.app/ocr/family" PricingLink="https://purchase.aspose.com/pricing/ocr/cpp" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/ocr/cpp/" installationsDocsLink="https://docs.aspose.com/ocr/cpp/installation/" nugetLink="https://www.nuget.org/packages/Aspose.OCR.cpp/" nugetPackageName="Aspose.OCR.Cpp" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/ocr/cpp" >}}
 
-{{< blocks/products/pf/i18n/tab-content >}}
+{{< blocks/products/pf/tab-content >}}
 <p align="justify">
- Aspose.OCR voor C++ is een robuuste en betrouwbare professionele API voor optische tekenherkenning. Ontwikkelaars kunnen eenvoudig OCR-bewerkingen toevoegen aan hun softwaretoepassingen. OCR-bibliotheek kan ook offline werken voor zakelijke toepassingen. Bovendien kan deze premisse OCR-API OCR uitvoeren met behulp van de GPU in plaats van de kernprocessor. De belangrijkste API-functie is de detectie van tekstfragmenten waarmee kopteksten en alinea's voor pagina's met afbeeldingen of tabellen kunnen worden herkend. Het ondersteunt veelgebruikte formaten voor het lezen van tekens en lettertypen met verschillende stijlen, filters voor het verwijderen van ruis, het herkennen van de hele pagina of slechts één regel.
+
+<p>
+Aspose.OCR voor C++ breidt uw toepassingen uit met optische tekenherkenningsmogelijkheden in <b>5</b> regels code. Onze ervaring met neurale netwerken en machine learning is vertaald in een OCR-bibliotheek met superieure prestaties en nauwkeurigheid die <b>26</b> talen ondersteunt op basis van <b>Latijnse</b> en <b>Cyrillische</b> scripts en <b>Chinees</b> . OCR API kan gescande afbeeldingen, smartphonefoto&#39;s, screenshots, delen van afbeeldingen en gescande PDF&#39;s herkennen en resultaten retourneren in de meest populaire document- en gegevensuitwisselingsformaten. Het is volledig offline en vereist geen internetverbinding om te werken. De API vereist minimale inspanning om aan de slag te gaan en een ondiepe leercurve om onder de knie te krijgen. Alle pre-processing, scheefheidcorrectie, ruisverwijdering, taaldetectie, multi-threading en andere complexe taken worden automatisch uitgevoerd, maar kunnen worden aangepast om harde gevallen aan te pakken.
 </p>
 
-{{< /blocks/products/pf/i18n/tab-content >}}
+{{< /blocks/products/pf/tab-content >}}
 
 <!--Diagrams Start-->
-{{< blocks/products/pf/i18n/carousel >}}
+{{< blocks/products/pf/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="In een oogopslag" description="Een overzicht van de mogelijkheden van API." >}}
+{{< blocks/products/pf/carousel-item h3="In een oogopslag" description="Een korte samenvatting van de mogelijkheden voor optische tekenherkenning." >}}
 <div class="diagram1 d1-cplus">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-cogs">
     </i>
-    Belangrijkste kenmerken:
+    Kernfuncties:
    </header>
    <ul>
     <li>
-     Meerdere formaten laden
+     Tekst uit foto&#39;s extraheren
     </li>
     <li>
-     Ondersteunt verschillende lettertypen
+     Doorzoekbare PDF&#39;s maken
     </li>
     <li>
-     Ondersteunt meerdere stijlen
+     Automatische beeldcorrecties
     </li>
     <li>
-     Detecteer volledige tekst van pagina
+     Ondersteuning van meerdere lettertypen
     </li>
     <li>
-     Tekst met één regel extraheren
+     Tekstopmaak behouden
     </li>
     <li>
-     Bereken schuine hoek
+     Tekstfragmenten detecteren
+    </li>
+    <li>
+     Batchverwerking
+    </li>
+    <li>
+     Spellingcheck
     </li>
    </ul>
   </div>
   <!--/left-->
   <div class="d1-col d1-right">
-   <!--<header><i class="fa fa-text-width"> </i>Ondersteunde lettertypestijlen</header>
-
-<ul>
-
-<li>Normaal</li>
-
-<li>Vetgedrukt</li>
-
-<li>Cursief</li>
-
-</ul>-->
+   <header>
+    <i class="fa fa-language">
+    </i>
+    Ondersteunde talen
+   </header>
+   <ul>
+    <li>
+     de Engelse taal
+    </li>
+    <li>
+     Chinese taal
+    </li>
+    <li>
+     Duitse taal
+    </li>
+    <li>
+     Franse taal
+    </li>
+    <li>
+     Italiaanse taal
+    </li>
+    <li>
+     Spaanse taal
+    </li>
+    <li>
+     Russische taal
+    </li>
+    <li>
+     Tsjechisch
+    </li>
+    <li>
+     Poolse taal
+    </li>
+    <li>
+     Oekraïnse taal
+    </li>
+    <li>
+     Nederlandse taal
+    </li>
+    <li>
+     Estse taal
+    </li>
+    <li>
+     en 10+ meer
+    </li>
+   </ul>
   </div>
   <!--/right-->
  </div>
@@ -88,7 +131,7 @@ description: Optische tekenherkenning OCR C++ bibliotheek om tekst uit PNG, JPG 
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Platformonafhankelijkheid" description="De OCR-bibliotheek ondersteunt volledig C++-toepassingen die zijn ontwikkeld op de volgende platforms met [systeemvereisten](https://docs.aspose.com/ocr/net/system-requirements/)." >}}
+{{< blocks/products/pf/carousel-item h3="Platformonafhankelijkheid" description="De OCR-bibliotheek ondersteunt volledig C++-toepassingen voor zowel Windows als Linux." >}}
 <div class="diagram1 d1-cplus">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -128,44 +171,31 @@ description: Optische tekenherkenning OCR C++ bibliotheek om tekst uit PNG, JPG 
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Ondersteunde bestandsindelingen" description="Aspose.OCR voor C++ ondersteunt de meest gebruikte afbeelding [bestandsformaten](https://docs.aspose.com/ocr/cpp/supported-file-formats/)." >}}
+{{< blocks/products/pf/carousel-item h3="Ondersteunde bestandsindelingen" description="Converteer elk bestand dat u van een scanner of camera krijgt naar de meest populaire document- en gegevensuitwisselingsformaten." >}}
 <div class="diagram1 d2 d1-cplus">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-long-arrow-down">
     </i>
-    Alleen invoer
+    Bronbestanden
    </header>
    <ul>
     <li>
-     BMP
+     PDF
     </li>
     <li>
-     JPG
+     JPEG
     </li>
     <li>
      PNG
     </li>
-    <!--<li><strong>Windows Bitmap</strong>: bmp, dib</li>
-
-<li><strong>JPEG</strong>: jpeg, jpg, jpe, jp2</li>
-
-<li><strong>TIFF</strong>: tiff, tif</li>
-
-<li><strong>Sun rasters</strong>: sr, ras</li>
-
-<li><strong>Radiance HDR</strong>: hdr, pic</li>
-
-<li><strong>OpenEXR</strong>: exr</li>
-
-<li>PNG</li>
-
-<li>WebP</li>
-
-<li>GDAL</li>
-
-<li><strong>Portable formats</strong>: pbm, pgm, ppm pxm, pnm</li>-->
+    <li>
+     TIFF
+    </li>
+    <li>
+     BMP
+    </li>
    </ul>
   </div>
   <!--/left-->
@@ -173,12 +203,15 @@ description: Optische tekenherkenning OCR C++ bibliotheek om tekst uit PNG, JPG 
    <header>
     <i class="fa fa-mail-forward">
     </i>
-    Alleen uitvoer
+    Erkenningsresultaten
    </header>
    <ul>
-    <li>TXT</li>
-    <li>DOCX</li>
-    <li>PDF</li>
+    <li>Doorzoekbare PDF</li>
+    <li>Microsoft Word</li>
+    <li>Microsoft Excel</li>
+    <li>Platte tekst</li>
+    <li>JSON</li>
+    <li>XML</li>
    </ul>
   </div>
   <!--/right-->
@@ -203,7 +236,7 @@ description: Optische tekenherkenning OCR C++ bibliotheek om tekst uit PNG, JPG 
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< /blocks/products/pf/i18n/carousel >}}
+{{< /blocks/products/pf/carousel >}}
 <!--Diagrams End-->
 
 <!--Feature-section Start-->
@@ -213,7 +246,7 @@ description: Optische tekenherkenning OCR C++ bibliotheek om tekst uit PNG, JPG 
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
-    Advanced C++ OCR-API Features
+    Geavanceerde C++ OCR API-functies
    </h2>
    <p>
    </p>
@@ -221,156 +254,227 @@ description: Optische tekenherkenning OCR C++ bibliotheek om tekst uit PNG, JPG 
     <em class="fa fa-file-text-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Herken karakters van afbeeldingen
+     Extraheert tekst uit afbeeldingen en maakt doorzoekbare PDF&#39;s
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-image ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Ondersteuning van meerdere bestandsindelingen voor afbeeldingen
+     Ondersteunt elke afbeelding die u kunt krijgen van een scanner of camera
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-globe ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Leest uitgebreide Latijnse en Cyrillische schriften
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-language ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Ondersteuning van meerdere karakters
+     Herkent meer dan 6.000 Chinese karakters
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-font ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Herken tekens of tekst in populaire lettertypen
+     Detecteert en herkent alle populaire lettertypen en opmaak
     </p>
    </div>
    <div class="col-lg-4">
-    <em class="fa fa-bold ico-blue fa-2x col-lg-2">
+    <em class="fa fa-adjust ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Ondersteuning voor meerdere stijlen
+     Bewerkt afbeeldingen voor herkenning
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-image ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Scan de hele afbeelding of een deel ervan
+     Verwerkt alleen de hele afbeelding of geselecteerde gebieden
     </p>
    </div>
    <div class="col-lg-4">
-    <em class="fa fa-refresh ico-blue fa-2x col-lg-2">
+    <em class="fa fa-map ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Tekst in alinea's herkennen
+     Ondersteunt gedraaide, scheve afbeeldingen en afbeeldingen met ruis
     </p>
    </div>
    <div class="col-lg-4">
-    <em class="fa fa-filter ico-blue fa-2x col-lg-2">
+    <em class="fa fa-folder-open ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Herken tekst in kopteksten
+     Batchherkenning van alle afbeeldingen in een map of archief
     </p>
    </div>
    <div class="col-lg-4">
-    <em class="fa fa-angle-right ico-blue fa-2x col-lg-2">
+    <em class="fa fa-link ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Bereken de scheefstand van afbeeldingen
+     Herkent afbeeldingen die worden aangeboden als weblinks
     </p>
    </div>
-   <!--<div class="col-lg-12">
-
-<h2 class="h2title">Capture Text from Images</h2>
-
-<p>In just 4 lines of code, add OCR functionality to your C++ applications to capture text from images. It is really that simple!</p>
-
-
-
-</div>-->
-   <div class="col-lg-12">
-    <h2 class="h2title">
-     OCR van een afbeelding uitvoeren
-    </h2>
-    <p>
-     Met Aspose.OCR voor C++ kunnen de ontwikkelaars elk tekstsegment herkennen, zoals tekst en gerelateerde informatie, zoals verschillende tekens, lettertype en stijl van een afbeelding van een pagina. Slechts een paar regels code waarmee de OCR-bewerking kan worden uitgevoerd.
+   <div class="col-lg-4">
+    <em class="fa fa-check ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Vindt en corrigeert automatisch verkeerd gespelde woorden
     </p>
-    <div class="codeblock" id="code">
-     <h3>
-      OCR uitvoeren van een afbeelding van een pagina - C++
-     </h3>
-     <pre><code class="cs">std::string img_path = "../srcSample.png";
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-code ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Herkenningsresultaat ophalen als JSON
+    </p>
+   </div>
 
-// Buffer voorbereiden voor resultaat (in symbolen, len_byte = len * sizeof(wchar_t))
 
+<div class="col-lg-12">
+
+<h2 class="h2title">Makkelijk te gebruiken</h2>
+
+<p>Denk je nog steeds dat C++ OCR moeilijk is? Met onze bibliotheek heeft u slechts <b>5</b> regels code nodig om de afbeelding te herkennen en het resultaat weer te geven. Probeer deze code en ontdek het zelf:</p>
+
+<div id="code" class="codeblock">
+
+<h3>Afbeelding naar tekst in 5 regels - C++</h3>
+
+<pre><code class="cs">// Geef afbeeldingspad op
+std::string image_path = "../Data/Source/sample.png";
+
+// Buffer voorbereiden op resultaat
 const size_t len = 4096;
+wchar_t buffer[len] = { 0 };
 
-wchar_t bfr[len] = { 0 };
+// Doe de magie
+size_t size = aspose::ocr::page(image_path.c_str(), buffer, len);
 
-size_t result = aspose::ocr::page(image_path.c_str(), bfr, len);
+// Geef het herkenningsresultaat weer
+std::wcout << buffer << L"\n";</code></pre>
 
-//Afdrukresultaat
-
-std::wcout &lt;&lt; bfr &lt;&lt; L"\n";
-
-</code></pre>
-    </div>
-   </div>
-   <div class="col-lg-12">
-    <h2 class="h2title">
-     Muti-lettertypen & amp; Ondersteuning voor stijlen:
-    </h2>
-    <p>
-     C++ OCR-API supports to recognize Text in popular fonts &amp; styles like Arial, Times New Roman, Courier New, Verdana, Tahoma and Calibri fonts in regular, bold and italic text styles.
-    </p>
-   </div>
-   <!--<div class="col-lg-12">
-
-<h2 class="h2title">Multi-Language Support</h2>
-
-<p>Aspose.OCR for C++ supports multiple languages such as English, French, Spanish and Portuguese. More languages are to be supported with future releases of API.</p>
-
-</div>-->
-   <div class="col-lg-12">
-    <h2 class="h2title">
-     Bereken de schuine hoek van de afbeelding
-    </h2>
-    <p>
-     De bibliotheek berekent de scheefstand van het beeld. Het neemt het beeldpad als invoer en retourneert de schuine hoek.
-    </p>
-    <div class="codeblock" id="code">
-     <h3>
-      Bereken schuine hoek - C++
-     </h3>
-     <pre><code class="cs">std::string image_path = "../srcSkew.png";
-
-std::double_t result = aspose::ocr::get_skew(image_path.c_str());
-
-std::wcout &lt;&lt; result &lt;&lt; L'\n';</code></pre>
-    </div>
-   </div>
-  </div>
- </div>
 </div>
+
+</div>
+
+<div class="col-lg-12">
+
+<h2 class="h2title">26 herkenningstalen</h2>
+
+<p>OCR API kan een groot aantal talen en alle populaire schrijfscripts herkennen, inclusief teksten met gemengde talen.</p>
+<ul>
+<li><b>Uitgebreid Latijns alfabet</b> : Kroatisch, Tsjechisch, Deens, Nederlands, Engels, Estisch, Fins, Frans, Duits, Italiaans, Lets, Litouws, Noors, Pools, Portugees, Roemeens, Slowaaks, Sloveens, Spaans, Zweeds.</li>
+<li><b>Cyrillisch alfabet</b> : Wit-Russisch, Bulgaars, Kazachs, Russisch, Servisch, Oekraïens.</li>
+<li><b>Chinees</b> : meer dan 6.000 karakters.</li>
+</ul>
+<p>U kunt de taaldetectie overlaten aan de bibliotheek of de taal zelf definiëren om de herkenningsprestaties en betrouwbaarheid te verhogen.</p>
+
+</div>
+
+<div class="col-lg-12">
+
+<h2 class="h2title">Batchverwerking</h2>
+
+<p>OCR API bevrijdt u van het één voor één herkennen van elke afbeelding door verschillende batchverwerkingsmethoden aan te bieden waarmee u meerdere afbeeldingen in één aanroep kunt herkennen:</p>
+<ul>
+	<li>Herkenning van PDF- en TIFF-bestanden met meerdere pagina&#39;s.</li>
+	<li>Herkenning van alle bestanden in een map.</li>
+	<li>Herkenning van alle bestanden in een archief.</li>
+</ul>
+
+<div id="code" class="codeblock">
+
+<h3>ZIP-archief herkennen - C++</h3>
+
+<pre><code class="cs">// Archiefpad opgeven
+std::string archive_path = "book.zip";
+
+// Buffer voorbereiden op resultaat
+const size_t len = 4096;
+wchar_t buffer[len] = { 0 };
+
+// Initialiseer RecognitionSettings-object met standaardwaarden
+RecognitionSettings settings;
+
+// Herken
+size_t res_len = aspose::ocr::pages_multi(archive_path.c_str(), buffer, len, settings);</code></pre>
+
+</div>
+
+</div>
+
+<div class="col-lg-12">
+
+<h2 class="h2title">Opmaak behouden</h2>
+
+<p>De OCR-bibliotheek leest alle populaire lettertypen zoals Arial, Times New Roman, Courier New, Tahoma, Calibri en meer in normale, vetgedrukte en cursieve stijlen en behoudt zorgvuldig de opmaak in OCR-resultaten. U kunt herkenningsresultaten ook in regels splitsen en tekstgebieden op een pagina detecteren.</p>
+
+</div>
+
+<div class="col-lg-12">
+
+<h2 class="h2title">Foto&#39;s herkennen</h2>
+
+<p>De wijdverbreide acceptatie van OCR-toepassingen wordt meestal tegengehouden door het feit dat scanners voor de meeste gebruikers niet alledaags zijn. Onze OCR-bibliotheek heeft krachtige ingebouwde beeldvoorbewerkingsfilters die donkere, geroteerde, scheve en ruisrijke beelden aankunnen. In combinatie met ondersteuning voor alle beeldformaten zorgt het voor een betrouwbare herkenning van zelfs smartphonefoto&#39;s. De meeste voorbewerkingen en beeldcorrecties gebeuren automatisch, dus je hoeft alleen in moeilijke gevallen in te grijpen.</p>
+
+<div id="code" class="codeblock">
+
+<h3>Aangepaste hoek instellen voor scheefstandcorrectie - C++</h3>
+
+<pre><code class="cs">// Originele afbeelding
+std::string image_path = "../Data/Source/sample.png";
+rect rectangles[2] = { {90, 186, 775, 95} , { 928, 606, 790, 160 } };
+
+// Buffer voorbereiden op resultaat
+const size_t len = 4096;
+wchar_t buffer[len] = { 0 };
+
+// Schuine hoek aanpassen:
+RecognitionSettings settings;
+settings.format = export_format::text;
+settings.rectangles = rectangles;
+settings.rectangles_size = 2;
+settings.skew = 5;
+
+// Herken afbeelding
+size_t res_len = aspose::ocr::page_settings(image_path.c_str(), buffer, len, settings);</code></pre>
+
+</div>
+
+</div>
+
+<div class="col-lg-12">
+
+<h2 class="h2title">Spellingscontrole</h2>
+
+<p>Hoewel de OCR betrouwbare resultaten oplevert, kunnen stof- en afdrukfouten ertoe leiden dat sommige symbolen niet goed worden herkend. OCR API heeft een ingebouwde spellingcontrole die automatisch verkeerd gespelde woorden vervangt en u verlost van het handmatig corrigeren van de herkenningsresultaten.</p>
+
+</div>
+
 <!--Feature-section End-->
 
 {{< /blocks/products/pf/main-container >}}
 
 
-{{< blocks/products/pf/i18n/support-learning-resources >}}
+{{< blocks/products/pf/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="Leermiddelen" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Documentatie" href="https://docs.aspose.com/ocr/cpp/" >}}
 {{< blocks/products/pf/slr-element name="Broncode" href="https://github.com/aspose-ocr/Aspose.OCR-for-C" >}}
 {{< blocks/products/pf/slr-element name="API-referenties" href="https://apireference.aspose.com/cpp/ocr" >}}
-{{< blocks/products/pf/slr-element name="Instructievideo's" href="https://www.youtube.com/user/asposevideo" >}}
+{{< blocks/products/pf/slr-element name="Instructievideo&#39;s" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Product ondersteuning" tabId="support" >}}
 {{< blocks/products/pf/slr-element name="Gratis ondersteuning" href="https://forum.aspose.com/c/ocr" >}}
 {{< blocks/products/pf/slr-element name="Betaalde ondersteuning" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.com/category/ocr/" >}}
-{{< blocks/products/pf/slr-element name="Release Notes" href="https://docs.aspose.com/ocr/cpp/release-notes/" >}}
+{{< blocks/products/pf/slr-element name="Release-opmerkingen" href="https://docs.aspose.com/ocr/cpp/release-notes/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Waarom Aspose.OCR voor C++?" tabId="success-stories" >}}
@@ -378,14 +482,14 @@ std::wcout &lt;&lt; result &lt;&lt; L'\n';</code></pre>
 {{< blocks/products/pf/slr-element name="Succesverhalen" href="https://company.aspose.com/customers/success-stories/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< /blocks/products/pf/i18n/support-learning-resources >}}
+{{< /blocks/products/pf/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/ocr/cpp" pricingInformationLink="https://purchase.aspose.com/pricing/ocr/cpp" >}}
+{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/ocr/cpp" pricingInformationLink="https://purchase.aspose.com/pricing/ocr/cpp" >}}
 
-{{< blocks/products/pf/offers-section pfName="Aspose.OCR" description="Aspose.OCR biedt individuele OCR-API's voor andere populaire ontwikkelomgevingen, zoals hieronder vermeld:" >}}
+{{< blocks/products/pf/offers-section pfName="Aspose.OCR" description="Aspose biedt ook native OCR API&#39;s voor andere populaire programmeertalen:" >}}
 
-    {{< blocks/products/pf/offers-section-item link="/ocr/nl/net/" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/ocr/272x272/aspose_ocr-for-net-min.png" sdkName=".NET" >}}
-    {{< blocks/products/pf/offers-section-item link="/ocr/nl/java/" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/ocr/272x272/aspose_ocr-for-java-min.png" sdkName="Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/ocr/net/" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/ocr/272x272/aspose_ocr-for-net-min.png" sdkName=".NET" >}}
+    {{< blocks/products/pf/offers-section-item link="/ocr/java/" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/ocr/272x272/aspose_ocr-for-java-min.png" sdkName="Java" >}}
 
 {{< /blocks/products/pf/offers-section >}}
 

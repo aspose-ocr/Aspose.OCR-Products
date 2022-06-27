@@ -1,26 +1,25 @@
 ---
-title: C# .NET Optical Character Recognition OCR API - Aspose 
+title: API Pengenalan Karakter Optik untuk .NET
 weight: 40
 url: /id/net/ 
-description: C# ASP.NET VB.NET Optical character recognition OCR library untuk menemukan dan mengekstrak teks dari gambar di aplikasi Windows dan Layanan web
+description: Pustaka OCR yang memungkinkan aplikasi desktop dan web C#, F#, atau Visual Basic mengenali teks dalam gambar dan PDF.
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Lakukan Image OCR dengan .NET Library" h2="Tambahkan fitur Pengenalan Karakter Optik berbasis gambar dalam aplikasi berbasis .NET." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/headers/aspose_ocr-for-net.svg" pfName="Aspose.OCR" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/ocr/net" >}}
+{{< blocks/products/pf/upper-banner h1="Konversikan gambar dan PDF ke teks dalam .NET" h2="Tambahkan pengenalan karakter optik (OCR) ke aplikasi .NET Anda dengan beberapa baris kode." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/headers/aspose_ocr-for-net.svg" pfName="Aspose.OCR" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/ocr/net" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.OCR" subTitlepfName="for .NET" >}}
 
-{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-net.svg" liveDemosLink="https://products.aspose.app/ocr/family" PricingLink="https://purchase.aspose.com/pricing/ocr/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/ocr/net/" installationsDocsLink="https://docs.aspose.com/ocr/net/installation/" nugetLink="https://www.nuget.org/packages/Aspose.OCR/" nugetPackageName="Aspose.OCR" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/ocr/net" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-net.svg" liveDemosLink="https://products.aspose.app/ocr/family" PricingLink="https://purchase.aspose.com/pricing/ocr/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/ocr/net/" installationsDocsLink="https://docs.aspose.com/ocr/net/installation/" nugetLink="https://www.nuget.org/packages/Aspose.OCR/" nugetPackageName="Aspose.OCR" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/ocr/net" >}}
 
-{{< blocks/products/pf/i18n/tab-content >}}
-<p>Aspose.OCR untuk .NET adalah API pengenalan karakter optik yang kuat. Pengembang dapat dengan mudah menambahkan fungsionalitas OCR dalam aplikasi mereka. API dapat diperluas, mudah digunakan, ringkas, dan menyediakan serangkaian kelas sederhana untuk mengontrol pengenalan karakter. Ini mendukung format gambar yang umum digunakan dan menyediakan fungsionalitas seperti membaca banyak karakter dan font dari gambar, gaya tebal dan miring, filter penghilang noise, pemindaian seluruh gambar atau bagian mana pun dari gambar dan banyak lagi. Selain itu, API memiliki kemampuan untuk melakukan OCR menggunakan GPU alih-alih prosesor inti.</p>
-
-{{< /blocks/products/pf/i18n/tab-content >}}
+{{< blocks/products/pf/tab-content >}}
+<p>Aspose.OCR untuk .NET adalah API yang kuat namun mudah digunakan dan hemat biaya untuk pengenalan karakter optik. Dengannya, Anda dapat menambahkan fungsionalitas OCR ke aplikasi .NET Anda dalam waktu kurang dari 5 baris kode tanpa mengkhawatirkan matematika yang rumit, jaringan saraf, dan detail teknis lainnya. Pengalaman kami dalam teknologi pembelajaran mesin dan pengembangan selama bertahun-tahun menghasilkan mesin OCR dengan kecepatan dan akurasi superior yang mendukung <b>26</b> bahasa berdasarkan skrip <b>Latin</b> dan <b>Sirilik</b> serta <b>Cina</b> . OCR API dapat mengenali gambar yang dipindai, foto ponsel cerdas, tangkapan layar, area gambar, dan PDF yang dipindai dan mengembalikan hasil dalam format dokumen dan pertukaran data yang paling populer. Berbagai filter pra-pemrosesan memungkinkan Anda mengenali gambar yang diputar, miring, dan berisik. Kinerja pengenalan dan beban sistem dapat lebih ditingkatkan dengan mentransfer tugas komputasi intensif sumber daya ke <b>GPU</b> .</p>
+{{< /blocks/products/pf/tab-content >}}
 
 <!--Diagrams Start-->
-{{< blocks/products/pf/i18n/carousel >}}
+{{< blocks/products/pf/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="Sekilas" description="Ikhtisar kemampuan API." >}}
+{{< blocks/products/pf/carousel-item h3="Sekilas" description="Ringkasan singkat kemampuan pengenalan karakter optik." >}}
 <div class="diagram1 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -37,13 +36,13 @@ description: C# ASP.NET VB.NET Optical character recognition OCR library untuk m
      Times New Roman
     </li>
     <li>
-     Kurir Baru
+     Courier New
     </li>
     <li>
      Tahoma
     </li>
     <li>
-     kalibrasi
+     Calibri
     </li>
     <li>
      Verdana
@@ -56,13 +55,13 @@ description: C# ASP.NET VB.NET Optical character recognition OCR library untuk m
    </header>
    <ul>
     <li>
-     Reguler
+     Font biasa
     </li>
     <li>
-     Berani
+     Huruf tebal
     </li>
     <li>
-     miring
+     Font miring
     </li>
    </ul>
   </div>
@@ -75,37 +74,40 @@ description: C# ASP.NET VB.NET Optical character recognition OCR library untuk m
    </header>
    <ul>
     <li>
-     Bahasa inggris
+     bahasa Inggris
     </li>
     <li>
-     Cina
+     bahasa Cina
     </li>
     <li>
-     Jerman
+     bahasa Jerman
     </li>
     <li>
-     Perancis
+     bahasa Perancis
     </li>
     <li>
-     Italia
+     bahasa Italia
     </li>
     <li>
-     Orang Spanyol
+     bahasa Spanyol
     </li>
     <li>
-     Portugis
+     bahasa Rusia
     </li>
     <li>
-     Ceko
+     bahasa Ceko
     </li>
     <li>
-     Polandia
+     bahasa Polandia
     </li>
     <li>
-     Belanda
+     bahasa Ukraina
     </li>
     <li>
-     Estonia
+     bahasa Belanda
+    </li>
+    <li>
+     bahasa Estonia
     </li>
     <li>
      dan 10+ lainnya
@@ -134,32 +136,61 @@ description: C# ASP.NET VB.NET Optical character recognition OCR library untuk m
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Platform Kemerdekaan" description="Aspose.OCR untuk .NET mendukung kerangka kerja .NET." >}}
+{{< blocks/products/pf/carousel-item h3="Platform Kemerdekaan" description="Aspose.OCR untuk .NET mendukung .NET Standard 2.0." >}}
 <div class="diagram1 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
      <header>
     <i class="fa fa-cubes">
     </i>
-    .NET Inti
+    .NET implementasi
    </header>
+   <ul>
+    <li>
+     .NET 6.0
+    </li>
+    <li>
+     .NET 5.0
+    </li>
+    <li>
+     .NET Core
+    </li>
+    <li>
+     .NET Framework
+    </li>
+    <li>
+    	Mono
+    </li>
+    <li>
+    	Xamarin
+    </li>
+   </ul>
   </div>
   <!--/left-->
   <div class="d1-col d1-right">
    <header>
     <i class="fa fa-cubes">
     </i>
-    .NET Framework
+    Aplikasi
    </header>
    <ul>
     <li>
-     Aplikasi ASP.NET
+     Aplikasi desktop
     </li>
     <li>
-     Aplikasi Windows
+     Layanan Windows
+    </li>
+    <li>
+     ASP.NET MVC
+    </li>
+    <li>
+     ASP.NET Web API
     </li>
     <li>
      Layanan web
+    </li>
+    <li>
+     Layanan Cloud
     </li>
    </ul>
   </div>
@@ -185,14 +216,14 @@ description: C# ASP.NET VB.NET Optical character recognition OCR library untuk m
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Format File yang Didukung" description="Aspose.OCR untuk .NET mendukung gambar yang paling umum digunakan [format berkas](https://docs.aspose.com/ocr/net/supported-file-formats/)." >}}
+{{< blocks/products/pf/carousel-item h3="Format File yang Didukung" description="Konversikan [file apa saja](https://docs.aspose.com/ocr/net/supported-file-formats/) yang Anda dapatkan dari pemindai atau kamera ke format dokumen dan pertukaran data paling populer." >}}
 <div class="diagram1 d2 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-long-arrow-down">
     </i>
-    Masukan Saja
+    File sumber
    </header>
    <ul>
     <li>
@@ -205,13 +236,16 @@ description: C# ASP.NET VB.NET Optical character recognition OCR library untuk m
      PNG
     </li>
     <li>
+     TIFF
+    </li>
+    <li>
      GIF
     </li>
     <li>
      BMP
     </li>
     <li>
-     TIFF
+     DjVu
     </li>
    </ul>
   </div>
@@ -220,13 +254,15 @@ description: C# ASP.NET VB.NET Optical character recognition OCR library untuk m
    <header>
     <i class="fa fa-mail-forward">
     </i>
-    Keluaran Saja
+    Hasil pengakuan
    </header>
    <ul>
-    <li>PDF</li>
-    <li>DOCX</li>
-    <li>XLSX</li>
-    <li>TXT</li>
+    <li>PDF yang dapat dicari</li>
+    <li>Microsoft Word</li>
+    <li>Microsoft Excel</li>
+    <li>Teks biasa</li>
+    <li>JSON</li>
+    <li>XML</li>
    </ul>
   </div>
   <!--/right-->
@@ -251,7 +287,7 @@ description: C# ASP.NET VB.NET Optical character recognition OCR library untuk m
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< /blocks/products/pf/i18n/carousel >}}
+{{< /blocks/products/pf/carousel >}}
 <!--Diagrams End-->
 
 <!--Feature-section Start-->
@@ -261,7 +297,7 @@ description: C# ASP.NET VB.NET Optical character recognition OCR library untuk m
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
-    Fitur .NET OCR API Tingkat Lanjut
+    Fitur dan Kemampuan Aspose.OCR untuk .NET
    </h2>
    <p>
    </p>
@@ -269,194 +305,277 @@ description: C# ASP.NET VB.NET Optical character recognition OCR library untuk m
     <em class="fa fa-file-text-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Baca teks atau karakter dari gambar
+     Mengonversi gambar dan PDF menjadi teks
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-image ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Dukungan untuk format file gambar yang umum digunakan
+     Mendukung semua format gambar yang bisa Anda dapatkan dari pemindai atau kamera
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-globe ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Membaca bahasa berdasarkan Latin dan Cyrillic
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-language ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Dukungan untuk bahasa global
+     Mengenali lebih dari 6.000 karakter Cina
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-font ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Baca teks atau karakter dalam font populer
+     Mendeteksi dan mengenali semua tipografi populer
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-bold ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Dukungan untuk gaya font
+     Dengan hati-hati mempertahankan gaya dan pemformatan font
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-image ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Pindai seluruh gambar atau bagian mana pun darinya
+     Memproses seluruh gambar atau area yang dipilih saja
     </p>
    </div>
    <div class="col-lg-4">
-    <em class="fa fa-refresh ico-blue fa-2x col-lg-2">
+    <em class="fa fa-map ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Pindai gambar yang diputar
+     Mendukung gambar yang diputar, miring, dan berisik
     </p>
    </div>
    <div class="col-lg-4">
-    <em class="fa fa-filter ico-blue fa-2x col-lg-2">
+    <em class="fa fa-folder-open ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Terapkan filter penghilang kebisingan
+     Pengenalan batch semua gambar dalam folder atau arsip
     </p>
    </div>
    <div class="col-lg-4">
-    <em class="fa fa-eye ico-blue fa-2x col-lg-2">
+    <em class="fa fa-link ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Tentukan beberapa daftar putih
+     Mengenali gambar yang disediakan sebagai tautan web
     </p>
    </div>
-   
+   <div class="col-lg-4">
+    <em class="fa fa-check ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Menemukan dan secara otomatis mengoreksi kata-kata yang salah eja
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-plug ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Sepenuhnya kompatibel dengan produk Aspose lainnya
+    </p>
+   </div>
    
 <div class="col-lg-12">
 
-<h2 class="h2title">Tangkap Teks dari Gambar</h2>
+<h2 class="h2title">Mudah untuk Menginstal</h2>
 
-<p>Hanya dalam 2 baris kode, tambahkan fungsionalitas OCR ke aplikasi .NET Anda untuk menangkap teks dari gambar. Ini benar-benar sederhana!</p>
+<p>Aspose.OCR untuk .NET didistribusikan sebagai paket NuGet ringan atau sebagai <a href="https://releases.aspose.com/ocr/net/">file yang dapat diunduh</a> dengan ketergantungan minimal. Cukup <a href="https://docs.aspose.com/ocr/net/installation/">instal</a> ke proyek Anda dan Anda siap mengenali teks dalam bahasa apa pun yang didukung dan menyimpan hasil pengenalan dalam format apa pun yang didukung.</p>
+
+<p><a href="https://purchase.aspose.com/temporary-license">Minta lisensi sementara</a> untuk mulai membangun aplikasi OCR yang berfungsi penuh tanpa batasan dan batasan apa pun.</p>
+
+</div>
+
+<div class="col-lg-12">
+
+<h2 class="h2title">Mudah digunakan</h2>
+
+<p>Anda memerlukan <b>tiga</b> baris kode untuk mengenali gambar dan menampilkan hasilnya. Ya, itu benar-benar sederhana!</p>
 
 <div id="code" class="codeblock">
 
-<h3>Pengenalan OCR satu baris - C#</h3>
+<h3>Gambar ke teks dalam 3 baris - C#</h3>
 
-<pre><code class="cs">// Inisialisasi instance AsposeOcr
-AsposeOcr api = new AsposeOcr();
+<pre><code class="cs">// Inisialisasi mesin OCR
+var recognitionEngine = new Aspose.OCR.AsposeOcr();
 
-// Kenali gambar
-string result = api.RecognizeImage(dataDir + "Sampleocr.bmp");
+// Kenali gambar ke teks
+string result = recognitionEngine.RecognizeImage("sample.jpg");
 
-// Menampilkan teks yang dikenali
+// Tampilkan hasil pengenalan
 Console.WriteLine(result);</code></pre>
 
 </div>
 
 </div>
 
-   <div class="col-lg-12">
-    <h2 class="h2title">
-     Lakukan OCR pada Gambar
-    </h2>
-    <p>
-     Aspose.OCR untuk .NET memungkinkan pengembang untuk mengekstrak teks dan informasi terkait seperti lokasi teks dari bagian tertentu dari suatu gambar. Fitur ini memungkinkan melakukan operasi OCR dengan cepat pada pemindaian dokumen yang mengikuti struktur serupa. Pustaka OCR melakukan operasi pada gambar yang memiliki banyak baris atau satu baris. Berikut adalah kode kode untuk pengenalan tunggal.
-    </p>
-    <div class="codeblock" id="code">
-     <h3>
-      Lakukan OCR pada gambar - C#
-     </h3>
-     <pre><code class="cs">// Jalur ke direktori dokumen.
-     
-  string path = "dirPath/";
+<div class="col-lg-12">
 
-// Inisialisasi instance AsposeOcr
-var api = new AsposeOcr();
+<h2 class="h2title">Lintas-Platform</h2>
 
-// Kenali gambar
-string result = api.RecognizeLine(path + "sample_line.png");
-
-// Cetak satu baris teks yang dikenali
-Console.WriteLine(result);</code></pre>
-    </div>
-   </div>
-   <div class="col-lg-12">
-    <h2 class="h2title">
-     Muti-Font &amp; Dukungan Gaya
-    </h2>
-    <p>
-     .NET OCR API mendukung untuk mengenali Teks dalam font populer &amp; gaya seperti font Arial, Times New Roman, Kurir Baru, Verdana, Tahoma, dan kalibrasi dalam gaya teks biasa, tebal, dan miring.
-    </p>
-   </div>
-   <div class="col-lg-12">
-    <h2 class="h2title">
-     Dukungan Multi-Bahasa
-    </h2>
-    <p>
-     Aspose.OCR untuk .NET mendukung berbagai bahasa seperti Inggris, Prancis, Spanyol, dan Portugis. Lebih banyak bahasa akan didukung dengan rilis API di masa mendatang. Melakukan operasi OCR sama untuk semua bahasa seperti beberapa baris berikut melakukan operasi OCR pada gambar yang memiliki teks Spanyol.
-    </p>
-    <div class="codeblock" id="code">
-     <h3>
-      Dukungan Deteksi Otomatis Bahasa OCR - C#
-     </h3>
-     <pre><code class="cs">// jalur direktori dokumen
-
-string dirPath = "directorypath/";
-
-// Inisialisasi sebuah instance
-AsposeOcr ocrLanguage = new AsposeOcr();
-
-// Kenali gambar
-string spanishText = ocrLanguage.RecognizeImage(dirPath + "Orang SpanyolOCR.bmp");
-
-// Cetak teks yang dikenali
-Console.WriteLine(spanishText);</code></pre>
-    </div>
-   </div>
-   <!--<div class="col-lg-12">
-
-<h2 class="h2title">Easy to Use Noise Removal Filters</h2>
-
-<p>The library supports noise removal filters. You can apply noise removal filters before image recognition to improve the overall accuracy rate.</p>
-
-<div id="code" class="codeblock">
-
-<h3>Apply filters before processing an image - C#</h3>
-
-<pre><code class="cs">// initialize OcrEngine
-
-var engine = new Aspose.OCR.OcrEngine();
-
-// set image
-
-engine.Image = Aspose.OCR.ImageStream.FromFile(dir + "template.jpg");
-
-// create collection of filters
-
-var filters = new Aspose.OCR.CorrectionFilters();
-
-// add a few filters to the collection
-
-filters.Add(new Aspose.OCR.Filters.RemoveNoiseFilter());
-
-filters.Add(new Aspose.OCR.Filters.GaussBlurFilter());
-
-// assign collection to OcrEngine
-
-engine.Config.CorrectionFilters = filters;
-
-// do processing</code></pre>
+<p>Pustaka sepenuhnya mendukung .NET Standard 2.0. Artinya, aplikasi dapat berjalan di platform apa pun: desktop Windows, Windows Server, macOS, Linux, dan cloud.</p>
 
 </div>
 
-</div>-->
-  </div>
- </div>
+<div class="col-lg-12">
+
+<h2 class="h2title">26 Bahasa Pengenalan</h2>
+
+<p>OCR API dapat mengenali banyak bahasa dan semua skrip penulisan populer, termasuk teks dengan bahasa campuran.</p>
+<ul>
+<li><b>Alfabet Latin yang Diperpanjang</b> : Kroasia, Ceko, Denmark, Belanda, Inggris, Estonia, Finlandia, Prancis, Jerman, Italia, Latvia, Lituania, Norwegia, Polandia, Portugis, Rumania, Slovakia, Slovenia, Spanyol, Swedia.</li>
+<li><b>Alfabet Sirilik</b> : Belarusia, Bulgaria, Kazakh, Rusia, Serbia, Ukraina.</li>
+<li><b>Cina</b> : lebih dari 6.000 karakter.</li>
+</ul>
+<p>Anda dapat menyerahkan deteksi bahasa ke perpustakaan atau menentukan bahasa sendiri untuk meningkatkan kinerja dan keandalan pengenalan.</p>
+
+</div>
+
+<div class="col-lg-12">
+
+<h2 class="h2title">Kenali Foto</h2>
+
+<p>Hambatan terbesar untuk aplikasi OCR adalah bahwa pemindai tidak biasa bagi pengguna akhir. API memiliki filter pra-pemrosesan gambar bawaan yang kuat yang dapat menangani gambar yang diputar, miring, dan berisik. Dikombinasikan dengan dukungan untuk semua format gambar, memungkinkan pengenalan yang andal bahkan untuk foto smartphone. Sebagian besar pra-pemrosesan dan koreksi gambar dilakukan secara otomatis, jadi Anda hanya perlu campur tangan dalam kasus-kasus sulit.</p>
+
+<div id="code" class="codeblock">
+
+<h3>Terapkan koreksi gambar otomatis - C#</h3>
+
+<pre><code class="cs">// Inisialisasi mesin OCR
+var recognitionEngine = new Aspose.OCR.AsposeOcr();
+
+// Aktifkan perhitungan dan kontras kemiringan otomatis
+var recognitionEngine = new Aspose.OCR.AsposeOcr();
+var recognitionSettings = new Aspose.OCR.RecognitionSettings() {
+    AutoContrast = true,
+    AutoSkew = true
+};
+
+// Kenali gambar
+Aspose.OCR.RecognitionResult result = recognitionEngine.RecognizeImage("IMG_20220622_163123.jpg", recognitionSettings);</code></pre>
+
+</div>
+
+</div>
+
+<div class="col-lg-12">
+
+<h2 class="h2title">Konverter universal</h2>
+
+<p>API dapat membaca gambar apa pun yang dapat Anda peroleh dari pemindai, kamera, atau ponsel cerdas: dokumen PDF, JPEG, PNG, TIFF, GIF, gambar BMP, dan bahkan file DjVu. Dokumen PDF multi-halaman, gambar TIFF dan DjVu didukung penuh. Anda juga dapat memberikan gambar dari web melalui URL.</p>
+<p>Hasil pengenalan dikembalikan dalam format dokumen dan pertukaran data paling populer: teks biasa, PDF, Microsoft Word, Microsoft Excel, JSON, dan XML.</p>
+
+<div id="code" class="codeblock">
+
+<h3>Kenali PDF dan simpan hasilnya ke JSON - C#</h3>
+
+<pre><code class="cs">// Inisialisasi mesin OCR
+var recognitionEngine = new Aspose.OCR.AsposeOcr();
+
+// Kenali semua halaman dari PDF yang dipindai
+var pages = recognitionEngine.RecognizePdf("sample.pdf", new Aspose.OCR.DocumentRecognitionSettings());
+
+// Keluarkan setiap halaman sebagai JSON
+foreach(var page in pages)
+{
+    Console.WriteLine(page.GetJson());
+}</code></pre>
+
+</div>
+
+</div>
+
+<div class="col-lg-12">
+
+<h2 class="h2title">Optimasi Sumber Daya</h2>
+
+<p>Pengenalan karakter optik adalah proses intensif sumber daya. API menawarkan cara yang sangat fleksibel untuk mencapai keseimbangan dalam triad klasik waktu-harga-kualitas:</p>
+<ul>
+	<li>Pilih antara pengenalan menyeluruh dan pengenalan cepat.</li>
+	<li>Tentukan jumlah utas yang dialokasikan untuk pengenalan, atau izinkan perpustakaan untuk secara otomatis menskalakan ke jumlah inti prosesor.</li>
+	<li>Kosongkan CPU dengan menurunkan perhitungan ke GPU.</li>
+</ul>
+
+<div id="code" class="codeblock">
+
+<h3>Pengenalan cepat - C#</h3>
+
+<pre><code class="cs">// Inisialisasi mesin OCR
+var recognitionEngine = new Aspose.OCR.AsposeOcr();
+
+// Kenali gambar dalam mode tercepat
+string result = recognitionEngine.RecognizeImageFast("sample.jpg");</code></pre>
+
+</div>
+
+</div>
+
+<div class="col-lg-12">
+
+<h2 class="h2title">Cek ejaan</h2>
+
+<p>Meskipun OCR memberikan hasil yang andal, debu dan cacat cetakan dapat menyebabkan beberapa simbol tidak dikenali dengan benar. OCR API memiliki pemeriksa ejaan bawaan yang secara otomatis mengganti kata yang salah eja dan membebaskan Anda dari keharusan mengoreksi hasil pengenalan secara manual.</p>
+
+<div id="code" class="codeblock">
+
+<h3>Hasil pengenalan pemeriksaan ejaan - C#</h3>
+
+<pre><code class="cs">// Inisialisasi mesin OCR
+var recognitionEngine = new Aspose.OCR.AsposeOcr();
+
+// Aktifkan kontras otomatis
+var recognitionEngine = new Aspose.OCR.AsposeOcr();
+var recognitionSettings = new Aspose.OCR.RecognitionSettings() {
+    AutoContrast = true
+};
+
+// Kenali gambar
+Aspose.OCR.RecognitionResult result = recognitionEngine.RecognizeImage("sample.jpg", recognitionSettings);
+
+// Perbaiki kata yang salah eja
+string text =  result.GetSpellCheckCorrectedText();</code></pre>
+
+</div>
+
+</div>
+
+<div class="col-lg-12">
+
+<h2 class="h2title">Pemrosesan Batch</h2>
+
+<p>OCR API membebaskan Anda dari mengenali setiap gambar satu per satu dengan menawarkan berbagai metode pemrosesan batch yang memungkinkan Anda mengenali banyak gambar dalam satu panggilan:</p>
+<ul>
+	<li>Pengenalan file PDF, TIFF, dan DjVu multi-halaman.</li>
+	<li>Pengenalan semua file dalam folder.</li>
+	<li>Pengakuan semua file dalam arsip.</li>
+	<li>Pengakuan semua file dari daftar.</li>
+</ul>
+
+</div>
+
+<div class="col-lg-12">
+
+<h2 class="h2title">Belajar dengan Contoh</h2>
+
+<p>Aspose.OCR untuk .NET hadir dengan sejumlah <a href="/ocr/net/conversion/">contoh</a> yang ditulis dalam C# yang memungkinkan Anda dengan cepat membiasakan diri dengan fungsi dan kemampuannya dan memberi Anda ide untuk menciptakan solusi untuk kebutuhan bisnis Anda.</p>
+
 </div>
 <!--Feature-section End-->
 
 {{< /blocks/products/pf/main-container >}}
 
 
-{{< blocks/products/pf/i18n/support-learning-resources >}}
+{{< blocks/products/pf/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="Sumber Belajar" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Dokumentasi" href="https://docs.aspose.com/ocr/net/" >}}
 {{< blocks/products/pf/slr-element name="Kode sumber" href="https://github.com/aspose-ocr/Aspose.OCR-for-.NET" >}}
@@ -468,7 +587,7 @@ engine.Config.CorrectionFilters = filters;
 {{< blocks/products/pf/slr-element name="Dukungan Gratis" href="https://forum.aspose.com/c/ocr" >}}
 {{< blocks/products/pf/slr-element name="Dukungan Berbayar" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.com/category/ocr/" >}}
-{{< blocks/products/pf/slr-element name="Release Notes" href="https://docs.aspose.com/ocr/net/release-notes/" >}}
+{{< blocks/products/pf/slr-element name="Catatan Rilis" href="https://docs.aspose.com/ocr/net/release-notes/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Mengapa Aspose.OCR untuk .NET?" tabId="success-stories" >}}
@@ -476,14 +595,14 @@ engine.Config.CorrectionFilters = filters;
 {{< blocks/products/pf/slr-element name="Cerita-cerita sukses" href="https://company.aspose.com/customers/success-stories/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< /blocks/products/pf/i18n/support-learning-resources >}}
+{{< /blocks/products/pf/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/ocr/net" pricingInformationLink="https://purchase.aspose.com/pricing/ocr/net" >}}
+{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/ocr/net" pricingInformationLink="https://purchase.aspose.com/pricing/ocr/net" >}}
 
-{{< blocks/products/pf/offers-section pfName="Aspose.OCR" description="Aspose.OCR menawarkan API OCR individual untuk lingkungan pengembangan populer lainnya seperti yang tercantum di bawah ini:" >}}
+{{< blocks/products/pf/offers-section pfName="Aspose.OCR" description="Aspose juga menawarkan API OCR asli untuk bahasa pemrograman populer lainnya:" >}}
 
-    {{< blocks/products/pf/offers-section-item link="/ocr/id/java/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-java.svg" sdkName="Java" >}}
-    {{< blocks/products/pf/offers-section-item link="/ocr/id/cpp/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-cpp.svg" sdkName="C++" >}}
+    {{< blocks/products/pf/offers-section-item link="/ocr/java/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-java.svg" sdkName="Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/ocr/cpp/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-cpp.svg" sdkName="C++" >}}
 
 {{< /blocks/products/pf/offers-section >}}
 

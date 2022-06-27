@@ -1,33 +1,33 @@
 ---
-title: API .NET Java et C++ OCR | Ajouter des capacités d'OCR 
+title: Ajoutez des fonctionnalités OCR aux applications .NET, Java et C++
 weight: 10
 url: /fr/family
-description: Convertissez des images en texte avec les bibliothèques .NET et Java OCR pour les langues anglaise, française, espagnole et portugaise.
+description: Convertissez des images numérisées, des captures d&#39;écran, des régions d&#39;image et des fichiers PDF en texte dans des applications .NET, Java et C++ à l&#39;aide d&#39;API OCR natives.
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Convertir des images en texte" h2="API natives .NET, Java et C++ pour ajouter la capacité OCR à vos propres applications." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr.svg" pfName="Aspose.OCR" downloadUrl="https://downloads.aspose.com/ocr" tryOnlineUrl="https://products.aspose.app/ocr/scan-image" >}}
+{{< blocks/products/pf/upper-banner h1="Convertir des images et des PDF en texte" h2="Bibliothèques OCR pour les applications de bureau et Web écrites en C#, Java et C++." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr.svg" pfName="Aspose.OCR" downloadUrl="https://downloads.aspose.com/ocr" tryOnlineUrl="https://products.aspose.app/ocr/fr/scan-image" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Les API Aspose.OCR High Code incluent" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.OCR for" title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-net.svg" productLink="/ocr/fr/net/" >}}
-API .NET OCR autonome qui améliore vos applications .NET pour effectuer l'OCR sur les images.
+{{< blocks/products/pf/product pfName="Aspose.OCR for" title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-net.svg" productLink="/ocr/net/" >}}
+Package NuGet ou bibliothèque autonome qui ajoute la reconnaissance optique des caractères à votre application .NET.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.OCR for" title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-java.svg" productLink="/ocr/fr/java/" >}}
-API Java OCR native pour le bureau, le Web ou tout type d'application basée sur Java SE ou EE.
+{{< blocks/products/pf/product pfName="Aspose.OCR for" title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-java.svg" productLink="/ocr/java/" >}}
+API native pour les applications de bureau et Web pouvant s&#39;exécuter sur n&#39;importe quelle plate-forme prenant en charge Java SE ou EE.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.OCR for" title="C++" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-cpp.svg" productLink="/ocr/fr/cpp/" >}}
-API OCR C et C++ native pour effectuer l'OCR sur Windows et Linux.
+{{< blocks/products/pf/product pfName="Aspose.OCR for" title="C++" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-cpp.svg" productLink="/ocr/cpp/" >}}
+API OCR C et C++ qui vous permet de convertir des images et des PDF en texte sous Windows et Linux.
 {{< /blocks/products/pf/product >}}
 
 {{< /blocks/products/pf/product-card-row >}}
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/i18n/support-learning-resources >}}
-{{< blocks/products/pf/slr-tab tabTitle="Ressources d'apprentissage" tabId="resources" >}}
+{{< blocks/products/pf/support-learning-resources >}}
+{{< blocks/products/pf/slr-tab tabTitle="Ressources d&#39;apprentissage" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Documentation" href="https://docs.aspose.com/ocr/" >}}
 {{< blocks/products/pf/slr-element name="Code source" href="https://github.com/aspose-ocr?tab=repositories" >}}
 {{< blocks/products/pf/slr-element name="Références API" href="https://apireference.aspose.com/" >}}
@@ -45,8 +45,8 @@ API OCR C et C++ native pour effectuer l'OCR sur Windows et Linux.
 {{< blocks/products/pf/slr-element name="Réussites" href="https://company.aspose.com/customers/success-stories/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< /blocks/products/pf/i18n/support-learning-resources >}}
+{{< /blocks/products/pf/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/ocr" pricingInformationLink="https://purchase.aspose.com/pricing/ocr/family" >}}
+{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/ocr" pricingInformationLink="https://purchase.aspose.com/pricing/ocr/family" >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

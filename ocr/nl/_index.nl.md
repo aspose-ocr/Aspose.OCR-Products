@@ -1,62 +1,62 @@
 ---
-title: Lokale, cloud- en app-gebaseerde oplossingen om OCR op afbeeldingen uit te voeren 
+title: OCR API voor uw desktop- en webapplicaties
 weight: 100
 url: /nl/
-description: Bouw oplossingen voor optische tekenherkenning (OCR) via High Code API's of cloudgebaseerde SDK's. Of gebruik onze eenvoudige platformonafhankelijke apps voor tekstextractie.
+description: Voeg Optical Character Recognition (OCR) voor afbeeldingen en PDF-bestanden toe aan uw .NET-, Java- en C++-toepassingen in minder dan 10 regels code.
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Oplossing voor optische tekenherkenning" h2="Extraheer tekst uit afbeeldingen via OCR-technologie. Gebruik Aspose.OCR On Premise & Cloud API's om uw eigen apps te ontwikkelen of gebruik gewoon de onze." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/headers/aspose_ocr-brand.svg" imageAlt="" >}}
+{{< blocks/products/pf/upper-banner h1="API voor optische tekenherkenning" h2="Converteer afbeeldingen naar tekst en maak doorzoekbare PDF&#39;s van scans. Schrijf uw eigen OCR-toepassing met slechts een paar regels code, of gebruik onze gratis online tools." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/headers/aspose_ocr-brand.svg" imageAlt="OCR API voor het ontwikkelen van on-premise en cloud-applicaties" >}}
 
 {{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/product-card-row title="Aspose.OCR High Code API's omvatten:" >}}
+{{< blocks/products/pf/product-card-row title="Aspose.OCR High Code API&#39;s omvatten:" >}}
 
 {{< blocks/products/pf/product pfName="Aspose.OCR for " title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-net.svg" productLink="https://products.aspose.com/ocr/nl/net" >}}
-Native .NET API's om tekens en lettertypen van gescande afbeeldingen via OCR te lezen. Ondersteunt het extraheren van tekst in verschillende talen.
+Installeer het NuGet-pakket in uw .NET-project en voer OCR uit op afbeeldingen en PDF&#39;s van desktop- en webtoepassingen. Ondersteunt 26 talen en spellingcontrole van herkenningsresultaten.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.OCR for " title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-java.svg" productLink="https://products.aspose.com/ocr/nl/java" >}}
-Voer OCR uit op rasterafbeeldingen voor het extraheren van tekst. Ondersteunt meerdere wereldtalen. OCR-instellingen configureren en toepassen.
+Voeg OCR-functionaliteit toe aan elk platform dat Java ondersteunt. Extraheer tekst met opmaak uit afbeeldingen, schermafbeeldingen, specifieke delen van een afbeelding en maak doorzoekbare PDF&#39;s van gescande bestanden.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.OCR for " title="C++" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-cpp.svg" productLink="https://products.aspose.com/ocr/nl/cpp" >}}
-Voeg mogelijkheden voor woordherkenning en tekstextractie toe binnen op C++ gebaseerde OCR-softwaretoepassingen.
+Verbeter uw C++-toepassingen met optische tekenherkenningsmogelijkheden. OCR in C++ is nog nooit zo eenvoudig geweest - slechts 5 regels code herkennen de afbeelding en geven de resultaten weer.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/center-button href="https://products.aspose.com/ocr/nl/family/" innerText="Bekijk alle High Code API's" >}}
+{{< blocks/products/pf/center-button href="https://products.aspose.com/ocr/nl/family/" innerText="Bekijk alle High Code API&#39;s" >}}
 
 {{< /blocks/products/pf/product-card-row >}}
 
-{{< blocks/products/pf/product-card-row title="Aspose.OCR Low Code API's omvatten:" >}}
+{{< blocks/products/pf/product-card-row title="Aspose.OCR Low Code API&#39;s omvatten:" >}}
 
 {{< blocks/products/pf/product pfName="Aspose.OCR" title="Cloud for cURL" imgSrc="https://www.aspose.cloud/templates/asposecloud/App_Themes/V3/images/sdk/272x272/aspose_ocr-for-curl.png" productLink="https://products.aspose.cloud/ocr/curl" >}}
-Gebruik eenvoudige cURL-opdrachten om OCR uit te voeren op rasterafbeeldingen om Engelse, Franse en Spaanse tekst te extraheren. Er is geen softwaredownload vereist.
+Gebruik cURL-opdrachten en -scripts om tekstherkenning uit te voeren op gescande afbeeldingen en PDF&#39;s zonder software te downloaden en te installeren.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.OCR" title="Cloud SDK for .NET" imgSrc="https://www.aspose.cloud/templates/asposecloud/App_Themes/V3/images/sdk/272x272/aspose_ocr-for-net.png" productLink="https://products.aspose.cloud/ocr/net" >}}
-Lees karakter- en lettertype-informatie van gescande rasterafbeeldingen om tekst via OCR te extraheren. Ondersteunt Engelse, Spaanse en Franse tekstextractie.
+Interactie met cloudgebaseerde OCR-API vanuit uw .NET-applicaties, waarbij u zich richt op bedrijfslogica in plaats van technische details.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.OCR" title="Cloud SDK for Java" imgSrc="https://www.aspose.cloud/templates/asposecloud/App_Themes/V3/images/sdk/272x272/aspose_ocr-for-java.png" productLink="https://products.aspose.cloud/ocr/java" >}}
-Gebruiksvriendelijke Java SDK om te communiceren met Aspose.OCR Cloud API voor het converteren van afbeeldingen naar tekst.
+Vereenvoudig API-aanroepen naar Aspose.OCR Cloud vanuit Java. Voer alle API-verzoekroutines uit met een paar eenvoudige en gemakkelijk leesbare opdrachten.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/center-button href="https://products.aspose.cloud/ocr/family" innerText="Bekijk alle Low Code API's" >}}
+{{< blocks/products/pf/center-button href="https://products.aspose.cloud/ocr/family" innerText="Bekijk alle Low Code API&#39;s" >}}
 
 {{< /blocks/products/pf/product-card-row >}}
 
 {{< blocks/products/pf/product-card-row title="Aspose.OCR Geen code-apps inbegrepen" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.OCR " title="Converteer afbeelding naar tekst" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_image-app.png" productLink="https://products.aspose.app/ocr/scan-image" >}}
-Herken en extraheer Engelse, Spaanse, Franse en Portugese tekst via OCR uit populaire afbeeldingsformaten.
+{{< blocks/products/pf/product pfName="Aspose.OCR " title="Converteer afbeelding naar tekst" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_image-app.png" productLink="https://products.aspose.app/ocr/nl/scan-image" >}}
+Converteer elk populair afbeeldingsformaat naar tekst. Ondersteunt 26 talen op basis van Latijnse, Cyrillische en Chinese scripts.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.OCR " title="Afbeelding converteren naar PDF" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_ocr-to-pdf.png" productLink="https://products.aspose.app/ocr/ocr-to-pdf" >}}
-Gratis online app om afbeeldingen naar doorzoekbare PDF te converteren met elke browser.
+{{< blocks/products/pf/product pfName="Aspose.OCR " title="Afbeelding converteren naar PDF" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_ocr-to-pdf.png" productLink="https://products.aspose.app/ocr/nl/ocr-to-pdf" >}}
+Maak doorzoekbare PDF&#39;s van gescande afbeeldingen of screenshots met uw favoriete browser.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.OCR " title="Ontvangstbewijs scannen" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose-scan-receipt.png" productLink="https://products.aspose.app/ocr/scan-receipt" >}}
-Gratis online app om ontvangstafbeeldingen te scannen.
+{{< blocks/products/pf/product pfName="Aspose.OCR " title="Ontvangstbewijs scannen" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose-scan-receipt.png" productLink="https://products.aspose.app/ocr/nl/scan-receipt" >}}
+Haal automatisch tekst uit gescande of gefotografeerde bonnen zonder handmatig opnieuw te typen.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/center-button href="https://products.aspose.app/ocr/family" innerText="Bekijk alle No Code-apps" >}}
@@ -64,7 +64,6 @@ Gratis online app om ontvangstafbeeldingen te scannen.
 {{< /blocks/products/pf/product-card-row >}}
 
 {{< /blocks/products/pf/main-container >}}
-
 
 {{< /blocks/products/pf/main-wrap-class >}}
 

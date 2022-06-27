@@ -1,28 +1,29 @@
 ---
-title: Java OCR API | Proveďte optické rozpoznávání znaků 
+title: API pro optické rozpoznávání znaků pro Javu
 weight: 120
 url: /cs/java/ 
-description: Java knihovna pro optické rozpoznávání znaků pro převod obrázků na text. OCR API dokáže extrahovat text z naskenovaných dokumentů ve více jazycích
+description: Knihovna OCR, která umožňuje aplikacím Java pro různé platformy rozpoznávat text v naskenovaných obrázcích, fotografiích a souborech PDF.
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Java OCR API" h2="Přidejte funkce optického rozpoznávání znaků a skenování dokumentů do jakékoli aplikace OCR založené na Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/headers/aspose_ocr-for-java.svg" pfName="Aspose.OCR" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/ocr/java" >}}
+{{< blocks/products/pf/upper-banner h1="Převeďte obrázky a PDF na text v Javě" h2="Snadno vytvářejte multiplatformní aplikace Java s funkcemi optického rozpoznávání znaků (OCR)." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/headers/aspose_ocr-for-java.svg" pfName="Aspose.OCR" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/ocr/java" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.OCR" subTitlepfName="for Java" >}}
 
-{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-java.svg" liveDemosLink="https://products.aspose.app/ocr/family" PricingLink="https://purchase.aspose.com/pricing/ocr/java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/ocr/java/" installationsDocsLink="https://docs.aspose.com/ocr/java/installation/" nugetLink="" nugetPackageName="" mavenRepoLink="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-ocr" directDownloadLink="https://downloads.aspose.com/ocr/java" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-java.svg" liveDemosLink="https://products.aspose.app/ocr/family" PricingLink="https://purchase.aspose.com/pricing/ocr/java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/ocr/java/" installationsDocsLink="https://docs.aspose.com/ocr/java/installation/" nugetLink="" nugetPackageName="" mavenRepoLink="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-ocr" directDownloadLink="https://downloads.aspose.com/ocr/java" >}}
 
-{{< blocks/products/pf/i18n/tab-content >}}
+{{< blocks/products/pf/tab-content >}}
+
 <p align="justify">
- Aspose.OCR for Java je samostatné OCR API pro Java aplikace, které umožňuje vývojářům provádět optické rozpoznávání znaků na běžně používaných typech obrázků. Poskytuje jednoduchou sadu tříd pro ovládání rozpoznávání znaků pro různé jazykové znaky. Vývojáři mohou snadno číst znaky ve více fontech, otočené obrázky, celé obrázky nebo části obrázků. Kromě toho má API schopnost provádět OCR prostřednictvím GPU namísto základního procesoru.
+ Aspose.OCR for Java umožňuje extrahovat text z obrázků, snímků obrazovky, konkrétních oblastí obrázku a vytvářet prohledávatelné soubory PDF z naskenovaných souborů na jakékoli platformě, která podporuje Javu. Díky jeho výkonnému, ale snadno použitelnému rozhraní API zaberou i složité úlohy OCR méně než 10 řádků kódu. Nemusíte pracovat se vzorci a strojovým učením – knihovna se postará o všechny technické detaily a poskytne spolehlivé výsledky ve <b>26</b> jazycích založených na <b>latince</b> a <b>azbuce</b> a také <b>čínštině</b> . OCR API zpracovává naskenované obrázky, fotografie smartphonu, snímky obrazovky, oblasti obrázků a naskenované soubory PDF a vrací výsledky v nejoblíbenějších formátech dokumentů. Rychlost rozpoznávání, přesnost a výkon lze dále zlepšit rozdělením výpočtu mezi více jader CPU a přenesením úloh náročných na zdroje na <b>GPU</b> .
 </p>
 
-{{< /blocks/products/pf/i18n/tab-content >}}
+{{< /blocks/products/pf/tab-content >}}
 
 <!--Diagrams Start-->
-{{< blocks/products/pf/i18n/carousel >}}
+{{< blocks/products/pf/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="Na první pohled" description="Přehled možností API." >}}
+{{< blocks/products/pf/carousel-item h3="Na první pohled" description="Stručné shrnutí schopností optického rozpoznávání znaků." >}}
 <div class="diagram1 d1-java">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -39,7 +40,7 @@ description: Java knihovna pro optické rozpoznávání znaků pro převod obrá
      Times New Roman
     </li>
     <li>
-     Kurýr Nový
+     Courier New
     </li>
     <li>
      Tahoma
@@ -51,39 +52,66 @@ description: Java knihovna pro optické rozpoznávání znaků pro převod obrá
      Verdana
     </li>
    </ul>
-  </div>
-  <!--/left-->
-  <div class="d1-col d1-right">
    <header>
     <i class="fa fa-cogs">
     </i>
-    Snímání
+    Uznání
    </header>
    <ul>
     <li>
      Celý obrázek
     </li>
     <li>
-     Obrazové části
+     Obrazové oblasti
     </li>
     <li>
-     Otočené obrázky
+     Archivy a složky
     </li>
    </ul>
+  </div>
+  <!--/left-->
+  <div class="d1-col d1-right">
    <header>
-    <i class="fa fa-pencil">
+    <i class="fa fa-language">
     </i>
-    Uznání
+    Podporované jazyky
    </header>
    <ul>
     <li>
-     Podpora více formátů
+     anglický jazyk
     </li>
     <li>
-     Přečtěte si různé postavy
+     Čínský jazyk
     </li>
     <li>
-     Vypočítat úhel zkosení
+     německý jazyk
+    </li>
+    <li>
+     Francouzský jazyk
+    </li>
+    <li>
+     slovinský jazyk
+    </li>
+    <li>
+     španělština
+    </li>
+    <li>
+     český jazyk
+    </li>
+    <li>
+     polština
+    </li>
+    <li>
+     rumunský jazyk
+    </li>
+    <li>
+     holandština
+    </li>
+    <li>
+     ruský jazyk
+    </li>
+    <li>
+     a 10+ dalších
     </li>
    </ul>
   </div>
@@ -91,7 +119,7 @@ description: Java knihovna pro optické rozpoznávání znaků pro převod obrá
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img width="70" height="75" alt="OCR API pro Javu" src="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-java.svg"/>
+  <img width="70" height="75" alt="Knihovna optického rozpoznávání znaků" src="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-java.svg"/>
   <header>
    Aspose.OCR
   </header>
@@ -113,6 +141,22 @@ description: Java knihovna pro optické rozpoznávání znaků pro převod obrá
 <div class="diagram1 d1-java">
  <div class="d1-row">
   <div class="d1-col d1-left">
+   <header>
+    <i class="fa fa-plug">
+    </i>
+    Pluginy
+   </header>
+   <ul>
+    <li>
+     Ruby
+    </li>
+    <li>
+     PHP
+    </li>
+    <li>
+     IntelliJ IDEA - Maven
+    </li>
+   </ul>
   </div>
   <!--/left-->
   <div class="d1-col d1-right">
@@ -126,7 +170,7 @@ description: Java knihovna pro optické rozpoznávání znaků pro převod obrá
      Aplikace JSP/JSF
     </li>
     <li>
-     Desktopová aplikace
+     Desktopové aplikace
     </li>
    </ul>
   </div>
@@ -152,21 +196,27 @@ description: Java knihovna pro optické rozpoznávání znaků pro převod obrá
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Podporované formáty souborů" description="API podporuje nejpopulárnější rastrový obrázek [formáty souborů](https://docs.aspose.com/ocr/java/supported-file-formats/)." >}}
+{{< blocks/products/pf/carousel-item h3="Podporované formáty souborů" description="Převeďte jakýkoli soubor, který získáte ze skeneru nebo fotoaparátu, do nejoblíbenějších formátů pro výměnu dokumentů a dat." >}}
 <div class="diagram1 d2 d1-java">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-long-arrow-down">
     </i>
-    Pouze vstup
+    Zdrojové soubory
    </header>
    <ul>
+    <li>
+     PDF
+    </li>
     <li>
      JPEG
     </li>
     <li>
      PNG
+    </li>
+    <li>
+     TIFF
     </li>
     <li>
      GIF
@@ -181,12 +231,15 @@ description: Java knihovna pro optické rozpoznávání znaků pro převod obrá
    <header>
     <i class="fa fa-mail-forward">
     </i>
-    Pouze výstup
+    Výsledky rozpoznávání
    </header>
    <ul>
-    <li>TXT</li>
-    <li>DOCX</li>
-    <li>PDF</li>
+    <li>PDF s možností vyhledávání</li>
+    <li>Microsoft Word</li>
+    <li>Microsoft Excel</li>
+    <li>Prostý text</li>
+    <li>JSON</li>
+    <li>XML</li>
    </ul>
   </div>
   <!--/right-->
@@ -211,7 +264,7 @@ description: Java knihovna pro optické rozpoznávání znaků pro převod obrá
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< /blocks/products/pf/i18n/carousel >}}
+{{< /blocks/products/pf/carousel >}}
 <!--Diagrams End-->
 
 <!--Feature-section Start-->
@@ -221,7 +274,7 @@ description: Java knihovna pro optické rozpoznávání znaků pro převod obrá
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
-    Funkce Java API z obrázku na text
+    Vlastnosti a schopnosti Aspose.OCR pro Javu
    </h2>
    <p>
    </p>
@@ -229,134 +282,217 @@ description: Java knihovna pro optické rozpoznávání znaků pro převod obrá
     <em class="fa fa-file-text-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Přečtěte si různé postavy z obrázků
+     Rozpozná formátovaný text v naskenovaných obrázcích a PDF
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-image ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Podpora běžných obrazových formátů
+     Podporuje všechny formáty souborů, které můžete získat ze skeneru nebo fotoaparátu
     </p>
    </div>
    <div class="col-lg-4">
-    <em class="fa fa-image ico-blue fa-2x col-lg-2">
+    <em class="fa fa-globe ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Naskenujte jakoukoli část obrázku nebo jako celek
+     Čte latinku a azbuku
     </p>
    </div>
    <div class="col-lg-4">
-    <em class="fa fa-refresh ico-blue fa-2x col-lg-2">
+    <em class="fa fa-language ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Skenujte otočené obrázky
+     Rozpozná více než 6000 čínských znaků
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-font ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Přečtěte si text ve více fontech
+     Detekuje a rozpoznává všechny oblíbené typy písma
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-bold ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Podpora běžných stylů písma
+     Pečlivě zachovává styly písma a formátování
     </p>
    </div>
    <div class="col-lg-4">
-    <em class="fa fa-filter ico-blue fa-2x col-lg-2">
+    <em class="fa fa-image ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Získejte zkosený úhel obrázků
+     Zpracuje celý snímek nebo pouze vybrané oblasti
     </p>
    </div>
-   <div class="col-lg-12">
-    <h2 class="h2title">
-     Proveďte OCR ve vybraných oblastech obrázku
-    </h2>
-    <p>
-     Pomocí knihovny mohou vývojáři extrahovat text ze specifických částí obrázku zadáním obdélníků, písem a stylů. Rozpoznání textu v pixelech z konkrétních oblastí obrázků je jednoduché, stačí jen pár řádků kódu.
+   <div class="col-lg-4">
+    <em class="fa fa-map ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Podporuje otočené, zkosené a zašuměné obrázky
     </p>
-    <div class="codeblock" id="code">
-     <h3>
-      Proveďte OCR na vybraných oblastech - Java
-     </h3>
-     <pre><code class="java">//Vytvoření instance API
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-folder-open ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Dávkové rozpoznání všech obrázků ve složce nebo archivu
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-link ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Rozpozná obrázky poskytnuté jako webové odkazy
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-check ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Vyhledá a automaticky opraví chybně napsaná slova
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-plug ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     100% kompatibilita s ostatními produkty Aspose
+    </p>
+   </div>
 
+<div class="col-lg-12">
+
+<h2 class="h2title">Snadná instalace</h2>
+
+<p>Aspose.OCR for Java můžete použít přímo z projektu založeného na <a href="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-ocr">Maven</a> podle jednoduchých <a href="https://docs.aspose.com/ocr/java/installation/">pokynů k instalaci</a> .</p>
+
+<p><a href="https://purchase.aspose.com/temporary-license">Požádejte o dočasnou licenci</a> , abyste mohli začít budovat plně funkční OCR aplikaci bez jakýchkoli omezení a omezení.</p>
+
+</div>
+
+<div class="col-lg-12">
+
+<h2 class="h2title">$Easy to Use$</h2>
+
+<p>Rozpoznání obrazu vyžaduje několik řádků kódu. Doslova. Je to opravdu tak jednoduché - vyzkoušejte sami:</p>
+
+<div id="code" class="codeblock">
+
+<h3>Obrázek na text v 7 řádcích - Java</h3>
+
+<pre><code class="java">// Vytvořte instanci rozhraní OCR API
 AsposeOCR api = new AsposeOCR();
 
-//Připravte obdélníky s texty.
+try {
+    // Rozpoznat obrázek
+    String result = api.RecognizePage(imagePath);
+    // Zobrazit výsledek rozpoznání
+    System.out.println("Recognized text: " + result);
+} catch (IOException e) {
+    // Vypořádání se s chybou
+    e.printStackTrace();
+}</code></pre>
 
-ArrayList rectArray = new ArrayList();
+</div>
 
-rectArray.add(new Rectangle(138, 352, 2033, 537));
+</div>
 
-rectArray.add(new Rectangle(147, 890, 2033, 1157));
+<div class="col-lg-12">
 
-String result = api.RecognizePage("srcImage.png", rectArray);
+<h2 class="h2title">26 Rozpoznávací jazyky</h2>
 
-System.out.println("Result with rect: " + result);</code></pre>
-    </div>
-   </div>
-   <!--<div class="col-lg-12">
+<p>OCR API podporuje velké množství jazyků a všechny oblíbené skripty pro psaní, včetně textů se smíšenými jazyky. Vestavěná kontrola pravopisu automaticky nahradí chybně napsaná slova a ušetří vám potíže s ruční opravou výsledků rozpoznávání.</p>
+<ul>
+<li><b>Rozšířená latinská abeceda</b> : chorvatština, čeština, dánština, holandština, angličtina, estonština, finština, francouzština, němčina, italština, lotyština, litevština, norština, polština, portugalština, rumunština, slovenština, slovinština, španělština, švédština.</li>
+<li><b>Azbuka</b> : běloruská, bulharská, kazašská, ruská, srbská, ukrajinská.</li>
+<li><b>Čínština</b> : více než 6 000 znaků.</li>
+</ul>
+<p>Můžete určit jazyk pro zvýšení výkonu a spolehlivosti rozpoznávání nebo nechat rozhraní API automaticky detekovat jazyky.</p>
 
-<h2 class="h2title">Scan Celý obrázek or Portion</h2>
+</div>
 
-<p>Using Aspose.OCR for Java, developers can extract text and related information such as font, style & location of the text from specific parts of an image. This feature allows performing the OCR operation quickly on document scans that follow the similar structure.</p>
+<div class="col-lg-12">
 
-</div>-->
-   <div class="col-lg-12">
-    <h2 class="h2title">
-     Rozpoznejte text v různých fontech
-    </h2>
-    <p>
-     Aspose.OCR for Java API podporuje fonty Times New Roman, Arial, Verdana, Kurýr Nový, Tahoma a Calibri v běžném, kurzívě a tučném stylu textu a také v různých jazykových znacích.
-    </p>
-   </div>
-   <!--<div class="col-lg-12">
+<h2 class="h2title">Zachovat formátování</h2>
 
-<h2 class="h2title">Support for Global Languages</h2>
+<p>Rozhraní OCR API čte všechny populární typy písma, jako je Arial, Times New Roman, Courier New, Tahoma, Calibri a další, v běžném, tučném a kurzívě a pečlivě zachovává formátování ve výsledcích OCR. Výsledky rozpoznávání můžete také rozdělit na řádky a detekovat textové oblasti na stránce.</p>
 
-<p>Aspose.OCR for Java API supports multiple languages such as English, French, Spanish, and Portuguese.</p>
+</div>
 
-</div>-->
-   <div class="col-lg-12">
-    <h2 class="h2title">
-     Snadný výpočet úhlu zkosení
-    </h2>
-    <p>
-     Pomocí knihovny Java OCR je výpočet úhlu zkosení obrazu rychlý a jednoduchý. Vývojáři mohou použít funkci CalcSkewImage poskytnutím cesty obrazu, která vrací úhel zkosení.
-    </p>
-    <div class="codeblock" id="code">
-     <h3>
-      Vypočítat úhel zkosení obrázku - Java
-     </h3>
-     <pre><code class="java">//Vytvoření instance API
+<div class="col-lg-12">
 
+<h2 class="h2title">Rozpoznat fotografie</h2>
+
+<p>Skener není vždy dostupný na pracovních stanicích koncových uživatelů, což se může stát stopkou pro aplikace OCR. Naše OCR API poskytuje řadu filtrů předběžného zpracování, které si poradí se zkreslenými, otočenými, zkreslenými a zašuměnými obrázky. V kombinaci s podporou všech obrazových formátů umožňuje spolehlivé rozpoznání i fotografií z chytrého telefonu. Většina předzpracování a korekce obrazu se provádí automaticky, ale v obtížných případech můžete vždy zasáhnout.</p>
+
+<div id="code" class="codeblock">
+
+<h3>Použít opravy obrázků - Java</h3>
+
+<pre><code class="java">// Vytvořte instanci rozhraní OCR API
 AsposeOCR api = new AsposeOCR();
 
-// Zkreslení
+// Definujte filtry předběžného zpracování
+PreprocessingFilter filters = new PreprocessingFilter();
+filters.add(PreprocessingFilter.ToGrayscale());
+filters.add(PreprocessingFilter.Rotate(-90));
 
-double angle = api.CalcSkewImage("sourceImage.png");
+// Před rozpoznáním zpracujte obrázek
+BufferedImage imageRes = api.PreprocessImage(imagePath, filters);
 
-System.out.println("Zkreslený text je:" + angle + " degrees.");
+// Rozpoznat obrázek
+RecognitionResult result = api.RecognizePage(imageRes, set);</code></pre>
 
-</code></pre>
-    </div>
-   </div>
-  </div>
- </div>
+</div>
+
+</div>
+
+<div class="col-lg-12">
+
+<h2 class="h2title">Optimalizace výkonu</h2>
+
+<p>Optické rozpoznávání znaků vyžaduje velké množství procesních zdrojů, což se může stát problémem pro webové služby a základní zařízení. API nabízí velmi flexibilní způsoby, jak vyvážit rychlost rozpoznávání, požadavky na zdroje a přesnost:</p>
+<ul>
+	<li>Vyberte si mezi důkladným rozpoznáním a rychlým rozpoznáním.</li>
+	<li>Zadejte počet vláken přidělených pro rozpoznání nebo povolte knihovně automaticky se škálovat podle počtu jader CPU.</li>
+	<li>Uvolněte CPU přenesením výpočtů na GPU.</li>
+</ul>
+
+<div id="code" class="codeblock">
+
+<h3>Rychlé rozpoznání - Java</h3>
+
+<pre><code class="java">// Vytvořte instanci rozhraní OCR API
+AsposeOCR api = new AsposeOCR();
+
+// Rozpoznejte obraz v nejrychlejším režimu
+String result = api.RecognizePageFast("sample.jpg");</code></pre>
+
+</div>
+
+</div>
+
+<div class="col-lg-12">
+
+<h2 class="h2title">Dávkové zpracování</h2>
+
+<p>Rozhraní OCR API vás osvobodí od nutnosti rozpoznávat každý obrázek jeden po druhém tím, že nabízí různé metody dávkového zpracování, které vám umožní rozpoznat více obrázků v jednom volání:</p>
+<ul>
+	<li>Rozpoznávání vícestránkových souborů PDF a TIFF.</li>
+	<li>Rozpoznávání všech souborů v archivu.</li>
+	<li>Rozpoznávání všech souborů ve složce.</li>
+</ul>
+
 </div>
 <!--Feature-section End-->
 
 {{< /blocks/products/pf/main-container >}}
 
 
-{{< blocks/products/pf/i18n/support-learning-resources >}}
+{{< blocks/products/pf/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="Výukové zdroje" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Dokumentace" href="https://docs.aspose.com/ocr/java/" >}}
 {{< blocks/products/pf/slr-element name="Zdrojový kód" href="https://github.com/aspose-ocr/Aspose.OCR-for-Java" >}}
@@ -368,7 +504,7 @@ System.out.println("Zkreslený text je:" + angle + " degrees.");
 {{< blocks/products/pf/slr-element name="Bezplatná podpora" href="https://forum.aspose.com/c/ocr" >}}
 {{< blocks/products/pf/slr-element name="Placená podpora" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.com/category/ocr/" >}}
-{{< blocks/products/pf/slr-element name="Release Notes" href="https://docs.aspose.com/ocr/java/release-notes/" >}}
+{{< blocks/products/pf/slr-element name="Poznámky k vydání" href="https://docs.aspose.com/ocr/java/release-notes/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Proč Aspose.OCR pro Javu?" tabId="success-stories" >}}
@@ -376,14 +512,14 @@ System.out.println("Zkreslený text je:" + angle + " degrees.");
 {{< blocks/products/pf/slr-element name="Příběhy úspěchu" href="https://company.aspose.com/customers/success-stories/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< /blocks/products/pf/i18n/support-learning-resources >}}
+{{< /blocks/products/pf/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/ocr/java" pricingInformationLink="https://purchase.aspose.com/pricing/ocr/java" >}}
+{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/ocr/java" pricingInformationLink="https://purchase.aspose.com/pricing/ocr/java" >}}
 
-{{< blocks/products/pf/offers-section pfName="Aspose.OCR" description="Aspose.OCR nabízí jednotlivá rozhraní OCR API pro další populární vývojová prostředí, jak je uvedeno níže:" >}}
+{{< blocks/products/pf/offers-section pfName="Aspose.OCR" description="Aspose také nabízí nativní rozhraní OCR API pro další oblíbené programovací jazyky:" >}}
 
-    {{< blocks/products/pf/offers-section-item link="/ocr/cs/net/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-net.svg" sdkName=".NET" >}}
-    {{< blocks/products/pf/offers-section-item link="/ocr/cs/cpp/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-cpp.svg" sdkName="C++" >}}
+    {{< blocks/products/pf/offers-section-item link="/ocr/net/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-net.svg" sdkName=".NET" >}}
+    {{< blocks/products/pf/offers-section-item link="/ocr/cpp/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-cpp.svg" sdkName="C++" >}}
 
 {{< /blocks/products/pf/offers-section >}}
 

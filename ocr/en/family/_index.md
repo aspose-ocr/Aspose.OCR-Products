@@ -1,26 +1,26 @@
 ---
-title: .NET Java and C++ OCR APIs | Add OCR Capabilities 
+title: Add OCR capabilities to .NET, Java and C++ applications
 weight: 10
 url: /family
-description: Convert images to text with .NET and Java OCR libraries for English, French, Spanish and Portuguese languages.
+description: Convert scanned images, screenshots, image regions, and PDF files to text in .NET, Java, and C++ applications using native OCR APIs.
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Convert Images to Text" h2="Native .NET, Java and C++ APIs to add OCR capability to your own applications." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr.svg" pfName="Aspose.OCR" downloadUrl="https://downloads.aspose.com/ocr" tryOnlineUrl="https://products.aspose.app/ocr/scan-image" >}}
+{{< blocks/products/pf/upper-banner h1="Convert Images and PDFs to Text" h2="OCR libraries for desktop and web applications written in C#, Java, and C++." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr.svg" pfName="Aspose.OCR" downloadUrl="https://downloads.aspose.com/ocr" tryOnlineUrl="https://products.aspose.app/ocr/scan-image" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.OCR High Code APIs Include" >}}
 
 {{< blocks/products/pf/product pfName="Aspose.OCR for" title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-net.svg" productLink="/ocr/net/" >}}
-Standalone .NET OCR API that enhances your .NET apps to perform OCR on images.
+NuGet package or standalone library that adds optical character recognition to your .NET application.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.OCR for" title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-java.svg" productLink="/ocr/java/" >}}
-Native Java OCR API for desktop, web or any kind of application based on Java SE or EE.
+Native API for desktop and web applications that can run on any platform that supports Java SE or EE.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.OCR for" title="C++" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-cpp.svg" productLink="/ocr/cpp/" >}}
-Native C and C++ OCR API for performing OCR on both Windows and Linux.
+C and C++ OCR API that allows you to convert images and PDFs to text on both Windows and Linux.
 {{< /blocks/products/pf/product >}}
 
 {{< /blocks/products/pf/product-card-row >}}

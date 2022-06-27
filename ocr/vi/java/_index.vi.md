@@ -1,28 +1,29 @@
 ---
-title: API Java OCR | Thực hiện nhận dạng ký tự quang học 
+title: API nhận dạng ký tự quang học cho Java
 weight: 120
 url: /vi/java/ 
-description: Thư viện nhận dạng ký tự quang học Java để chuyển đổi hình ảnh thành văn bản. OCR API có thể trích xuất văn bản từ các tài liệu được quét bằng nhiều ngôn ngữ
+description: Thư viện OCR cho phép các ứng dụng Java đa nền tảng nhận dạng văn bản trong hình ảnh quét, ảnh và PDF.
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="API Java OCR" h2="Thêm chức năng nhận dạng ký tự quang học và quét tài liệu vào bất kỳ ứng dụng OCR dựa trên Java nào." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/headers/aspose_ocr-for-java.svg" pfName="Aspose.OCR" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/ocr/java" >}}
+{{< blocks/products/pf/upper-banner h1="Chuyển đổi hình ảnh và PDF sang văn bản trong Java" h2="Dễ dàng tạo các ứng dụng Java đa nền tảng với khả năng nhận dạng ký tự quang học (OCR)." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/headers/aspose_ocr-for-java.svg" pfName="Aspose.OCR" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/ocr/java" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.OCR" subTitlepfName="for Java" >}}
 
-{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-java.svg" liveDemosLink="https://products.aspose.app/ocr/family" PricingLink="https://purchase.aspose.com/pricing/ocr/java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/ocr/java/" installationsDocsLink="https://docs.aspose.com/ocr/java/installation/" nugetLink="" nugetPackageName="" mavenRepoLink="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-ocr" directDownloadLink="https://downloads.aspose.com/ocr/java" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-java.svg" liveDemosLink="https://products.aspose.app/ocr/family" PricingLink="https://purchase.aspose.com/pricing/ocr/java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/ocr/java/" installationsDocsLink="https://docs.aspose.com/ocr/java/installation/" nugetLink="" nugetPackageName="" mavenRepoLink="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-ocr" directDownloadLink="https://downloads.aspose.com/ocr/java" >}}
 
-{{< blocks/products/pf/i18n/tab-content >}}
+{{< blocks/products/pf/tab-content >}}
+
 <p align="justify">
- Aspose.OCR cho Java là một API OCR độc lập cho các ứng dụng Java đồng thời cho phép các nhà phát triển thực hiện nhận dạng ký tự quang học trên các loại hình ảnh thường được sử dụng. Nó cung cấp một tập hợp các lớp đơn giản để điều khiển nhận dạng ký tự cho các ký tự ngôn ngữ khác nhau. Các nhà phát triển có thể dễ dàng đọc các ký tự trong nhiều phông chữ, hình ảnh xoay, toàn bộ hình ảnh hoặc các phần của hình ảnh. Hơn nữa, API có khả năng thực hiện OCR thông qua GPU thay vì bộ xử lý lõi.
+ Aspose.OCR cho Java cho phép bạn trích xuất văn bản từ hình ảnh, ảnh chụp màn hình, các khu vực cụ thể của hình ảnh và tạo các tệp PDF có thể tìm kiếm từ các tệp được quét trên bất kỳ nền tảng nào hỗ trợ Java. Với API mạnh mẽ nhưng dễ sử dụng, ngay cả các tác vụ OCR phức tạp cũng chỉ mất chưa đến 10 dòng mã. Bạn không cần phải làm việc với các công thức và máy học - thư viện sẽ xử lý tất cả các chi tiết kỹ thuật và tạo ra kết quả đáng tin cậy bằng <b>26</b> ngôn ngữ dựa trên hệ thống chữ viết <b>Latinh</b> và <b>Cyrillic</b> , cũng như <b>tiếng Trung</b> . OCR API xử lý hình ảnh được quét, ảnh chụp trên điện thoại thông minh, ảnh chụp màn hình, các vùng ảnh, và các tệp PDF được quét và trả về kết quả ở các định dạng tài liệu phổ biến nhất. Tốc độ nhận dạng, độ chính xác và hiệu suất có thể được cải thiện hơn nữa bằng cách phân phối tính toán trên nhiều lõi CPU và giảm tải các tác vụ tiêu tốn nhiều tài nguyên cho <b>GPU</b> .
 </p>
 
-{{< /blocks/products/pf/i18n/tab-content >}}
+{{< /blocks/products/pf/tab-content >}}
 
 <!--Diagrams Start-->
-{{< blocks/products/pf/i18n/carousel >}}
+{{< blocks/products/pf/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="Sơ lược" description="Tổng quan về các khả năng của API." >}}
+{{< blocks/products/pf/carousel-item h3="Sơ lược" description="Tóm tắt ngắn gọn về khả năng nhận dạng ký tự quang học." >}}
 <div class="diagram1 d1-java">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -39,7 +40,7 @@ description: Thư viện nhận dạng ký tự quang học Java để chuyển 
      Times New Roman
     </li>
     <li>
-     Chuyển phát nhanh mới
+     Courier New
     </li>
     <li>
      Tahoma
@@ -51,39 +52,66 @@ description: Thư viện nhận dạng ký tự quang học Java để chuyển 
      Verdana
     </li>
    </ul>
-  </div>
-  <!--/left-->
-  <div class="d1-col d1-right">
    <header>
     <i class="fa fa-cogs">
     </i>
-    Quét
+    Sự công nhận
    </header>
    <ul>
     <li>
      Toàn bộ hình ảnh
     </li>
     <li>
-     Phần hình ảnh
+     Các khu vực hình ảnh
     </li>
     <li>
-     Hình ảnh được xoay
+     Lưu trữ và thư mục
     </li>
    </ul>
+  </div>
+  <!--/left-->
+  <div class="d1-col d1-right">
    <header>
-    <i class="fa fa-pencil">
+    <i class="fa fa-language">
     </i>
-    Sự công nhận
+    Các ngôn ngữ được hỗ trợ
    </header>
    <ul>
     <li>
-     Hỗ trợ nhiều định dạng
+     Ngôn ngữ tiếng anh
     </li>
     <li>
-     Đọc các ký tự khác nhau
+     tiếng Trung Quốc
     </li>
     <li>
-     Tính góc nghiêng
+     tiếng Đức
+    </li>
+    <li>
+     tiếng Pháp
+    </li>
+    <li>
+     Tiếng Slovenia
+    </li>
+    <li>
+     tiếng Tây Ban Nha
+    </li>
+    <li>
+     Tiếng Séc
+    </li>
+    <li>
+     Tiếng ba lan
+    </li>
+    <li>
+     tiếng Ru-ma-ni
+    </li>
+    <li>
+     Ngôn ngữ Hà Lan
+    </li>
+    <li>
+     Ngôn ngữ Nga
+    </li>
+    <li>
+     và hơn 10 nữa
     </li>
    </ul>
   </div>
@@ -91,7 +119,7 @@ description: Thư viện nhận dạng ký tự quang học Java để chuyển 
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img width="70" height="75" alt="API OCR cho Java" src="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-java.svg"/>
+  <img width="70" height="75" alt="Thư viện nhận dạng ký tự quang học" src="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-java.svg"/>
   <header>
    Aspose.OCR
   </header>
@@ -113,13 +141,29 @@ description: Thư viện nhận dạng ký tự quang học Java để chuyển 
 <div class="diagram1 d1-java">
  <div class="d1-row">
   <div class="d1-col d1-left">
+   <header>
+    <i class="fa fa-plug">
+    </i>
+    bổ sung
+   </header>
+   <ul>
+    <li>
+     Ruby
+    </li>
+    <li>
+     PHP
+    </li>
+    <li>
+     IntelliJ IDEA - Maven
+    </li>
+   </ul>
   </div>
   <!--/left-->
   <div class="d1-col d1-right">
    <header>
     <i class="fa fa-cubes">
     </i>
-    Môi trường thời gian chạy Java
+    Java Runtime Environment
    </header>
    <ul>
     <li>
@@ -152,21 +196,27 @@ description: Thư viện nhận dạng ký tự quang học Java để chuyển 
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Các định dạng tệp được hỗ trợ" description="API hỗ trợ hình ảnh raster phổ biến nhất [định dạng tệp](https://docs.aspose.com/ocr/java/supported-file-formats/)." >}}
+{{< blocks/products/pf/carousel-item h3="Các định dạng tệp được hỗ trợ" description="Chuyển đổi bất kỳ tệp nào bạn nhận được từ máy quét hoặc máy ảnh sang các định dạng tài liệu và trao đổi dữ liệu phổ biến nhất." >}}
 <div class="diagram1 d2 d1-java">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-long-arrow-down">
     </i>
-    Chỉ đầu vào
+    Tệp nguồn
    </header>
    <ul>
+    <li>
+     PDF
+    </li>
     <li>
      JPEG
     </li>
     <li>
      PNG
+    </li>
+    <li>
+     TIFF
     </li>
     <li>
      GIF
@@ -181,12 +231,15 @@ description: Thư viện nhận dạng ký tự quang học Java để chuyển 
    <header>
     <i class="fa fa-mail-forward">
     </i>
-    Chỉ đầu ra
+    Kết quả ghi nhận
    </header>
    <ul>
-    <li>TXT</li>
-    <li>DOCX</li>
-    <li>PDF</li>
+    <li>PDF có thể tìm kiếm</li>
+    <li>Microsoft Word</li>
+    <li>Microsoft Excel</li>
+    <li>Văn bản thô</li>
+    <li>JSON</li>
+    <li>XML</li>
    </ul>
   </div>
   <!--/right-->
@@ -211,7 +264,7 @@ description: Thư viện nhận dạng ký tự quang học Java để chuyển 
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< /blocks/products/pf/i18n/carousel >}}
+{{< /blocks/products/pf/carousel >}}
 <!--Diagrams End-->
 
 <!--Feature-section Start-->
@@ -221,7 +274,7 @@ description: Thư viện nhận dạng ký tự quang học Java để chuyển 
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
-    Các tính năng của API Java từ hình ảnh sang văn bản
+    Các tính năng và khả năng của Aspose.OCR cho Java
    </h2>
    <p>
    </p>
@@ -229,134 +282,217 @@ description: Thư viện nhận dạng ký tự quang học Java để chuyển 
     <em class="fa fa-file-text-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Đọc các ký tự khác nhau từ hình ảnh
+     Nhận dạng văn bản được định dạng trong hình ảnh được quét và PDF
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-image ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Hỗ trợ các định dạng hình ảnh phổ biến
+     Hỗ trợ tất cả các định dạng tệp mà bạn có thể lấy từ máy quét hoặc máy ảnh
     </p>
    </div>
    <div class="col-lg-4">
-    <em class="fa fa-image ico-blue fa-2x col-lg-2">
+    <em class="fa fa-globe ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Quét bất kỳ phần nào của hình ảnh hoặc toàn bộ
+     Đọc chữ viết Latinh và chữ Kirin
     </p>
    </div>
    <div class="col-lg-4">
-    <em class="fa fa-refresh ico-blue fa-2x col-lg-2">
+    <em class="fa fa-language ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Quét hình ảnh đã xoay
+     Nhận dạng hơn 6.000 ký tự Trung Quốc
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-font ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Đọc văn bản bằng nhiều phông chữ
+     Phát hiện và nhận dạng tất cả các kiểu chữ phổ biến
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-bold ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Hỗ trợ các kiểu phông chữ phổ biến
+     Giữ gìn cẩn thận các kiểu và định dạng phông chữ
     </p>
    </div>
    <div class="col-lg-4">
-    <em class="fa fa-filter ico-blue fa-2x col-lg-2">
+    <em class="fa fa-image ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Nhận góc nghiêng của hình ảnh
+     Chỉ xử lý toàn bộ hình ảnh hoặc các khu vực đã chọn
     </p>
    </div>
-   <div class="col-lg-12">
-    <h2 class="h2title">
-     Thực hiện OCR trên các khu vực đã chọn hình ảnh
-    </h2>
-    <p>
-     Sử dụng thư viện, các nhà phát triển có thể trích xuất văn bản từ các phần cụ thể của hình ảnh bằng cách chỉ định hình chữ nhật, phông chữ và kiểu. Nhận dạng văn bản bằng pixel từ các khu vực cụ thể của hình ảnh rất đơn giản, chỉ với một vài dòng mã.
+   <div class="col-lg-4">
+    <em class="fa fa-map ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Hỗ trợ hình ảnh xoay, lệch và nhiễu
     </p>
-    <div class="codeblock" id="code">
-     <h3>
-      Thực hiện OCR trên các khu vực đã chọn - Java
-     </h3>
-     <pre><code class="java">// Tạo phiên bản API
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-folder-open ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Nhận dạng hàng loạt tất cả các hình ảnh trong một thư mục hoặc kho lưu trữ
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-link ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Nhận dạng hình ảnh được cung cấp dưới dạng liên kết web
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-check ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Tìm và tự động sửa các từ sai chính tả
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-plug ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Tương thích 100% với các sản phẩm Aspose khác
+    </p>
+   </div>
 
+<div class="col-lg-12">
+
+<h2 class="h2title">Dễ dàng để cài đặt</h2>
+
+<p>Bạn có thể sử dụng Aspose.OCR cho Java trực tiếp từ một dự án dựa trên <a href="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-ocr">Maven</a> bằng cách làm theo các <a href="https://docs.aspose.com/ocr/java/installation/">hướng dẫn cài đặt</a> đơn giản.</p>
+
+<p><a href="https://purchase.aspose.com/temporary-license">Yêu cầu giấy phép tạm thời</a> để bắt đầu xây dựng một ứng dụng OCR đầy đủ chức năng mà không có bất kỳ giới hạn và hạn chế nào.</p>
+
+</div>
+
+<div class="col-lg-12">
+
+<h2 class="h2title">$Easy to Use$</h2>
+
+<p>Nhận dạng hình ảnh yêu cầu một vài dòng mã. Theo đúng nghĩa đen. Nó thực sự đơn giản - hãy thử tự mình:</p>
+
+<div id="code" class="codeblock">
+
+<h3>Hình ảnh thành văn bản trong 7 dòng - Java</h3>
+
+<pre><code class="java">// Tạo phiên bản của API OCR
 AsposeOCR api = new AsposeOCR();
 
-// Chuẩn bị các hình chữ nhật có văn bản.
+try {
+    // Nhận dạng hình ảnh
+    String result = api.RecognizePage(imagePath);
+    // Hiển thị kết quả nhận dạng
+    System.out.println("Recognized text: " + result);
+} catch (IOException e) {
+    // Xử lý lỗi
+    e.printStackTrace();
+}</code></pre>
 
-ArrayList rectArray = new ArrayList();
+</div>
 
-rectArray.add(new Rectangle(138, 352, 2033, 537));
+</div>
 
-rectArray.add(new Rectangle(147, 890, 2033, 1157));
+<div class="col-lg-12">
 
-String result = api.RecognizePage("srcImage.png", rectArray);
+<h2 class="h2title">26 ngôn ngữ nhận dạng</h2>
 
-System.out.println("Result with rect: " + result);</code></pre>
-    </div>
-   </div>
-   <!--<div class="col-lg-12">
+<p>OCR API hỗ trợ một số lượng lớn các ngôn ngữ và tất cả các tập lệnh viết phổ biến, bao gồm cả các văn bản có ngôn ngữ hỗn hợp. Trình kiểm tra chính tả tích hợp tự động thay thế các từ sai chính tả và giúp bạn không gặp rắc rối khi sửa các kết quả nhận dạng theo cách thủ công.</p>
+<ul>
+<li><b>Bảng chữ cái Latinh mở rộng</b> : tiếng Croatia, tiếng Séc, tiếng Đan Mạch, tiếng Hà Lan, tiếng Anh, tiếng Estonia, tiếng Phần Lan, tiếng Pháp, tiếng Đức, tiếng Ý, tiếng Latvia, tiếng Litva, tiếng Na Uy, tiếng Ba Lan, tiếng Bồ Đào Nha, tiếng Romania, tiếng Slovak, tiếng Slovenia, tiếng Tây Ban Nha, tiếng Thụy Điển.</li>
+<li><b>Bảng chữ cái kirin</b> : Belorussian, Bulgarian, Kazakhstan, Russian, Serbian, Ukraine.</li>
+<li><b>Tiếng Trung</b> : hơn 6.000 ký tự.</li>
+</ul>
+<p>Bạn có thể chỉ định ngôn ngữ để tăng hiệu suất nhận dạng và độ tin cậy hoặc để API tự động phát hiện ngôn ngữ.</p>
 
-<h2 class="h2title">Scan Toàn bộ hình ảnh or Portion</h2>
+</div>
 
-<p>Using Aspose.OCR for Java, developers can extract text and related information such as font, style & location of the text from specific parts of an image. This feature allows performing the OCR operation quickly on document scans that follow the similar structure.</p>
+<div class="col-lg-12">
 
-</div>-->
-   <div class="col-lg-12">
-    <h2 class="h2title">
-     Nhận dạng văn bản ở các phông chữ khác nhau
-    </h2>
-    <p>
-     Aspose.OCR cho Java API hỗ trợ các phông chữ Times New Roman, Arial, Verdana, Chuyển phát nhanh mới, Tahoma và Calibri ở các kiểu văn bản thông thường, nghiêng và đậm cũng như các ký tự ngôn ngữ khác nhau.
-    </p>
-   </div>
-   <!--<div class="col-lg-12">
+<h2 class="h2title">Duy trì định dạng</h2>
 
-<h2 class="h2title">Support for Global Languages</h2>
+<p>API OCR đọc tất cả các kiểu chữ phổ biến như Arial, Times New Roman, Courier New, Tahoma, Calibri và hơn thế nữa ở các kiểu chữ thường, đậm và nghiêng và giữ nguyên định dạng trong kết quả OCR một cách cẩn thận. Bạn cũng có thể chia kết quả nhận dạng thành các dòng và phát hiện các vùng văn bản trong một trang.</p>
 
-<p>Aspose.OCR for Java API supports multiple languages such as English, French, Spanish, and Portuguese.</p>
+</div>
 
-</div>-->
-   <div class="col-lg-12">
-    <h2 class="h2title">
-     Dễ dàng tính toán góc xiên
-    </h2>
-    <p>
-     Sử dụng thư viện Java OCR, việc tính toán góc nghiêng của hình ảnh rất nhanh chóng và đơn giản. Các nhà phát triển có thể sử dụng chức năng CalcSkewImage bằng cách cung cấp đường dẫn hình ảnh trả về góc xiên.
-    </p>
-    <div class="codeblock" id="code">
-     <h3>
-      Tính góc nghiêng của ảnh - Java
-     </h3>
-     <pre><code class="java">// Tạo phiên bản api
+<div class="col-lg-12">
 
+<h2 class="h2title">Nhận dạng ảnh</h2>
+
+<p>Máy quét không phải lúc nào cũng có sẵn trên các máy trạm của người dùng cuối, máy có thể trở thành trình trưng bày cho các ứng dụng OCR. API OCR của chúng tôi cung cấp một số bộ lọc tiền xử lý có thể xử lý hình ảnh bị méo, xoay, lệch và nhiễu. Kết hợp với sự hỗ trợ cho tất cả các định dạng hình ảnh, nó cho phép nhận dạng đáng tin cậy ngay cả ảnh chụp trên điện thoại thông minh. Hầu hết việc xử lý trước và chỉnh sửa hình ảnh được thực hiện tự động, nhưng bạn luôn có thể can thiệp trong những trường hợp khó.</p>
+
+<div id="code" class="codeblock">
+
+<h3>Áp dụng hiệu chỉnh hình ảnh - Java</h3>
+
+<pre><code class="java">// Tạo phiên bản của API OCR
 AsposeOCR api = new AsposeOCR();
 
-// Lấy xiên
+// Xác định bộ lọc tiền xử lý
+PreprocessingFilter filters = new PreprocessingFilter();
+filters.add(PreprocessingFilter.ToGrayscale());
+filters.add(PreprocessingFilter.Rotate(-90));
 
-double angle = api.CalcSkewImage("sourceImage.png");
+// Xử lý trước hình ảnh trước khi nhận dạng
+BufferedImage imageRes = api.PreprocessImage(imagePath, filters);
 
-System.out.println("Văn bản xiên là:" + angle + " degrees.");
+// Nhận dạng hình ảnh
+RecognitionResult result = api.RecognizePage(imageRes, set);</code></pre>
 
-</code></pre>
-    </div>
-   </div>
-  </div>
- </div>
+</div>
+
+</div>
+
+<div class="col-lg-12">
+
+<h2 class="h2title">Tối ưu hóa Hiệu suất</h2>
+
+<p>Nhận dạng ký tự quang học đòi hỏi nhiều tài nguyên xử lý, điều này có thể trở thành vấn đề đối với các dịch vụ web và thiết bị cấp nhập cảnh. API cung cấp các cách rất linh hoạt để cân bằng giữa tốc độ nhận dạng, yêu cầu tài nguyên và độ chính xác:</p>
+<ul>
+	<li>Lựa chọn giữa nhận dạng kỹ lưỡng và nhận dạng nhanh.</li>
+	<li>Chỉ định số luồng được phân bổ để nhận dạng hoặc cho phép thư viện tự động chia tỷ lệ theo số lõi CPU.</li>
+	<li>Giải phóng CPU bằng cách giảm tải các tính toán xuống GPU.</li>
+</ul>
+
+<div id="code" class="codeblock">
+
+<h3>Nhận dạng nhanh - Java</h3>
+
+<pre><code class="java">// Tạo phiên bản của API OCR
+AsposeOCR api = new AsposeOCR();
+
+// Nhận dạng hình ảnh ở chế độ nhanh nhất
+String result = api.RecognizePageFast("sample.jpg");</code></pre>
+
+</div>
+
+</div>
+
+<div class="col-lg-12">
+
+<h2 class="h2title">Xử lý hàng loạt</h2>
+
+<p>API OCR giải phóng bạn khỏi việc phải nhận ra từng hình ảnh một bằng cách cung cấp các phương pháp xử lý hàng loạt khác nhau cho phép bạn nhận ra nhiều hình ảnh trong một lệnh gọi:</p>
+<ul>
+	<li>Nhận dạng các tệp PDF và TIFF nhiều trang.</li>
+	<li>Nhận dạng tất cả các tệp trong kho lưu trữ.</li>
+	<li>Nhận dạng tất cả các tệp trong một thư mục.</li>
+</ul>
+
 </div>
 <!--Feature-section End-->
 
 {{< /blocks/products/pf/main-container >}}
 
 
-{{< blocks/products/pf/i18n/support-learning-resources >}}
+{{< blocks/products/pf/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="Tài nguyên học tập" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Tài liệu" href="https://docs.aspose.com/ocr/java/" >}}
 {{< blocks/products/pf/slr-element name="Mã nguồn" href="https://github.com/aspose-ocr/Aspose.OCR-for-Java" >}}
@@ -368,7 +504,7 @@ System.out.println("Văn bản xiên là:" + angle + " degrees.");
 {{< blocks/products/pf/slr-element name="Hỗ trợ miễn phí" href="https://forum.aspose.com/c/ocr" >}}
 {{< blocks/products/pf/slr-element name="Hỗ trợ trả phí" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.com/category/ocr/" >}}
-{{< blocks/products/pf/slr-element name="Release Notes" href="https://docs.aspose.com/ocr/java/release-notes/" >}}
+{{< blocks/products/pf/slr-element name="Ghi chú phát hành" href="https://docs.aspose.com/ocr/java/release-notes/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Tại sao sử dụng Aspose.OCR cho Java?" tabId="success-stories" >}}
@@ -376,14 +512,14 @@ System.out.println("Văn bản xiên là:" + angle + " degrees.");
 {{< blocks/products/pf/slr-element name="Câu chuyện thành công" href="https://company.aspose.com/customers/success-stories/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< /blocks/products/pf/i18n/support-learning-resources >}}
+{{< /blocks/products/pf/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/ocr/java" pricingInformationLink="https://purchase.aspose.com/pricing/ocr/java" >}}
+{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/ocr/java" pricingInformationLink="https://purchase.aspose.com/pricing/ocr/java" >}}
 
-{{< blocks/products/pf/offers-section pfName="Aspose.OCR" description="Aspose.OCR cung cấp các API OCR riêng lẻ cho các môi trường phát triển phổ biến khác như được liệt kê bên dưới:" >}}
+{{< blocks/products/pf/offers-section pfName="Aspose.OCR" description="Aspose cũng cung cấp các API OCR riêng cho các ngôn ngữ lập trình phổ biến khác:" >}}
 
-    {{< blocks/products/pf/offers-section-item link="/ocr/vi/net/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-net.svg" sdkName=".NET" >}}
-    {{< blocks/products/pf/offers-section-item link="/ocr/vi/cpp/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-cpp.svg" sdkName="C++" >}}
+    {{< blocks/products/pf/offers-section-item link="/ocr/net/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-net.svg" sdkName=".NET" >}}
+    {{< blocks/products/pf/offers-section-item link="/ocr/cpp/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-cpp.svg" sdkName="C++" >}}
 
 {{< /blocks/products/pf/offers-section >}}
 

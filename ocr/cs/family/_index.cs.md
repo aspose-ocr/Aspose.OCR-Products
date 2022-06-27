@@ -1,32 +1,32 @@
 ---
-title: .NET Java a C++ OCR API | Přidejte možnosti OCR 
+title: Přidejte možnosti OCR do aplikací .NET, Java a C++
 weight: 10
 url: /cs/family
-description: Převádějte obrázky na text pomocí knihoven .NET a Java OCR pro angličtinu, francouzštinu, španělštinu a portugalštinu.
+description: Převeďte naskenované obrázky, snímky obrazovky, oblasti obrázků a soubory PDF na text v aplikacích .NET, Java a C++ pomocí nativních rozhraní API OCR.
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Převést obrázky na text" h2="Nativní rozhraní .NET, Java a C++ API pro přidání schopnosti OCR do vašich vlastních aplikací." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr.svg" pfName="Aspose.OCR" downloadUrl="https://downloads.aspose.com/ocr" tryOnlineUrl="https://products.aspose.app/ocr/scan-image" >}}
+{{< blocks/products/pf/upper-banner h1="Převod obrázků a PDF na text" h2="OCR knihovny pro desktopové a webové aplikace napsané v C#, Java a C++." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr.svg" pfName="Aspose.OCR" downloadUrl="https://downloads.aspose.com/ocr" tryOnlineUrl="https://products.aspose.app/ocr/cs/scan-image" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.OCR High Code API zahrnuje" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.OCR for" title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-net.svg" productLink="/ocr/cs/net/" >}}
-Samostatné rozhraní .NET OCR API, které vylepšuje vaše aplikace .NET pro provádění OCR na obrázcích.
+{{< blocks/products/pf/product pfName="Aspose.OCR for" title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-net.svg" productLink="/ocr/net/" >}}
+Balíček NuGet nebo samostatná knihovna, která do vaší aplikace .NET přidává optické rozpoznávání znaků.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.OCR for" title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-java.svg" productLink="/ocr/cs/java/" >}}
-Nativní Java OCR API pro desktop, web nebo jakýkoli druh aplikace založené na Java SE nebo EE.
+{{< blocks/products/pf/product pfName="Aspose.OCR for" title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-java.svg" productLink="/ocr/java/" >}}
+Nativní API pro desktopové a webové aplikace, které lze spustit na jakékoli platformě, která podporuje Java SE nebo EE.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.OCR for" title="C++" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-cpp.svg" productLink="/ocr/cs/cpp/" >}}
-Nativní C a C++ OCR API pro provádění OCR na Windows i Linuxu.
+{{< blocks/products/pf/product pfName="Aspose.OCR for" title="C++" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-cpp.svg" productLink="/ocr/cpp/" >}}
+C a C++ OCR API, které umožňuje převádět obrázky a soubory PDF na text v systémech Windows i Linux.
 {{< /blocks/products/pf/product >}}
 
 {{< /blocks/products/pf/product-card-row >}}
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/i18n/support-learning-resources >}}
+{{< blocks/products/pf/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="Výukové zdroje" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Dokumentace" href="https://docs.aspose.com/ocr/" >}}
 {{< blocks/products/pf/slr-element name="Zdrojový kód" href="https://github.com/aspose-ocr?tab=repositories" >}}
@@ -45,8 +45,8 @@ Nativní C a C++ OCR API pro provádění OCR na Windows i Linuxu.
 {{< blocks/products/pf/slr-element name="Příběhy úspěchu" href="https://company.aspose.com/customers/success-stories/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< /blocks/products/pf/i18n/support-learning-resources >}}
+{{< /blocks/products/pf/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/ocr" pricingInformationLink="https://purchase.aspose.com/pricing/ocr/family" >}}
+{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/ocr" pricingInformationLink="https://purchase.aspose.com/pricing/ocr/family" >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

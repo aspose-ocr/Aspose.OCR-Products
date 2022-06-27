@@ -1,44 +1,44 @@
 ---
-title: 對圖像執行 OCR 的本地、基於雲和應用程序的解決方案 
+title: 用於桌面和 Web 應用程序的 OCR API
 weight: 100
 url: /zh-hant/
-description: 通過高代碼 API 或基於雲的 SDK 構建光學字符識別 (OCR) 解決方案。或者使用我們簡單的跨平台應用程序進行文本提取。
+description: 只需不到 10 行代碼，即可將圖像和 PDF 文件的光學字符識別 (OCR) 添加到您的 .NET、Java 和 C++ 應用程序中。
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="光學字符識別解決方案" h2="通過 OCR 技術從圖像中提取文本。使用 Aspose.OCR On Premise & Cloud API 開發您自己的應用程序或直接使用我們的應用程序。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/headers/aspose_ocr-brand.svg" imageAlt="" >}}
+{{< blocks/products/pf/upper-banner h1="光學字符識別 API" h2="將圖像轉換為文本並通過掃描創建可搜索的 PDF。只需幾行代碼即可編寫您自己的 OCR 應用程序，或使用我們的免費在線工具。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/headers/aspose_ocr-brand.svg" imageAlt="用於開發本地和雲應用程序的 OCR API" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.OCR 高代碼 API 包括" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.OCR for " title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-net.svg" productLink="https://products.aspose.com/ocr/zh-hant/net" >}}
-通過 OCR 從掃描圖像中讀取字符和字體的原生 .NET API。支持提取各種語言的文本。
+{{< blocks/products/pf/product pfName="Aspose.OCR for " title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-net.svg" productLink="https://products.aspose.com/ocr/zh-TW/net" >}}
+將 NuGet 包安裝到您的 .NET 項目中，並對來自桌面和 Web 應用程序的圖像和 PDF 執行 OCR。支持26種語言和識別結果的拼寫檢查。
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.OCR for " title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-java.svg" productLink="https://products.aspose.com/ocr/zh-hant/java" >}}
-對光柵圖像執行 OCR 以提取文本。支持多種世界語言。配置和應用 OCR 設置。
+{{< blocks/products/pf/product pfName="Aspose.OCR for " title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-java.svg" productLink="https://products.aspose.com/ocr/zh-TW/java" >}}
+將 OCR 功能添加到任何支持 Java 的平台。從圖像、屏幕截圖、圖像的特定區域提取富文本，並從掃描文件創建可搜索的 PDF。
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.OCR for " title="C++" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-cpp.svg" productLink="https://products.aspose.com/ocr/zh-hant/cpp" >}}
-在基於 C++ 的 OCR 軟件應用程序中添加單詞識別和文本提取功能。
+{{< blocks/products/pf/product pfName="Aspose.OCR for " title="C++" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-cpp.svg" productLink="https://products.aspose.com/ocr/zh-TW/cpp" >}}
+使用光學字符識別功能增強您的 C++ 應用程序。 C++ 中的 OCR 從未如此簡單 - 只需 5 行代碼即可識別圖像並顯示結果。
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/center-button href="https://products.aspose.com/ocr/zh-hant/family/" innerText="查看所有高代碼 API" >}}
+{{< blocks/products/pf/center-button href="https://products.aspose.com/ocr/zh-TW/family/" innerText="查看所有高代碼 API" >}}
 
 {{< /blocks/products/pf/product-card-row >}}
 
 {{< blocks/products/pf/product-card-row title="Aspose.OCR 低代碼 API 包括" >}}
 
 {{< blocks/products/pf/product pfName="Aspose.OCR" title="Cloud for cURL" imgSrc="https://www.aspose.cloud/templates/asposecloud/App_Themes/V3/images/sdk/272x272/aspose_ocr-for-curl.png" productLink="https://products.aspose.cloud/ocr/curl" >}}
-使用簡單的 cURL 命令對光柵圖像執行 OCR 以提取英語、法語和西班牙語文本。無需下載軟件。
+使用 cURL 命令和腳本對掃描的圖像和 PDF 執行文本識別，無需下載和安裝任何軟件。
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.OCR" title="Cloud SDK for .NET" imgSrc="https://www.aspose.cloud/templates/asposecloud/App_Themes/V3/images/sdk/272x272/aspose_ocr-for-net.png" productLink="https://products.aspose.cloud/ocr/net" >}}
-從掃描的光柵圖像中讀取字符和字體信息，以通過 OCR 提取文本。支持英語、西班牙語和法語文本提取。
+從您的 .NET 應用程序與基於雲的 OCR API 交互，專注於業務邏輯而不是技術細節。
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.OCR" title="Cloud SDK for Java" imgSrc="https://www.aspose.cloud/templates/asposecloud/App_Themes/V3/images/sdk/272x272/aspose_ocr-for-java.png" productLink="https://products.aspose.cloud/ocr/java" >}}
-易於使用 Java SDK 與 Aspose.OCR Cloud API 進行通信，用於將圖像轉換為文本。
+簡化從 Java 到 Aspose.OCR Cloud 的 API 調用。使用一些簡單易讀的命令執行所有 API 請求例程。
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/center-button href="https://products.aspose.cloud/ocr/family" innerText="查看所有低代碼 API" >}}
@@ -47,16 +47,16 @@ description: 通過高代碼 API 或基於雲的 SDK 構建光學字符識別 (O
 
 {{< blocks/products/pf/product-card-row title="Aspose.OCR 無代碼應用程序包括" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.OCR " title="將圖像轉換為文本" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_image-app.png" productLink="https://products.aspose.app/ocr/scan-image" >}}
-通過 OCR 從流行的圖像格式中識別和提取英語、西班牙語、法語、葡萄牙語文本。
+{{< blocks/products/pf/product pfName="Aspose.OCR " title="將圖像轉換為文本" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_image-app.png" productLink="https://products.aspose.app/ocr/zh-TW/scan-image" >}}
+將任何流行的圖像格式轉換為文本。支持 26 種基於拉丁文、西里爾文和中文腳本的語言。
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.OCR " title="將圖像轉換為 PDF" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_ocr-to-pdf.png" productLink="https://products.aspose.app/ocr/ocr-to-pdf" >}}
-免費的在線應用程序，可使用任何瀏覽器將圖像轉換為可搜索的 PDF。
+{{< blocks/products/pf/product pfName="Aspose.OCR " title="將圖像轉換為 PDF" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_ocr-to-pdf.png" productLink="https://products.aspose.app/ocr/zh-TW/ocr-to-pdf" >}}
+使用您喜歡的瀏覽器從掃描的圖像或屏幕截圖創建可搜索的 PDF。
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.OCR " title="掃描收據" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose-scan-receipt.png" productLink="https://products.aspose.app/ocr/scan-receipt" >}}
-免費在線應用程序掃描收據圖像。
+{{< blocks/products/pf/product pfName="Aspose.OCR " title="掃描收據" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose-scan-receipt.png" productLink="https://products.aspose.app/ocr/zh-TW/scan-receipt" >}}
+自動從掃描或拍照的收據中提取文本，無需手動重新輸入。
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/center-button href="https://products.aspose.app/ocr/family" innerText="查看所有無代碼應用程序" >}}
@@ -64,7 +64,6 @@ description: 通過高代碼 API 或基於雲的 SDK 構建光學字符識別 (O
 {{< /blocks/products/pf/product-card-row >}}
 
 {{< /blocks/products/pf/main-container >}}
-
 
 {{< /blocks/products/pf/main-wrap-class >}}
 

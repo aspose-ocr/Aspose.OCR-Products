@@ -1,26 +1,26 @@
 ---
-title: Solutions sur site, basées sur le cloud et les applications pour effectuer l'OCR sur les images 
+title: API OCR pour vos applications de bureau et Web
 weight: 100
 url: /fr/
-description: Créez des solutions de reconnaissance optique de caractères (OCR) via des API High Code ou des SDK basés sur le cloud. Ou utilisez nos applications multiplateformes simples pour l'extraction de texte.
+description: Ajoutez la reconnaissance optique de caractères (OCR) pour les images et les fichiers PDF à vos applications .NET, Java et C++ en moins de 10 lignes de code.
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Solution de reconnaissance optique de caractères" h2="Extraire le texte des images via la technologie OCR. Utilisez les API Aspose.OCR On Premise & Cloud pour développer vos propres applications ou utilisez simplement les nôtres." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/headers/aspose_ocr-brand.svg" imageAlt="" >}}
+{{< blocks/products/pf/upper-banner h1="API de reconnaissance optique de caractères" h2="Convertissez des images en texte et créez des fichiers PDF consultables à partir de numérisations. Écrivez votre propre application OCR avec seulement quelques lignes de code ou utilisez nos outils en ligne gratuits." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/headers/aspose_ocr-brand.svg" imageAlt="API OCR pour le développement d&#39;applications sur site et cloud" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Les API Aspose.OCR High Code incluent" >}}
 
 {{< blocks/products/pf/product pfName="Aspose.OCR for " title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-net.svg" productLink="https://products.aspose.com/ocr/fr/net" >}}
-API .NET natives pour lire les caractères et les polices des images numérisées via OCR. Prend en charge l'extraction de texte dans différentes langues.
+Installez le package NuGet dans votre projet .NET et effectuez l&#39;OCR sur des images et des PDF à partir d&#39;applications de bureau et Web. Prend en charge 26 langues et la vérification orthographique des résultats de la reconnaissance.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.OCR for " title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-java.svg" productLink="https://products.aspose.com/ocr/fr/java" >}}
-Effectuez l'OCR sur des images raster pour extraire du texte. Prend en charge plusieurs langues du monde. Configurez et appliquez les paramètres OCR.
+Ajoutez la fonctionnalité OCR à toute plate-forme prenant en charge Java. Extrayez du texte riche à partir d&#39;images, de captures d&#39;écran, de zones spécifiques d&#39;une image et créez des fichiers PDF consultables à partir de fichiers numérisés.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.OCR for " title="C++" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-cpp.svg" productLink="https://products.aspose.com/ocr/fr/cpp" >}}
-Ajoutez des capacités de reconnaissance de mots et d'extraction de texte dans les applications logicielles OCR basées sur C++.
+Améliorez vos applications C++ avec des capacités de reconnaissance optique de caractères. L&#39;OCR en C++ n&#39;a jamais été aussi facile - seulement 5 lignes de code reconnaissent l&#39;image et affichent les résultats.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/center-button href="https://products.aspose.com/ocr/fr/family/" innerText="Afficher toutes les API High Code" >}}
@@ -30,33 +30,33 @@ Ajoutez des capacités de reconnaissance de mots et d'extraction de texte dans l
 {{< blocks/products/pf/product-card-row title="Les API Aspose.OCR Low Code incluent" >}}
 
 {{< blocks/products/pf/product pfName="Aspose.OCR" title="Cloud for cURL" imgSrc="https://www.aspose.cloud/templates/asposecloud/App_Themes/V3/images/sdk/272x272/aspose_ocr-for-curl.png" productLink="https://products.aspose.cloud/ocr/curl" >}}
-Utilisez des commandes cURL simples pour effectuer l'OCR sur des images raster afin d'extraire du texte en anglais, français et espagnol. Aucun téléchargement de logiciel n'est requis.
+Utilisez les commandes et les scripts cURL pour effectuer la reconnaissance de texte sur les images numérisées et les PDF sans télécharger ni installer de logiciel.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.OCR" title="Cloud SDK for .NET" imgSrc="https://www.aspose.cloud/templates/asposecloud/App_Themes/V3/images/sdk/272x272/aspose_ocr-for-net.png" productLink="https://products.aspose.cloud/ocr/net" >}}
-Lisez les informations sur les caractères et les polices à partir d'images raster numérisées pour extraire du texte via OCR. Prend en charge l'extraction de texte en anglais, espagnol et français.
+Interagissez avec l&#39;API OCR basée sur le cloud à partir de vos applications .NET, en vous concentrant sur la logique métier plutôt que sur les détails techniques.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.OCR" title="Cloud SDK for Java" imgSrc="https://www.aspose.cloud/templates/asposecloud/App_Themes/V3/images/sdk/272x272/aspose_ocr-for-java.png" productLink="https://products.aspose.cloud/ocr/java" >}}
-SDK Java facile à utiliser pour communiquer avec l'API Aspose.OCR Cloud pour convertir des images en texte.
+Simplifiez les appels d&#39;API vers Aspose.OCR Cloud depuis Java. Effectuez toutes les routines de demande d&#39;API avec quelques commandes simples et faciles à lire.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/center-button href="https://products.aspose.cloud/ocr/family" innerText="Afficher toutes les API Low Code" >}}
 
 {{< /blocks/products/pf/product-card-row >}}
 
-{{< blocks/products/pf/product-card-row title="Aspose.OCR Aucune application de code n'inclut" >}}
+{{< blocks/products/pf/product-card-row title="Aspose.OCR Aucune application de code n&#39;inclut" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.OCR " title="Convertir l'image en texte" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_image-app.png" productLink="https://products.aspose.app/ocr/scan-image" >}}
-Reconnaître et extraire du texte anglais, espagnol, français et portugais via OCR à partir de formats d'image populaires.
+{{< blocks/products/pf/product pfName="Aspose.OCR " title="Convertir l&#39;image en texte" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_image-app.png" productLink="https://products.aspose.app/ocr/fr/scan-image" >}}
+Convertissez n&#39;importe quel format d&#39;image populaire en texte. Prend en charge 26 langues basées sur les scripts latins, cyrilliques et chinois.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.OCR " title="Convertir une image en PDF" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_ocr-to-pdf.png" productLink="https://products.aspose.app/ocr/ocr-to-pdf" >}}
-Application en ligne gratuite pour convertir une image en PDF consultable à l'aide de n'importe quel navigateur.
+{{< blocks/products/pf/product pfName="Aspose.OCR " title="Convertir une image en PDF" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_ocr-to-pdf.png" productLink="https://products.aspose.app/ocr/fr/ocr-to-pdf" >}}
+Créez des fichiers PDF consultables à partir d&#39;images numérisées ou de captures d&#39;écran à l&#39;aide de votre navigateur préféré.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.OCR " title="Scanner le reçu" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose-scan-receipt.png" productLink="https://products.aspose.app/ocr/scan-receipt" >}}
-Application en ligne gratuite pour numériser des images de reçus.
+{{< blocks/products/pf/product pfName="Aspose.OCR " title="Scanner le reçu" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose-scan-receipt.png" productLink="https://products.aspose.app/ocr/fr/scan-receipt" >}}
+Extrayez automatiquement le texte des reçus numérisés ou photographiés sans retaper manuellement.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/center-button href="https://products.aspose.app/ocr/family" innerText="Voir toutes les applications sans code" >}}
@@ -64,7 +64,6 @@ Application en ligne gratuite pour numériser des images de reçus.
 {{< /blocks/products/pf/product-card-row >}}
 
 {{< /blocks/products/pf/main-container >}}
-
 
 {{< /blocks/products/pf/main-wrap-class >}}
 

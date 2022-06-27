@@ -1,28 +1,29 @@
 ---
-title: Java OCR API | Εκτελέστε οπτική αναγνώριση χαρακτήρων 
+title: Optical Character Recognition API για Java
 weight: 120
 url: /el/java/ 
-description: Βιβλιοθήκη Java Optical Character Αναγνώριση για μετατροπή εικόνων σε κείμενο. Το OCR API μπορεί να εξάγει κείμενο από σαρωμένα έγγραφα σε πολλές γλώσσες
+description: Μια βιβλιοθήκη OCR που επιτρέπει σε εφαρμογές Java πολλαπλών πλατφορμών να αναγνωρίζουν κείμενο σε σαρωμένες εικόνες, φωτογραφίες και αρχεία PDF.
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Java OCR API" h2="Προσθέστε λειτουργία οπτικής αναγνώρισης χαρακτήρων και σάρωσης εγγράφων σε οποιαδήποτε εφαρμογή OCR που βασίζεται σε Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/headers/aspose_ocr-for-java.svg" pfName="Aspose.OCR" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/ocr/java" >}}
+{{< blocks/products/pf/upper-banner h1="Μετατροπή εικόνων και PDF σε κείμενο σε Java" h2="Δημιουργήστε εύκολα εφαρμογές Java σε πολλαπλές πλατφόρμες με δυνατότητες οπτικής αναγνώρισης χαρακτήρων (OCR)." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/headers/aspose_ocr-for-java.svg" pfName="Aspose.OCR" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/ocr/java" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.OCR" subTitlepfName="for Java" >}}
 
-{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-java.svg" liveDemosLink="https://products.aspose.app/ocr/family" PricingLink="https://purchase.aspose.com/pricing/ocr/java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/ocr/java/" installationsDocsLink="https://docs.aspose.com/ocr/java/installation/" nugetLink="" nugetPackageName="" mavenRepoLink="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-ocr" directDownloadLink="https://downloads.aspose.com/ocr/java" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-java.svg" liveDemosLink="https://products.aspose.app/ocr/family" PricingLink="https://purchase.aspose.com/pricing/ocr/java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/ocr/java/" installationsDocsLink="https://docs.aspose.com/ocr/java/installation/" nugetLink="" nugetPackageName="" mavenRepoLink="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-ocr" directDownloadLink="https://downloads.aspose.com/ocr/java" >}}
 
-{{< blocks/products/pf/i18n/tab-content >}}
+{{< blocks/products/pf/tab-content >}}
+
 <p align="justify">
- Το Aspose.OCR για Java είναι ένα αυτόνομο API OCR για εφαρμογές Java, ενώ επιτρέπει στους προγραμματιστές να εκτελούν οπτική αναγνώριση χαρακτήρων σε τύπους εικόνων που χρησιμοποιούνται συνήθως. Παρέχει ένα απλό σύνολο κλάσεων για τον έλεγχο της αναγνώρισης χαρακτήρων για διάφορους γλωσσικούς χαρακτήρες. Οι προγραμματιστές μπορούν εύκολα να διαβάσουν χαρακτήρες σε πολλές γραμματοσειρές, περιστρεφόμενες εικόνες, ολόκληρες εικόνες ή μέρη εικόνων. Επιπλέον, το API έχει τη δυνατότητα να εκτελεί OCR μέσω GPU αντί του βασικού επεξεργαστή.
+ Το Aspose.OCR για Java σάς επιτρέπει να εξάγετε κείμενο από εικόνες, στιγμιότυπα οθόνης, συγκεκριμένες περιοχές μιας εικόνας και να δημιουργείτε PDF με δυνατότητα αναζήτησης από σαρωμένα αρχεία σε οποιαδήποτε πλατφόρμα που υποστηρίζει Java. Με το ισχυρό αλλά εύχρηστο API του, ακόμη και οι πολύπλοκες εργασίες OCR απαιτούν λιγότερες από 10 γραμμές κώδικα. Δεν χρειάζεται να εργαστείτε με τύπους και μηχανική εκμάθηση - η βιβλιοθήκη θα φροντίσει για όλες τις τεχνικές λεπτομέρειες και θα παράγει αξιόπιστα αποτελέσματα σε <b>26</b> γλώσσες με βάση <b>λατινικά</b> και <b>κυριλλικά</b> σενάρια, καθώς και <b>κινέζικα</b> . Το OCR API επεξεργάζεται σαρωμένες εικόνες, φωτογραφίες smartphone, στιγμιότυπα οθόνης, περιοχές εικόνων και σαρωμένα PDF και επιστρέφει αποτελέσματα στις πιο δημοφιλείς μορφές εγγράφων. Η ταχύτητα αναγνώρισης, η ακρίβεια και η απόδοση μπορούν να βελτιωθούν περαιτέρω κατανέμοντας τον υπολογισμό σε πολλούς πυρήνες CPU και εκφορτώνοντας εργασίες έντασης πόρων στη <b>GPU</b> .
 </p>
 
-{{< /blocks/products/pf/i18n/tab-content >}}
+{{< /blocks/products/pf/tab-content >}}
 
 <!--Diagrams Start-->
-{{< blocks/products/pf/i18n/carousel >}}
+{{< blocks/products/pf/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="Με μια ματιά" description="Μια επισκόπηση των δυνατοτήτων του API." >}}
+{{< blocks/products/pf/carousel-item h3="Με μια ματιά" description="Μια σύντομη περίληψη των δυνατοτήτων οπτικής αναγνώρισης χαρακτήρων." >}}
 <div class="diagram1 d1-java">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -42,7 +43,7 @@ description: Βιβλιοθήκη Java Optical Character Αναγνώριση γ
      Courier New
     </li>
     <li>
-     Ταχόμα
+     Tahoma
     </li>
     <li>
      Calibri
@@ -51,39 +52,66 @@ description: Βιβλιοθήκη Java Optical Character Αναγνώριση γ
      Verdana
     </li>
    </ul>
-  </div>
-  <!--/left-->
-  <div class="d1-col d1-right">
    <header>
     <i class="fa fa-cogs">
     </i>
-    Ερευνα
+    Αναγνώριση
    </header>
    <ul>
     <li>
      Ολόκληρη η εικόνα
     </li>
     <li>
-     Μέρη εικόνας
+     Περιοχές εικόνας
     </li>
     <li>
-     Περιστρεφόμενες εικόνες
+     Αρχεία και φάκελοι
     </li>
    </ul>
+  </div>
+  <!--/left-->
+  <div class="d1-col d1-right">
    <header>
-    <i class="fa fa-pencil">
+    <i class="fa fa-language">
     </i>
-    Αναγνώριση
+    Υποστηριζόμενες γλώσσες
    </header>
    <ul>
     <li>
-     Υποστήριξη πολλαπλών μορφών
+     αγγλική γλώσσα
     </li>
     <li>
-     Διαβάστε διαφορετικούς χαρακτήρες
+     κινεζική γλώσσα
     </li>
     <li>
-     Υπολογισμός γωνίας λοξής
+     γερμανική γλώσσα
+    </li>
+    <li>
+     γαλλική γλώσσα
+    </li>
+    <li>
+     σλοβενική γλώσσα
+    </li>
+    <li>
+     Ισπανική γλώσσα
+    </li>
+    <li>
+     Τσεχική γλώσσα
+    </li>
+    <li>
+     Πολωνική γλώσσα
+    </li>
+    <li>
+     ρουμανική γλώσσα
+    </li>
+    <li>
+     Ολλανδική γλώσσα
+    </li>
+    <li>
+     ρωσική γλώσσα
+    </li>
+    <li>
+     και 10+ ακόμη
     </li>
    </ul>
   </div>
@@ -91,7 +119,7 @@ description: Βιβλιοθήκη Java Optical Character Αναγνώριση γ
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img width="70" height="75" alt="OCR API για Java" src="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-java.svg"/>
+  <img width="70" height="75" alt="Βιβλιοθήκη οπτικής αναγνώρισης χαρακτήρων" src="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-java.svg"/>
   <header>
    Aspose.OCR
   </header>
@@ -109,10 +137,26 @@ description: Βιβλιοθήκη Java Optical Character Αναγνώριση γ
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Πλατφόρμα Ανεξαρτησίας" description="Το Aspose.OCR για Java υποστηρίζει το JDK 1.6 και νεότερη έκδοση." >}}
+{{< blocks/products/pf/carousel-item h3="Πλατφόρμα Ανεξαρτησίας" description="Το Aspose.OCR για Java υποστηρίζει το JDK 1.6 και άνω." >}}
 <div class="diagram1 d1-java">
  <div class="d1-row">
   <div class="d1-col d1-left">
+   <header>
+    <i class="fa fa-plug">
+    </i>
+    Πρόσθετα
+   </header>
+   <ul>
+    <li>
+     Ruby
+    </li>
+    <li>
+     PHP
+    </li>
+    <li>
+     IntelliJ IDEA - Maven
+    </li>
+   </ul>
   </div>
   <!--/left-->
   <div class="d1-col d1-right">
@@ -123,10 +167,10 @@ description: Βιβλιοθήκη Java Optical Character Αναγνώριση γ
    </header>
    <ul>
     <li>
-     Εφαρμογή JSP/JSF
+     Εφαρμογές JSP/JSF
     </li>
     <li>
-     Εφαρμογή επιφάνειας εργασίας
+     Εφαρμογές επιτραπέζιου υπολογιστή
     </li>
    </ul>
   </div>
@@ -152,21 +196,27 @@ description: Βιβλιοθήκη Java Optical Character Αναγνώριση γ
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Υποστηριζόμενες μορφές αρχείων" description="Το API υποστηρίζει τις πιο δημοφιλείς εικόνες ράστερ [μορφές αρχείων](https://docs.aspose.com/ocr/java/supported-file-formats/)." >}}
+{{< blocks/products/pf/carousel-item h3="Υποστηριζόμενες μορφές αρχείων" description="Μετατρέψτε οποιοδήποτε αρχείο λαμβάνετε από σαρωτή ή κάμερα στις πιο δημοφιλείς μορφές ανταλλαγής εγγράφων και δεδομένων." >}}
 <div class="diagram1 d2 d1-java">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-long-arrow-down">
     </i>
-    Μόνο εισαγωγή
+    Αρχεία πηγής
    </header>
    <ul>
+    <li>
+     PDF
+    </li>
     <li>
      JPEG
     </li>
     <li>
      PNG
+    </li>
+    <li>
+     TIFF
     </li>
     <li>
      GIF
@@ -181,12 +231,15 @@ description: Βιβλιοθήκη Java Optical Character Αναγνώριση γ
    <header>
     <i class="fa fa-mail-forward">
     </i>
-    Μόνο έξοδος
+    Αποτελέσματα αναγνώρισης
    </header>
    <ul>
-    <li>TXT</li>
-    <li>DOCX</li>
-    <li>PDF</li>
+    <li>PDF με δυνατότητα αναζήτησης</li>
+    <li>Microsoft Word</li>
+    <li>Microsoft Excel</li>
+    <li>Απλό κείμενο</li>
+    <li>JSON</li>
+    <li>XML</li>
    </ul>
   </div>
   <!--/right-->
@@ -211,7 +264,7 @@ description: Βιβλιοθήκη Java Optical Character Αναγνώριση γ
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< /blocks/products/pf/i18n/carousel >}}
+{{< /blocks/products/pf/carousel >}}
 <!--Diagrams End-->
 
 <!--Feature-section Start-->
@@ -221,7 +274,7 @@ description: Βιβλιοθήκη Java Optical Character Αναγνώριση γ
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
-    Λειτουργίες API Java από εικόνα σε κείμενο
+    Χαρακτηριστικά και δυνατότητες του Aspose.OCR για Java
    </h2>
    <p>
    </p>
@@ -229,135 +282,218 @@ description: Βιβλιοθήκη Java Optical Character Αναγνώριση γ
     <em class="fa fa-file-text-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Διαβάστε διαφορετικούς χαρακτήρες από εικόνες
+     Αναγνωρίζει μορφοποιημένο κείμενο σε σαρωμένες εικόνες και αρχεία PDF
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-image ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Υποστήριξη για κοινές μορφές εικόνας
+     Υποστηρίζει όλες τις μορφές αρχείων που μπορείτε να λάβετε από σαρωτή ή κάμερα
     </p>
    </div>
    <div class="col-lg-4">
-    <em class="fa fa-image ico-blue fa-2x col-lg-2">
+    <em class="fa fa-globe ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Σαρώστε οποιοδήποτε μέρος μιας εικόνας ή ως σύνολο
+     Διαβάζει λατινική και κυριλλική γραφή
     </p>
    </div>
    <div class="col-lg-4">
-    <em class="fa fa-refresh ico-blue fa-2x col-lg-2">
+    <em class="fa fa-language ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Σάρωση περιστρεφόμενων εικόνων
+     Αναγνωρίζει περισσότερους από 6.000 κινεζικούς χαρακτήρες
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-font ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Διαβάστε το κείμενο σε πολλές γραμματοσειρές
+     Εντοπίζει και αναγνωρίζει όλες τις δημοφιλείς γραμματοσειρές
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-bold ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Υποστήριξη για κοινά στυλ γραμματοσειράς
+     Διατηρεί προσεκτικά τα στυλ γραμματοσειράς και τη μορφοποίηση
     </p>
    </div>
    <div class="col-lg-4">
-    <em class="fa fa-filter ico-blue fa-2x col-lg-2">
+    <em class="fa fa-image ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Λάβετε λοξή γωνία εικόνων
+     Επεξεργάζεται μόνο ολόκληρη την εικόνα ή επιλεγμένες περιοχές
     </p>
    </div>
-   <div class="col-lg-12">
-    <h2 class="h2title">
-     Εκτελέστε OCR σε επιλεγμένες περιοχές εικόνας
-    </h2>
-    <p>
-     Χρησιμοποιώντας τη βιβλιοθήκη, οι προγραμματιστές μπορούν να εξαγάγουν κείμενο από συγκεκριμένα μέρη της εικόνας, προσδιορίζοντας ορθογώνια, γραμματοσειρές και στυλ. Η αναγνώριση κειμένου σε pixel από εικόνες συγκεκριμένες περιοχές είναι απλή, με λίγες μόνο γραμμές κώδικα.
+   <div class="col-lg-4">
+    <em class="fa fa-map ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Υποστηρίζει περιστρεφόμενες, λοξές και θορυβώδεις εικόνες
     </p>
-    <div class="codeblock" id="code">
-     <h3>
-      Εκτελέστε OCR σε επιλεγμένες περιοχές - Java
-     </h3>
-     <pre><code class="java">//Δημιουργία παρουσίας API
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-folder-open ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Μαζική αναγνώριση όλων των εικόνων σε φάκελο ή αρχείο
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-link ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Αναγνωρίζει τις εικόνες που παρέχονται ως συνδέσμους Ιστού
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-check ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Βρίσκει και διορθώνει αυτόματα τις ανορθόγραφες λέξεις
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-plug ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     100% συμβατότητα με άλλα προϊόντα Aspose
+    </p>
+   </div>
 
+<div class="col-lg-12">
+
+<h2 class="h2title">Εύκολο στην εγκατάσταση</h2>
+
+<p>Μπορείτε να χρησιμοποιήσετε το Aspose.OCR για Java απευθείας από ένα έργο που βασίζεται στο <a href="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-ocr">Maven</a> ακολουθώντας απλές <a href="https://docs.aspose.com/ocr/java/installation/">οδηγίες εγκατάστασης</a> .</p>
+
+<p><a href="https://purchase.aspose.com/temporary-license">Ζητήστε μια προσωρινή άδεια</a> για να ξεκινήσετε τη δημιουργία μιας πλήρως λειτουργικής εφαρμογής OCR χωρίς περιορισμούς και περιορισμούς.</p>
+
+</div>
+
+<div class="col-lg-12">
+
+<h2 class="h2title">$Easy to Use$</h2>
+
+<p>Η αναγνώριση εικόνας απαιτεί μερικές γραμμές κώδικα. Κυριολεκτικά. Είναι πραγματικά τόσο απλό - δοκιμάστε μόνοι σας:</p>
+
+<div id="code" class="codeblock">
+
+<h3>Εικόνα σε κείμενο σε 7 γραμμές - Java</h3>
+
+<pre><code class="java">// Δημιουργία παρουσίας OCR API
 AsposeOCR api = new AsposeOCR();
 
-//Προετοιμάστε ορθογώνια με κείμενα.
+try {
+    // Αναγνώριση εικόνας
+    String result = api.RecognizePage(imagePath);
+    // Εμφάνιση του αποτελέσματος αναγνώρισης
+    System.out.println("Recognized text: " + result);
+} catch (IOException e) {
+    // Διαχείριση σφαλμάτων
+    e.printStackTrace();
+}</code></pre>
 
-ArrayList rectArray = new ArrayList();
+</div>
 
-rectArray.add(new Rectangle(138, 352, 2033, 537));
+</div>
 
-rectArray.add(new Rectangle(147, 890, 2033, 1157));
+<div class="col-lg-12">
 
-String result = api.RecognizePage("srcImage.png", rectArray);
+<h2 class="h2title">26 Γλώσσες αναγνώρισης</h2>
 
-System.out.println("Result with rect: " + result);</code></pre>
-    </div>
-   </div>
-   <!--<div class="col-lg-12">
+<p>Το OCR API υποστηρίζει μεγάλο αριθμό γλωσσών και όλα τα δημοφιλή σενάρια γραφής, συμπεριλαμβανομένων κειμένων με μεικτές γλώσσες. Ο ενσωματωμένος ορθογραφικός έλεγχος αντικαθιστά αυτόματα τις ανορθόγραφες λέξεις και σας γλιτώνει από τον κόπο της μη αυτόματης διόρθωσης των αποτελεσμάτων αναγνώρισης.</p>
+<ul>
+<li><b>Εκτεταμένο λατινικό αλφάβητο</b> : Κροατικά, Τσέχικα, Δανικά, Ολλανδικά, Αγγλικά, Εσθονικά, Φινλανδικά, Γαλλικά, Γερμανικά, Ιταλικά, Λετονικά, Λιθουανικά, Νορβηγικά, Πολωνικά, Πορτογαλικά, Ρουμανικά, Σλοβακικά, Σλοβενικά, Ισπανικά, Σουηδικά.</li>
+<li><b>Κυριλλικό αλφάβητο</b> : Λευκορωσικό, Βουλγαρικό, Καζακστάν, Ρωσικό, Σερβικό, Ουκρανικό.</li>
+<li><b>Κινέζικα</b> : περισσότεροι από 6.000 χαρακτήρες.</li>
+</ul>
+<p>Μπορείτε να καθορίσετε τη γλώσσα για να αυξήσετε την απόδοση και την αξιοπιστία αναγνώρισης ή να αφήσετε το API να ανιχνεύει αυτόματα γλώσσες.</p>
 
-<h2 class="h2title">Scan Ολόκληρη η εικόνα or Portion</h2>
+</div>
 
-<p>Using Aspose.OCR for Java, developers can extract text and related information such as font, style & location of the text from specific parts of an image. This feature allows performing the OCR operation quickly on document scans that follow the similar structure.</p>
+<div class="col-lg-12">
 
-</div>-->
-   <div class="col-lg-12">
-    <h2 class="h2title">
-     Αναγνώριση κειμένου σε διαφορετικές γραμματοσειρές
-    </h2>
-    <p>
-     Το Aspose.OCR για Java API υποστηρίζει γραμματοσειρές Times New Roman, Arial, Verdana, Courier New, Ταχόμα και Calibri σε κανονικά, πλάγια και έντονα στυλ κειμένου καθώς και διαφορετικούς χαρακτήρες γλώσσας.
-    </p>
-   </div>
-   <!--<div class="col-lg-12">
+<h2 class="h2title">Διατήρηση μορφοποίησης</h2>
 
-<h2 class="h2title">Support for Global Languages</h2>
+<p>Το OCR API διαβάζει όλες τις δημοφιλείς γραμματοσειρές όπως Arial, Times New Roman, Courier New, Tahoma, Calibri και άλλα σε κανονικά, έντονα και πλάγια στυλ και διατηρεί προσεκτικά τη μορφοποίηση στα αποτελέσματα OCR. Μπορείτε επίσης να χωρίσετε τα αποτελέσματα αναγνώρισης σε γραμμές και να εντοπίσετε περιοχές κειμένου σε μια σελίδα.</p>
 
-<p>Aspose.OCR for Java API supports multiple languages such as English, French, Spanish, and Portuguese.</p>
+</div>
 
-</div>-->
-   <div class="col-lg-12">
-    <h2 class="h2title">
-     Εύκολος υπολογισμός γωνίας κλίσης
-    </h2>
-    <p>
-     Χρησιμοποιώντας τη βιβλιοθήκη Java OCR, ο υπολογισμός της γωνίας λοξής εικόνας είναι γρήγορος και απλός. Οι προγραμματιστές μπορούν να χρησιμοποιήσουν τη λειτουργία CalcSkewImage παρέχοντας διαδρομή εικόνας που επιστρέφει τη γωνία κλίσης.
-    </p>
-    <div class="codeblock" id="code">
-     <h3>
-      Υπολογισμός γωνίας λοξής εικόνας - Java
-     </h3>
-     <pre><code class="java">//Δημιουργία παρουσίας api
+<div class="col-lg-12">
 
+<h2 class="h2title">Αναγνώριση φωτογραφιών</h2>
+
+<p>Ο σαρωτής δεν είναι πάντα διαθέσιμος σε σταθμούς εργασίας τελικού χρήστη, ο οποίος μπορεί να γίνει επίδειξη για εφαρμογές OCR. Το OCR API παρέχει μια σειρά από φίλτρα προεπεξεργασίας που μπορούν να χειριστούν παραμορφωμένες, περιστρεφόμενες, λοξές και θορυβώδεις εικόνες. Σε συνδυασμό με την υποστήριξη για όλες τις μορφές εικόνας, επιτρέπει την αξιόπιστη αναγνώριση ακόμη και φωτογραφιών smartphone. Το μεγαλύτερο μέρος της προεπεξεργασίας και της διόρθωσης εικόνας γίνεται αυτόματα, αλλά μπορείτε πάντα να επέμβετε σε δύσκολες περιπτώσεις.</p>
+
+<div id="code" class="codeblock">
+
+<h3>Εφαρμογή διορθώσεων εικόνας - Java</h3>
+
+<pre><code class="java">// Δημιουργία παρουσίας OCR API
 AsposeOCR api = new AsposeOCR();
 
-// Πάρτε λοξό
+// Ορίστε φίλτρα προεπεξεργασίας
+PreprocessingFilter filters = new PreprocessingFilter();
+filters.add(PreprocessingFilter.ToGrayscale());
+filters.add(PreprocessingFilter.Rotate(-90));
 
-double angle = api.CalcSkewImage("sourceImage.png");
+// Προεπεξεργασία εικόνας πριν από την αναγνώριση
+BufferedImage imageRes = api.PreprocessImage(imagePath, filters);
 
-System.out.println("Το λοξό κείμενο είναι:" + angle + " degrees.");
+// Αναγνώριση εικόνας
+RecognitionResult result = api.RecognizePage(imageRes, set);</code></pre>
 
-</code></pre>
-    </div>
-   </div>
-  </div>
- </div>
+</div>
+
+</div>
+
+<div class="col-lg-12">
+
+<h2 class="h2title">Βελτιστοποίηση απόδοσης</h2>
+
+<p>Η οπτική αναγνώριση χαρακτήρων απαιτεί πολλούς πόρους επεξεργασίας, οι οποίοι μπορεί να αποτελέσουν πρόβλημα για υπηρεσίες web και συσκευές εισαγωγικού επιπέδου. Το API προσφέρει πολύ ευέλικτους τρόπους εξισορρόπησης της ταχύτητας αναγνώρισης, των απαιτήσεων πόρων και της ακρίβειας:</p>
+<ul>
+	<li>Επιλέξτε ανάμεσα σε πλήρη αναγνώριση και γρήγορη αναγνώριση.</li>
+	<li>Καθορίστε τον αριθμό των νημάτων που εκχωρούνται για αναγνώριση ή επιτρέψτε στη βιβλιοθήκη να κλιμακωθεί αυτόματα στον αριθμό των πυρήνων της CPU.</li>
+	<li>Απελευθερώστε τη CPU μεταφορτώνοντας τους υπολογισμούς στη GPU.</li>
+</ul>
+
+<div id="code" class="codeblock">
+
+<h3>Γρήγορη αναγνώριση - Java</h3>
+
+<pre><code class="java">// Δημιουργία παρουσίας OCR API
+AsposeOCR api = new AsposeOCR();
+
+// Αναγνώριση εικόνας στην ταχύτερη λειτουργία
+String result = api.RecognizePageFast("sample.jpg");</code></pre>
+
+</div>
+
+</div>
+
+<div class="col-lg-12">
+
+<h2 class="h2title">Επεξεργασία παρτίδων</h2>
+
+<p>Το OCR API σάς απαλλάσσει από το να χρειάζεται να αναγνωρίζετε κάθε εικόνα μία-μία, προσφέροντας διάφορες μεθόδους επεξεργασίας κατά παρτίδες που σας επιτρέπουν να αναγνωρίζετε πολλές εικόνες σε μία μόνο κλήση:</p>
+<ul>
+	<li>Αναγνώριση πολυσέλιδων αρχείων PDF και TIFF.</li>
+	<li>Αναγνώριση όλων των αρχείων σε ένα αρχείο.</li>
+	<li>Αναγνώριση όλων των αρχείων σε ένα φάκελο.</li>
+</ul>
+
 </div>
 <!--Feature-section End-->
 
 {{< /blocks/products/pf/main-container >}}
 
 
-{{< blocks/products/pf/i18n/support-learning-resources >}}
-{{< blocks/products/pf/slr-tab tabTitle="Πόροι μάθησης" tabId="resources" >}}
+{{< blocks/products/pf/support-learning-resources >}}
+{{< blocks/products/pf/slr-tab tabTitle="Πόροι Μάθησης" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Τεκμηρίωση" href="https://docs.aspose.com/ocr/java/" >}}
 {{< blocks/products/pf/slr-element name="Πηγαίος κώδικας" href="https://github.com/aspose-ocr/Aspose.OCR-for-Java" >}}
 {{< blocks/products/pf/slr-element name="Αναφορές API" href="https://apireference.aspose.com/java/OCR" >}}
@@ -368,7 +504,7 @@ System.out.println("Το λοξό κείμενο είναι:" + angle + " degree
 {{< blocks/products/pf/slr-element name="Δωρεάν Υποστήριξη" href="https://forum.aspose.com/c/ocr" >}}
 {{< blocks/products/pf/slr-element name="Υποστήριξη επί πληρωμή" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="Ιστολόγιο" href="https://blog.aspose.com/category/ocr/" >}}
-{{< blocks/products/pf/slr-element name="Release Notes" href="https://docs.aspose.com/ocr/java/release-notes/" >}}
+{{< blocks/products/pf/slr-element name="Σημειώσεις έκδοσης" href="https://docs.aspose.com/ocr/java/release-notes/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Γιατί το Aspose.OCR για Java;" tabId="success-stories" >}}
@@ -376,14 +512,14 @@ System.out.println("Το λοξό κείμενο είναι:" + angle + " degree
 {{< blocks/products/pf/slr-element name="Ιστορίες επιτυχίας" href="https://company.aspose.com/customers/success-stories/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< /blocks/products/pf/i18n/support-learning-resources >}}
+{{< /blocks/products/pf/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/ocr/java" pricingInformationLink="https://purchase.aspose.com/pricing/ocr/java" >}}
+{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/ocr/java" pricingInformationLink="https://purchase.aspose.com/pricing/ocr/java" >}}
 
-{{< blocks/products/pf/offers-section pfName="Aspose.OCR" description="Το Aspose.OCR προσφέρει μεμονωμένα API OCR για άλλα δημοφιλή περιβάλλοντα ανάπτυξης όπως αναφέρονται παρακάτω:" >}}
+{{< blocks/products/pf/offers-section pfName="Aspose.OCR" description="Το Aspose προσφέρει επίσης εγγενή API OCR για άλλες δημοφιλείς γλώσσες προγραμματισμού:" >}}
 
-    {{< blocks/products/pf/offers-section-item link="/ocr/el/net/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-net.svg" sdkName=".NET" >}}
-    {{< blocks/products/pf/offers-section-item link="/ocr/el/cpp/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-cpp.svg" sdkName="C++" >}}
+    {{< blocks/products/pf/offers-section-item link="/ocr/net/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-net.svg" sdkName=".NET" >}}
+    {{< blocks/products/pf/offers-section-item link="/ocr/cpp/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-cpp.svg" sdkName="C++" >}}
 
 {{< /blocks/products/pf/offers-section >}}
 

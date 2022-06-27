@@ -1,28 +1,29 @@
 ---
-title: API OCR Java | Eseguire il riconoscimento ottico dei caratteri 
+title: API di riconoscimento ottico dei caratteri per Java
 weight: 120
 url: /it/java/ 
-description: Libreria Java Optical Character Riconoscimento per convertire le immagini in testo. L'API OCR può estrarre testo da documenti scansionati in più lingue
+description: Una libreria OCR che consente alle app Java multipiattaforma di riconoscere il testo nelle immagini scansionate, nelle foto e nei PDF.
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="API OCR Java" h2="Aggiungi il riconoscimento ottico dei caratteri e la funzionalità di scansione dei documenti a qualsiasi applicazione OCR basata su Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/headers/aspose_ocr-for-java.svg" pfName="Aspose.OCR" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/ocr/java" >}}
+{{< blocks/products/pf/upper-banner h1="Converti immagini e PDF in testo in Java" h2="Crea facilmente applicazioni Java multipiattaforma con funzionalità di riconoscimento ottico dei caratteri (OCR)." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/headers/aspose_ocr-for-java.svg" pfName="Aspose.OCR" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/ocr/java" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.OCR" subTitlepfName="for Java" >}}
 
-{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-java.svg" liveDemosLink="https://products.aspose.app/ocr/family" PricingLink="https://purchase.aspose.com/pricing/ocr/java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/ocr/java/" installationsDocsLink="https://docs.aspose.com/ocr/java/installation/" nugetLink="" nugetPackageName="" mavenRepoLink="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-ocr" directDownloadLink="https://downloads.aspose.com/ocr/java" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-java.svg" liveDemosLink="https://products.aspose.app/ocr/family" PricingLink="https://purchase.aspose.com/pricing/ocr/java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/ocr/java/" installationsDocsLink="https://docs.aspose.com/ocr/java/installation/" nugetLink="" nugetPackageName="" mavenRepoLink="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-ocr" directDownloadLink="https://downloads.aspose.com/ocr/java" >}}
 
-{{< blocks/products/pf/i18n/tab-content >}}
+{{< blocks/products/pf/tab-content >}}
+
 <p align="justify">
- Aspose.OCR per Java è un'API OCR autonoma per applicazioni Java che consente agli sviluppatori di eseguire il riconoscimento ottico dei caratteri sui tipi di immagine comunemente utilizzati. Fornisce un semplice insieme di classi per controllare il riconoscimento dei caratteri per vari caratteri di lingua. Gli sviluppatori possono leggere facilmente i caratteri in più font, immagini ruotate, immagini intere o parti di immagini. Inoltre, l'API ha la capacità di eseguire l'OCR tramite GPU invece del core processor.
+ Aspose.OCR per Java consente di estrarre testo da immagini, schermate, aree specifiche di un&#39;immagine e creare PDF ricercabili da file scansionati su qualsiasi piattaforma che supporti Java. Con la sua API potente ma facile da usare, anche le complesse attività OCR richiedono meno di 10 righe di codice. Non è necessario lavorare con formule e machine learning: la libreria si occuperà di tutti i dettagli tecnici e produrrà risultati affidabili in <b>26</b> lingue basate su <b>caratteri latini</b> e <b>cirillici</b> , oltre al <b>cinese</b> . L&#39;API OCR elabora immagini scansionate, foto di smartphone, schermate, aree di immagini e PDF scansionati e restituisce risultati nei formati di documenti più diffusi. La velocità di riconoscimento, l&#39;accuratezza e le prestazioni possono essere ulteriormente migliorate distribuendo il calcolo su più core della CPU e scaricando sulla <b>GPU</b> le attività ad alta intensità di risorse.
 </p>
 
-{{< /blocks/products/pf/i18n/tab-content >}}
+{{< /blocks/products/pf/tab-content >}}
 
 <!--Diagrams Start-->
-{{< blocks/products/pf/i18n/carousel >}}
+{{< blocks/products/pf/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="A prima vista" description="Una panoramica delle funzionalità dell'API." >}}
+{{< blocks/products/pf/carousel-item h3="A prima vista" description="Un breve riassunto delle capacità di riconoscimento ottico dei caratteri." >}}
 <div class="diagram1 d1-java">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -33,7 +34,7 @@ description: Libreria Java Optical Character Riconoscimento per convertire le im
    </header>
    <ul>
     <li>
-     Ariale
+     Arial
     </li>
     <li>
      Times New Roman
@@ -45,45 +46,72 @@ description: Libreria Java Optical Character Riconoscimento per convertire le im
      Tahoma
     </li>
     <li>
-     Calibrì
+     Calibri
     </li>
     <li>
      Verdana
     </li>
    </ul>
-  </div>
-  <!--/left-->
-  <div class="d1-col d1-right">
    <header>
     <i class="fa fa-cogs">
     </i>
-    Scansione
+    Riconoscimento
    </header>
    <ul>
     <li>
      Immagine intera
     </li>
     <li>
-     Parti dell'immagine
+     Aree dell&#39;immagine
     </li>
     <li>
-     Immagini ruotate
+     Archivi e cartelle
     </li>
    </ul>
+  </div>
+  <!--/left-->
+  <div class="d1-col d1-right">
    <header>
-    <i class="fa fa-pencil">
+    <i class="fa fa-language">
     </i>
-    Riconoscimento
+    Lingue supportate
    </header>
    <ul>
     <li>
-     Supporta più formati
+     lingua inglese
     </li>
     <li>
-     Leggi personaggi diversi
+     lingua cinese
     </li>
     <li>
-     Calcola l'angolo di inclinazione
+     lingua tedesca
+    </li>
+    <li>
+     lingua francese
+    </li>
+    <li>
+     lingua slovena
+    </li>
+    <li>
+     lingua spagnola
+    </li>
+    <li>
+     lingua ceca
+    </li>
+    <li>
+     lingua polacca
+    </li>
+    <li>
+     lingua rumena
+    </li>
+    <li>
+     lingua tedesca
+    </li>
+    <li>
+     lingua russa
+    </li>
+    <li>
+     e più di 10
     </li>
    </ul>
   </div>
@@ -91,7 +119,7 @@ description: Libreria Java Optical Character Riconoscimento per convertire le im
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img width="70" height="75" alt="API OCR per Java" src="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-java.svg"/>
+  <img width="70" height="75" alt="Libreria di riconoscimento ottico dei caratteri" src="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-java.svg"/>
   <header>
    Aspose.OCR
   </header>
@@ -113,20 +141,36 @@ description: Libreria Java Optical Character Riconoscimento per convertire le im
 <div class="diagram1 d1-java">
  <div class="d1-row">
   <div class="d1-col d1-left">
+   <header>
+    <i class="fa fa-plug">
+    </i>
+    Plugin
+   </header>
+   <ul>
+    <li>
+     Ruby
+    </li>
+    <li>
+     PHP
+    </li>
+    <li>
+     IntelliJ IDEA - Maven
+    </li>
+   </ul>
   </div>
   <!--/left-->
   <div class="d1-col d1-right">
    <header>
     <i class="fa fa-cubes">
     </i>
-    Ambiente di runtime Java
+    Java Runtime Environment
    </header>
    <ul>
     <li>
-     Applicazione JSP/JSF
+     Applicazioni JSP/JSF
     </li>
     <li>
-     Applicazione desktop
+     Applicazioni desktop
     </li>
    </ul>
   </div>
@@ -152,21 +196,27 @@ description: Libreria Java Optical Character Riconoscimento per convertire le im
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Formati di file supportati" description="L'API supporta l'immagine raster più popolare [formati di file](https://docs.aspose.com/ocr/java/supported-file-formats/)." >}}
+{{< blocks/products/pf/carousel-item h3="Formati di file supportati" description="Converti qualsiasi file che ottieni da uno scanner o da una fotocamera nei formati di scambio di dati e documenti più diffusi." >}}
 <div class="diagram1 d2 d1-java">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-long-arrow-down">
     </i>
-    Solo ingresso
+    File sorgenti
    </header>
    <ul>
+    <li>
+     PDF
+    </li>
     <li>
      JPEG
     </li>
     <li>
      PNG
+    </li>
+    <li>
+     TIFF
     </li>
     <li>
      GIF
@@ -181,12 +231,15 @@ description: Libreria Java Optical Character Riconoscimento per convertire le im
    <header>
     <i class="fa fa-mail-forward">
     </i>
-    Solo uscita
+    Risultati del riconoscimento
    </header>
    <ul>
-    <li>TXT</li>
-    <li>DOCX</li>
-    <li>PDF</li>
+    <li>PDF ricercabile</li>
+    <li>Microsoft Word</li>
+    <li>Microsoft Excel</li>
+    <li>Testo normale</li>
+    <li>JSON</li>
+    <li>XML</li>
    </ul>
   </div>
   <!--/right-->
@@ -211,7 +264,7 @@ description: Libreria Java Optical Character Riconoscimento per convertire le im
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< /blocks/products/pf/i18n/carousel >}}
+{{< /blocks/products/pf/carousel >}}
 <!--Diagrams End-->
 
 <!--Feature-section Start-->
@@ -221,7 +274,7 @@ description: Libreria Java Optical Character Riconoscimento per convertire le im
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
-    Funzionalità dell'API Java da immagine a testo
+    Caratteristiche e funzionalità di Aspose.OCR per Java
    </h2>
    <p>
    </p>
@@ -229,134 +282,217 @@ description: Libreria Java Optical Character Riconoscimento per convertire le im
     <em class="fa fa-file-text-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Leggi caratteri diversi dalle immagini
+     Riconosce il testo formattato nelle immagini scansionate e nei PDF
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-image ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Supporto per formati di immagine comuni
+     Supporta tutti i formati di file che puoi ottenere da uno scanner o da una fotocamera
     </p>
    </div>
    <div class="col-lg-4">
-    <em class="fa fa-image ico-blue fa-2x col-lg-2">
+    <em class="fa fa-globe ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Scansiona qualsiasi parte di un'immagine o nel suo insieme
+     Legge caratteri latini e cirillici
     </p>
    </div>
    <div class="col-lg-4">
-    <em class="fa fa-refresh ico-blue fa-2x col-lg-2">
+    <em class="fa fa-language ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Scansione di immagini ruotate
+     Riconosce più di 6.000 caratteri cinesi
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-font ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Leggi il testo in più caratteri
+     Rileva e riconosce tutti i caratteri tipografici più diffusi
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-bold ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Supporto per stili di carattere comuni
+     Conserva con cura gli stili dei caratteri e la formattazione
     </p>
    </div>
    <div class="col-lg-4">
-    <em class="fa fa-filter ico-blue fa-2x col-lg-2">
+    <em class="fa fa-image ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Ottieni l'angolo di inclinazione delle immagini
+     Elabora l&#39;intera immagine o solo le aree selezionate
     </p>
    </div>
-   <div class="col-lg-12">
-    <h2 class="h2title">
-     Eseguire l'OCR sulle aree selezionate dell'immagine
-    </h2>
-    <p>
-     Utilizzando la libreria, gli sviluppatori possono estrarre il testo da parti specifiche dell'immagine specificando rettangoli, caratteri e stili. Riconoscere il testo in pixel da aree specifiche delle immagini è semplice, bastano poche righe di codice.
+   <div class="col-lg-4">
+    <em class="fa fa-map ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Supporta immagini ruotate, oblique e rumorose
     </p>
-    <div class="codeblock" id="code">
-     <h3>
-      Esegui l'OCR su aree selezionate - Java
-     </h3>
-     <pre><code class="java">//Crea istanza API
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-folder-open ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Riconoscimento in batch di tutte le immagini in una cartella o in un archivio
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-link ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Riconosce le immagini fornite come collegamenti web
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-check ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Trova e corregge automaticamente le parole errate
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-plug ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Compatibilità al 100% con altri prodotti Aspose
+    </p>
+   </div>
 
+<div class="col-lg-12">
+
+<h2 class="h2title">Facile da installare</h2>
+
+<p>È possibile utilizzare Aspose.OCR per Java direttamente da un progetto basato su <a href="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-ocr">Maven</a> seguendo semplici <a href="https://docs.aspose.com/ocr/java/installation/">istruzioni di installazione</a> .</p>
+
+<p><a href="https://purchase.aspose.com/temporary-license">Richiedi una licenza temporanea</a> per iniziare a creare un&#39;applicazione OCR completamente funzionante senza limiti e restrizioni.</p>
+
+</div>
+
+<div class="col-lg-12">
+
+<h2 class="h2title">$Easy to Use$</h2>
+
+<p>Il riconoscimento delle immagini richiede un paio di righe di codice. Letteralmente. È davvero così semplice: prova te stesso:</p>
+
+<div id="code" class="codeblock">
+
+<h3>Da immagine a testo in 7 righe - Java</h3>
+
+<pre><code class="java">// Crea un&#39;istanza dell&#39;API OCR
 AsposeOCR api = new AsposeOCR();
 
-//Prepara rettangoli con testi.
+try {
+    // Riconosci l&#39;immagine
+    String result = api.RecognizePage(imagePath);
+    // Visualizza il risultato del riconoscimento
+    System.out.println("Recognized text: " + result);
+} catch (IOException e) {
+    // Gestione degli errori
+    e.printStackTrace();
+}</code></pre>
 
-ArrayList rectArray = new ArrayList();
+</div>
 
-rectArray.add(new Rectangle(138, 352, 2033, 537));
+</div>
 
-rectArray.add(new Rectangle(147, 890, 2033, 1157));
+<div class="col-lg-12">
 
-String result = api.RecognizePage("srcImage.png", rectArray);
+<h2 class="h2title">26 Lingue di riconoscimento</h2>
 
-System.out.println("Result with rect: " + result);</code></pre>
-    </div>
-   </div>
-   <!--<div class="col-lg-12">
+<p>L&#39;API OCR supporta un gran numero di lingue e tutti gli script di scrittura più diffusi, inclusi i testi con lingue miste. Il correttore ortografico integrato sostituisce automaticamente le parole errate e ti evita la fatica di correggere manualmente i risultati del riconoscimento.</p>
+<ul>
+<li><b>Alfabeto latino esteso</b> : croato, ceco, danese, olandese, inglese, estone, finlandese, francese, tedesco, italiano, lettone, lituano, norvegese, polacco, portoghese, rumeno, slovacco, sloveno, spagnolo, svedese.</li>
+<li><b>Alfabeto cirillico</b> : bielorusso, bulgaro, kazako, russo, serbo, ucraino.</li>
+<li><b>Cinese</b> : più di 6.000 caratteri.</li>
+</ul>
+<p>Puoi specificare la lingua per aumentare le prestazioni e l&#39;affidabilità del riconoscimento o lasciare che l&#39;API rilevi automaticamente le lingue.</p>
 
-<h2 class="h2title">Scan Immagine intera or Portion</h2>
+</div>
 
-<p>Using Aspose.OCR for Java, developers can extract text and related information such as font, style & location of the text from specific parts of an image. This feature allows performing the OCR operation quickly on document scans that follow the similar structure.</p>
+<div class="col-lg-12">
 
-</div>-->
-   <div class="col-lg-12">
-    <h2 class="h2title">
-     Riconosci il testo in diversi tipi di carattere
-    </h2>
-    <p>
-     L'API Aspose.OCR per Java supporta i caratteri Times New Roman, Ariale, Verdana, Courier New, Tahoma e Calibrì in stili di testo regolari, corsivo e grassetto, nonché caratteri di lingua diversa.
-    </p>
-   </div>
-   <!--<div class="col-lg-12">
+<h2 class="h2title">Conserva formattazione</h2>
 
-<h2 class="h2title">Support for Global Languages</h2>
+<p>L&#39;API OCR legge tutti i caratteri tipografici più diffusi come Arial, Times New Roman, Courier New, Tahoma, Calibri e altri in stili regolari, grassetto e corsivo e conserva accuratamente la formattazione nei risultati OCR. Puoi anche dividere i risultati del riconoscimento in linee e rilevare aree di testo in una pagina.</p>
 
-<p>Aspose.OCR for Java API supports multiple languages such as English, French, Spanish, and Portuguese.</p>
+</div>
 
-</div>-->
-   <div class="col-lg-12">
-    <h2 class="h2title">
-     Angolo di inclinazione facile da calcolare
-    </h2>
-    <p>
-     Utilizzando la libreria Java OCR, calcolare l'angolo di inclinazione dell'immagine è semplice e veloce. Gli sviluppatori possono utilizzare la funzione CalcSkewImage fornendo un percorso dell'immagine che restituisce l'angolo di inclinazione.
-    </p>
-    <div class="codeblock" id="code">
-     <h3>
-      Calcola l'angolo di inclinazione dell'immagine - Java
-     </h3>
-     <pre><code class="java">//Crea istanza API
+<div class="col-lg-12">
 
+<h2 class="h2title">Riconosci le foto</h2>
+
+<p>Scanner non sempre disponibile sulle workstation degli utenti finali, che potrebbe diventare un ostacolo per le applicazioni OCR. La nostra API OCR fornisce una serie di filtri di pre-elaborazione in grado di gestire immagini distorte, ruotate, distorte e rumorose. In combinazione con il supporto per tutti i formati di immagine, consente il riconoscimento affidabile anche delle foto dello smartphone. La maggior parte della pre-elaborazione e correzione dell&#39;immagine viene eseguita automaticamente, ma puoi sempre intervenire nei casi difficili.</p>
+
+<div id="code" class="codeblock">
+
+<h3>Applicare correzioni di immagine - Java</h3>
+
+<pre><code class="java">// Crea un&#39;istanza dell&#39;API OCR
 AsposeOCR api = new AsposeOCR();
 
-// Sbilanciati
+// Definire filtri di pre-elaborazione
+PreprocessingFilter filters = new PreprocessingFilter();
+filters.add(PreprocessingFilter.ToGrayscale());
+filters.add(PreprocessingFilter.Rotate(-90));
 
-double angle = api.CalcSkewImage("sourceImage.png");
+// Pre-elabora l&#39;immagine prima del riconoscimento
+BufferedImage imageRes = api.PreprocessImage(imagePath, filters);
 
-System.out.println("Il testo obliquo è:" + angle + " degrees.");
+// Riconosci l&#39;immagine
+RecognitionResult result = api.RecognizePage(imageRes, set);</code></pre>
 
-</code></pre>
-    </div>
-   </div>
-  </div>
- </div>
+</div>
+
+</div>
+
+<div class="col-lg-12">
+
+<h2 class="h2title">Ottimizzazione delle prestazioni</h2>
+
+<p>Il riconoscimento ottico dei caratteri richiede molte risorse di elaborazione, che possono diventare un problema per i servizi Web e i dispositivi entry-level. L&#39;API offre modi molto flessibili per bilanciare velocità di riconoscimento, requisiti di risorse e precisione:</p>
+<ul>
+	<li>Scegli tra riconoscimento completo e riconoscimento rapido.</li>
+	<li>Specificare il numero di thread allocati per il riconoscimento o consentire alla libreria di ridimensionarsi automaticamente in base al numero di core della CPU.</li>
+	<li>Libera la CPU scaricando i calcoli sulla GPU.</li>
+</ul>
+
+<div id="code" class="codeblock">
+
+<h3>Riconoscimento veloce - Java</h3>
+
+<pre><code class="java">// Crea un&#39;istanza dell&#39;API OCR
+AsposeOCR api = new AsposeOCR();
+
+// Riconosci l&#39;immagine nella modalità più veloce
+String result = api.RecognizePageFast("sample.jpg");</code></pre>
+
+</div>
+
+</div>
+
+<div class="col-lg-12">
+
+<h2 class="h2title">Elaborazione in lotti</h2>
+
+<p>L&#39;API OCR ti libera dal dover riconoscere ogni immagine una alla volta offrendo vari metodi di elaborazione batch che ti consentono di riconoscere più immagini in una singola chiamata:</p>
+<ul>
+	<li>Riconoscimento di file PDF e TIFF multipagina.</li>
+	<li>Riconoscimento di tutti i file in un archivio.</li>
+	<li>Riconoscimento di tutti i file in una cartella.</li>
+</ul>
+
 </div>
 <!--Feature-section End-->
 
 {{< /blocks/products/pf/main-container >}}
 
 
-{{< blocks/products/pf/i18n/support-learning-resources >}}
+{{< blocks/products/pf/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="Risorse di apprendimento" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Documentazione" href="https://docs.aspose.com/ocr/java/" >}}
 {{< blocks/products/pf/slr-element name="Codice sorgente" href="https://github.com/aspose-ocr/Aspose.OCR-for-Java" >}}
@@ -368,7 +504,7 @@ System.out.println("Il testo obliquo è:" + angle + " degrees.");
 {{< blocks/products/pf/slr-element name="Supporto gratuito" href="https://forum.aspose.com/c/ocr" >}}
 {{< blocks/products/pf/slr-element name="Supporto a pagamento" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.com/category/ocr/" >}}
-{{< blocks/products/pf/slr-element name="Release Notes" href="https://docs.aspose.com/ocr/java/release-notes/" >}}
+{{< blocks/products/pf/slr-element name="Note di rilascio" href="https://docs.aspose.com/ocr/java/release-notes/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Perché Aspose.OCR per Java?" tabId="success-stories" >}}
@@ -376,14 +512,14 @@ System.out.println("Il testo obliquo è:" + angle + " degrees.");
 {{< blocks/products/pf/slr-element name="Storie di successo" href="https://company.aspose.com/customers/success-stories/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< /blocks/products/pf/i18n/support-learning-resources >}}
+{{< /blocks/products/pf/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/ocr/java" pricingInformationLink="https://purchase.aspose.com/pricing/ocr/java" >}}
+{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/ocr/java" pricingInformationLink="https://purchase.aspose.com/pricing/ocr/java" >}}
 
-{{< blocks/products/pf/offers-section pfName="Aspose.OCR" description="Aspose.OCR offre API OCR individuali per altri ambienti di sviluppo popolari, come elencato di seguito:" >}}
+{{< blocks/products/pf/offers-section pfName="Aspose.OCR" description="Aspose offre anche API OCR native per altri linguaggi di programmazione popolari:" >}}
 
-    {{< blocks/products/pf/offers-section-item link="/ocr/it/net/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-net.svg" sdkName=".NET" >}}
-    {{< blocks/products/pf/offers-section-item link="/ocr/it/cpp/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-cpp.svg" sdkName="C++" >}}
+    {{< blocks/products/pf/offers-section-item link="/ocr/net/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-net.svg" sdkName=".NET" >}}
+    {{< blocks/products/pf/offers-section-item link="/ocr/cpp/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-cpp.svg" sdkName="C++" >}}
 
 {{< /blocks/products/pf/offers-section >}}
 

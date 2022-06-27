@@ -1,26 +1,25 @@
 ---
-title: C# .NET optische tekenherkenning OCR API - Aspose 
+title: Optical Character Recognition API voor .NET
 weight: 40
 url: /nl/net/ 
-description: C# ASP.NET VB.NET Optische tekenherkenning OCR-bibliotheek voor het zoeken en extraheren van tekst uit afbeeldingen in Windows- en Webservices-apps
+description: Een OCR-bibliotheek waarmee C#-, F#- of Visual Basic-desktop- en webtoepassingen tekst in afbeeldingen en PDF&#39;s kunnen herkennen.
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Afbeelding OCR uitvoeren met .NET Library" h2="Voeg een op afbeeldingen gebaseerde optische tekenherkenningsfunctie toe aan elke op .NET gebaseerde toepassing." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/headers/aspose_ocr-for-net.svg" pfName="Aspose.OCR" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/ocr/net" >}}
+{{< blocks/products/pf/upper-banner h1="Converteer afbeeldingen en PDF&#39;s naar tekst in .NET" h2="Voeg optische tekenherkenning (OCR) toe aan uw .NET-toepassingen met een paar regels code." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/headers/aspose_ocr-for-net.svg" pfName="Aspose.OCR" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/ocr/net" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.OCR" subTitlepfName="for .NET" >}}
 
-{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-net.svg" liveDemosLink="https://products.aspose.app/ocr/family" PricingLink="https://purchase.aspose.com/pricing/ocr/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/ocr/net/" installationsDocsLink="https://docs.aspose.com/ocr/net/installation/" nugetLink="https://www.nuget.org/packages/Aspose.OCR/" nugetPackageName="Aspose.OCR" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/ocr/net" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-net.svg" liveDemosLink="https://products.aspose.app/ocr/family" PricingLink="https://purchase.aspose.com/pricing/ocr/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/ocr/net/" installationsDocsLink="https://docs.aspose.com/ocr/net/installation/" nugetLink="https://www.nuget.org/packages/Aspose.OCR/" nugetPackageName="Aspose.OCR" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/ocr/net" >}}
 
-{{< blocks/products/pf/i18n/tab-content >}}
-<p>Aspose.OCR voor .NET is een robuuste API voor optische tekenherkenning. Ontwikkelaars kunnen eenvoudig OCR-functionaliteiten toevoegen aan hun applicaties. API is uitbreidbaar, gebruiksvriendelijk, compact en biedt een eenvoudige reeks klassen voor het regelen van tekenherkenning. Het ondersteunt veelgebruikte afbeeldingsformaten en biedt functionaliteiten zoals het lezen van meerdere tekens en lettertypen uit afbeeldingen, vetgedrukte en cursieve stijlen, filters voor het verwijderen van ruis, het scannen van de hele afbeelding of een deel van de afbeelding en nog veel meer. Bovendien heeft API de mogelijkheid om OCR uit te voeren met behulp van de GPU in plaats van de kernprocessor.</p>
-
-{{< /blocks/products/pf/i18n/tab-content >}}
+{{< blocks/products/pf/tab-content >}}
+<p>Aspose.OCR voor .NET is een krachtige maar gebruiksvriendelijke en kosteneffectieve API voor optische tekenherkenning. Hiermee kunt u OCR-functionaliteit aan uw .NET-toepassingen toevoegen in minder dan 5 regels code zonder u zorgen te maken over complexe wiskunde, neurale netwerken en andere technische details. Onze ervaring in machine learning-technologieën en jarenlange ontwikkeling hebben geresulteerd in een OCR-engine met superieure snelheid en nauwkeurigheid die <b>26</b> talen ondersteunt op basis van <b>Latijnse</b> en <b>Cyrillische</b> scripts, evenals <b>Chinees</b> . OCR API kan gescande afbeeldingen, smartphonefoto&#39;s, screenshots, delen van afbeeldingen en gescande PDF&#39;s herkennen en resultaten retourneren in de meest populaire document- en gegevensuitwisselingsformaten. Met verschillende voorbewerkingsfilters kunt u geroteerde, scheve en ruisrijke afbeeldingen herkennen. Herkenningsprestaties en systeembelasting kunnen verder worden verbeterd door resource-intensieve rekentaken over te dragen naar de <b>GPU</b> .</p>
+{{< /blocks/products/pf/tab-content >}}
 
 <!--Diagrams Start-->
-{{< blocks/products/pf/i18n/carousel >}}
+{{< blocks/products/pf/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="In een oogopslag" description="Een overzicht van de mogelijkheden van API." >}}
+{{< blocks/products/pf/carousel-item h3="In een oogopslag" description="Een korte samenvatting van de mogelijkheden voor optische tekenherkenning." >}}
 <div class="diagram1 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -37,7 +36,7 @@ description: C# ASP.NET VB.NET Optische tekenherkenning OCR-bibliotheek voor het
      Times New Roman
     </li>
     <li>
-     Koerier Nieuw
+     Courier New
     </li>
     <li>
      Tahoma
@@ -56,13 +55,13 @@ description: C# ASP.NET VB.NET Optische tekenherkenning OCR-bibliotheek voor het
    </header>
    <ul>
     <li>
-     Normaal
+     Normaal lettertype
     </li>
     <li>
-     Vetgedrukt
+     Dikgedrukt lettertype
     </li>
     <li>
-     Cursief
+     cursief lettertype
     </li>
    </ul>
   </div>
@@ -75,37 +74,40 @@ description: C# ASP.NET VB.NET Optische tekenherkenning OCR-bibliotheek voor het
    </header>
    <ul>
     <li>
-     Engels
+     de Engelse taal
     </li>
     <li>
-     Chinese
+     Chinese taal
     </li>
     <li>
-     Duits
+     Duitse taal
     </li>
     <li>
-     Frans
+     Franse taal
     </li>
     <li>
-     Italiaans
+     Italiaanse taal
     </li>
     <li>
-     Spaans
+     Spaanse taal
     </li>
     <li>
-     Portugees
+     Russische taal
     </li>
     <li>
      Tsjechisch
     </li>
     <li>
-     Pools
+     Poolse taal
     </li>
     <li>
-     Nederlands
+     Oekraïnse taal
     </li>
     <li>
-     Ests
+     Nederlandse taal
+    </li>
+    <li>
+     Estse taal
     </li>
     <li>
      en 10+ meer
@@ -134,32 +136,61 @@ description: C# ASP.NET VB.NET Optische tekenherkenning OCR-bibliotheek voor het
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Platformonafhankelijkheid" description="Aspose.OCR voor .NET ondersteunt het .NET-framework." >}}
+{{< blocks/products/pf/carousel-item h3="Platformonafhankelijkheid" description="Aspose.OCR voor .NET ondersteunt .NET Standard 2.0." >}}
 <div class="diagram1 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
      <header>
     <i class="fa fa-cubes">
     </i>
-    .NET Core
+    .NET-implementaties
    </header>
+   <ul>
+    <li>
+     .NET 6.0
+    </li>
+    <li>
+     .NET 5.0
+    </li>
+    <li>
+     .NET Core
+    </li>
+    <li>
+     .NET Framework
+    </li>
+    <li>
+    	Mono
+    </li>
+    <li>
+    	Xamarin
+    </li>
+   </ul>
   </div>
   <!--/left-->
   <div class="d1-col d1-right">
    <header>
     <i class="fa fa-cubes">
     </i>
-    .NET Framework
+    Toepassingen
    </header>
    <ul>
     <li>
-     ASP.NET-toepassing
+     Desktop-applicaties
     </li>
     <li>
-     Windows-toepassing
+     Windows-services
+    </li>
+    <li>
+     ASP.NET MVC
+    </li>
+    <li>
+     ASP.NET Web API
     </li>
     <li>
      Webservices
+    </li>
+    <li>
+     Cloud diensten
     </li>
    </ul>
   </div>
@@ -167,7 +198,7 @@ description: C# ASP.NET VB.NET Optische tekenherkenning OCR-bibliotheek voor het
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img width="70" height="75" alt=".NET OCR-API" src="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-net.svg"/>
+  <img width="70" height="75" alt=".NET OCR API" src="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-net.svg"/>
   <header>
    Aspose.OCR
   </header>
@@ -185,14 +216,14 @@ description: C# ASP.NET VB.NET Optische tekenherkenning OCR-bibliotheek voor het
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Ondersteunde bestandsindelingen" description="Aspose.OCR voor .NET ondersteunt de meest gebruikte afbeelding [bestandsformaten](https://docs.aspose.com/ocr/net/supported-file-formats/)." >}}
+{{< blocks/products/pf/carousel-item h3="Ondersteunde bestandsindelingen" description="Converteer [elk bestand](https://docs.aspose.com/ocr/net/supported-file-formats/) dat u van een scanner of camera krijgt naar de meest populaire document- en gegevensuitwisselingsformaten." >}}
 <div class="diagram1 d2 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-long-arrow-down">
     </i>
-    Alleen invoer
+    Bronbestanden
    </header>
    <ul>
     <li>
@@ -205,13 +236,16 @@ description: C# ASP.NET VB.NET Optische tekenherkenning OCR-bibliotheek voor het
      PNG
     </li>
     <li>
+     TIFF
+    </li>
+    <li>
      GIF
     </li>
     <li>
      BMP
     </li>
     <li>
-     TIFF
+     DjVu
     </li>
    </ul>
   </div>
@@ -220,13 +254,15 @@ description: C# ASP.NET VB.NET Optische tekenherkenning OCR-bibliotheek voor het
    <header>
     <i class="fa fa-mail-forward">
     </i>
-    Alleen uitvoer
+    Erkenningsresultaten
    </header>
    <ul>
-    <li>PDF</li>
-    <li>DOCX</li>
-    <li>XLSX</li>
-    <li>TXT</li>
+    <li>Doorzoekbare PDF</li>
+    <li>Microsoft Word</li>
+    <li>Microsoft Excel</li>
+    <li>Platte tekst</li>
+    <li>JSON</li>
+    <li>XML</li>
    </ul>
   </div>
   <!--/right-->
@@ -251,7 +287,7 @@ description: C# ASP.NET VB.NET Optische tekenherkenning OCR-bibliotheek voor het
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< /blocks/products/pf/i18n/carousel >}}
+{{< /blocks/products/pf/carousel >}}
 <!--Diagrams End-->
 
 <!--Feature-section Start-->
@@ -261,7 +297,7 @@ description: C# ASP.NET VB.NET Optische tekenherkenning OCR-bibliotheek voor het
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
-    Advanced .NET OCR-API Features
+    Functies en mogelijkheden van Aspose.OCR voor .NET
    </h2>
    <p>
    </p>
@@ -269,206 +305,289 @@ description: C# ASP.NET VB.NET Optische tekenherkenning OCR-bibliotheek voor het
     <em class="fa fa-file-text-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Tekst of tekens uit afbeeldingen lezen
+     Converteert afbeeldingen en PDF&#39;s naar tekst
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-image ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Ondersteuning voor veelgebruikte bestandsindelingen voor afbeeldingen
+     Ondersteunt alle beeldformaten die u kunt krijgen van een scanner of camera
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-globe ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Leest talen op basis van Latijn en Cyrillisch
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-language ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Ondersteuning voor wereldwijde talen
+     Herkent meer dan 6.000 Chinese karakters
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-font ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Tekst of tekens in populaire lettertypen lezen
+     Detecteert en herkent alle populaire lettertypen
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-bold ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Ondersteuning voor letterstijlen
+     Bewaart lettertypestijlen en opmaak zorgvuldig
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-image ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Scan de hele afbeelding of een deel ervan
+     Verwerkt alleen de hele afbeelding of geselecteerde gebieden
     </p>
    </div>
    <div class="col-lg-4">
-    <em class="fa fa-refresh ico-blue fa-2x col-lg-2">
+    <em class="fa fa-map ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Geroteerde afbeeldingen scannen
+     Ondersteunt gedraaide, scheve afbeeldingen en afbeeldingen met ruis
     </p>
    </div>
    <div class="col-lg-4">
-    <em class="fa fa-filter ico-blue fa-2x col-lg-2">
+    <em class="fa fa-folder-open ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Ruisverwijderingsfilters toepassen
+     Batchherkenning van alle afbeeldingen in een map of archief
     </p>
    </div>
    <div class="col-lg-4">
-    <em class="fa fa-eye ico-blue fa-2x col-lg-2">
+    <em class="fa fa-link ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Specificeer meerdere witte lijsten
+     Herkent afbeeldingen die worden aangeboden als weblinks
     </p>
    </div>
-   
+   <div class="col-lg-4">
+    <em class="fa fa-check ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Vindt en corrigeert automatisch verkeerd gespelde woorden
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-plug ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Volledig compatibel met andere Aspose-producten
+    </p>
+   </div>
    
 <div class="col-lg-12">
 
-<h2 class="h2title">Tekst vastleggen van afbeeldingen</h2>
+<h2 class="h2title">Makkelijk te installeren</h2>
 
-<p>Voeg in slechts 2 regels code OCR-functionaliteit toe aan uw .NET-toepassingen om tekst van afbeeldingen vast te leggen. Het is echt zo simpel!</p>
+<p>Aspose.OCR voor .NET wordt gedistribueerd als een lichtgewicht NuGet-pakket of als een <a href="https://releases.aspose.com/ocr/net/">downloadbaar bestand</a> met minimale afhankelijkheden. <a href="https://docs.aspose.com/ocr/net/installation/">Installeer</a> het gewoon in uw project en u bent klaar om teksten in alle ondersteunde talen te herkennen en herkenningsresultaten op te slaan in elk van de ondersteunde formaten.</p>
+
+<p><a href="https://purchase.aspose.com/temporary-license">Vraag een tijdelijke licentie</a> aan om te beginnen met het bouwen van een volledig functionele OCR-applicatie zonder limieten en beperkingen.</p>
+
+</div>
+
+<div class="col-lg-12">
+
+<h2 class="h2title">Makkelijk te gebruiken</h2>
+
+<p>U hebt <b>drie</b> regels code nodig om de afbeelding te herkennen en het resultaat weer te geven. Ja, zo simpel is het echt!</p>
 
 <div id="code" class="codeblock">
 
-<h3>OCR-herkenning met één regel - C#</h3>
+<h3>Afbeelding naar tekst in 3 regels - C#</h3>
 
-<pre><code class="cs">// Initialiseer een instantie van AsposeOcr
-AsposeOcr api = new AsposeOcr();
+<pre><code class="cs">// OCR-engine initialiseren
+var recognitionEngine = new Aspose.OCR.AsposeOcr();
 
-// Herken afbeelding
-string result = api.RecognizeImage(dataDir + "Sampleocr.bmp");
+// Herken afbeelding naar tekst
+string result = recognitionEngine.RecognizeImage("sample.jpg");
 
-// Geef de herkende tekst weer
+// Geef het herkenningsresultaat weer
 Console.WriteLine(result);</code></pre>
 
 </div>
 
 </div>
 
-   <div class="col-lg-12">
-    <h2 class="h2title">
-     OCR uitvoeren op afbeeldingen
-    </h2>
-    <p>
-     Met Aspose.OCR voor .NET kunnen ontwikkelaars tekst en gerelateerde informatie, zoals de locatie van de tekst, extraheren uit specifieke delen van een afbeelding. Met deze functie kan de OCR-bewerking snel worden uitgevoerd op documentscans met een vergelijkbare structuur. OCR-bibliotheek voert de bewerking uit op de afbeelding met meerdere regels of een enkele regel. Hier is code de code voor enkele herkenning.
-    </p>
-    <div class="codeblock" id="code">
-     <h3>
-      OCR uitvoeren op afbeelding - C#
-     </h3>
-     <pre><code class="cs">// Het pad naar de documentenmap.
-     
-  string path = "dirPath/";
+<div class="col-lg-12">
 
-// Initialiseer een instantie van AsposeOcr
-var api = new AsposeOcr();
+<h2 class="h2title">Platformoverschrijdend</h2>
 
-// Herken afbeelding
-string result = api.RecognizeLine(path + "sample_line.png");
-
-// Druk herkende tekst van één regel af
-Console.WriteLine(result);</code></pre>
-    </div>
-   </div>
-   <div class="col-lg-12">
-    <h2 class="h2title">
-     Muti-lettertypen & amp; Ondersteuning voor stijlen:
-    </h2>
-    <p>
-     .NET OCR-API supports to recognize Text in popular fonts &amp; styles like Arial, Times New Roman, Koerier Nieuw, Verdana, Tahoma and Calibri fonts in regular, bold and italic text styles.
-    </p>
-   </div>
-   <div class="col-lg-12">
-    <h2 class="h2title">
-     Ondersteuning voor meerdere talen
-    </h2>
-    <p>
-     Aspose.OCR voor .NET ondersteunt verschillende talen, zoals Engels, Frans, Spaans en Portugees. Meer talen zullen worden ondersteund met toekomstige releases van API. Het uitvoeren van OCR-bewerkingen is hetzelfde voor alle talen, zoals het volgen van een paar regels en het uitvoeren van OCR-bewerkingen op een afbeelding met Spaanse tekst.
-    </p>
-    <div class="codeblock" id="code">
-     <h3>
-      Ondersteuning voor automatische detectie van OCR-taal - C#
-     </h3>
-     <pre><code class="cs">// documenten directory pad
-
-string dirPath = "directorypath/";
-
-// Initialiseer een instantie
-AsposeOcr ocrLanguage = new AsposeOcr();
-
-// Herken afbeelding
-string spanishText = ocrLanguage.RecognizeImage(dirPath + "SpaansOCR.bmp");
-
-// Druk de herkende tekst af
-Console.WriteLine(spanishText);</code></pre>
-    </div>
-   </div>
-   <!--<div class="col-lg-12">
-
-<h2 class="h2title">Easy to Use Noise Removal Filters</h2>
-
-<p>The library supports noise removal filters. You can apply noise removal filters before image recognition to improve the overall accuracy rate.</p>
-
-<div id="code" class="codeblock">
-
-<h3>Apply filters before processing an image - C#</h3>
-
-<pre><code class="cs">// initialize OcrEngine
-
-var engine = new Aspose.OCR.OcrEngine();
-
-// set image
-
-engine.Image = Aspose.OCR.ImageStream.FromFile(dir + "template.jpg");
-
-// create collection of filters
-
-var filters = new Aspose.OCR.CorrectionFilters();
-
-// add a few filters to the collection
-
-filters.Add(new Aspose.OCR.Filters.RemoveNoiseFilter());
-
-filters.Add(new Aspose.OCR.Filters.GaussBlurFilter());
-
-// assign collection to OcrEngine
-
-engine.Config.CorrectionFilters = filters;
-
-// do processing</code></pre>
+<p>De bibliotheek ondersteunt .NET Standard 2.0 volledig. Het betekent dat de applicaties op elk platform kunnen draaien: desktop Windows, Windows Server, macOS, Linux en cloud.</p>
 
 </div>
 
-</div>-->
-  </div>
- </div>
+<div class="col-lg-12">
+
+<h2 class="h2title">26 herkenningstalen</h2>
+
+<p>OCR API kan een groot aantal talen en alle populaire schrijfscripts herkennen, inclusief teksten met gemengde talen.</p>
+<ul>
+<li><b>Uitgebreid Latijns alfabet</b> : Kroatisch, Tsjechisch, Deens, Nederlands, Engels, Estisch, Fins, Frans, Duits, Italiaans, Lets, Litouws, Noors, Pools, Portugees, Roemeens, Slowaaks, Sloveens, Spaans, Zweeds.</li>
+<li><b>Cyrillisch alfabet</b> : Wit-Russisch, Bulgaars, Kazachs, Russisch, Servisch, Oekraïens.</li>
+<li><b>Chinees</b> : meer dan 6.000 karakters.</li>
+</ul>
+<p>U kunt de taaldetectie overlaten aan de bibliotheek of de taal zelf definiëren om de herkenningsprestaties en betrouwbaarheid te verhogen.</p>
+
+</div>
+
+<div class="col-lg-12">
+
+<h2 class="h2title">Foto&#39;s herkennen</h2>
+
+<p>De grootste barrière voor OCR-toepassingen is dat scanners niet alledaags zijn voor eindgebruikers. De API heeft krachtige ingebouwde beeldvoorbewerkingsfilters die gedraaide, scheve en ruisrijke beelden aankunnen. In combinatie met ondersteuning voor alle beeldformaten zorgt het voor een betrouwbare herkenning van zelfs smartphonefoto&#39;s. De meeste voorbewerkingen en beeldcorrecties gebeuren automatisch, dus je hoeft alleen in moeilijke gevallen in te grijpen.</p>
+
+<div id="code" class="codeblock">
+
+<h3>Automatische beeldcorrecties toepassen - C#</h3>
+
+<pre><code class="cs">// OCR-engine initialiseren
+var recognitionEngine = new Aspose.OCR.AsposeOcr();
+
+// Automatische berekening van scheefheid en contrast inschakelen
+var recognitionEngine = new Aspose.OCR.AsposeOcr();
+var recognitionSettings = new Aspose.OCR.RecognitionSettings() {
+    AutoContrast = true,
+    AutoSkew = true
+};
+
+// Herken afbeelding
+Aspose.OCR.RecognitionResult result = recognitionEngine.RecognizeImage("IMG_20220622_163123.jpg", recognitionSettings);</code></pre>
+
+</div>
+
+</div>
+
+<div class="col-lg-12">
+
+<h2 class="h2title">Universele omvormer</h2>
+
+<p>De API kan letterlijk elke afbeelding lezen die u van een scanner, camera of smartphone kunt krijgen: PDF-documenten, JPEG-, PNG-, TIFF-, GIF-, BMP-afbeeldingen en zelfs DjVu-bestanden. PDF-documenten met meerdere pagina&#39;s, TIFF- en DjVu-afbeeldingen worden volledig ondersteund. U kunt ook een afbeelding van internet aanleveren via een URL.</p>
+<p>Erkenningsresultaten worden geretourneerd in de meest populaire document- en gegevensuitwisselingsindelingen: platte tekst, PDF, Microsoft Word, Microsoft Excel, JSON en XML.</p>
+
+<div id="code" class="codeblock">
+
+<h3>Herken PDF en sla de resultaten op in JSON - C#</h3>
+
+<pre><code class="cs">// OCR-engine initialiseren
+var recognitionEngine = new Aspose.OCR.AsposeOcr();
+
+// Herken alle pagina&#39;s van gescande PDF
+var pages = recognitionEngine.RecognizePdf("sample.pdf", new Aspose.OCR.DocumentRecognitionSettings());
+
+// Voer elke pagina uit als JSON
+foreach(var page in pages)
+{
+    Console.WriteLine(page.GetJson());
+}</code></pre>
+
+</div>
+
+</div>
+
+<div class="col-lg-12">
+
+<h2 class="h2title">Resource-optimalisatie</h2>
+
+<p>Optische karakterherkenning is een arbeidsintensief proces. De API biedt zeer flexibele manieren om een balans te vinden in de klassieke triade tijd-prijs-kwaliteit:</p>
+<ul>
+	<li>Kies tussen grondige herkenning en snelle herkenning.</li>
+	<li>Geef het aantal threads op dat is toegewezen voor herkenning of laat de bibliotheek automatisch schalen naar het aantal processorcores.</li>
+	<li>Maak de CPU vrij door de berekeningen naar de GPU te verplaatsen.</li>
+</ul>
+
+<div id="code" class="codeblock">
+
+<h3>Snelle herkenning - C#</h3>
+
+<pre><code class="cs">// OCR-engine initialiseren
+var recognitionEngine = new Aspose.OCR.AsposeOcr();
+
+// Herken afbeelding in de snelste modus
+string result = recognitionEngine.RecognizeImageFast("sample.jpg");</code></pre>
+
+</div>
+
+</div>
+
+<div class="col-lg-12">
+
+<h2 class="h2title">Spellingscontrole</h2>
+
+<p>Hoewel de OCR betrouwbare resultaten oplevert, kunnen stof- en afdrukfouten ertoe leiden dat sommige symbolen niet goed worden herkend. OCR API heeft een ingebouwde spellingcontrole die automatisch verkeerd gespelde woorden vervangt en u verlost van het handmatig corrigeren van de herkenningsresultaten.</p>
+
+<div id="code" class="codeblock">
+
+<h3>Spellingcontrole herkenningsresultaten - C#</h3>
+
+<pre><code class="cs">// OCR-engine initialiseren
+var recognitionEngine = new Aspose.OCR.AsposeOcr();
+
+// Automatisch contrast inschakelen
+var recognitionEngine = new Aspose.OCR.AsposeOcr();
+var recognitionSettings = new Aspose.OCR.RecognitionSettings() {
+    AutoContrast = true
+};
+
+// Herken afbeelding
+Aspose.OCR.RecognitionResult result = recognitionEngine.RecognizeImage("sample.jpg", recognitionSettings);
+
+// Corrigeer verkeerd gespelde woorden
+string text =  result.GetSpellCheckCorrectedText();</code></pre>
+
+</div>
+
+</div>
+
+<div class="col-lg-12">
+
+<h2 class="h2title">Batchverwerking</h2>
+
+<p>OCR API bevrijdt u van het één voor één herkennen van elke afbeelding door verschillende batchverwerkingsmethoden aan te bieden waarmee u meerdere afbeeldingen in één aanroep kunt herkennen:</p>
+<ul>
+	<li>Herkenning van PDF-, TIFF- en DjVu-bestanden met meerdere pagina&#39;s.</li>
+	<li>Herkenning van alle bestanden in een map.</li>
+	<li>Herkenning van alle bestanden in een archief.</li>
+	<li>Herkenning van alle bestanden uit een lijst.</li>
+</ul>
+
+</div>
+
+<div class="col-lg-12">
+
+<h2 class="h2title">Leer door voorbeeld</h2>
+
+<p>Aspose.OCR voor .NET wordt geleverd met een aantal <a href="/ocr/net/conversion/">voorbeelden</a> geschreven in C# waarmee u snel vertrouwd raakt met de functies en mogelijkheden en u een idee krijgt van het creëren van oplossingen voor uw zakelijke behoeften.</p>
+
 </div>
 <!--Feature-section End-->
 
 {{< /blocks/products/pf/main-container >}}
 
 
-{{< blocks/products/pf/i18n/support-learning-resources >}}
+{{< blocks/products/pf/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="Leermiddelen" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Documentatie" href="https://docs.aspose.com/ocr/net/" >}}
 {{< blocks/products/pf/slr-element name="Broncode" href="https://github.com/aspose-ocr/Aspose.OCR-for-.NET" >}}
 {{< blocks/products/pf/slr-element name="API-referenties" href="https://apireference.aspose.com/net/ocr" >}}
-{{< blocks/products/pf/slr-element name="Instructievideo's" href="https://www.youtube.com/user/asposevideo" >}}
+{{< blocks/products/pf/slr-element name="Instructievideo&#39;s" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Product ondersteuning" tabId="support" >}}
 {{< blocks/products/pf/slr-element name="Gratis ondersteuning" href="https://forum.aspose.com/c/ocr" >}}
 {{< blocks/products/pf/slr-element name="Betaalde ondersteuning" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.com/category/ocr/" >}}
-{{< blocks/products/pf/slr-element name="Release Notes" href="https://docs.aspose.com/ocr/net/release-notes/" >}}
+{{< blocks/products/pf/slr-element name="Release-opmerkingen" href="https://docs.aspose.com/ocr/net/release-notes/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Waarom Aspose.OCR voor .NET?" tabId="success-stories" >}}
@@ -476,14 +595,14 @@ engine.Config.CorrectionFilters = filters;
 {{< blocks/products/pf/slr-element name="Succesverhalen" href="https://company.aspose.com/customers/success-stories/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< /blocks/products/pf/i18n/support-learning-resources >}}
+{{< /blocks/products/pf/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/ocr/net" pricingInformationLink="https://purchase.aspose.com/pricing/ocr/net" >}}
+{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/ocr/net" pricingInformationLink="https://purchase.aspose.com/pricing/ocr/net" >}}
 
-{{< blocks/products/pf/offers-section pfName="Aspose.OCR" description="Aspose.OCR biedt individuele OCR-API's voor andere populaire ontwikkelomgevingen, zoals hieronder vermeld:" >}}
+{{< blocks/products/pf/offers-section pfName="Aspose.OCR" description="Aspose biedt ook native OCR API&#39;s voor andere populaire programmeertalen:" >}}
 
-    {{< blocks/products/pf/offers-section-item link="/ocr/nl/java/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-java.svg" sdkName="Java" >}}
-    {{< blocks/products/pf/offers-section-item link="/ocr/nl/cpp/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-cpp.svg" sdkName="C++" >}}
+    {{< blocks/products/pf/offers-section-item link="/ocr/java/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-java.svg" sdkName="Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/ocr/cpp/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-cpp.svg" sdkName="C++" >}}
 
 {{< /blocks/products/pf/offers-section >}}
 
