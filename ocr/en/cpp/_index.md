@@ -457,6 +457,9 @@ size_t res_len = aspose::ocr::page_settings(image_path.c_str(), buffer, len, set
 
 </div>
 
+  </div>
+ </div>
+</div>
 <!--Feature-section End-->
 
 {{< /blocks/products/pf/main-container >}}

@@ -570,6 +570,10 @@ string text =  result.GetSpellCheckCorrectedText();</code></pre>
 <p>Aspose.OCR для .NET поставляется с рядом <a href="/ocr/net/conversion/">примеров</a> , написанных на C#, которые позволяют вам быстро ознакомиться с его функциями и возможностями и дать представление о создании решений для нужд вашего бизнеса.</p>
 
 </div>
+
+  </div>
+ </div>
+</div>
 <!--Feature-section End-->
 
 {{< /blocks/products/pf/main-container >}}

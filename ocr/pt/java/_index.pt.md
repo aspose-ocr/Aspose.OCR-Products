@@ -487,6 +487,10 @@ String result = api.RecognizePageFast("sample.jpg");</code></pre>
 </ul>
 
 </div>
+
+  </div>
+ </div>
+</div>
 <!--Feature-section End-->
 
 {{< /blocks/products/pf/main-container >}}

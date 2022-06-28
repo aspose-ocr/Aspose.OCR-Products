@@ -11,19 +11,19 @@ description: 只需不到 10 行代碼，即可將圖像和 PDF 文件的光學�
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.OCR 高代碼 API 包括" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.OCR for " title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-net.svg" productLink="https://products.aspose.com/ocr/zh-TW/net" >}}
+{{< blocks/products/pf/product pfName="Aspose.OCR for " title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-net.svg" productLink="https://products.aspose.com/ocr/zh-hant/net" >}}
 將 NuGet 包安裝到您的 .NET 項目中，並對來自桌面和 Web 應用程序的圖像和 PDF 執行 OCR。支持26種語言和識別結果的拼寫檢查。
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.OCR for " title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-java.svg" productLink="https://products.aspose.com/ocr/zh-TW/java" >}}
+{{< blocks/products/pf/product pfName="Aspose.OCR for " title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-java.svg" productLink="https://products.aspose.com/ocr/zh-hant/java" >}}
 將 OCR 功能添加到任何支持 Java 的平台。從圖像、屏幕截圖、圖像的特定區域提取富文本，並從掃描文件創建可搜索的 PDF。
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.OCR for " title="C++" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-cpp.svg" productLink="https://products.aspose.com/ocr/zh-TW/cpp" >}}
+{{< blocks/products/pf/product pfName="Aspose.OCR for " title="C++" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-cpp.svg" productLink="https://products.aspose.com/ocr/zh-hant/cpp" >}}
 使用光學字符識別功能增強您的 C++ 應用程序。 C++ 中的 OCR 從未如此簡單 - 只需 5 行代碼即可識別圖像並顯示結果。
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/center-button href="https://products.aspose.com/ocr/zh-TW/family/" innerText="查看所有高代碼 API" >}}
+{{< blocks/products/pf/center-button href="https://products.aspose.com/ocr/zh-hant/family/" innerText="查看所有高代碼 API" >}}
 
 {{< /blocks/products/pf/product-card-row >}}
 
@@ -47,15 +47,15 @@ description: 只需不到 10 行代碼，即可將圖像和 PDF 文件的光學�
 
 {{< blocks/products/pf/product-card-row title="Aspose.OCR 無代碼應用程序包括" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.OCR " title="將圖像轉換為文本" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_image-app.png" productLink="https://products.aspose.app/ocr/zh-TW/scan-image" >}}
+{{< blocks/products/pf/product pfName="Aspose.OCR " title="將圖像轉換為文本" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_image-app.png" productLink="https://products.aspose.app/ocr/zh-hant/scan-image" >}}
 將任何流行的圖像格式轉換為文本。支持 26 種基於拉丁文、西里爾文和中文腳本的語言。
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.OCR " title="將圖像轉換為 PDF" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_ocr-to-pdf.png" productLink="https://products.aspose.app/ocr/zh-TW/ocr-to-pdf" >}}
+{{< blocks/products/pf/product pfName="Aspose.OCR " title="將圖像轉換為 PDF" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_ocr-to-pdf.png" productLink="https://products.aspose.app/ocr/zh-hant/ocr-to-pdf" >}}
 使用您喜歡的瀏覽器從掃描的圖像或屏幕截圖創建可搜索的 PDF。
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.OCR " title="掃描收據" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose-scan-receipt.png" productLink="https://products.aspose.app/ocr/zh-TW/scan-receipt" >}}
+{{< blocks/products/pf/product pfName="Aspose.OCR " title="掃描收據" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose-scan-receipt.png" productLink="https://products.aspose.app/ocr/zh-hant/scan-receipt" >}}
 自動從掃描或拍照的收據中提取文本，無需手動重新輸入。
 {{< /blocks/products/pf/product >}}
 
