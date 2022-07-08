@@ -66,11 +66,18 @@ Before running the example, make sure that .NET API compatible with NET Standard
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-## Live Code Snippet
+{{< /blocks/products/pf/agp/feature-section >}}
 
+{{< blocks/products/pf/agp/feature-section >}}
 <!-- BEGIN LCS -->
-<div class="ocr-lcs">
+<div class="ocr-lcs" style="width: 100%;">
 	<style>
+		.ocr-lcs {
+			width: 100%;
+			box-sizing: border-box;
+			margin:  0 20px;
+		}
+
 		.ocr-lcs-controls {
 			display: flex;
 			flex-wrap: wrap;
@@ -91,7 +98,7 @@ Before running the example, make sure that .NET API compatible with NET Standard
 		}
 
 		.ocr-lcs-drop input {
-			display: none;
+			display: none !important;
 		}
 
 		.ocr-lcs-drop-preload {
@@ -262,6 +269,7 @@ Before running the example, make sure that .NET API compatible with NET Standard
 			margin: 25px 0 15px 0;
 		}
 	</style>
+	<h2 class="heading-border">Live Code Sample</h2>
 	<div class="ocr-lcs-controls">
 		<div class="ocr-lcs-drop" onclick="OcrLcsUpload(this);" ondragover="event.preventDefault();" ondrop="OcrLcsDropped(event,this);">
 			<input type="file" accept=".tif,.tiff" onchange="OcrLcsFileSelected(this);" />
@@ -323,7 +331,7 @@ Before running the example, make sure that .NET API compatible with NET Standard
 		</div>
 	</div>
 	<p class="ocr-lcs-disclaimer">* By uploading your files or using the service you agree with our <a href="https://about.aspose.com/legal/terms-of-use" rel="nofollow noreferrer" target="_blank">Terms of use</a> and <a href="https://about.aspose.com/legal/privacy-policy" rel="nofollow noreferrer" target="_blank">Privacy Policy</a>.</p>
-<div id="code" class="codeblock"><h3>Live code sample - C#</h3><pre><code class="cs hljs csharp"><span class="hljs-comment">// Initialize OCR engine</span>
+<div id="code" class="codeblock"><h3>Code to be executed - C#</h3><pre><code class="cs hljs csharp"><span class="hljs-comment">// Initialize OCR engine</span>
 <span class="hljs-keyword">var</span> recognitionEngine = <span class="hljs-keyword">new</span> Aspose.OCR.AsposeOcr();
 <span class="hljs-comment">// Extract text from image</span>
 <span class="hljs-built_in">string</span> result = recognitionEngine.RecognizeImage("<span class="hljs-string"><span class="ocr-lcs-code-filename-placeholder">&lt;file name&gt;</span><span class="ocr-lcs-code-filename-actual"></span></span>");
@@ -423,10 +431,7 @@ Console.WriteLine(result);</code></pre></div>
 	</script>
 </div>
 <!-- END LCS -->
-
 {{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
 
     {{< blocks/products/pf/agp/about-file-section >}}
        
