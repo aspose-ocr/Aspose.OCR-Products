@@ -66,7 +66,7 @@ Before running the example, make sure that .NET API compatible with NET Standard
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="This live code sample shows GIF to Text .NET Conversion" offSpacer="true" %}}
+## Live Code Snippet
 
 <!-- BEGIN LCS -->
 <div class="ocr-lcs">
@@ -424,7 +424,6 @@ Console.WriteLine(result);</code></pre></div>
 </div>
 <!-- END LCS -->
 
-{{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
