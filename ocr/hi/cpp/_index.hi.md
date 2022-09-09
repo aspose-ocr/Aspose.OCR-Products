@@ -6,11 +6,11 @@ description: ऑप्टिकल कैरेक्टर रिकग्न�
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="छवियों और PDF को C++ में टेक्स्ट में बदलें" h2="कोड की कुछ पंक्तियों के साथ अपने C++ अनुप्रयोगों में ऑप्टिकल कैरेक्टर रिकग्निशन (OCR) जोड़ें।" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/headers/aspose_ocr-for-cpp.svg" pfName="Aspose.OCR" subTitlepfName="for C++" downloadUrl="https://downloads.aspose.com/ocr/cpp" >}}
+{{< blocks/products/pf/upper-banner h1="छवियों और PDF को C++ में टेक्स्ट में बदलें" h2="कोड की कुछ पंक्तियों के साथ अपने C++ अनुप्रयोगों में ऑप्टिकल कैरेक्टर रिकग्निशन (OCR) जोड़ें।" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/headers/aspose_ocr-for-cpp.svg" pfName="Aspose.OCR" subTitlepfName="for C++" downloadUrl="https://releases.aspose.com/ocr/cpp" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.OCR" subTitlepfName="for C++" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-cpp.svg" liveDemosLink="https://products.aspose.app/ocr/family" PricingLink="https://purchase.aspose.com/pricing/ocr/cpp" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/ocr/cpp/" installationsDocsLink="https://docs.aspose.com/ocr/cpp/installation/" nugetLink="https://www.nuget.org/packages/Aspose.OCR.cpp/" nugetPackageName="Aspose.OCR.Cpp" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/ocr/cpp" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-cpp.svg" liveDemosLink="https://products.aspose.app/ocr/family" PricingLink="https://purchase.aspose.com/pricing/ocr/cpp" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/ocr/cpp/" installationsDocsLink="https://docs.aspose.com/ocr/cpp/installation/" nugetLink="https://www.nuget.org/packages/Aspose.OCR.cpp/" nugetPackageName="Aspose.OCR.Cpp" mavenRepoLink="https://repository.aspose.com/ocr/" directDownloadLink="https://releases.aspose.com/ocr/cpp" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p align="justify">
@@ -487,7 +487,7 @@ size_t res_len = aspose::ocr::page_settings(image_path.c_str(), buffer, len, set
 
 {{< /blocks/products/pf/support-learning-resources >}}
 
-{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/ocr/cpp" pricingInformationLink="https://purchase.aspose.com/pricing/ocr/cpp" >}}
+{{< blocks/products/pf/download-section downloadFreeTrialLink="https://releases.aspose.com/ocr/cpp" pricingInformationLink="https://purchase.aspose.com/pricing/ocr/cpp" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.OCR" description="Aspose अन्य लोकप्रिय प्रोग्रामिंग भाषाओं के लिए मूल OCR API भी प्रदान करता है:" >}}
 

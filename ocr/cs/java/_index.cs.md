@@ -6,11 +6,11 @@ description: Knihovna OCR, která umožňuje aplikacím Java pro různé platfor
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Převeďte obrázky a PDF na text v Javě" h2="Snadno vytvářejte multiplatformní aplikace Java s funkcemi optického rozpoznávání znaků (OCR)." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/headers/aspose_ocr-for-java.svg" pfName="Aspose.OCR" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/ocr/java" >}}
+{{< blocks/products/pf/upper-banner h1="Převeďte obrázky a PDF na text v Javě" h2="Snadno vytvářejte multiplatformní aplikace Java s funkcemi optického rozpoznávání znaků (OCR)." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/headers/aspose_ocr-for-java.svg" pfName="Aspose.OCR" subTitlepfName="for Java" downloadUrl="https://releases.aspose.com/ocr/java" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.OCR" subTitlepfName="for Java" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-java.svg" liveDemosLink="https://products.aspose.app/ocr/family" PricingLink="https://purchase.aspose.com/pricing/ocr/java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/ocr/java/" installationsDocsLink="https://docs.aspose.com/ocr/java/installation/" nugetLink="" nugetPackageName="" mavenRepoLink="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-ocr" directDownloadLink="https://downloads.aspose.com/ocr/java" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-java.svg" liveDemosLink="https://products.aspose.app/ocr/family" PricingLink="https://purchase.aspose.com/pricing/ocr/java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/ocr/java/" installationsDocsLink="https://docs.aspose.com/ocr/java/installation/" nugetLink="" nugetPackageName="" mavenRepoLink="https://repository.aspose.com/ocr/" directDownloadLink="https://releases.aspose.com/ocr/java" >}}
 
 {{< blocks/products/pf/tab-content >}}
 
@@ -367,7 +367,7 @@ description: Knihovna OCR, která umožňuje aplikacím Java pro různé platfor
 
 <h2 class="h2title">Snadná instalace</h2>
 
-<p>Aspose.OCR for Java můžete použít přímo z projektu založeného na <a href="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-ocr">Maven</a> podle jednoduchých <a href="https://docs.aspose.com/ocr/java/installation/">pokynů k instalaci</a> .</p>
+<p>Aspose.OCR for Java můžete použít přímo z projektu založeného na <a href="https://repository.aspose.com/ocr/">Maven</a> podle jednoduchých <a href="https://docs.aspose.com/ocr/java/installation/">pokynů k instalaci</a> .</p>
 
 <p><a href="https://purchase.aspose.com/temporary-license">Požádejte o dočasnou licenci</a> , abyste mohli začít budovat plně funkční OCR aplikaci bez jakýchkoli omezení a omezení.</p>
 
@@ -518,7 +518,7 @@ String result = api.RecognizePageFast("sample.jpg");</code></pre>
 
 {{< /blocks/products/pf/support-learning-resources >}}
 
-{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/ocr/java" pricingInformationLink="https://purchase.aspose.com/pricing/ocr/java" >}}
+{{< blocks/products/pf/download-section downloadFreeTrialLink="https://releases.aspose.com/ocr/java" pricingInformationLink="https://purchase.aspose.com/pricing/ocr/java" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.OCR" description="Aspose také nabízí nativní rozhraní OCR API pro další oblíbené programovací jazyky:" >}}
 

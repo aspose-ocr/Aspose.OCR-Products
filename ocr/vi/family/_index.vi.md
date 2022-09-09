@@ -6,7 +6,7 @@ description: Chuyển đổi hình ảnh được quét, ảnh chụp màn hình
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Chuyển đổi hình ảnh và PDF sang văn bản" h2="Thư viện OCR cho máy tính để bàn và ứng dụng web được viết bằng C #, Java và C ++." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr.svg" pfName="Aspose.OCR" downloadUrl="https://downloads.aspose.com/ocr" tryOnlineUrl="https://products.aspose.app/ocr/vi/scan-image" >}}
+{{< blocks/products/pf/upper-banner h1="Chuyển đổi hình ảnh và PDF sang văn bản" h2="Thư viện OCR cho máy tính để bàn và ứng dụng web được viết bằng C #, Java và C ++." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr.svg" pfName="Aspose.OCR" downloadUrl="https://releases.aspose.com/ocr" tryOnlineUrl="https://products.aspose.app/ocr/vi/scan-image" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Bao gồm API mã cao Aspose.OCR" >}}
@@ -47,6 +47,6 @@ C và C ++ OCR API cho phép bạn chuyển đổi hình ảnh và PDF thành v�
 
 {{< /blocks/products/pf/support-learning-resources >}}
 
-{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/ocr" pricingInformationLink="https://purchase.aspose.com/pricing/ocr/family" >}}
+{{< blocks/products/pf/download-section downloadFreeTrialLink="https://releases.aspose.com/ocr" pricingInformationLink="https://purchase.aspose.com/pricing/ocr/family" >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -6,11 +6,11 @@ description: Knihovna OCR, která umožňuje desktopovým a webovým aplikacím 
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Převeďte obrázky a PDF na text v .NET" h2="Přidejte do svých aplikací .NET pomocí několika řádků kódu optické rozpoznávání znaků (OCR)." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/headers/aspose_ocr-for-net.svg" pfName="Aspose.OCR" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/ocr/net" >}}
+{{< blocks/products/pf/upper-banner h1="Převeďte obrázky a PDF na text v .NET" h2="Přidejte do svých aplikací .NET pomocí několika řádků kódu optické rozpoznávání znaků (OCR)." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/headers/aspose_ocr-for-net.svg" pfName="Aspose.OCR" subTitlepfName="for .NET" downloadUrl="https://releases.aspose.com/ocr/net" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.OCR" subTitlepfName="for .NET" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-net.svg" liveDemosLink="https://products.aspose.app/ocr/family" PricingLink="https://purchase.aspose.com/pricing/ocr/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/ocr/net/" installationsDocsLink="https://docs.aspose.com/ocr/net/installation/" nugetLink="https://www.nuget.org/packages/Aspose.OCR/" nugetPackageName="Aspose.OCR" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/ocr/net" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-net.svg" liveDemosLink="https://products.aspose.app/ocr/family" PricingLink="https://purchase.aspose.com/pricing/ocr/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/ocr/net/" installationsDocsLink="https://docs.aspose.com/ocr/net/installation/" nugetLink="https://www.nuget.org/packages/Aspose.OCR/" nugetPackageName="Aspose.OCR" mavenRepoLink="https://repository.aspose.com/ocr/" directDownloadLink="https://releases.aspose.com/ocr/net" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>Aspose.OCR for .NET je výkonné, ale snadno použitelné a cenově výhodné API pro optické rozpoznávání znaků. S ním můžete do svých aplikací .NET přidat funkce OCR v méně než 5 řádcích kódu, aniž byste se museli starat o složitou matematiku, neuronové sítě a další technické detaily. Naše zkušenosti s technologiemi strojového učení a roky vývoje vyústily v OCR engine s vynikající rychlostí a přesností, který podporuje <b>26</b> jazyků založených na <b>latince</b> a <b>cyrilici</b> a také <b>čínštinu</b> . OCR API dokáže rozpoznat naskenované obrázky, fotografie smartphonu, snímky obrazovky, oblasti obrázků a naskenované soubory PDF a vrátit výsledky v nejoblíbenějších formátech pro výměnu dokumentů a dat. Různé filtry předběžného zpracování umožňují rozpoznat otočené, zkosené a zašuměné obrázky. Výkon rozpoznávání a zatížení systému lze dále zlepšit přenesením výpočetních úloh náročných na zdroje na <b>GPU</b> .</p>
@@ -601,7 +601,7 @@ string text =  result.GetSpellCheckCorrectedText();</code></pre>
 
 {{< /blocks/products/pf/support-learning-resources >}}
 
-{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/ocr/net" pricingInformationLink="https://purchase.aspose.com/pricing/ocr/net" >}}
+{{< blocks/products/pf/download-section downloadFreeTrialLink="https://releases.aspose.com/ocr/net" pricingInformationLink="https://purchase.aspose.com/pricing/ocr/net" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.OCR" description="Aspose také nabízí nativní rozhraní OCR API pro další oblíbené programovací jazyky:" >}}
 

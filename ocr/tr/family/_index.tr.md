@@ -6,7 +6,7 @@ description: Yerel OCR API&#39;lerini kullanarak taranan görüntüleri, ekran g
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Görüntüleri ve PDF&#39;leri Metne Dönüştür" h2="C#, Java ve C++ ile yazılmış masaüstü ve web uygulamaları için OCR kitaplıkları." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr.svg" pfName="Aspose.OCR" downloadUrl="https://downloads.aspose.com/ocr" tryOnlineUrl="https://products.aspose.app/ocr/tr/scan-image" >}}
+{{< blocks/products/pf/upper-banner h1="Görüntüleri ve PDF&#39;leri Metne Dönüştür" h2="C#, Java ve C++ ile yazılmış masaüstü ve web uygulamaları için OCR kitaplıkları." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr.svg" pfName="Aspose.OCR" downloadUrl="https://releases.aspose.com/ocr" tryOnlineUrl="https://products.aspose.app/ocr/tr/scan-image" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.OCR Yüksek Kod API&#39;leri şunları içerir:" >}}
@@ -47,6 +47,6 @@ Hem Windows hem de Linux&#39;ta görüntüleri ve PDF&#39;leri metne dönüştü
 
 {{< /blocks/products/pf/support-learning-resources >}}
 
-{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/ocr" pricingInformationLink="https://purchase.aspose.com/pricing/ocr/family" >}}
+{{< blocks/products/pf/download-section downloadFreeTrialLink="https://releases.aspose.com/ocr" pricingInformationLink="https://purchase.aspose.com/pricing/ocr/family" >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

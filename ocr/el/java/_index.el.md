@@ -6,11 +6,11 @@ description: Μια βιβλιοθήκη OCR που επιτρέπει σε εφ
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Μετατροπή εικόνων και PDF σε κείμενο σε Java" h2="Δημιουργήστε εύκολα εφαρμογές Java σε πολλαπλές πλατφόρμες με δυνατότητες οπτικής αναγνώρισης χαρακτήρων (OCR)." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/headers/aspose_ocr-for-java.svg" pfName="Aspose.OCR" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/ocr/java" >}}
+{{< blocks/products/pf/upper-banner h1="Μετατροπή εικόνων και PDF σε κείμενο σε Java" h2="Δημιουργήστε εύκολα εφαρμογές Java σε πολλαπλές πλατφόρμες με δυνατότητες οπτικής αναγνώρισης χαρακτήρων (OCR)." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/headers/aspose_ocr-for-java.svg" pfName="Aspose.OCR" subTitlepfName="for Java" downloadUrl="https://releases.aspose.com/ocr/java" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.OCR" subTitlepfName="for Java" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-java.svg" liveDemosLink="https://products.aspose.app/ocr/family" PricingLink="https://purchase.aspose.com/pricing/ocr/java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/ocr/java/" installationsDocsLink="https://docs.aspose.com/ocr/java/installation/" nugetLink="" nugetPackageName="" mavenRepoLink="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-ocr" directDownloadLink="https://downloads.aspose.com/ocr/java" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-java.svg" liveDemosLink="https://products.aspose.app/ocr/family" PricingLink="https://purchase.aspose.com/pricing/ocr/java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/ocr/java/" installationsDocsLink="https://docs.aspose.com/ocr/java/installation/" nugetLink="" nugetPackageName="" mavenRepoLink="https://repository.aspose.com/ocr/" directDownloadLink="https://releases.aspose.com/ocr/java" >}}
 
 {{< blocks/products/pf/tab-content >}}
 
@@ -367,7 +367,7 @@ description: Μια βιβλιοθήκη OCR που επιτρέπει σε εφ
 
 <h2 class="h2title">Εύκολο στην εγκατάσταση</h2>
 
-<p>Μπορείτε να χρησιμοποιήσετε το Aspose.OCR για Java απευθείας από ένα έργο που βασίζεται στο <a href="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-ocr">Maven</a> ακολουθώντας απλές <a href="https://docs.aspose.com/ocr/java/installation/">οδηγίες εγκατάστασης</a> .</p>
+<p>Μπορείτε να χρησιμοποιήσετε το Aspose.OCR για Java απευθείας από ένα έργο που βασίζεται στο <a href="https://repository.aspose.com/ocr/">Maven</a> ακολουθώντας απλές <a href="https://docs.aspose.com/ocr/java/installation/">οδηγίες εγκατάστασης</a> .</p>
 
 <p><a href="https://purchase.aspose.com/temporary-license">Ζητήστε μια προσωρινή άδεια</a> για να ξεκινήσετε τη δημιουργία μιας πλήρως λειτουργικής εφαρμογής OCR χωρίς περιορισμούς και περιορισμούς.</p>
 
@@ -518,7 +518,7 @@ String result = api.RecognizePageFast("sample.jpg");</code></pre>
 
 {{< /blocks/products/pf/support-learning-resources >}}
 
-{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/ocr/java" pricingInformationLink="https://purchase.aspose.com/pricing/ocr/java" >}}
+{{< blocks/products/pf/download-section downloadFreeTrialLink="https://releases.aspose.com/ocr/java" pricingInformationLink="https://purchase.aspose.com/pricing/ocr/java" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.OCR" description="Το Aspose προσφέρει επίσης εγγενή API OCR για άλλες δημοφιλείς γλώσσες προγραμματισμού:" >}}
 

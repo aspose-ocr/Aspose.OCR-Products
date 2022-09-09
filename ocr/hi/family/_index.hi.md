@@ -6,7 +6,7 @@ description: देशी ओसीआर एपीआई का उपयोग
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="इमेज और पीडीएफ़ को टेक्स्ट में बदलें" h2="डेस्कटॉप और वेब अनुप्रयोगों के लिए OCR पुस्तकालय C#, Java और C++ में लिखे गए हैं।" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr.svg" pfName="Aspose.OCR" downloadUrl="https://downloads.aspose.com/ocr" tryOnlineUrl="https://products.aspose.app/ocr/hi/scan-image" >}}
+{{< blocks/products/pf/upper-banner h1="इमेज और पीडीएफ़ को टेक्स्ट में बदलें" h2="डेस्कटॉप और वेब अनुप्रयोगों के लिए OCR पुस्तकालय C#, Java और C++ में लिखे गए हैं।" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr.svg" pfName="Aspose.OCR" downloadUrl="https://releases.aspose.com/ocr" tryOnlineUrl="https://products.aspose.app/ocr/hi/scan-image" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.OCR हाई कोड API में शामिल हैं" >}}
@@ -47,6 +47,6 @@ NuGet पैकेज या स्टैंडअलोन लाइब्र�
 
 {{< /blocks/products/pf/support-learning-resources >}}
 
-{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/ocr" pricingInformationLink="https://purchase.aspose.com/pricing/ocr/family" >}}
+{{< blocks/products/pf/download-section downloadFreeTrialLink="https://releases.aspose.com/ocr" pricingInformationLink="https://purchase.aspose.com/pricing/ocr/family" >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -6,11 +6,11 @@ description: Een OCR-bibliotheek waarmee C#-, F#- of Visual Basic-desktop- en we
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Converteer afbeeldingen en PDF&#39;s naar tekst in .NET" h2="Voeg optische tekenherkenning (OCR) toe aan uw .NET-toepassingen met een paar regels code." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/headers/aspose_ocr-for-net.svg" pfName="Aspose.OCR" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/ocr/net" >}}
+{{< blocks/products/pf/upper-banner h1="Converteer afbeeldingen en PDF&#39;s naar tekst in .NET" h2="Voeg optische tekenherkenning (OCR) toe aan uw .NET-toepassingen met een paar regels code." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/headers/aspose_ocr-for-net.svg" pfName="Aspose.OCR" subTitlepfName="for .NET" downloadUrl="https://releases.aspose.com/ocr/net" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.OCR" subTitlepfName="for .NET" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-net.svg" liveDemosLink="https://products.aspose.app/ocr/family" PricingLink="https://purchase.aspose.com/pricing/ocr/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/ocr/net/" installationsDocsLink="https://docs.aspose.com/ocr/net/installation/" nugetLink="https://www.nuget.org/packages/Aspose.OCR/" nugetPackageName="Aspose.OCR" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/ocr/net" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-net.svg" liveDemosLink="https://products.aspose.app/ocr/family" PricingLink="https://purchase.aspose.com/pricing/ocr/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/ocr/net/" installationsDocsLink="https://docs.aspose.com/ocr/net/installation/" nugetLink="https://www.nuget.org/packages/Aspose.OCR/" nugetPackageName="Aspose.OCR" mavenRepoLink="https://repository.aspose.com/ocr/" directDownloadLink="https://releases.aspose.com/ocr/net" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>Aspose.OCR voor .NET is een krachtige maar gebruiksvriendelijke en kosteneffectieve API voor optische tekenherkenning. Hiermee kunt u OCR-functionaliteit aan uw .NET-toepassingen toevoegen in minder dan 5 regels code zonder u zorgen te maken over complexe wiskunde, neurale netwerken en andere technische details. Onze ervaring in machine learning-technologieën en jarenlange ontwikkeling hebben geresulteerd in een OCR-engine met superieure snelheid en nauwkeurigheid die <b>26</b> talen ondersteunt op basis van <b>Latijnse</b> en <b>Cyrillische</b> scripts, evenals <b>Chinees</b> . OCR API kan gescande afbeeldingen, smartphonefoto&#39;s, screenshots, delen van afbeeldingen en gescande PDF&#39;s herkennen en resultaten retourneren in de meest populaire document- en gegevensuitwisselingsformaten. Met verschillende voorbewerkingsfilters kunt u geroteerde, scheve en ruisrijke afbeeldingen herkennen. Herkenningsprestaties en systeembelasting kunnen verder worden verbeterd door resource-intensieve rekentaken over te dragen naar de <b>GPU</b> .</p>
@@ -601,7 +601,7 @@ string text =  result.GetSpellCheckCorrectedText();</code></pre>
 
 {{< /blocks/products/pf/support-learning-resources >}}
 
-{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/ocr/net" pricingInformationLink="https://purchase.aspose.com/pricing/ocr/net" >}}
+{{< blocks/products/pf/download-section downloadFreeTrialLink="https://releases.aspose.com/ocr/net" pricingInformationLink="https://purchase.aspose.com/pricing/ocr/net" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.OCR" description="Aspose biedt ook native OCR API&#39;s voor andere populaire programmeertalen:" >}}
 

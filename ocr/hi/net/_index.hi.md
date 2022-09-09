@@ -6,11 +6,11 @@ description: एक ओसीआर पुस्तकालय जो सी#, 
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="छवियों और PDF को .NET में टेक्स्ट में बदलें" h2="कोड की कुछ पंक्तियों के साथ अपने .NET अनुप्रयोगों में ऑप्टिकल कैरेक्टर रिकग्निशन (OCR) जोड़ें।" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/headers/aspose_ocr-for-net.svg" pfName="Aspose.OCR" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/ocr/net" >}}
+{{< blocks/products/pf/upper-banner h1="छवियों और PDF को .NET में टेक्स्ट में बदलें" h2="कोड की कुछ पंक्तियों के साथ अपने .NET अनुप्रयोगों में ऑप्टिकल कैरेक्टर रिकग्निशन (OCR) जोड़ें।" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/headers/aspose_ocr-for-net.svg" pfName="Aspose.OCR" subTitlepfName="for .NET" downloadUrl="https://releases.aspose.com/ocr/net" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.OCR" subTitlepfName="for .NET" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-net.svg" liveDemosLink="https://products.aspose.app/ocr/family" PricingLink="https://purchase.aspose.com/pricing/ocr/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/ocr/net/" installationsDocsLink="https://docs.aspose.com/ocr/net/installation/" nugetLink="https://www.nuget.org/packages/Aspose.OCR/" nugetPackageName="Aspose.OCR" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/ocr/net" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-net.svg" liveDemosLink="https://products.aspose.app/ocr/family" PricingLink="https://purchase.aspose.com/pricing/ocr/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/ocr/net/" installationsDocsLink="https://docs.aspose.com/ocr/net/installation/" nugetLink="https://www.nuget.org/packages/Aspose.OCR/" nugetPackageName="Aspose.OCR" mavenRepoLink="https://repository.aspose.com/ocr/" directDownloadLink="https://releases.aspose.com/ocr/net" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>.NET के लिए Aspose.OCR ऑप्टिकल कैरेक्टर रिकग्निशन के लिए एक शक्तिशाली लेकिन उपयोग में आसान और लागत प्रभावी एपीआई है। इसके साथ, आप जटिल गणित, तंत्रिका नेटवर्क और अन्य तकनीकी विवरणों की चिंता किए बिना कोड की 5 से कम पंक्तियों में अपने .NET अनुप्रयोगों में OCR कार्यक्षमता जोड़ सकते हैं। मशीन लर्निंग प्रौद्योगिकियों और विकास के वर्षों में हमारे अनुभव के परिणामस्वरूप बेहतर गति और सटीकता के साथ एक ओसीआर इंजन मिला है जो <b>लैटिन</b> और <b>सिरिलिक</b> स्क्रिप्स के साथ-साथ <b>चीनी</b> पर आधारित <b>26</b> भाषाओं का समर्थन करता है। ओसीआर एपीआई स्कैन की गई छवियों, स्मार्टफोन फोटो, स्क्रीनशॉट, छवियों के क्षेत्रों और स्कैन किए गए पीडीएफ को पहचान सकता है और सबसे लोकप्रिय दस्तावेज़ और डेटा एक्सचेंज प्रारूपों में परिणाम लौटा सकता है। विभिन्न प्री-प्रोसेसिंग फ़िल्टर आपको घुमाए गए, तिरछी और शोर वाली छवियों को पहचानने की अनुमति देते हैं। संसाधन गहन कम्प्यूटेशनल कार्यों को <b>GPU</b> में स्थानांतरित करके मान्यता प्रदर्शन और सिस्टम लोड को और बेहतर बनाया जा सकता है।</p>
@@ -601,7 +601,7 @@ string text =  result.GetSpellCheckCorrectedText();</code></pre>
 
 {{< /blocks/products/pf/support-learning-resources >}}
 
-{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/ocr/net" pricingInformationLink="https://purchase.aspose.com/pricing/ocr/net" >}}
+{{< blocks/products/pf/download-section downloadFreeTrialLink="https://releases.aspose.com/ocr/net" pricingInformationLink="https://purchase.aspose.com/pricing/ocr/net" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.OCR" description="Aspose अन्य लोकप्रिय प्रोग्रामिंग भाषाओं के लिए मूल OCR API भी प्रदान करता है:" >}}
 

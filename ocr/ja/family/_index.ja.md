@@ -6,7 +6,7 @@ description: ネイティブOCRAPIを使用して、スキャンした画像、�
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="画像とPDFをテキストに変換する" h2="C＃、Java、およびC++で記述されたデスクトップおよびWebアプリケーション用のOCRライブラリ。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr.svg" pfName="Aspose.OCR" downloadUrl="https://downloads.aspose.com/ocr" tryOnlineUrl="https://products.aspose.app/ocr/ja/scan-image" >}}
+{{< blocks/products/pf/upper-banner h1="画像とPDFをテキストに変換する" h2="C＃、Java、およびC++で記述されたデスクトップおよびWebアプリケーション用のOCRライブラリ。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr.svg" pfName="Aspose.OCR" downloadUrl="https://releases.aspose.com/ocr" tryOnlineUrl="https://products.aspose.app/ocr/ja/scan-image" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.OCRハイコードAPIには次のものが含まれます" >}}
@@ -47,6 +47,6 @@ WindowsとLinuxの両方で画像とPDFをテキストに変換できるCおよ�
 
 {{< /blocks/products/pf/support-learning-resources >}}
 
-{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/ocr" pricingInformationLink="https://purchase.aspose.com/pricing/ocr/family" >}}
+{{< blocks/products/pf/download-section downloadFreeTrialLink="https://releases.aspose.com/ocr" pricingInformationLink="https://purchase.aspose.com/pricing/ocr/family" >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

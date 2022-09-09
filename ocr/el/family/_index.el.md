@@ -6,7 +6,7 @@ description: Μετατρέψτε σαρωμένες εικόνες, στιγμ�
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Μετατροπή εικόνων και αρχείων PDF σε κείμενο" h2="Βιβλιοθήκες OCR για επιτραπέζιους υπολογιστές και εφαρμογές ιστού γραμμένες σε C#, Java και C++." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr.svg" pfName="Aspose.OCR" downloadUrl="https://downloads.aspose.com/ocr" tryOnlineUrl="https://products.aspose.app/ocr/el/scan-image" >}}
+{{< blocks/products/pf/upper-banner h1="Μετατροπή εικόνων και αρχείων PDF σε κείμενο" h2="Βιβλιοθήκες OCR για επιτραπέζιους υπολογιστές και εφαρμογές ιστού γραμμένες σε C#, Java και C++." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr.svg" pfName="Aspose.OCR" downloadUrl="https://releases.aspose.com/ocr" tryOnlineUrl="https://products.aspose.app/ocr/el/scan-image" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.OCR High Code APIs Include" >}}
@@ -47,6 +47,6 @@ C και C++ OCR API που σας επιτρέπει να μετατρέπετ�
 
 {{< /blocks/products/pf/support-learning-resources >}}
 
-{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/ocr" pricingInformationLink="https://purchase.aspose.com/pricing/ocr/family" >}}
+{{< blocks/products/pf/download-section downloadFreeTrialLink="https://releases.aspose.com/ocr" pricingInformationLink="https://purchase.aspose.com/pricing/ocr/family" >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

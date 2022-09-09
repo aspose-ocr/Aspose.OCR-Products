@@ -6,11 +6,11 @@ description: 一個 OCR 庫，允許 C#、F# 或 Visual Basic 桌面和 Web 應�
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="在 .NET 中將圖像和 PDF 轉換為文本" h2="只需幾行代碼，即可將光學字符識別 (OCR) 添加到您的 .NET 應用程序中。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/headers/aspose_ocr-for-net.svg" pfName="Aspose.OCR" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/ocr/net" >}}
+{{< blocks/products/pf/upper-banner h1="在 .NET 中將圖像和 PDF 轉換為文本" h2="只需幾行代碼，即可將光學字符識別 (OCR) 添加到您的 .NET 應用程序中。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/headers/aspose_ocr-for-net.svg" pfName="Aspose.OCR" subTitlepfName="for .NET" downloadUrl="https://releases.aspose.com/ocr/net" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.OCR" subTitlepfName="for .NET" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-net.svg" liveDemosLink="https://products.aspose.app/ocr/family" PricingLink="https://purchase.aspose.com/pricing/ocr/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/ocr/net/" installationsDocsLink="https://docs.aspose.com/ocr/net/installation/" nugetLink="https://www.nuget.org/packages/Aspose.OCR/" nugetPackageName="Aspose.OCR" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/ocr/net" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-net.svg" liveDemosLink="https://products.aspose.app/ocr/family" PricingLink="https://purchase.aspose.com/pricing/ocr/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/ocr/net/" installationsDocsLink="https://docs.aspose.com/ocr/net/installation/" nugetLink="https://www.nuget.org/packages/Aspose.OCR/" nugetPackageName="Aspose.OCR" mavenRepoLink="https://repository.aspose.com/ocr/" directDownloadLink="https://releases.aspose.com/ocr/net" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>Aspose.OCR for .NET 是一個功能強大但易於使用且經濟高效的光學字符識別 API。有了它，您只需不到 5 行代碼就可以將 OCR 功能添加到您的 .NET 應用程序中，而無需擔心複雜的數學、神經網絡和其他技術細節。我們在機器學習技術方面的經驗和多年的開發造就了一個具有卓越速度和準確性的 OCR 引擎，它支持<b>26</b>種基於<b>拉丁文</b>和<b>西里爾字母</b>以及<b>中文</b>的語言。 OCR API 可以識別掃描的圖像、智能手機照片、屏幕截圖、圖像區域和掃描的 PDF，並以最流行的文檔和數據交換格式返回結果。各種預處理過濾器允許您識別旋轉、傾斜和嘈雜的圖像。通過將資源密集型計算任務轉移到<b>GPU</b>可以進一步提高識別性能和系統負載。</p>
@@ -601,7 +601,7 @@ string text =  result.GetSpellCheckCorrectedText();</code></pre>
 
 {{< /blocks/products/pf/support-learning-resources >}}
 
-{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/ocr/net" pricingInformationLink="https://purchase.aspose.com/pricing/ocr/net" >}}
+{{< blocks/products/pf/download-section downloadFreeTrialLink="https://releases.aspose.com/ocr/net" pricingInformationLink="https://purchase.aspose.com/pricing/ocr/net" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.OCR" description="Aspose 還為其他流行的編程語言提供原生 OCR API：" >}}
 

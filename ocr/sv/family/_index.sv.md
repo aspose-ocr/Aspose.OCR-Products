@@ -6,7 +6,7 @@ description: Konvertera skannade bilder, skärmdumpar, bildområden och PDF-file
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Konvertera bilder och PDF-filer till text" h2="OCR-bibliotek för skrivbords- och webbapplikationer skrivna i C#, Java och C++." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr.svg" pfName="Aspose.OCR" downloadUrl="https://downloads.aspose.com/ocr" tryOnlineUrl="https://products.aspose.app/ocr/sv/scan-image" >}}
+{{< blocks/products/pf/upper-banner h1="Konvertera bilder och PDF-filer till text" h2="OCR-bibliotek för skrivbords- och webbapplikationer skrivna i C#, Java och C++." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr.svg" pfName="Aspose.OCR" downloadUrl="https://releases.aspose.com/ocr" tryOnlineUrl="https://products.aspose.app/ocr/sv/scan-image" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.OCR High Code APIs inkluderar" >}}
@@ -47,6 +47,6 @@ C och C++ OCR API som låter dig konvertera bilder och PDF-filer till text på b
 
 {{< /blocks/products/pf/support-learning-resources >}}
 
-{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/ocr" pricingInformationLink="https://purchase.aspose.com/pricing/ocr/family" >}}
+{{< blocks/products/pf/download-section downloadFreeTrialLink="https://releases.aspose.com/ocr" pricingInformationLink="https://purchase.aspose.com/pricing/ocr/family" >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

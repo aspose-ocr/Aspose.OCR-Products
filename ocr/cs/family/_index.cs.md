@@ -6,7 +6,7 @@ description: Převeďte naskenované obrázky, snímky obrazovky, oblasti obráz
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Převod obrázků a PDF na text" h2="OCR knihovny pro desktopové a webové aplikace napsané v C#, Java a C++." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr.svg" pfName="Aspose.OCR" downloadUrl="https://downloads.aspose.com/ocr" tryOnlineUrl="https://products.aspose.app/ocr/cs/scan-image" >}}
+{{< blocks/products/pf/upper-banner h1="Převod obrázků a PDF na text" h2="OCR knihovny pro desktopové a webové aplikace napsané v C#, Java a C++." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr.svg" pfName="Aspose.OCR" downloadUrl="https://releases.aspose.com/ocr" tryOnlineUrl="https://products.aspose.app/ocr/cs/scan-image" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.OCR High Code API zahrnuje" >}}
@@ -47,6 +47,6 @@ C a C++ OCR API, které umožňuje převádět obrázky a soubory PDF na text v 
 
 {{< /blocks/products/pf/support-learning-resources >}}
 
-{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/ocr" pricingInformationLink="https://purchase.aspose.com/pricing/ocr/family" >}}
+{{< blocks/products/pf/download-section downloadFreeTrialLink="https://releases.aspose.com/ocr" pricingInformationLink="https://purchase.aspose.com/pricing/ocr/family" >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

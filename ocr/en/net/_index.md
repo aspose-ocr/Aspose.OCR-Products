@@ -6,11 +6,11 @@ description: An OCR library that allows C#, F#, or Visual Basic desktop and web 
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Convert images and PDFs to text in .NET" h2="Add optical character recognition (OCR) to your .NET applications with a few lines of code." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/headers/aspose_ocr-for-net.svg" pfName="Aspose.OCR" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/ocr/net" >}}
+{{< blocks/products/pf/upper-banner h1="Convert images and PDFs to text in .NET" h2="Add optical character recognition (OCR) to your .NET applications with a few lines of code." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/headers/aspose_ocr-for-net.svg" pfName="Aspose.OCR" subTitlepfName="for .NET" downloadUrl="https://releases.aspose.com/ocr/net" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.OCR" subTitlepfName="for .NET" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-net.svg" liveDemosLink="https://products.aspose.app/ocr/family" PricingLink="https://purchase.aspose.com/pricing/ocr/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/ocr/net/" installationsDocsLink="https://docs.aspose.com/ocr/net/installation/" nugetLink="https://www.nuget.org/packages/Aspose.OCR/" nugetPackageName="Aspose.OCR" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/ocr/net" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-net.svg" liveDemosLink="https://products.aspose.app/ocr/family" PricingLink="https://purchase.aspose.com/pricing/ocr/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/ocr/net/" installationsDocsLink="https://docs.aspose.com/ocr/net/installation/" nugetLink="https://www.nuget.org/packages/Aspose.OCR/" nugetPackageName="Aspose.OCR" mavenRepoLink="https://repository.aspose.com/ocr/" directDownloadLink="https://releases.aspose.com/ocr/net" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>Aspose.OCR for .NET is a powerful yet easy-to-use and cost-effective API for optical character recognition. With it, you can add OCR functionality to your .NET applications in less than 5 lines of code without worrying about complex math, neural networks, and other technical details. Our experience in machine learning technologies and years of development resulted in an OCR engine with superior speed and accuracy that supports <b>26</b> languages based on <b>Latin</b> and <b>Cyrillic</b> scrips as well as <b>Chinese</b>. OCR API can recognize scanned images, smartphone photos, screenshots, areas of images, and scanned PDFs and return results in the most popular document and data exchange formats. Various pre-processing filters allow you to recognize rotated, skewed and noisy images. Recognition performance and system load can be further improved by transferring of resource intensive computational tasks to the <b>GPU</b>.</p>
@@ -925,6 +925,7 @@ string text =  result.GetSpellCheckCorrectedText();</code></pre>
 {{< blocks/products/pf/slr-element name="Documentation" href="https://docs.aspose.com/ocr/net/" >}}
 {{< blocks/products/pf/slr-element name="Source Code" href="https://github.com/aspose-ocr/Aspose.OCR-for-.NET" >}}
 {{< blocks/products/pf/slr-element name="API References" href="https://apireference.aspose.com/net/ocr" >}}
+{{< blocks/products/pf/slr-element name="Repository" href="https://repository.aspose.com/ocr/" >}}
 {{< blocks/products/pf/slr-element name="Tutorial Videos" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
@@ -942,7 +943,7 @@ string text =  result.GetSpellCheckCorrectedText();</code></pre>
 
 {{< /blocks/products/pf/support-learning-resources >}}
 
-{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/ocr/net" pricingInformationLink="https://purchase.aspose.com/pricing/ocr/net" >}}
+{{< blocks/products/pf/download-section downloadFreeTrialLink="https://releases.aspose.com/ocr/net" pricingInformationLink="https://purchase.aspose.com/pricing/ocr/net" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.OCR" description="Aspose also offers native OCR APIs for other popular programming languages:" >}}
 

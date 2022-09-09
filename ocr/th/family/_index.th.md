@@ -6,7 +6,7 @@ description: แปลงรูปภาพที่สแกน ภาพหน
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="แปลงรูปภาพและ PDF เป็นข้อความ" h2="ไลบรารี OCR สำหรับเดสก์ท็อปและเว็บแอปพลิเคชันที่เขียนด้วย C#, Java และ C++" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr.svg" pfName="Aspose.OCR" downloadUrl="https://downloads.aspose.com/ocr" tryOnlineUrl="https://products.aspose.app/ocr/th/scan-image" >}}
+{{< blocks/products/pf/upper-banner h1="แปลงรูปภาพและ PDF เป็นข้อความ" h2="ไลบรารี OCR สำหรับเดสก์ท็อปและเว็บแอปพลิเคชันที่เขียนด้วย C#, Java และ C++" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr.svg" pfName="Aspose.OCR" downloadUrl="https://releases.aspose.com/ocr" tryOnlineUrl="https://products.aspose.app/ocr/th/scan-image" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.OCR High Code API รวม" >}}
@@ -47,6 +47,6 @@ C และ C++ OCR API ที่ให้คุณแปลงรูปภา�
 
 {{< /blocks/products/pf/support-learning-resources >}}
 
-{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/ocr" pricingInformationLink="https://purchase.aspose.com/pricing/ocr/family" >}}
+{{< blocks/products/pf/download-section downloadFreeTrialLink="https://releases.aspose.com/ocr" pricingInformationLink="https://purchase.aspose.com/pricing/ocr/family" >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -6,7 +6,7 @@ description: Converteer gescande afbeeldingen, schermafbeeldingen, afbeeldingsge
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Afbeeldingen en pdf&#39;s naar tekst converteren" h2="OCR-bibliotheken voor desktop- en webapplicaties geschreven in C#, Java en C++." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr.svg" pfName="Aspose.OCR" downloadUrl="https://downloads.aspose.com/ocr" tryOnlineUrl="https://products.aspose.app/ocr/nl/scan-image" >}}
+{{< blocks/products/pf/upper-banner h1="Afbeeldingen en pdf&#39;s naar tekst converteren" h2="OCR-bibliotheken voor desktop- en webapplicaties geschreven in C#, Java en C++." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr.svg" pfName="Aspose.OCR" downloadUrl="https://releases.aspose.com/ocr" tryOnlineUrl="https://products.aspose.app/ocr/nl/scan-image" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.OCR High Code API&#39;s omvatten:" >}}
@@ -47,6 +47,6 @@ C en C++ OCR API waarmee u afbeeldingen en PDF&#39;s naar tekst kunt converteren
 
 {{< /blocks/products/pf/support-learning-resources >}}
 
-{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/ocr" pricingInformationLink="https://purchase.aspose.com/pricing/ocr/family" >}}
+{{< blocks/products/pf/download-section downloadFreeTrialLink="https://releases.aspose.com/ocr" pricingInformationLink="https://purchase.aspose.com/pricing/ocr/family" >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

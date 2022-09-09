@@ -6,11 +6,11 @@ description: एक OCR लाइब्रेरी जो क्रॉस-प�
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="जावा में छवियों और पीडीएफ को टेक्स्ट में बदलें" h2="ऑप्टिकल कैरेक्टर रिकग्निशन (ओसीआर) क्षमताओं के साथ आसानी से क्रॉस-प्लेटफ़ॉर्म जावा एप्लिकेशन बनाएं।" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/headers/aspose_ocr-for-java.svg" pfName="Aspose.OCR" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/ocr/java" >}}
+{{< blocks/products/pf/upper-banner h1="जावा में छवियों और पीडीएफ को टेक्स्ट में बदलें" h2="ऑप्टिकल कैरेक्टर रिकग्निशन (ओसीआर) क्षमताओं के साथ आसानी से क्रॉस-प्लेटफ़ॉर्म जावा एप्लिकेशन बनाएं।" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/headers/aspose_ocr-for-java.svg" pfName="Aspose.OCR" subTitlepfName="for Java" downloadUrl="https://releases.aspose.com/ocr/java" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.OCR" subTitlepfName="for Java" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-java.svg" liveDemosLink="https://products.aspose.app/ocr/family" PricingLink="https://purchase.aspose.com/pricing/ocr/java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/ocr/java/" installationsDocsLink="https://docs.aspose.com/ocr/java/installation/" nugetLink="" nugetPackageName="" mavenRepoLink="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-ocr" directDownloadLink="https://downloads.aspose.com/ocr/java" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-java.svg" liveDemosLink="https://products.aspose.app/ocr/family" PricingLink="https://purchase.aspose.com/pricing/ocr/java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/ocr/java/" installationsDocsLink="https://docs.aspose.com/ocr/java/installation/" nugetLink="" nugetPackageName="" mavenRepoLink="https://repository.aspose.com/ocr/" directDownloadLink="https://releases.aspose.com/ocr/java" >}}
 
 {{< blocks/products/pf/tab-content >}}
 
@@ -367,7 +367,7 @@ description: एक OCR लाइब्रेरी जो क्रॉस-प�
 
 <h2 class="h2title">इन्सटाल करना आसान</h2>
 
-<p>आप सरल <a href="https://docs.aspose.com/ocr/java/installation/">इंस्टॉलेशन निर्देशों</a> का पालन करके सीधे <a href="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-ocr">मावेन</a> आधारित प्रोजेक्ट से जावा के लिए Aspose.OCR का उपयोग कर सकते हैं।</p>
+<p>आप सरल <a href="https://docs.aspose.com/ocr/java/installation/">इंस्टॉलेशन निर्देशों</a> का पालन करके सीधे <a href="https://repository.aspose.com/ocr/">मावेन</a> आधारित प्रोजेक्ट से जावा के लिए Aspose.OCR का उपयोग कर सकते हैं।</p>
 
 <p>बिना किसी सीमा और प्रतिबंध के पूरी तरह कार्यात्मक ओसीआर एप्लिकेशन का निर्माण शुरू करने के लिए <a href="https://purchase.aspose.com/temporary-license">एक अस्थायी लाइसेंस का अनुरोध</a> करें।</p>
 
@@ -518,7 +518,7 @@ String result = api.RecognizePageFast("sample.jpg");</code></pre>
 
 {{< /blocks/products/pf/support-learning-resources >}}
 
-{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/ocr/java" pricingInformationLink="https://purchase.aspose.com/pricing/ocr/java" >}}
+{{< blocks/products/pf/download-section downloadFreeTrialLink="https://releases.aspose.com/ocr/java" pricingInformationLink="https://purchase.aspose.com/pricing/ocr/java" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.OCR" description="Aspose अन्य लोकप्रिय प्रोग्रामिंग भाषाओं के लिए मूल OCR API भी प्रदान करता है:" >}}
 

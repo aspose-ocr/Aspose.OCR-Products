@@ -6,7 +6,7 @@ description: Converta imagens digitalizadas, capturas de tela, regiões de image
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Converter imagens e PDFs em texto" h2="Bibliotecas de OCR para aplicativos de desktop e web escritos em C#, Java e C++." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr.svg" pfName="Aspose.OCR" downloadUrl="https://downloads.aspose.com/ocr" tryOnlineUrl="https://products.aspose.app/ocr/pt/scan-image" >}}
+{{< blocks/products/pf/upper-banner h1="Converter imagens e PDFs em texto" h2="Bibliotecas de OCR para aplicativos de desktop e web escritos em C#, Java e C++." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr.svg" pfName="Aspose.OCR" downloadUrl="https://releases.aspose.com/ocr" tryOnlineUrl="https://products.aspose.app/ocr/pt/scan-image" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="As APIs de alto código Aspose.OCR incluem" >}}
@@ -47,6 +47,6 @@ API OCR C e C++ que permite converter imagens e PDFs em texto no Windows e no Li
 
 {{< /blocks/products/pf/support-learning-resources >}}
 
-{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/ocr" pricingInformationLink="https://purchase.aspose.com/pricing/ocr/family" >}}
+{{< blocks/products/pf/download-section downloadFreeTrialLink="https://releases.aspose.com/ocr" pricingInformationLink="https://purchase.aspose.com/pricing/ocr/family" >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -6,11 +6,11 @@ description: Pustaka OCR yang memungkinkan aplikasi Java lintas platform mengena
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Ubah gambar dan PDF menjadi teks di Java" h2="Membuat aplikasi Java lintas platform dengan mudah dengan kemampuan optical character recognition (OCR)." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/headers/aspose_ocr-for-java.svg" pfName="Aspose.OCR" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/ocr/java" >}}
+{{< blocks/products/pf/upper-banner h1="Ubah gambar dan PDF menjadi teks di Java" h2="Membuat aplikasi Java lintas platform dengan mudah dengan kemampuan optical character recognition (OCR)." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/headers/aspose_ocr-for-java.svg" pfName="Aspose.OCR" subTitlepfName="for Java" downloadUrl="https://releases.aspose.com/ocr/java" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.OCR" subTitlepfName="for Java" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-java.svg" liveDemosLink="https://products.aspose.app/ocr/family" PricingLink="https://purchase.aspose.com/pricing/ocr/java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/ocr/java/" installationsDocsLink="https://docs.aspose.com/ocr/java/installation/" nugetLink="" nugetPackageName="" mavenRepoLink="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-ocr" directDownloadLink="https://downloads.aspose.com/ocr/java" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-java.svg" liveDemosLink="https://products.aspose.app/ocr/family" PricingLink="https://purchase.aspose.com/pricing/ocr/java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/ocr/java/" installationsDocsLink="https://docs.aspose.com/ocr/java/installation/" nugetLink="" nugetPackageName="" mavenRepoLink="https://repository.aspose.com/ocr/" directDownloadLink="https://releases.aspose.com/ocr/java" >}}
 
 {{< blocks/products/pf/tab-content >}}
 
@@ -367,7 +367,7 @@ description: Pustaka OCR yang memungkinkan aplikasi Java lintas platform mengena
 
 <h2 class="h2title">Mudah untuk Menginstal</h2>
 
-<p>Anda dapat menggunakan Aspose.OCR untuk Java langsung dari proyek berbasis <a href="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-ocr">Maven</a> dengan mengikuti <a href="https://docs.aspose.com/ocr/java/installation/">petunjuk instalasi</a> sederhana.</p>
+<p>Anda dapat menggunakan Aspose.OCR untuk Java langsung dari proyek berbasis <a href="https://repository.aspose.com/ocr/">Maven</a> dengan mengikuti <a href="https://docs.aspose.com/ocr/java/installation/">petunjuk instalasi</a> sederhana.</p>
 
 <p><a href="https://purchase.aspose.com/temporary-license">Minta lisensi sementara</a> untuk mulai membangun aplikasi OCR yang berfungsi penuh tanpa batasan dan batasan apa pun.</p>
 
@@ -518,7 +518,7 @@ String result = api.RecognizePageFast("sample.jpg");</code></pre>
 
 {{< /blocks/products/pf/support-learning-resources >}}
 
-{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/ocr/java" pricingInformationLink="https://purchase.aspose.com/pricing/ocr/java" >}}
+{{< blocks/products/pf/download-section downloadFreeTrialLink="https://releases.aspose.com/ocr/java" pricingInformationLink="https://purchase.aspose.com/pricing/ocr/java" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.OCR" description="Aspose juga menawarkan API OCR asli untuk bahasa pemrograman populer lainnya:" >}}
 

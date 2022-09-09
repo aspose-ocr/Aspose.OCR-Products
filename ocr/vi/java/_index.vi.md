@@ -6,11 +6,11 @@ description: Thư viện OCR cho phép các ứng dụng Java đa nền tảng n
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Chuyển đổi hình ảnh và PDF sang văn bản trong Java" h2="Dễ dàng tạo các ứng dụng Java đa nền tảng với khả năng nhận dạng ký tự quang học (OCR)." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/headers/aspose_ocr-for-java.svg" pfName="Aspose.OCR" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/ocr/java" >}}
+{{< blocks/products/pf/upper-banner h1="Chuyển đổi hình ảnh và PDF sang văn bản trong Java" h2="Dễ dàng tạo các ứng dụng Java đa nền tảng với khả năng nhận dạng ký tự quang học (OCR)." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/headers/aspose_ocr-for-java.svg" pfName="Aspose.OCR" subTitlepfName="for Java" downloadUrl="https://releases.aspose.com/ocr/java" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.OCR" subTitlepfName="for Java" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-java.svg" liveDemosLink="https://products.aspose.app/ocr/family" PricingLink="https://purchase.aspose.com/pricing/ocr/java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/ocr/java/" installationsDocsLink="https://docs.aspose.com/ocr/java/installation/" nugetLink="" nugetPackageName="" mavenRepoLink="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-ocr" directDownloadLink="https://downloads.aspose.com/ocr/java" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-java.svg" liveDemosLink="https://products.aspose.app/ocr/family" PricingLink="https://purchase.aspose.com/pricing/ocr/java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/ocr/java/" installationsDocsLink="https://docs.aspose.com/ocr/java/installation/" nugetLink="" nugetPackageName="" mavenRepoLink="https://repository.aspose.com/ocr/" directDownloadLink="https://releases.aspose.com/ocr/java" >}}
 
 {{< blocks/products/pf/tab-content >}}
 
@@ -367,7 +367,7 @@ description: Thư viện OCR cho phép các ứng dụng Java đa nền tảng n
 
 <h2 class="h2title">Dễ dàng để cài đặt</h2>
 
-<p>Bạn có thể sử dụng Aspose.OCR cho Java trực tiếp từ một dự án dựa trên <a href="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-ocr">Maven</a> bằng cách làm theo các <a href="https://docs.aspose.com/ocr/java/installation/">hướng dẫn cài đặt</a> đơn giản.</p>
+<p>Bạn có thể sử dụng Aspose.OCR cho Java trực tiếp từ một dự án dựa trên <a href="https://repository.aspose.com/ocr/">Maven</a> bằng cách làm theo các <a href="https://docs.aspose.com/ocr/java/installation/">hướng dẫn cài đặt</a> đơn giản.</p>
 
 <p><a href="https://purchase.aspose.com/temporary-license">Yêu cầu giấy phép tạm thời</a> để bắt đầu xây dựng một ứng dụng OCR đầy đủ chức năng mà không có bất kỳ giới hạn và hạn chế nào.</p>
 
@@ -518,7 +518,7 @@ String result = api.RecognizePageFast("sample.jpg");</code></pre>
 
 {{< /blocks/products/pf/support-learning-resources >}}
 
-{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/ocr/java" pricingInformationLink="https://purchase.aspose.com/pricing/ocr/java" >}}
+{{< blocks/products/pf/download-section downloadFreeTrialLink="https://releases.aspose.com/ocr/java" pricingInformationLink="https://purchase.aspose.com/pricing/ocr/java" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.OCR" description="Aspose cũng cung cấp các API OCR riêng cho các ngôn ngữ lập trình phổ biến khác:" >}}
 

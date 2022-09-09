@@ -6,11 +6,11 @@ description: OCR-könyvtár, amely lehetővé teszi a C#, F# vagy Visual Basic a
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Konvertálja a képeket és PDF-eket szöveggé a .NET-ben" h2="Adjon hozzá optikai karakterfelismerést (OCR) .NET-alkalmazásaihoz néhány sor kóddal." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/headers/aspose_ocr-for-net.svg" pfName="Aspose.OCR" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/ocr/net" >}}
+{{< blocks/products/pf/upper-banner h1="Konvertálja a képeket és PDF-eket szöveggé a .NET-ben" h2="Adjon hozzá optikai karakterfelismerést (OCR) .NET-alkalmazásaihoz néhány sor kóddal." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/headers/aspose_ocr-for-net.svg" pfName="Aspose.OCR" subTitlepfName="for .NET" downloadUrl="https://releases.aspose.com/ocr/net" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.OCR" subTitlepfName="for .NET" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-net.svg" liveDemosLink="https://products.aspose.app/ocr/family" PricingLink="https://purchase.aspose.com/pricing/ocr/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/ocr/net/" installationsDocsLink="https://docs.aspose.com/ocr/net/installation/" nugetLink="https://www.nuget.org/packages/Aspose.OCR/" nugetPackageName="Aspose.OCR" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/ocr/net" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-net.svg" liveDemosLink="https://products.aspose.app/ocr/family" PricingLink="https://purchase.aspose.com/pricing/ocr/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/ocr/net/" installationsDocsLink="https://docs.aspose.com/ocr/net/installation/" nugetLink="https://www.nuget.org/packages/Aspose.OCR/" nugetPackageName="Aspose.OCR" mavenRepoLink="https://repository.aspose.com/ocr/" directDownloadLink="https://releases.aspose.com/ocr/net" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>Az Aspose.OCR for .NET egy hatékony, de könnyen használható és költséghatékony API az optikai karakterfelismeréshez. Ezzel kevesebb mint 5 sornyi kóddal OCR funkciókat adhat hozzá .NET-alkalmazásaihoz anélkül, hogy bonyolult matematikai, neurális hálózatok és egyéb technikai részletek miatt kellene aggódnia. Gépi tanulási technológiák terén szerzett tapasztalatunk és több éves fejlesztés eredményeképpen egy kiemelkedő sebességű és pontosságú OCR-motor született, amely <b>26</b> nyelvet támogat <b>latin</b> és <b>cirill</b> írásmódon, valamint <b>kínaion</b> . Az OCR API felismeri a beszkennelt képeket, okostelefonos fényképeket, képernyőképeket, képterületeket és beolvasott PDF-eket, és a legnépszerűbb dokumentum- és adatcsere-formátumokban adja vissza az eredményeket. A különféle előfeldolgozó szűrők lehetővé teszik az elforgatott, ferde és zajos képek felismerését. A felismerési teljesítmény és a rendszerterhelés tovább javítható az erőforrásigényes számítási feladatok <b>GPU</b> -ra való átvitelével.</p>
@@ -601,7 +601,7 @@ string text =  result.GetSpellCheckCorrectedText();</code></pre>
 
 {{< /blocks/products/pf/support-learning-resources >}}
 
-{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/ocr/net" pricingInformationLink="https://purchase.aspose.com/pricing/ocr/net" >}}
+{{< blocks/products/pf/download-section downloadFreeTrialLink="https://releases.aspose.com/ocr/net" pricingInformationLink="https://purchase.aspose.com/pricing/ocr/net" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.OCR" description="Az Aspose natív OCR API-kat is kínál más népszerű programozási nyelvekhez:" >}}
 

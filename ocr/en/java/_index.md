@@ -6,11 +6,11 @@ description: An OCR library that allows cross-platform Java apps to recognize te
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Convert images and PDFs to text in Java" h2="Easily create cross-platform Java applications with optical character recognition (OCR) capabilities." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/headers/aspose_ocr-for-java.svg" pfName="Aspose.OCR" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/ocr/java" >}}
+{{< blocks/products/pf/upper-banner h1="Convert images and PDFs to text in Java" h2="Easily create cross-platform Java applications with optical character recognition (OCR) capabilities." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/headers/aspose_ocr-for-java.svg" pfName="Aspose.OCR" subTitlepfName="for Java" downloadUrl="https://releases.aspose.com/ocr/java" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.OCR" subTitlepfName="for Java" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-java.svg" liveDemosLink="https://products.aspose.app/ocr/family" PricingLink="https://purchase.aspose.com/pricing/ocr/java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/ocr/java/" installationsDocsLink="https://docs.aspose.com/ocr/java/installation/" nugetLink="" nugetPackageName="" mavenRepoLink="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-ocr" directDownloadLink="https://downloads.aspose.com/ocr/java" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-java.svg" liveDemosLink="https://products.aspose.app/ocr/family" PricingLink="https://purchase.aspose.com/pricing/ocr/java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/ocr/java/" installationsDocsLink="https://docs.aspose.com/ocr/java/installation/" nugetLink="" nugetPackageName="" mavenRepoLink="https://repository.aspose.com/ocr/" directDownloadLink="https://releases.aspose.com/ocr/java" >}}
 
 {{< blocks/products/pf/tab-content >}}
 
@@ -367,7 +367,7 @@ description: An OCR library that allows cross-platform Java apps to recognize te
 
 <h2 class="h2title">Easy to Install</h2>
 
-<p>You can use Aspose.OCR for Java directly from a <a href="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-ocr">Maven</a> based project by following simple <a href="https://docs.aspose.com/ocr/java/installation/">installation instructions</a>.</p>
+<p>You can use Aspose.OCR for Java directly from a <a href="https://repository.aspose.com/ocr/">Maven</a> based project by following simple <a href="https://docs.aspose.com/ocr/java/installation/">installation instructions</a>.</p>
 
 <p><a href="https://purchase.aspose.com/temporary-license">Request a temporary license</a> to start building a fully functional OCR application without any limits and restrictions.</p>
 
@@ -843,6 +843,7 @@ String result = api.RecognizePageFast("sample.jpg");</code></pre>
 {{< blocks/products/pf/slr-element name="Documentation" href="https://docs.aspose.com/ocr/java/" >}}
 {{< blocks/products/pf/slr-element name="Source Code" href="https://github.com/aspose-ocr/Aspose.OCR-for-Java" >}}
 {{< blocks/products/pf/slr-element name="API References" href="https://apireference.aspose.com/java/OCR" >}}
+{{< blocks/products/pf/slr-element name="Repository" href="https://repository.aspose.com/ocr/" >}}
 {{< blocks/products/pf/slr-element name="Tutorial Videos" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
@@ -860,7 +861,7 @@ String result = api.RecognizePageFast("sample.jpg");</code></pre>
 
 {{< /blocks/products/pf/support-learning-resources >}}
 
-{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/ocr/java" pricingInformationLink="https://purchase.aspose.com/pricing/ocr/java" >}}
+{{< blocks/products/pf/download-section downloadFreeTrialLink="https://releases.aspose.com/ocr/java" pricingInformationLink="https://purchase.aspose.com/pricing/ocr/java" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.OCR" description="Aspose also offers native OCR APIs for other popular programming languages:" >}}
 

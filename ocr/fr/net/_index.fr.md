@@ -6,11 +6,11 @@ description: Une bibliothèque OCR qui permet aux applications Web et de bureau 
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Convertir des images et des PDF en texte dans .NET" h2="Ajoutez la reconnaissance optique de caractères (OCR) à vos applications .NET en quelques lignes de code." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/headers/aspose_ocr-for-net.svg" pfName="Aspose.OCR" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/ocr/net" >}}
+{{< blocks/products/pf/upper-banner h1="Convertir des images et des PDF en texte dans .NET" h2="Ajoutez la reconnaissance optique de caractères (OCR) à vos applications .NET en quelques lignes de code." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/headers/aspose_ocr-for-net.svg" pfName="Aspose.OCR" subTitlepfName="for .NET" downloadUrl="https://releases.aspose.com/ocr/net" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.OCR" subTitlepfName="for .NET" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-net.svg" liveDemosLink="https://products.aspose.app/ocr/family" PricingLink="https://purchase.aspose.com/pricing/ocr/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/ocr/net/" installationsDocsLink="https://docs.aspose.com/ocr/net/installation/" nugetLink="https://www.nuget.org/packages/Aspose.OCR/" nugetPackageName="Aspose.OCR" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/ocr/net" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-net.svg" liveDemosLink="https://products.aspose.app/ocr/family" PricingLink="https://purchase.aspose.com/pricing/ocr/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/ocr/net/" installationsDocsLink="https://docs.aspose.com/ocr/net/installation/" nugetLink="https://www.nuget.org/packages/Aspose.OCR/" nugetPackageName="Aspose.OCR" mavenRepoLink="https://repository.aspose.com/ocr/" directDownloadLink="https://releases.aspose.com/ocr/net" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>Aspose.OCR pour .NET est une API puissante mais facile à utiliser et rentable pour la reconnaissance optique de caractères. Avec lui, vous pouvez ajouter la fonctionnalité OCR à vos applications .NET en moins de 5 lignes de code sans vous soucier des mathématiques complexes, des réseaux de neurones et d&#39;autres détails techniques. Notre expérience dans les technologies d&#39;apprentissage automatique et nos années de développement ont abouti à un moteur OCR avec une vitesse et une précision supérieures qui prend en charge <b>26</b> langues basées sur des scripts <b>latins</b> et <b>cyrilliques</b> ainsi que sur le <b>chinois</b> . L&#39;API OCR peut reconnaître les images numérisées, les photos de smartphone, les captures d&#39;écran, les zones d&#39;images et les PDF numérisés et renvoyer les résultats dans les formats d&#39;échange de documents et de données les plus courants. Divers filtres de prétraitement vous permettent de reconnaître les images tournées, asymétriques et bruyantes. Les performances de reconnaissance et la charge du système peuvent être encore améliorées en transférant les tâches de calcul gourmandes en ressources au <b>GPU</b> .</p>
@@ -601,7 +601,7 @@ string text =  result.GetSpellCheckCorrectedText();</code></pre>
 
 {{< /blocks/products/pf/support-learning-resources >}}
 
-{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/ocr/net" pricingInformationLink="https://purchase.aspose.com/pricing/ocr/net" >}}
+{{< blocks/products/pf/download-section downloadFreeTrialLink="https://releases.aspose.com/ocr/net" pricingInformationLink="https://purchase.aspose.com/pricing/ocr/net" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.OCR" description="Aspose propose également des API OCR natives pour d&#39;autres langages de programmation populaires :" >}}
 

@@ -6,7 +6,7 @@ description: 기본 OCR API를 사용하여 .NET, Java 및 C++ 애플리케이�
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="이미지 및 PDF를 텍스트로 변환" h2="C#, Java 및 C++로 작성된 데스크탑 및 웹 애플리케이션용 OCR 라이브러리." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr.svg" pfName="Aspose.OCR" downloadUrl="https://downloads.aspose.com/ocr" tryOnlineUrl="https://products.aspose.app/ocr/ko/scan-image" >}}
+{{< blocks/products/pf/upper-banner h1="이미지 및 PDF를 텍스트로 변환" h2="C#, Java 및 C++로 작성된 데스크탑 및 웹 애플리케이션용 OCR 라이브러리." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr.svg" pfName="Aspose.OCR" downloadUrl="https://releases.aspose.com/ocr" tryOnlineUrl="https://products.aspose.app/ocr/ko/scan-image" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.OCR 하이 코드 API 포함" >}}
@@ -47,6 +47,6 @@ Windows와 Linux 모두에서 이미지와 PDF를 텍스트로 변환할 수 있
 
 {{< /blocks/products/pf/support-learning-resources >}}
 
-{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/ocr" pricingInformationLink="https://purchase.aspose.com/pricing/ocr/family" >}}
+{{< blocks/products/pf/download-section downloadFreeTrialLink="https://releases.aspose.com/ocr" pricingInformationLink="https://purchase.aspose.com/pricing/ocr/family" >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

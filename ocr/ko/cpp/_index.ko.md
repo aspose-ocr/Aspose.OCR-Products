@@ -6,11 +6,11 @@ description: 광학 문자 인식(OCR)으로 C++ 애플리케이션을 향상시
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="C++에서 이미지와 PDF를 텍스트로 변환" h2="몇 줄의 코드로 C++ 애플리케이션에 광학 문자 인식(OCR)을 추가하십시오." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/headers/aspose_ocr-for-cpp.svg" pfName="Aspose.OCR" subTitlepfName="for C++" downloadUrl="https://downloads.aspose.com/ocr/cpp" >}}
+{{< blocks/products/pf/upper-banner h1="C++에서 이미지와 PDF를 텍스트로 변환" h2="몇 줄의 코드로 C++ 애플리케이션에 광학 문자 인식(OCR)을 추가하십시오." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/headers/aspose_ocr-for-cpp.svg" pfName="Aspose.OCR" subTitlepfName="for C++" downloadUrl="https://releases.aspose.com/ocr/cpp" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.OCR" subTitlepfName="for C++" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-cpp.svg" liveDemosLink="https://products.aspose.app/ocr/family" PricingLink="https://purchase.aspose.com/pricing/ocr/cpp" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/ocr/cpp/" installationsDocsLink="https://docs.aspose.com/ocr/cpp/installation/" nugetLink="https://www.nuget.org/packages/Aspose.OCR.cpp/" nugetPackageName="Aspose.OCR.Cpp" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/ocr/cpp" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-cpp.svg" liveDemosLink="https://products.aspose.app/ocr/family" PricingLink="https://purchase.aspose.com/pricing/ocr/cpp" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/ocr/cpp/" installationsDocsLink="https://docs.aspose.com/ocr/cpp/installation/" nugetLink="https://www.nuget.org/packages/Aspose.OCR.cpp/" nugetPackageName="Aspose.OCR.Cpp" mavenRepoLink="https://repository.aspose.com/ocr/" directDownloadLink="https://releases.aspose.com/ocr/cpp" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p align="justify">
@@ -487,7 +487,7 @@ size_t res_len = aspose::ocr::page_settings(image_path.c_str(), buffer, len, set
 
 {{< /blocks/products/pf/support-learning-resources >}}
 
-{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/ocr/cpp" pricingInformationLink="https://purchase.aspose.com/pricing/ocr/cpp" >}}
+{{< blocks/products/pf/download-section downloadFreeTrialLink="https://releases.aspose.com/ocr/cpp" pricingInformationLink="https://purchase.aspose.com/pricing/ocr/cpp" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.OCR" description="Aspose는 다른 인기 있는 프로그래밍 언어에 대한 기본 OCR API도 제공합니다." >}}
 

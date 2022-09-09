@@ -6,11 +6,11 @@ description: Platformlar arası Java uygulamalarının taranan resimler, fotoğr
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Java&#39;da görüntüleri ve PDF&#39;leri metne dönüştürün" h2="Optik karakter tanıma (OCR) yetenekleriyle platformlar arası Java uygulamalarını kolayca oluşturun." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/headers/aspose_ocr-for-java.svg" pfName="Aspose.OCR" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/ocr/java" >}}
+{{< blocks/products/pf/upper-banner h1="Java&#39;da görüntüleri ve PDF&#39;leri metne dönüştürün" h2="Optik karakter tanıma (OCR) yetenekleriyle platformlar arası Java uygulamalarını kolayca oluşturun." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/headers/aspose_ocr-for-java.svg" pfName="Aspose.OCR" subTitlepfName="for Java" downloadUrl="https://releases.aspose.com/ocr/java" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.OCR" subTitlepfName="for Java" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-java.svg" liveDemosLink="https://products.aspose.app/ocr/family" PricingLink="https://purchase.aspose.com/pricing/ocr/java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/ocr/java/" installationsDocsLink="https://docs.aspose.com/ocr/java/installation/" nugetLink="" nugetPackageName="" mavenRepoLink="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-ocr" directDownloadLink="https://downloads.aspose.com/ocr/java" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-java.svg" liveDemosLink="https://products.aspose.app/ocr/family" PricingLink="https://purchase.aspose.com/pricing/ocr/java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/ocr/java/" installationsDocsLink="https://docs.aspose.com/ocr/java/installation/" nugetLink="" nugetPackageName="" mavenRepoLink="https://repository.aspose.com/ocr/" directDownloadLink="https://releases.aspose.com/ocr/java" >}}
 
 {{< blocks/products/pf/tab-content >}}
 
@@ -367,7 +367,7 @@ description: Platformlar arası Java uygulamalarının taranan resimler, fotoğr
 
 <h2 class="h2title">Kurulumu Kolay</h2>
 
-<p>Aspose.OCR for Java&#39;yı basit <a href="https://docs.aspose.com/ocr/java/installation/">kurulum talimatlarını</a> izleyerek doğrudan <a href="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-ocr">Maven</a> tabanlı bir projeden kullanabilirsiniz.</p>
+<p>Aspose.OCR for Java&#39;yı basit <a href="https://docs.aspose.com/ocr/java/installation/">kurulum talimatlarını</a> izleyerek doğrudan <a href="https://repository.aspose.com/ocr/">Maven</a> tabanlı bir projeden kullanabilirsiniz.</p>
 
 <p>Herhangi bir sınırlama ve kısıtlama olmaksızın tamamen işlevsel bir OCR uygulaması oluşturmaya başlamak <a href="https://purchase.aspose.com/temporary-license">için geçici bir lisans isteyin</a> .</p>
 
@@ -518,7 +518,7 @@ String result = api.RecognizePageFast("sample.jpg");</code></pre>
 
 {{< /blocks/products/pf/support-learning-resources >}}
 
-{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/ocr/java" pricingInformationLink="https://purchase.aspose.com/pricing/ocr/java" >}}
+{{< blocks/products/pf/download-section downloadFreeTrialLink="https://releases.aspose.com/ocr/java" pricingInformationLink="https://purchase.aspose.com/pricing/ocr/java" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.OCR" description="Aspose ayrıca diğer popüler programlama dilleri için yerel OCR API&#39;leri sunar:" >}}
 

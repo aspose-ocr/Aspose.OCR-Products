@@ -6,11 +6,11 @@ description: C#, F# veya Visual Basic masaüstü ve web uygulamalarının resiml
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1=".NET&#39;te görüntüleri ve PDF&#39;leri metne dönüştürün" h2="Birkaç satır kod ile .NET uygulamalarınıza optik karakter tanıma (OCR) ekleyin." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/headers/aspose_ocr-for-net.svg" pfName="Aspose.OCR" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/ocr/net" >}}
+{{< blocks/products/pf/upper-banner h1=".NET&#39;te görüntüleri ve PDF&#39;leri metne dönüştürün" h2="Birkaç satır kod ile .NET uygulamalarınıza optik karakter tanıma (OCR) ekleyin." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/headers/aspose_ocr-for-net.svg" pfName="Aspose.OCR" subTitlepfName="for .NET" downloadUrl="https://releases.aspose.com/ocr/net" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.OCR" subTitlepfName="for .NET" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-net.svg" liveDemosLink="https://products.aspose.app/ocr/family" PricingLink="https://purchase.aspose.com/pricing/ocr/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/ocr/net/" installationsDocsLink="https://docs.aspose.com/ocr/net/installation/" nugetLink="https://www.nuget.org/packages/Aspose.OCR/" nugetPackageName="Aspose.OCR" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/ocr/net" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-net.svg" liveDemosLink="https://products.aspose.app/ocr/family" PricingLink="https://purchase.aspose.com/pricing/ocr/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/ocr/net/" installationsDocsLink="https://docs.aspose.com/ocr/net/installation/" nugetLink="https://www.nuget.org/packages/Aspose.OCR/" nugetPackageName="Aspose.OCR" mavenRepoLink="https://repository.aspose.com/ocr/" directDownloadLink="https://releases.aspose.com/ocr/net" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>Aspose.OCR for .NET, optik karakter tanıma için güçlü ancak kullanımı kolay ve uygun maliyetli bir API&#39;dir. Bununla, karmaşık matematik, sinir ağları ve diğer teknik ayrıntılar hakkında endişelenmeden 5 satırdan daha kısa bir sürede .NET uygulamalarınıza OCR işlevselliği ekleyebilirsiniz. Makine öğrenimi teknolojilerindeki deneyimimiz ve yıllarca süren geliştirme deneyimimiz, <b>Latin</b> ve <b>Kiril</b> komut dosyalarının yanı sıra <b>Çince&#39;ye</b> dayalı <b>26</b> dili destekleyen üstün hız ve hassasiyete sahip bir OCR motoruyla sonuçlandı. OCR API, taranan görüntüleri, akıllı telefon fotoğraflarını, ekran görüntülerini, görüntü alanlarını ve taranan PDF&#39;leri tanıyabilir ve sonuçları en popüler belge ve veri alışverişi biçimlerinde döndürebilir. Çeşitli ön işleme filtreleri, döndürülmüş, çarpık ve gürültülü görüntüleri tanımanıza olanak tanır. Tanıma performansı ve sistem yükü, yoğun kaynak gerektiren hesaplama görevlerinin <b>GPU&#39;ya</b> aktarılmasıyla daha da iyileştirilebilir.</p>
@@ -601,7 +601,7 @@ string text =  result.GetSpellCheckCorrectedText();</code></pre>
 
 {{< /blocks/products/pf/support-learning-resources >}}
 
-{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/ocr/net" pricingInformationLink="https://purchase.aspose.com/pricing/ocr/net" >}}
+{{< blocks/products/pf/download-section downloadFreeTrialLink="https://releases.aspose.com/ocr/net" pricingInformationLink="https://purchase.aspose.com/pricing/ocr/net" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.OCR" description="Aspose ayrıca diğer popüler programlama dilleri için yerel OCR API&#39;leri sunar:" >}}
 

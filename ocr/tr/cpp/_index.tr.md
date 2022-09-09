@@ -6,11 +6,11 @@ description: Optik Karakter Tanıma (OCR) ile C++ uygulamalarınızı geliştiri
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="C++ ile görüntüleri ve PDF&#39;leri metne dönüştürün" h2="Birkaç satır kodla C++ uygulamalarınıza optik karakter tanıma (OCR) ekleyin." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/headers/aspose_ocr-for-cpp.svg" pfName="Aspose.OCR" subTitlepfName="for C++" downloadUrl="https://downloads.aspose.com/ocr/cpp" >}}
+{{< blocks/products/pf/upper-banner h1="C++ ile görüntüleri ve PDF&#39;leri metne dönüştürün" h2="Birkaç satır kodla C++ uygulamalarınıza optik karakter tanıma (OCR) ekleyin." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/headers/aspose_ocr-for-cpp.svg" pfName="Aspose.OCR" subTitlepfName="for C++" downloadUrl="https://releases.aspose.com/ocr/cpp" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.OCR" subTitlepfName="for C++" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-cpp.svg" liveDemosLink="https://products.aspose.app/ocr/family" PricingLink="https://purchase.aspose.com/pricing/ocr/cpp" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/ocr/cpp/" installationsDocsLink="https://docs.aspose.com/ocr/cpp/installation/" nugetLink="https://www.nuget.org/packages/Aspose.OCR.cpp/" nugetPackageName="Aspose.OCR.Cpp" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/ocr/cpp" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-cpp.svg" liveDemosLink="https://products.aspose.app/ocr/family" PricingLink="https://purchase.aspose.com/pricing/ocr/cpp" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/ocr/cpp/" installationsDocsLink="https://docs.aspose.com/ocr/cpp/installation/" nugetLink="https://www.nuget.org/packages/Aspose.OCR.cpp/" nugetPackageName="Aspose.OCR.Cpp" mavenRepoLink="https://repository.aspose.com/ocr/" directDownloadLink="https://releases.aspose.com/ocr/cpp" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p align="justify">
@@ -487,7 +487,7 @@ size_t res_len = aspose::ocr::page_settings(image_path.c_str(), buffer, len, set
 
 {{< /blocks/products/pf/support-learning-resources >}}
 
-{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/ocr/cpp" pricingInformationLink="https://purchase.aspose.com/pricing/ocr/cpp" >}}
+{{< blocks/products/pf/download-section downloadFreeTrialLink="https://releases.aspose.com/ocr/cpp" pricingInformationLink="https://purchase.aspose.com/pricing/ocr/cpp" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.OCR" description="Aspose ayrıca diğer popüler programlama dilleri için yerel OCR API&#39;leri sunar:" >}}
 

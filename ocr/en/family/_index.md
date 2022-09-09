@@ -6,7 +6,7 @@ description: Convert scanned images, screenshots, image regions, and PDF files t
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Convert Images and PDFs to Text" h2="OCR libraries for desktop and web applications written in C#, Java, and C++." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr.svg" pfName="Aspose.OCR" downloadUrl="https://downloads.aspose.com/ocr" tryOnlineUrl="https://products.aspose.app/ocr/scan-image" >}}
+{{< blocks/products/pf/upper-banner h1="Convert Images and PDFs to Text" h2="OCR libraries for desktop and web applications written in C#, Java, and C++." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr.svg" pfName="Aspose.OCR" downloadUrl="https://releases.aspose.com/ocr" tryOnlineUrl="https://products.aspose.app/ocr/scan-image" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.OCR High Code APIs Include" >}}
@@ -31,6 +31,7 @@ C and C++ OCR API that allows you to convert images and PDFs to text on both Win
 {{< blocks/products/pf/slr-element name="Documentation" href="https://docs.aspose.com/ocr/" >}}
 {{< blocks/products/pf/slr-element name="Source Code" href="https://github.com/aspose-ocr?tab=repositories" >}}
 {{< blocks/products/pf/slr-element name="API References" href="https://apireference.aspose.com/" >}}
+{{< blocks/products/pf/slr-element name="Repository" href="https://repository.aspose.com/ocr/" >}}
 {{< blocks/products/pf/slr-element name="Tutorial Videos" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
@@ -47,6 +48,6 @@ C and C++ OCR API that allows you to convert images and PDFs to text on both Win
 
 {{< /blocks/products/pf/support-learning-resources >}}
 
-{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/ocr" pricingInformationLink="https://purchase.aspose.com/pricing/ocr/family" >}}
+{{< blocks/products/pf/download-section downloadFreeTrialLink="https://releases.aspose.com/ocr" pricingInformationLink="https://purchase.aspose.com/pricing/ocr/family" >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

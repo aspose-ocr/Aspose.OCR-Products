@@ -6,11 +6,11 @@ description: 플랫폼 간 Java 앱이 스캔한 이미지, 사진 및 PDF의 �
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Java에서 이미지 및 PDF를 텍스트로 변환" h2="OCR(광학 문자 인식) 기능을 사용하여 플랫폼 간 Java 애플리케이션을 쉽게 만들 수 있습니다." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/headers/aspose_ocr-for-java.svg" pfName="Aspose.OCR" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/ocr/java" >}}
+{{< blocks/products/pf/upper-banner h1="Java에서 이미지 및 PDF를 텍스트로 변환" h2="OCR(광학 문자 인식) 기능을 사용하여 플랫폼 간 Java 애플리케이션을 쉽게 만들 수 있습니다." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/headers/aspose_ocr-for-java.svg" pfName="Aspose.OCR" subTitlepfName="for Java" downloadUrl="https://releases.aspose.com/ocr/java" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.OCR" subTitlepfName="for Java" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-java.svg" liveDemosLink="https://products.aspose.app/ocr/family" PricingLink="https://purchase.aspose.com/pricing/ocr/java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/ocr/java/" installationsDocsLink="https://docs.aspose.com/ocr/java/installation/" nugetLink="" nugetPackageName="" mavenRepoLink="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-ocr" directDownloadLink="https://downloads.aspose.com/ocr/java" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-java.svg" liveDemosLink="https://products.aspose.app/ocr/family" PricingLink="https://purchase.aspose.com/pricing/ocr/java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/ocr/java/" installationsDocsLink="https://docs.aspose.com/ocr/java/installation/" nugetLink="" nugetPackageName="" mavenRepoLink="https://repository.aspose.com/ocr/" directDownloadLink="https://releases.aspose.com/ocr/java" >}}
 
 {{< blocks/products/pf/tab-content >}}
 
@@ -367,7 +367,7 @@ description: 플랫폼 간 Java 앱이 스캔한 이미지, 사진 및 PDF의 �
 
 <h2 class="h2title">쉬운 설치</h2>
 
-<p>간단한 <a href="https://docs.aspose.com/ocr/java/installation/">설치 지침</a> 에 따라 <a href="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-ocr">Maven</a> 기반 프로젝트에서 직접 Aspose.OCR for Java를 사용할 수 있습니다.</p>
+<p>간단한 <a href="https://docs.aspose.com/ocr/java/installation/">설치 지침</a> 에 따라 <a href="https://repository.aspose.com/ocr/">Maven</a> 기반 프로젝트에서 직접 Aspose.OCR for Java를 사용할 수 있습니다.</p>
 
 <p>제한 및 제한 없이 완전한 기능을 갖춘 OCR 애플리케이션 구축을 시작하려면 <a href="https://purchase.aspose.com/temporary-license">임시 라이선스를 요청하십시오</a> .</p>
 
@@ -518,7 +518,7 @@ String result = api.RecognizePageFast("sample.jpg");</code></pre>
 
 {{< /blocks/products/pf/support-learning-resources >}}
 
-{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/ocr/java" pricingInformationLink="https://purchase.aspose.com/pricing/ocr/java" >}}
+{{< blocks/products/pf/download-section downloadFreeTrialLink="https://releases.aspose.com/ocr/java" pricingInformationLink="https://purchase.aspose.com/pricing/ocr/java" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.OCR" description="Aspose는 다른 인기 있는 프로그래밍 언어에 대한 기본 OCR API도 제공합니다." >}}
 

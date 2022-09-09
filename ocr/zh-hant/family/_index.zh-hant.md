@@ -6,7 +6,7 @@ description: 使用本機 OCR API 將掃描的圖像、屏幕截圖、圖像區�
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="將圖像和 PDF 轉換為文本" h2="用 C#、Java 和 C++ 編寫的用於桌面和 Web 應用程序的 OCR 庫。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr.svg" pfName="Aspose.OCR" downloadUrl="https://downloads.aspose.com/ocr" tryOnlineUrl="https://products.aspose.app/ocr/zh-hant/scan-image" >}}
+{{< blocks/products/pf/upper-banner h1="將圖像和 PDF 轉換為文本" h2="用 C#、Java 和 C++ 編寫的用於桌面和 Web 應用程序的 OCR 庫。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr.svg" pfName="Aspose.OCR" downloadUrl="https://releases.aspose.com/ocr" tryOnlineUrl="https://products.aspose.app/ocr/zh-hant/scan-image" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.OCR 高代碼 API 包括" >}}
@@ -47,6 +47,6 @@ C 和 C++ OCR API，允許您在 Windows 和 Linux 上將圖像和 PDF 轉換為
 
 {{< /blocks/products/pf/support-learning-resources >}}
 
-{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/ocr" pricingInformationLink="https://purchase.aspose.com/pricing/ocr/family" >}}
+{{< blocks/products/pf/download-section downloadFreeTrialLink="https://releases.aspose.com/ocr" pricingInformationLink="https://purchase.aspose.com/pricing/ocr/family" >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}
