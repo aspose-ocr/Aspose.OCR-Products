@@ -47,7 +47,7 @@ Con C++ OCR e solo poche righe di codice, puoi creare un'applicazione completa c
 {{% /blocks/products/pf/agp/text %}}
 
 + Crea un'istanza della classe AsposeOcr
-+ Chiama il metodo AsposeOCR.aposeocr_page()
++ Chiama il metodo AsposeOCR.asposeocr_page()
 + Passa il percorso del file BMP come parametro
 + AsposeOCR.asposeocr_page restituisce una stringa o un file di tipo TXT
 
