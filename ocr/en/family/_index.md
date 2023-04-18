@@ -23,6 +23,10 @@ Native API for desktop and web applications that can run on any platform that su
 C and C++ OCR API that allows you to convert images and PDFs to text on both Windows and Linux.
 {{< /blocks/products/pf/product >}}
 
+{{< blocks/products/pf/product pfName="Aspose.OCR for" title="Python via .NET" imgSrc="https://releases.aspose.com/images/aspose/aspose_ocr-for-python.svg" productLink="/ocr/python/" >}}
+Python OCR API that allows you to convert images and PDFs to text.
+{{< /blocks/products/pf/product >}}
+
 {{< /blocks/products/pf/product-card-row >}}
 {{< /blocks/products/pf/main-container >}}
 
