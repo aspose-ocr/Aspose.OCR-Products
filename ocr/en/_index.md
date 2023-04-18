@@ -23,6 +23,10 @@ Add OCR functionality to any platform that supports Java. Extract rich text from
 Enhance your C++ applications with optical character recognition capabilities. OCR in C++ has never been easier - just 5 lines of code recognize the image and display results.
 {{< /blocks/products/pf/product >}}
 
+{{< blocks/products/pf/product pfName="Aspose.OCR for " title="Python via .NET" imgSrc="https://releases.aspose.com/images/aspose/aspose_ocr-for-python.svg" productLink="https://products.aspose.com/ocr/python" >}}
+Empower your data analysis and automation software written in Python with OCR capabilities. Requires minimal code and is easy to maintain.
+{{< /blocks/products/pf/product >}}
+
 {{< blocks/products/pf/center-button href="https://products.aspose.com/ocr/family/" innerText="View All High Code APIs" >}}
 
 {{< /blocks/products/pf/product-card-row >}}
