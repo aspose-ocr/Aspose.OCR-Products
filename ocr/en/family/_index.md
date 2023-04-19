@@ -1,8 +1,8 @@
 ---
-title: Add OCR capabilities to .NET, Java and C++ applications
+title: Add OCR capabilities to .NET, Java, C++ and Python applications
 weight: 10
 url: /family
-description: Convert scanned images, screenshots, image regions, and PDF files to text in .NET, Java, and C++ applications using native OCR APIs.
+description: Convert scanned images, screenshots, image regions, and PDF files to text in .NET, Java, C++, and Python applications using native OCR APIs.
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
@@ -23,7 +23,7 @@ Native API for desktop and web applications that can run on any platform that su
 C and C++ OCR API that allows you to convert images and PDFs to text on both Windows and Linux.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.OCR for" title="Python via .NET" imgSrc="https://releases.aspose.com/images/aspose/aspose_ocr-for-python.svg" productLink="/ocr/python/" >}}
+{{< blocks/products/pf/product pfName="Aspose.OCR for" title="Python via .NET" imgSrc="https://releases.aspose.com/images/aspose/aspose_ocr-for-python.svg" productLink="/ocr/python-net/" >}}
 Python OCR API that allows you to convert images and PDFs to text.
 {{< /blocks/products/pf/product >}}
 
