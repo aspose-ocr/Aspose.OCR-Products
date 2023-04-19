@@ -6,7 +6,7 @@ description: An OCR library that allows Python desktop and web applications to r
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Convert images and PDFs to text in Python" h2="Add optical character recognition (OCR) to your Python applications with a few lines of code." logoImageSrc="https://releases.aspose.com/images/aspose/header-aspose_ocr-for-python.svg" pfName="Aspose.OCR" subTitlepfName="for Python via .NET" downloadUrl="https://releases.aspose.com/ocr/python-net" >}}
+{{< blocks/products/pf/upper-banner h1="Convert images and PDFs to text in Python" h2="Add optical character recognition (OCR) to your Python applications with a few lines of code." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-net.svg" pfName="Aspose.OCR" subTitlepfName="for Python via .NET" downloadUrl="https://releases.aspose.com/ocr/python-net" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.OCR" subTitlepfName="for Python via .NET" >}}
 
@@ -128,7 +128,7 @@ Ready-to-use optical character recognition (<b>OCR</b>) engine with superior rec
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img width="70" height="75" alt="Optical Character Recognition Library" src="https://releases.aspose.com/images/aspose/aspose_ocr-for-python.svg"/>
+  <img width="70" height="75" alt="Optical Character Recognition Library" src="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-net.svg"/>
   <header>
    Aspose.OCR
   </header>
@@ -137,7 +137,46 @@ Ready-to-use optical character recognition (<b>OCR</b>) engine with superior rec
     <em>
      for
     </em>
-    .NET
+    Python via .NET
+   </small>
+  </footer>
+ </div>
+ <!--/logo-->
+</div>
+
+{{< /blocks/products/pf/carousel-item >}}
+
+{{< blocks/products/pf/carousel-item h3="Platform Independence" description="Aspose.OCR for Python via .NET works under Python version 3.6 or later." >}}
+<div class="diagram1 d1-net">
+ <div class="d1-row">
+  <div class="d1-col d1-left">
+     <header>
+    <i class="fa fa-cubes">
+    </i>
+   </header>
+  
+  </div>
+  <!--/left-->
+  <div class="d1-col d1-right">
+   <header>
+    <i class="fa fa-cubes">
+    </i>
+   </header>   
+  </div>
+  <!--/right-->
+ </div>
+ <!--/row-->
+ <div class="d1-logo">
+  <img width="70" height="75" alt="Python via .NET OCR API" src="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-net.svg"/>
+  <header>
+   Aspose.OCR
+  </header>
+  <footer>
+   <small>
+    <em>
+     for
+    </em>
+    Python via .NET
    </small>
   </footer>
  </div>
@@ -199,7 +238,7 @@ Ready-to-use optical character recognition (<b>OCR</b>) engine with superior rec
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img width="70" height="75" alt="Text Recognition API" src="https://releases.aspose.com/images/aspose/aspose_ocr-for-python.svg"/>
+  <img width="70" height="75" alt="Text Recognition API" src="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-net.svg"/>
   <header>
    Aspose.OCR
   </header>
@@ -573,12 +612,14 @@ Ready-to-use optical character recognition (<b>OCR</b>) engine with superior rec
 		</div>
 	</div>
 	<p class="ocr-lcs-disclaimer">* By uploading your files or using the service you agree with our <a href="https://about.aspose.com/legal/terms-of-use" rel="nofollow noreferrer" target="_blank">Terms of use</a> and <a href="https://about.aspose.com/legal/privacy-policy" rel="nofollow noreferrer" target="_blank">Privacy Policy</a>.</p>
-<div id="code" class="codeblock"><h3>Live code sample - C#</h3><pre><code class="cs hljs csharp"><span class="hljs-comment">// Initialize OCR engine</span>
-<span class="hljs-keyword">var</span> recognitionEngine = <span class="hljs-keyword">new</span> Aspose.OCR.AsposeOcr();
+<div id="code" class="codeblock"><h3>Live code sample - Python</h3><pre><code class="cs hljs csharp"><span class="hljs-comment">// Initialize OCR engine</span>
+<span class="hljs-keyword"></span> recognitionEngine = <span class="hljs-keyword"></span> AsposeOcr()
+<span class="hljs-keyword"></span> input = <span class="hljs-keyword"></span> OcrInput(InputType.SINGLE_IMAGE)
+<span class="hljs-keyword"></span> input.add("sample.png")
 <span class="hljs-comment">// Extract text from image</span>
-<span class="hljs-built_in">string</span> result = recognitionEngine.RecognizeImage("<span class="hljs-string"><span class="ocr-lcs-code-filename-placeholder">&lt;file name&gt;</span><span class="ocr-lcs-code-filename-actual"></span></span>");
+<span class="hljs-built_in"></span> result = recognitionEngine.recognize(input)
 <span class="hljs-comment">// Display the recognition result</span>
-Console.WriteLine(result);</code></pre></div>
+print(result[0].recognition_text)</code></pre></div>
 	<div class="ocr-lcs-result" onclick="OcrLcsCurtainClick(this)">
 		<div>
 			<header>
@@ -698,7 +739,7 @@ Console.WriteLine(result);</code></pre></div>
 
 <div id="code" class="codeblock">
 
-<h3>Apply automatic image corrections - Python</h3>
+<h3>Apply PHOTO mode - Python</h3>
 
 <pre><code class="cs">
 // Initialize OCR engine
@@ -709,8 +750,12 @@ input = OcrInput(InputType.SINGLE_IMAGE)
 input.add("IMG_20220622_163123.jpg")
 input.add("sample.jpg")
 
+// Initialize AREAS detection mode
+settings = RecognitionSettings()
+settings.detect_areas_mode = DetectAreasMode.PHOTO
+
 // Recognize images
-result = api.recognize(input)
+result = api.recognize(input, settings)
 
 // Print result
 print(result[0].recognition_text)

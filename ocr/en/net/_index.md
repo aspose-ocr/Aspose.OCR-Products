@@ -770,7 +770,7 @@ Console.WriteLine(result);</code></pre></div>
 
 <div class="col-lg-12">
 
-<h2 class="h2title">26 Recognition Languages</h2>
+<h2 class="h2title">27 Recognition Languages</h2>
 
 <p>OCR API can recognize a large number of languages and all popular writing scripts, including texts with mixed languages.</p>
 <ul>
