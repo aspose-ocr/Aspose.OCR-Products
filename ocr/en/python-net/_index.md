@@ -1,7 +1,7 @@
 ---
 title: Optical Character Recognition API for Python
 weight: 40
-url: /python/ 
+url: /python-net/ 
 description: An OCR library that allows Python desktop and web applications to recognize text in images and PDFs.
 ---
 
@@ -687,6 +687,35 @@ Console.WriteLine(result);</code></pre></div>
 <li><b>Chinese</b>: more than 6,000 characters.</li>
 </ul>
 <p>You can leave the language detection to the library or define the language yourself to increase the recognition performance and reliability.</p>
+
+</div>
+
+<div class="col-lg-12">
+
+<h2 class="h2title">Recognize images</h2>
+
+<p>The biggest barrier to OCR applications is that scanners are not commonplace for end users. The API has powerful built-in image pre-processing filters that can handle rotated, skewed, and noisy images. In combination with support for all image formats, it allows for reliable recognition of even smartphone photos. Most of the pre-processing and image correction is done automatically, so you will only have to intervene in difficult cases.</p>
+
+<div id="code" class="codeblock">
+
+<h3>Apply automatic image corrections - Python</h3>
+
+<pre><code class="cs">
+// Initialize OCR engine
+api = AsposeOcr()
+
+// Initialize OCR input
+input = OcrInput(InputType.SINGLE_IMAGE)
+input.add("IMG_20220622_163123.jpg")
+input.add("sample.jpg")
+
+// Recognize images
+result = api.recognize(input)
+
+// Print result
+print(result[0].recognition_text)
+print(result[1].recognition_text)
+</div>
 
 </div>
 
