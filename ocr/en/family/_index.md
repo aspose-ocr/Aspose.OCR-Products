@@ -24,7 +24,7 @@ C and C++ OCR API that allows you to convert images and PDFs to text on both Win
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.OCR for" title="Python via .NET" imgSrc="https://releases.aspose.com/images/aspose/aspose_ocr-for-python.svg" productLink="/ocr/python-net/" >}}
-Python OCR API that allows you to convert images and PDFs to text.
+OCR API for extracting text from scans and photos, PDFs, folders and archives in your Python applications.
 {{< /blocks/products/pf/product >}}
 
 {{< /blocks/products/pf/product-card-row >}}
