@@ -6,7 +6,7 @@ description: An optical character recognition (OCR) API for your Python applicat
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Optical character recognition API for Python" h2="Extract text from scanned images, photos, and screenshots, create searchable PDFs, search and compare text in images, and more from Python applications." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-net.svg" pfName="Aspose.OCR" subTitlepfName="for Python via .NET" downloadUrl="https://releases.aspose.com/ocr/python-net" >}}
+{{< blocks/products/pf/upper-banner h1="Optical character recognition API for Python" h2="Extract text from scanned images, photos, and screenshots, create searchable PDFs, search and compare text in images, and more from Python applications." logoImageSrc="https://releases.aspose.com/images/aspose/aspose_ocr-for-python.svg" pfName="Aspose.OCR" subTitlepfName="for Python via .NET" downloadUrl="https://releases.aspose.com/ocr/python-net" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.OCR" subTitlepfName="for Python via .NET" >}}
 
@@ -21,7 +21,7 @@ description: An optical character recognition (OCR) API for your Python applicat
 {{< blocks/products/pf/carousel >}}
 
 {{< blocks/products/pf/carousel-item h3="At a Glance" description="Extract text in major European and Asian languages from any image type" >}}
-<div class="diagram1 d1-net">
+<div class="diagram1 d1-python">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
@@ -66,7 +66,7 @@ description: An optical character recognition (OCR) API for your Python applicat
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img width="70" height="75" alt="Optical Character Recognition Library" src="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-net.svg"/>
+  <img width="70" height="75" alt="Optical Character Recognition Library" src="https://releases.aspose.com/images/aspose/aspose_ocr-for-python.svg"/>
   <header>
    Aspose.OCR
   </header>
@@ -85,7 +85,7 @@ description: An optical character recognition (OCR) API for your Python applicat
 {{< /blocks/products/pf/carousel-item >}}
 
 {{< blocks/products/pf/carousel-item h3="Platform Independence" description="Aspose.OCR for Python via .NET works under Python version 3.6 or later" >}}
-<div class="diagram1 d1-net">
+<div class="diagram1 d1-python">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
@@ -138,7 +138,7 @@ description: An optical character recognition (OCR) API for your Python applicat
 {{< /blocks/products/pf/carousel-item >}}
 
 {{< blocks/products/pf/carousel-item h3="Supported File Formats" description="Convert any image from a scanner, camera or Internet to the most popular document and data exchange formats" >}}
-<div class="diagram1 d2 d1-net">
+<div class="diagram1 d2 d1-python">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
