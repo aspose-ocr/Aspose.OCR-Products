@@ -24,14 +24,32 @@ To get bounding boxes of all paragraphs in images, provided in OcrInput object, 
  [NuGet](https://www.nuget.org/packages/aspose.ocr) 
  package in your project with the following command:
 
-{{% blocks/products/pf/agp/code-block title="Package Manager Console Command" offSpacer="true" %}}
+{{% blocks/products/pf/agp/code-block title="Download Command line tools using link" offSpacer="true" %}}
 
 ```cs
 
-  PM> Install-Package Aspose.OCR
+  https://github.com/aspose-ocr/Aspose.OCR-for-.NET/releases/download/23.5.0/CommandLineToolsAsposeOcr23.5.0.zip
 
 ```
 
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{% blocks/products/pf/agp/code-block title="Run program in Command Prompt" offSpacer="true" %}}
+
+```cs
+
+  GetAreasWithTextCoordinates
+
+```
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{% blocks/products/pf/agp/code-block title="Run program in Command Prompt if you want to use own image (document)" offSpacer="true" %}}
+
+```cs
+
+  GetAreasWithTextCoordinates folder/image.png
+
+```
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{% /blocks/products/pf/agp/content %}}
