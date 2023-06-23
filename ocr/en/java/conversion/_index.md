@@ -4,7 +4,7 @@ url: /java/conversion/
 description: Convert images to text within Java based OCR solution using Java OCR library.
 ---
 
-{{< blocks/products/pf/feature-page-wrap >}}
+{{< blocks/products/pf/feature-page-wrap />}}
 {{< blocks/products/pf/feature-page-header h1="Image to Text Conversion Via Java" h2="Convert Images to Text via Java OCR API to build cross-platform applications." >}}
 
 {{% blocks/products/pf/feature-page-summary %}}

@@ -4,7 +4,7 @@ url: /cpp/conversion/
 description: Convert images to text using C++ OCR library within your software application.
 ---
 
-{{< blocks/products/pf/feature-page-wrap >}}
+{{< blocks/products/pf/feature-page-wrap />}}
 {{< blocks/products/pf/feature-page-header h1="Image to Text Conversion Via C++" h2="Extract Text from Images BMP, GIF, JPG, PNG within C++ based applications." >}}
 
 {{% blocks/products/pf/feature-page-summary %}}

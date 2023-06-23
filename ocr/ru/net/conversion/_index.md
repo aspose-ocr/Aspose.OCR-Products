@@ -4,7 +4,7 @@ url: /net/conversion/
 description: Распознавание текста с фото в своем приложении используя библиотеку OCR с помощью нескольких строк C# кода в .NET.
 ---
 
-{{< blocks/products/pf/feature-page-wrap >}}
+{{< blocks/products/pf/feature-page-wrap />}}
 {{< blocks/products/pf/feature-page-header h1="Преобразование изображения в текст с помощью C#" h2="Интегрируйте преобразовывайте изображения в текст в свое приложении с помощью ношей кросплатформенной OCR библиотеки для .NET. Распознайте текст на изображении в пару строк кода на C#." >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
