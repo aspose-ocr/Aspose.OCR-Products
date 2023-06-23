@@ -1,7 +1,7 @@
 ﻿---
 title: Get areas with text coordinates via C# 
 weight: 3920
-url: /net/recognition/get-text-areas/ 
+url: /net/recognition/recognize-image/ 
 lang: en
 langdirlevel: 2
 locales: ru
@@ -125,7 +125,7 @@ Source	|   string	&nbsp;&nbsp;| The full path of the source file. If the file is
 {{< blocks/products/pf/agp/other-supported-section-item href="/ocr/net/recognition/recognize-pdf" name="Recognize PDF" description="Scanned PDF" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/ocr/net/recognition/recognize-tiff" name="Recognize TIFF" description="Multipage TIFF" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/ocr/net/recognition/preprocess" name="Preprocess image" description="GIF, PNG, JPEG, BMP, TIFF, JFIF" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/ocr/net/recognition/recognize-zip" name="Recognize ZIP archive" description="ZIP" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/ocr/net/recognition/get-xlsx" name="Recognize ZIP archive" description="ZIP" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/ocr/net/recognition/get-json" name="Get JSON" description="GIF, PNG, JPEG, BMP, TIFF, JFIF" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/ocr/net/recognition/get-xlsx" name="Get XLSX" description="GIF, PNG, JPEG, BMP, TIFF, JFIF" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/ocr/net/recognition/get-skew" name="Detect angle" description="GIF, PNG, JPEG, BMP, TIFF, JFIF" >}}
