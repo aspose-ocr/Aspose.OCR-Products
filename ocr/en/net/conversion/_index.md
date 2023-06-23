@@ -4,7 +4,7 @@ url: /net/conversion/
 description: Convert images to text within your OCR solution with few lines of C# code via .NET library.
 ---
 
-{{< blocks/products/pf/feature-page-wrap >}}
+{{< blocks/products/pf/feature-page-wrap />}}
 {{< blocks/products/pf/feature-page-header h1="Image to Text Conversion Via C#" h2="Convert Images to Text within your OCR Solution or build cross-platform .NET based images to text extraction applications." >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
