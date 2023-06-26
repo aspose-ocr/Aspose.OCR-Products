@@ -19,11 +19,25 @@ description: Automatically find the coordinates of image regions containing text
 
 To get bounding boxes of all paragraphs in images, provided in OcrInput object, use Aspose.OCR.AsposeOcr.DetectRectangles method. Specify Aspose.OCR.AreasType.PARAGRAPHS as the areasType parameter of the method. detectAreas parameter of the method is ignored.
 
-[Aspose.OCR for .NET](https://products.aspose.com/ocr/net) 
- processes scanned images or even smartphone photos in BMP format and creates BMP documents containing recognized text. To run the examples, you just need to download the *Aspose.OCR* 
- tools with the following link:  [**Download Comman Line Tools**](https://github.com/aspose-ocr/Aspose.OCR-for-.NET/releases/download/23.5.0/CommandLineToolsAsposeOcr23.5.0.zip)
- or run the example project in IDE: [**GetAreasWithTextCoordinates project**](https://github.com/aspose-ocr/Aspose.OCR-for-.NET/tree/master/Applications_Aspose_Ocr_Net_6/GetAreasWithTextCoordinates) 
+To run the examples, you just need to download the Aspose.OCR tools with the following links:
+{{% /blocks/products/pf/agp/content %}}
 
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="Command line tools" %}}
+
+
+
+<button name="button" class="btn" style="padding:20px; border-radius: 5px; font-size: 20px; margin-left: 20px; margin-bottom: 50px" onclick="location.href='https://github.com/aspose-ocr/Aspose.OCR-for-.NET/releases/download/23.5.0/CommandLineToolsAsposeOcr23.5.0.zip'" type="button">**Download Command Line Tools**</button>
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="GetAreasWithTextCoordinates project" %}}
+
+<button name="button" class="btn" style="padding:20px; border-radius: 5px; font-size: 20px; margin-left: 20px; margin-bottom: 50px" onclick="location.href='https://github.com/aspose-ocr/Aspose.OCR-for-.NET/tree/master/Applications_Aspose_Ocr_Net_6/GetAreasWithTextCoordinates'" type="button">**Download project**</button>
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+<br/><br/>
 
 
 {{% blocks/products/pf/agp/code-block title="Run program in Command Prompt" offSpacer="true" %}}
@@ -31,8 +45,6 @@ To get bounding boxes of all paragraphs in images, provided in OcrInput object, 
 ```cs
 
   GetAreasWithTextCoordinates
-
-
 
 ```
 {{% /blocks/products/pf/agp/code-block %}}
@@ -52,8 +64,12 @@ or
 ```
 {{% /blocks/products/pf/agp/code-block %}}
 
+
 <br/><br/>
 <br/><br/>
+
+{{% blocks/products/pf/agp/content h2="Recognition result" %}}
+
 
 
 Property	| Type	| Description 
@@ -63,11 +79,11 @@ ImageIndex &nbsp;&nbsp;	|  int	| Sequence number of the image on the page. When 
 Page	|   int	| Page number. When working with single-page images, this value is always 0.
 Source	|   string	&nbsp;&nbsp;| The full path of the source file. If the file is provided as a MemoryStream object, an array of pixels, or a Base64 string, this value will be empty.
 
+{{% /blocks/products/pf/agp/content %}}
 
 
 
-
-<br/>
+<br/><br/>
 
 
 
@@ -111,9 +127,6 @@ Source	|   string	&nbsp;&nbsp;| The full path of the source file. If the file is
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
-{{% /blocks/products/pf/agp/content %}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
 
   
 
