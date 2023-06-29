@@ -2,7 +2,7 @@
 title: OCR API for your desktop and web applications
 weight: 100
 url: /
-description: Add Optical Character Recognition (OCR) for images and PDF files to your .NET, Java, C++ and Python applications in less than 10 lines of code.
+description: Add Optical Character Recognition (OCR) for images and PDF files to your .NET, Java, C++, JavaScript and Python applications in less than 10 lines of code.
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
@@ -21,6 +21,10 @@ Add OCR functionality to any platform that supports Java. Extract rich text from
 
 {{< blocks/products/pf/product pfName="Aspose.OCR for " title="C++" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-cpp.svg" productLink="https://products.aspose.com/ocr/cpp" >}}
 Enhance your C++ applications with optical character recognition capabilities. OCR in C++ has never been easier - just 5 lines of code recognize the image and display results.
+{{< /blocks/products/pf/product >}}
+
+{{< blocks/products/pf/product pfName="Aspose.OCR for " title="JavaScript via C++" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-javascript-cpp.svg" productLink="https://products.aspose.com/ocr/javascript-cpp" >}}
+Webassembly will allow you to add OCR functionality to your products that support JavaScript. Extract text from scans, photos, PDF documents. 
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.OCR for " title="Python via .NET" imgSrc="https://releases.aspose.com/images/aspose/aspose_ocr-for-python.svg" productLink="https://products.aspose.com/ocr/python-net" >}}
