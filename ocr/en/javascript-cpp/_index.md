@@ -6,11 +6,11 @@ description: Enhance your Web applications with Optical Character Recognition (O
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Convert images and PDFs to text in JavaScript" h2="Add optical character recognition (OCR) to your Web applications with a few lines of code." logoImageSrc="https://releases.aspose.com/images/aspose/header-aspose_ocr-for-javascript-cpp.svg" pfName="Aspose.OCR" subTitlepfName="for JavaScript via C++" downloadUrl="https://releases.aspose.com/ocr/javascript-cpp" >}}
+{{< blocks/products/pf/upper-banner h1="Convert images and PDFs to text in JavaScript" h2="Add optical character recognition (OCR) to your Web applications with a few lines of code." logoImageSrc="./header-aspose_ocr-for-javascript-cpp.svg" pfName="Aspose.OCR" subTitlepfName="for JavaScript via C++" downloadUrl="https://releases.aspose.com/ocr/javascript-cpp" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.OCR" subTitlepfName="for JavaScript via C++" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://releases.aspose.com/images/aspose/aspose_ocr-for-javascript-cpp.svg" liveDemosLink="https://products.aspose.app/ocr/family" PricingLink="https://purchase.aspose.com/pricing/ocr/javascript-cpp" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/ocr/javascript-cpp/" installationsDocsLink="https://docs.aspose.com/ocr/javascript-cpp/installation/" nugetLink="https://www.nuget.org/packages/Aspose.OCR.cpp/" nugetPackageName="Aspose.OCR.Cpp" mavenRepoLink="https://repository.aspose.com/ocr/" directDownloadLink="https://releases.aspose.com/ocr/javascript-cpp" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="./aspose_ocr-for-javascript-cpp.svg" liveDemosLink="https://products.aspose.app/ocr/family" PricingLink="https://purchase.aspose.com/pricing/ocr/javascript-cpp" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/ocr/javascript-cpp/" installationsDocsLink="https://docs.aspose.com/ocr/javascript-cpp/installation/" nugetLink="https://www.nuget.org/packages/Aspose.OCR.cpp/" nugetPackageName="Aspose.OCR.Cpp" mavenRepoLink="https://repository.aspose.com/ocr/" directDownloadLink="https://releases.aspose.com/ocr/javascript-cpp" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p align="justify">
@@ -113,7 +113,7 @@ Aspose.OCR for JavaScript via C++ extends your applications with optical charact
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img width="70" height="75" alt="Optical Character Recognition Library" src="https://releases.aspose.com/images/aspose/aspose_ocr-for-javascript-cpp.svg"/>
+  <img width="70" height="75" alt="Optical Character Recognition Library" src="./aspose_ocr-for-javascript-cpp.svg"/>
   <header>
    Aspose.OCR
   </header>
@@ -153,7 +153,7 @@ Aspose.OCR for JavaScript via C++ extends your applications with optical charact
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img width="70" height="75" alt="JavaScript via C++ OCR API" src="https://releases.aspose.com/images/aspose/aspose_ocr-for-javascript-cpp.svg"/>
+  <img width="70" height="75" alt="JavaScript via C++ OCR API" src="./aspose_ocr-for-javascript-cpp.svg"/>
   <header>
    Aspose.OCR
   </header>
@@ -218,7 +218,7 @@ Aspose.OCR for JavaScript via C++ extends your applications with optical charact
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img width="70" height="75" alt="Text Recognition API" src="https://releases.aspose.com/images/aspose/aspose_ocr-for-javascript-cpp.svg"/>
+  <img width="70" height="75" alt="Text Recognition API" src="./aspose_ocr-for-javascript-cpp.svg"/>
   <header>
    Aspose.OCR
   </header>
