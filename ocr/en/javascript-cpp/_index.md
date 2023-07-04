@@ -775,7 +775,7 @@ input.url = "<span class="hljs-string">../Data/Source/sample.png</span>";
 <span class="hljs-comment">// Prepare settings</span>
 <span class="hljs-keyword">var</span> settings = <span class="hljs-keyword">Module</span>.WasmAsposeOCRRecognitionSettings();
 settings.skew = 5;
-<span class="hljs-keyword">var</span>var rects = [ {x: 90, y:186, width:775, height:95} , { x:928, y:606, width:790, height:160 } ];
+<span class="hljs-keyword">var</span> rects = [ {x: 90, y:186, width:775, height:95} , { x:928, y:606, width:790, height:160 } ];
 settings.rects = rects;
 inputs.push_back(input);
 <span class="hljs-keyword">var</span> result = <span class="hljs-keyword">Module</span>.AsposeOCRRecognize(inputs, settings);
