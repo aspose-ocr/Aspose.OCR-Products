@@ -10,7 +10,7 @@ description: Enhance your Web applications with Optical Character Recognition (O
 
 {{< blocks/products/pf/main-container pfName="Aspose.OCR" subTitlepfName="for JavaScript via C++" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="./aspose_ocr-for-javascript-cpp.svg" liveDemosLink="https://products.aspose.app/ocr/family" PricingLink="https://purchase.aspose.com/pricing/ocr/javascript-cpp" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/ocr/javascript-cpp/" directDownloadLink="https://releases.aspose.com/ocr/javascript-cpp" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="./aspose_ocr-for-javascript-cpp.svg" liveDemosLink="https://products.aspose.app/ocr/family" PricingLink="https://purchase.aspose.com/pricing/ocr/javascript-cpp" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/ocr/javascript-cpp/" installationsDocsLink="https://docs.aspose.com/ocr/javascript-cpp/installation/" directDownloadLink="https://releases.aspose.com/ocr/javascript-cpp" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p align="justify">
