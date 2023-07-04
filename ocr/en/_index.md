@@ -23,7 +23,7 @@ Add OCR functionality to any platform that supports Java. Extract rich text from
 Enhance your C++ applications with optical character recognition capabilities. OCR in C++ has never been easier - just 5 lines of code recognize the image and display results.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.OCR for " title="JavaScript via C++" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-javascript-cpp.svg" productLink="https://products.aspose.com/ocr/javascript-cpp" >}}
+{{< blocks/products/pf/product pfName="Aspose.OCR for " title="JavaScript via C++" imgSrc="./javascript-cpp/aspose_ocr-for-javascript-cpp.svg" productLink="https://products.aspose.com/ocr/javascript-cpp" >}}
 Webassembly will allow you to add OCR functionality to your products that support JavaScript. Extract text from scans, photos, PDF documents. 
 {{< /blocks/products/pf/product >}}
 
