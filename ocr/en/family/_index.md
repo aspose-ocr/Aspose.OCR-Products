@@ -23,6 +23,10 @@ Native API for desktop and web applications that can run on any platform that su
 C and C++ OCR API that allows you to convert images and PDFs to text on both Windows and Linux.
 {{< /blocks/products/pf/product >}}
 
+{{< blocks/products/pf/product pfName="Aspose.OCR for " title="JavaScript via C++" imgSrc="./../javascript-cpp/aspose_ocr-for-javascript-cpp.svg" productLink="https://products.aspose.com/ocr/javascript-cpp" >}}
+Webassembly will allow you to add OCR functionality to your products that support JavaScript. Extract text from scans, photos, PDF documents. 
+{{< /blocks/products/pf/product >}}
+
 {{< blocks/products/pf/product pfName="Aspose.OCR for" title="Python via .NET" imgSrc="https://releases.aspose.com/images/aspose/aspose_ocr-for-python.svg" productLink="/ocr/python-net/" >}}
 OCR API for extracting text from scans and photos, PDFs, folders and archives in your Python applications.
 {{< /blocks/products/pf/product >}}
