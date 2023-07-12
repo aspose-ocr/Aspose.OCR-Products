@@ -23,6 +23,10 @@ Dodaj funkcję OCR do dowolnej platformy obsługującej Javę. Wyodrębnij bogat
 Wzbogać swoje aplikacje C++ o możliwości optycznego rozpoznawania znaków. OCR w C++ nigdy nie było prostsze - zaledwie 5 linijek kodu rozpoznaje obraz i wyświetla wyniki.
 {{< /blocks/products/pf/product >}}
 
+{{< blocks/products/pf/product pfName="Aspose.OCR for " title="Python via .NET" imgSrc="https://releases.aspose.com/images/aspose/aspose_ocr-for-python.svg" productLink="https://products.aspose.com/ocr/pl/python-net" >}}
+Dodaj możliwości optycznego rozpoznawania znaków (OCR) do swoich rozwiązań do analizy danych, sztucznej inteligencji i automatyzacji napisanych w języku Python 3.6 lub nowszym. Wyodrębniaj tekst ze zdjęć, skanów, dokumentów PDF i innych plików graficznych bez konieczności zagłębiania się w złożone operacje matematyczne, sieci neuronowe i inne szczegóły techniczne.
+{{< /blocks/products/pf/product >}}
+
 {{< blocks/products/pf/center-button href="https://products.aspose.com/ocr/pl/family/" innerText="Zobacz wszystkie interfejsy API High Code" >}}
 
 {{< /blocks/products/pf/product-card-row >}}

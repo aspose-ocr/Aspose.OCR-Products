@@ -23,6 +23,10 @@ Přidejte funkci OCR na jakoukoli platformu, která podporuje Javu. Extrahujte f
 Vylepšete své aplikace C++ o možnosti optického rozpoznávání znaků. OCR v C++ nebylo nikdy jednodušší – pouhých 5 řádků kódu rozpozná obrázek a zobrazí výsledky.
 {{< /blocks/products/pf/product >}}
 
+{{< blocks/products/pf/product pfName="Aspose.OCR for " title="Python via .NET" imgSrc="https://releases.aspose.com/images/aspose/aspose_ocr-for-python.svg" productLink="https://products.aspose.com/ocr/cs/python-net" >}}
+Přidejte možnosti optického rozpoznávání znaků (OCR) ke svým řešením pro vědu o datech, AI a automatizaci napsaných v Pythonu 3.6 nebo novějším. Extrahujte text z fotografií, skenů, dokumentů PDF a dalších grafických souborů, aniž byste se museli ponořit do složitých matematických operací, neuronových sítí a dalších technických detailů.
+{{< /blocks/products/pf/product >}}
+
 {{< blocks/products/pf/center-button href="https://products.aspose.com/ocr/cs/family/" innerText="Zobrazit všechna rozhraní High Code API" >}}
 
 {{< /blocks/products/pf/product-card-row >}}

@@ -23,6 +23,10 @@ Java&#39;yı destekleyen herhangi bir platforma OCR işlevi ekleyin. Görüntül
 Optik karakter tanıma yetenekleriyle C++ uygulamalarınızı geliştirin. C++&#39;da OCR hiç bu kadar kolay olmamıştı - yalnızca 5 satır kod görüntüyü tanır ve sonuçları görüntüler.
 {{< /blocks/products/pf/product >}}
 
+{{< blocks/products/pf/product pfName="Aspose.OCR for " title="Python via .NET" imgSrc="https://releases.aspose.com/images/aspose/aspose_ocr-for-python.svg" productLink="https://products.aspose.com/ocr/tr/python-net" >}}
+Python 3.6 veya sonraki sürümlerde yazılmış veri bilimi, yapay zeka ve otomasyon çözümlerinize optik karakter tanıma (OCR) yetenekleri ekleyin. Karmaşık matematiksel işlemlere, sinir ağlarına ve diğer teknik ayrıntılara dalmak zorunda kalmadan fotoğraflardan, taramalardan, PDF belgelerinden ve diğer grafik dosyalardan metin çıkarın.
+{{< /blocks/products/pf/product >}}
+
 {{< blocks/products/pf/center-button href="https://products.aspose.com/ocr/tr/family/" innerText="Tüm Yüksek Kod API&#39;lerini Görüntüle" >}}
 
 {{< /blocks/products/pf/product-card-row >}}

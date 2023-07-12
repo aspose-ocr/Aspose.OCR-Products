@@ -23,6 +23,10 @@ description: 只需不到 10 行代碼，即可將圖像和 PDF 文件的光學�
 使用光學字符識別功能增強您的 C++ 應用程序。 C++ 中的 OCR 從未如此簡單 - 只需 5 行代碼即可識別圖像並顯示結果。
 {{< /blocks/products/pf/product >}}
 
+{{< blocks/products/pf/product pfName="Aspose.OCR for " title="Python via .NET" imgSrc="https://releases.aspose.com/images/aspose/aspose_ocr-for-python.svg" productLink="https://products.aspose.com/ocr/zh-hant/python-net" >}}
+為使用 Python 3.6 或更高版本編寫的數據科學、人工智能和自動化解決方案添加光學字符識別 (OCR) 功能。從照片、掃描件、PDF 文檔和其他圖形文件中提取文本，而無需深入研究複雜的數學運算、神經網絡和其他技術細節。
+{{< /blocks/products/pf/product >}}
+
 {{< blocks/products/pf/center-button href="https://products.aspose.com/ocr/zh-hant/family/" innerText="查看所有高代碼 API" >}}
 
 {{< /blocks/products/pf/product-card-row >}}

@@ -23,6 +23,10 @@ Tambahkan fungsionalitas OCR ke platform apa pun yang mendukung Java. Ekstrak te
 Tingkatkan aplikasi C++ Anda dengan kemampuan pengenalan karakter optik. OCR di C++ tidak pernah semudah ini - hanya 5 baris kode yang mengenali gambar dan menampilkan hasil.
 {{< /blocks/products/pf/product >}}
 
+{{< blocks/products/pf/product pfName="Aspose.OCR for " title="Python via .NET" imgSrc="https://releases.aspose.com/images/aspose/aspose_ocr-for-python.svg" productLink="https://products.aspose.com/ocr/id/python-net" >}}
+Tambahkan kemampuan pengenalan karakter optik (OCR) ke ilmu data, AI, dan solusi otomasi Anda yang ditulis dalam Python 3.6 atau lebih baru. Ekstrak teks dari foto, pindaian, dokumen PDF, dan file grafik lainnya tanpa harus mempelajari operasi matematika yang rumit, jaringan saraf, dan detail teknis lainnya.
+{{< /blocks/products/pf/product >}}
+
 {{< blocks/products/pf/center-button href="https://products.aspose.com/ocr/id/family/" innerText="Lihat Semua API Kode Tinggi" >}}
 
 {{< /blocks/products/pf/product-card-row >}}

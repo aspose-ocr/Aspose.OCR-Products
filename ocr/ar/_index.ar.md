@@ -23,6 +23,10 @@ description: أضف التعرف الضوئي على الحروف (OCR) للصو
 قم بتحسين تطبيقات C ++ الخاصة بك بإمكانيات التعرف الضوئي على الأحرف. لم يكن التعرف الضوئي على الحروف في C ++ أسهل من أي وقت مضى - فقط 5 أسطر من التعليمات البرمجية تتعرف على الصورة وعرض النتائج.
 {{< /blocks/products/pf/product >}}
 
+{{< blocks/products/pf/product pfName="Aspose.OCR for " title="Python via .NET" imgSrc="https://releases.aspose.com/images/aspose/aspose_ocr-for-python.svg" productLink="https://products.aspose.com/ocr/ar/python-net" >}}
+أضف إمكانات التعرف الضوئي على الأحرف (OCR) إلى حلول علم البيانات والذكاء الاصطناعي والأتمتة المكتوبة بلغة Python 3.6 أو أحدث. استخرج النص من الصور والمسح الضوئي ومستندات PDF والملفات الرسومية الأخرى دون الحاجة إلى الخوض في العمليات الحسابية المعقدة والشبكات العصبية والتفاصيل الفنية الأخرى.
+{{< /blocks/products/pf/product >}}
+
 {{< blocks/products/pf/center-button href="https://products.aspose.com/ocr/ar/family/" innerText="عرض جميع واجهات برمجة التطبيقات عالية الكود" >}}
 
 {{< /blocks/products/pf/product-card-row >}}

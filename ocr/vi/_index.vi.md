@@ -23,6 +23,10 @@ Thêm chức năng OCR vào bất kỳ nền tảng nào hỗ trợ Java. Trích
 Nâng cao các ứng dụng C ++ của bạn với khả năng nhận dạng ký tự quang học. OCR trong C ++ chưa bao giờ dễ dàng hơn thế - chỉ cần 5 dòng mã nhận dạng hình ảnh và hiển thị kết quả.
 {{< /blocks/products/pf/product >}}
 
+{{< blocks/products/pf/product pfName="Aspose.OCR for " title="Python via .NET" imgSrc="https://releases.aspose.com/images/aspose/aspose_ocr-for-python.svg" productLink="https://products.aspose.com/ocr/vi/python-net" >}}
+Thêm khả năng nhận dạng ký tự quang học (OCR) vào các giải pháp khoa học dữ liệu, AI và tự động hóa được viết bằng Python 3.6 trở lên. Trích xuất văn bản từ ảnh, bản quét, tài liệu PDF và các tệp đồ họa khác mà không cần phải đi sâu vào các phép toán phức tạp, mạng thần kinh và các chi tiết kỹ thuật khác.
+{{< /blocks/products/pf/product >}}
+
 {{< blocks/products/pf/center-button href="https://products.aspose.com/ocr/vi/family/" innerText="Xem tất cả các API mã cao" >}}
 
 {{< /blocks/products/pf/product-card-row >}}

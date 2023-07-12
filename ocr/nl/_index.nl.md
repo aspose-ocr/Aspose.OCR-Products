@@ -23,6 +23,10 @@ Voeg OCR-functionaliteit toe aan elk platform dat Java ondersteunt. Extraheer te
 Verbeter uw C++-toepassingen met optische tekenherkenningsmogelijkheden. OCR in C++ is nog nooit zo eenvoudig geweest - slechts 5 regels code herkennen de afbeelding en geven de resultaten weer.
 {{< /blocks/products/pf/product >}}
 
+{{< blocks/products/pf/product pfName="Aspose.OCR for " title="Python via .NET" imgSrc="https://releases.aspose.com/images/aspose/aspose_ocr-for-python.svg" productLink="https://products.aspose.com/ocr/nl/python-net" >}}
+Voeg mogelijkheden voor optische tekenherkenning (OCR) toe aan uw oplossingen voor datawetenschap, AI en automatisering die zijn geschreven in Python 3.6 of later. Extraheer tekst uit foto's, scans, pdf-documenten en andere grafische bestanden zonder dat u zich hoeft te verdiepen in complexe wiskundige bewerkingen, neurale netwerken en andere technische details.
+{{< /blocks/products/pf/product >}}
+
 {{< blocks/products/pf/center-button href="https://products.aspose.com/ocr/nl/family/" innerText="Bekijk alle High Code API&#39;s" >}}
 
 {{< /blocks/products/pf/product-card-row >}}

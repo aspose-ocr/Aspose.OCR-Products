@@ -23,6 +23,10 @@ description: Добавьте оптическое распознавание с
 Расширьте возможности своих приложений на C++ с помощью возможностей оптического распознавания символов. OCR на C++ никогда не было проще — всего 5 строк кода распознают изображение и отображают результаты.
 {{< /blocks/products/pf/product >}}
 
+{{< blocks/products/pf/product pfName="Aspose.OCR for " title="Python via .NET" imgSrc="https://releases.aspose.com/images/aspose/aspose_ocr-for-python.svg" productLink="https://products.aspose.com/ocr/ru/python-net" >}}
+Добавьте возможности оптического распознавания символов (OCR) в свои решения для анализа данных, искусственного интеллекта и автоматизации, написанные на Python 3.6 или более поздней версии. Извлекайте текст из фотографий, сканов, PDF-документов и других графических файлов, не вникая в сложные математические операции, нейронные сети и другие технические детали.
+{{< /blocks/products/pf/product >}}
+
 {{< blocks/products/pf/center-button href="https://products.aspose.com/ocr/ru/family/" innerText="Просмотреть все API High Code" >}}
 
 {{< /blocks/products/pf/product-card-row >}}

@@ -23,6 +23,10 @@ JavaをサポートするすべてのプラットフォームにOCR機能を追�
 光学式文字認識機能を使用してC++アプリケーションを強化します。 C ++のOCRはかつてないほど簡単になりました。わずか5行のコードで画像を認識し、結果を表示します。
 {{< /blocks/products/pf/product >}}
 
+{{< blocks/products/pf/product pfName="Aspose.OCR for " title="Python via .NET" imgSrc="https://releases.aspose.com/images/aspose/aspose_ocr-for-python.svg" productLink="https://products.aspose.com/ocr/ja/python-net" >}}
+Python 3.6 以降で記述されたデータ サイエンス、AI、自動化ソリューションに光学式文字認識 (OCR) 機能を追加します。複雑な数学的演算、ニューラル ネットワーク、その他の技術的な詳細を深く掘り下げることなく、写真、スキャン、PDF ドキュメント、その他のグラフィック ファイルからテキストを抽出します。
+{{< /blocks/products/pf/product >}}
+
 {{< blocks/products/pf/center-button href="https://products.aspose.com/ocr/ja/family/" innerText="すべてのハイコードAPIを表示" >}}
 
 {{< /blocks/products/pf/product-card-row >}}

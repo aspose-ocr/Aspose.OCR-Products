@@ -23,6 +23,10 @@ Java를 지원하는 모든 플랫폼에 OCR 기능을 추가합니다. 이미�
 광학 문자 인식 기능으로 C++ 애플리케이션을 향상시키십시오. C++의 OCR은 그 어느 때보다 쉬워졌습니다. 단 5줄의 코드로 이미지를 인식하고 결과를 표시합니다.
 {{< /blocks/products/pf/product >}}
 
+{{< blocks/products/pf/product pfName="Aspose.OCR for " title="Python via .NET" imgSrc="https://releases.aspose.com/images/aspose/aspose_ocr-for-python.svg" productLink="https://products.aspose.com/ocr/ko/python-net" >}}
+Python 3.6 이상으로 작성된 데이터 과학, AI 및 자동화 솔루션에 OCR(광학 문자 인식) 기능을 추가하십시오. 복잡한 수학 연산, 신경망 및 기타 기술적 세부 사항을 조사할 필요 없이 사진, 스캔, PDF 문서 및 기타 그래픽 파일에서 텍스트를 추출합니다.
+{{< /blocks/products/pf/product >}}
+
 {{< blocks/products/pf/center-button href="https://products.aspose.com/ocr/ko/family/" innerText="모든 하이 코드 API 보기" >}}
 
 {{< /blocks/products/pf/product-card-row >}}

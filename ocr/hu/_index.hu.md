@@ -23,6 +23,10 @@ Adjon hozzá OCR funkciót bármely Java-t támogató platformhoz. Kivonja a gaz
 Bővítse C++ alkalmazásait optikai karakterfelismerő képességekkel. Az OCR C++ nyelven még soha nem volt ilyen egyszerű – mindössze 5 sornyi kód ismeri fel a képet és megjeleníti az eredményeket.
 {{< /blocks/products/pf/product >}}
 
+{{< blocks/products/pf/product pfName="Aspose.OCR for " title="Python via .NET" imgSrc="https://releases.aspose.com/images/aspose/aspose_ocr-for-python.svg" productLink="https://products.aspose.com/ocr/hu/python-net" >}}
+Adjon hozzá optikai karakterfelismerési (OCR) képességeket a Python 3.6-os vagy újabb verziójában írt adattudományi, mesterséges intelligencia- és automatizálási megoldásaihoz. Szöveg kinyerése fényképekből, beolvasásokból, PDF dokumentumokból és egyéb grafikus fájlokból anélkül, hogy bonyolult matematikai műveletekbe, neurális hálózatokba és egyéb technikai részletekbe kellene beleásnia magát.
+{{< /blocks/products/pf/product >}}
+
 {{< blocks/products/pf/center-button href="https://products.aspose.com/ocr/hu/family/" innerText="Az összes High Code API megtekintése" >}}
 
 {{< /blocks/products/pf/product-card-row >}}

@@ -23,6 +23,10 @@ Lägg till OCR-funktionalitet till alla plattformar som stöder Java. Extrahera 
 Förbättra dina C++-applikationer med funktioner för optisk teckenigenkänning. OCR i C++ har aldrig varit enklare - bara 5 rader kod känner igen bilden och visar resultat.
 {{< /blocks/products/pf/product >}}
 
+{{< blocks/products/pf/product pfName="Aspose.OCR for " title="Python via .NET" imgSrc="https://releases.aspose.com/images/aspose/aspose_ocr-for-python.svg" productLink="https://products.aspose.com/ocr/sv/python-net" >}}
+Lägg till funktioner för optisk teckenigenkänning (OCR) till dina datavetenskaps-, AI- och automationslösningar skrivna i Python 3.6 eller senare. Extrahera text från foton, skanningar, PDF-dokument och andra grafiska filer utan att behöva fördjupa sig i komplexa matematiska operationer, neurala nätverk och andra tekniska detaljer.
+{{< /blocks/products/pf/product >}}
+
 {{< blocks/products/pf/center-button href="https://products.aspose.com/ocr/sv/family/" innerText="Visa alla High Code API:er" >}}
 
 {{< /blocks/products/pf/product-card-row >}}
