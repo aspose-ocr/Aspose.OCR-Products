@@ -6,8 +6,7 @@ description: Optikai karakterfelismerő (OCR) API a Python-alkalmazásokhoz. Sz�
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Optical character recognition API for Python" h2="
-Szöveg kinyerése beolvasott képekből, fényképekből és képernyőképekből, kereshető PDF-fájlok létrehozása, szövegek keresése és összehasonlítása a képekben, és sok minden más a Python alkalmazásokból." logoImageSrc="https://releases.aspose.com/images/aspose/header-aspose_ocr-for-python.svg" pfName="Aspose.OCR" subTitlepfName="for Python via .NET" downloadUrl="https://releases.aspose.com/ocr/python-net" >}}
+{{< blocks/products/pf/upper-banner h1="Optical character recognition API for Python" h2="Szöveg kinyerése beolvasott képekből, fényképekből és képernyőképekből, kereshető PDF-fájlok létrehozása, szövegek keresése és összehasonlítása a képekben, és sok minden más a Python alkalmazásokból." logoImageSrc="https://releases.aspose.com/images/aspose/header-aspose_ocr-for-python.svg" pfName="Aspose.OCR" subTitlepfName="for Python via .NET" downloadUrl="https://releases.aspose.com/ocr/python-net" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.OCR" subTitlepfName="for Python via .NET" >}}
 
