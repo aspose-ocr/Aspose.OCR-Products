@@ -99,6 +99,7 @@ description: आपके पायथन अनुप्रयोगों क�
     <li>Windows 8</li>
     <li>Windows 10</li>
     <li>Windows 11</li>
+	<li>Linux</li>
    </ul>  
   </div>
   <!--/left-->
@@ -227,12 +228,7 @@ description: आपके पायथन अनुप्रयोगों क�
     <em class="fa fa-language ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">6,000 से अधिक चीनी अक्षरों को पहचानें</p>
-   </div>
-   <div class="col-lg-4">
-    <em class="fa fa-pencil ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">हस्तलिखित नोट्स, मेमो और मेडिकल रिकॉर्ड से पाठ निकालें</p>
-   </div>
+   </div>  
    <div class="col-lg-4">
     <em class="fa fa-eye ico-blue fa-2x col-lg-2">
     </em>

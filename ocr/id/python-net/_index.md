@@ -98,6 +98,7 @@ Jenis gambar
     <li>Windows 8</li>
     <li>Windows 10</li>
     <li>Windows 11</li>
+	<li>Linux</li>
    </ul>  
   </div>
   <!--/left-->
@@ -226,12 +227,7 @@ Hasil pengakuan
     <em class="fa fa-language ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">Kenali lebih dari 6.000 karakter Cina</p>
-   </div>
-   <div class="col-lg-4">
-    <em class="fa fa-pencil ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">Ekstrak teks dari catatan tulisan tangan, memo, dan catatan medis</p>
-   </div>
+   </div>   
    <div class="col-lg-4">
     <em class="fa fa-eye ico-blue fa-2x col-lg-2">
     </em>

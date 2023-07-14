@@ -98,6 +98,7 @@ Tipos de imagen
     <li>Windows 8</li>
     <li>Windows 10</li>
     <li>Windows 11</li>
+	<li>Linux</li>
    </ul>  
   </div>
   <!--/left-->
@@ -226,12 +227,7 @@ Resultados de reconocimiento
     <em class="fa fa-language ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">Reconoce más de 6.000 caracteres chinos</p>
-   </div>
-   <div class="col-lg-4">
-    <em class="fa fa-pencil ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">Extraiga texto de notas escritas a mano, memorandos y registros médicos</p>
-   </div>
+   </div>  
    <div class="col-lg-4">
     <em class="fa fa-eye ico-blue fa-2x col-lg-2">
     </em>
@@ -524,7 +520,7 @@ Resultados de reconocimiento
 				<!--<option value="42">Uzbek</option>-->
 				<!--<option value="41">Vietnamese</option>-->
 			</select>
-			<input type="button" value="Run code" class="ocr-lcs-recognize ocr-lcs-disabled" onclick="OcrLcsRecognize(this)" />
+			<input type="button" value="Ejecutar código" class="ocr-lcs-recognize ocr-lcs-disabled" onclick="OcrLcsRecognize(this)" />
 		</div>
 	</div>
 

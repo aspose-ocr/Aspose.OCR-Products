@@ -98,6 +98,7 @@ description: API pro optické rozpoznávání znaků (OCR) pro vaše aplikace v 
     <li>Windows 8</li>
     <li>Windows 10</li>
     <li>Windows 11</li>
+	<li>Linux</li>
    </ul>  
   </div>
   <!--/left-->
@@ -226,12 +227,7 @@ description: API pro optické rozpoznávání znaků (OCR) pro vaše aplikace v 
     <em class="fa fa-language ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">Rozpoznejte více než 6 000 čínských znaků</p>
-   </div>
-   <div class="col-lg-4">
-    <em class="fa fa-pencil ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">Extrahujte text z ručně psaných poznámek, poznámek a lékařských záznamů</p>
-   </div>
+   </div>  
    <div class="col-lg-4">
     <em class="fa fa-eye ico-blue fa-2x col-lg-2">
     </em>
@@ -525,7 +521,7 @@ description: API pro optické rozpoznávání znaků (OCR) pro vaše aplikace v 
 				<!--<option value="42">Uzbek</option>-->
 				<!--<option value="41">Vietnamese</option>-->
 			</select>
-			<input type="button" value="Run code" class="ocr-lcs-recognize ocr-lcs-disabled" onclick="OcrLcsRecognize(this)" />
+			<input type="button" value="Spustit kód" class="ocr-lcs-recognize ocr-lcs-disabled" onclick="OcrLcsRecognize(this)" />
 		</div>
 	</div>
 

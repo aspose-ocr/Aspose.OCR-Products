@@ -227,12 +227,7 @@ description: Een API voor optische tekenherkenning (OCR) voor uw Python-toepassi
     <em class="fa fa-language ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">Herken meer dan 6.000 Chinese karakters</p>
-   </div>
-   <div class="col-lg-4">
-    <em class="fa fa-pencil ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">Extraheer tekst uit handgeschreven notities, memo's en medische dossiers</p>
-   </div>
+   </div>  
    <div class="col-lg-4">
     <em class="fa fa-eye ico-blue fa-2x col-lg-2">
     </em>

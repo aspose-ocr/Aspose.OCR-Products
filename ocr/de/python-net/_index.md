@@ -98,6 +98,7 @@ description: Eine OCR-API (Optical Character Recognition) für Ihre Python-Anwen
     <li>Windows 8</li>
     <li>Windows 10</li>
     <li>Windows 11</li>
+	<li>Linux</li>
    </ul>  
   </div>
   <!--/left-->
@@ -226,12 +227,7 @@ description: Eine OCR-API (Optical Character Recognition) für Ihre Python-Anwen
     <em class="fa fa-language ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">Erkennen Sie mehr als 6.000 chinesische Schriftzeichen</p>
-   </div>
-   <div class="col-lg-4">
-    <em class="fa fa-pencil ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">Extrahieren Sie Text aus handschriftlichen Notizen, Memos und Krankenakten</p>
-   </div>
+   </div>   
    <div class="col-lg-4">
     <em class="fa fa-eye ico-blue fa-2x col-lg-2">
     </em>
@@ -524,7 +520,7 @@ description: Eine OCR-API (Optical Character Recognition) für Ihre Python-Anwen
 				<!--<option value="42">Uzbek</option>-->
 				<!--<option value="41">Vietnamese</option>-->
 			</select>
-			<input type="button" value="Run code" class="ocr-lcs-recognize ocr-lcs-disabled" onclick="OcrLcsRecognize(this)" />
+			<input type="button" value="Code ausführen" class="ocr-lcs-recognize ocr-lcs-disabled" onclick="OcrLcsRecognize(this)" />
 		</div>
 	</div>
 

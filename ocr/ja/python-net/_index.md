@@ -227,12 +227,7 @@ description: Python アプリケーション用の光学式文字認識 (OCR) AP
     <em class="fa fa-language ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">6,000以上の漢字を認識</p>
-   </div>
-   <div class="col-lg-4">
-    <em class="fa fa-pencil ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">手書きのメモ、メモ、医療記録からテキストを抽出</p>
-   </div>
+   </div>  
    <div class="col-lg-4">
     <em class="fa fa-eye ico-blue fa-2x col-lg-2">
     </em>

@@ -99,6 +99,7 @@ Szöveg kinyerése beolvasott képekből, fényképekből és képernyőképekb�
     <li>Windows 8</li>
     <li>Windows 10</li>
     <li>Windows 11</li>
+	<li>Linux</li>
    </ul>  
   </div>
   <!--/left-->
@@ -227,12 +228,7 @@ Szöveg kinyerése beolvasott képekből, fényképekből és képernyőképekb�
     <em class="fa fa-language ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">Több mint 6000 kínai karakter felismerése</p>
-   </div>
-   <div class="col-lg-4">
-    <em class="fa fa-pencil ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">Szöveg kivonata kézzel írott feljegyzésekből, feljegyzésekből és orvosi feljegyzésekből</p>
-   </div>
+   </div>  
    <div class="col-lg-4">
     <em class="fa fa-eye ico-blue fa-2x col-lg-2">
     </em>

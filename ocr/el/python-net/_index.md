@@ -98,6 +98,7 @@ description: Ένα API οπτικής αναγνώρισης χαρακτήρω
     <li>Windows 8</li>
     <li>Windows 10</li>
     <li>Windows 11</li>
+	<li>Linux</li>
    </ul>  
   </div>
   <!--/left-->
@@ -226,12 +227,7 @@ description: Ένα API οπτικής αναγνώρισης χαρακτήρω
     <em class="fa fa-language ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">Αναγνωρίστε περισσότερους από 6.000 κινεζικούς χαρακτήρες</p>
-   </div>
-   <div class="col-lg-4">
-    <em class="fa fa-pencil ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">Εξαγωγή κειμένου από χειρόγραφες σημειώσεις, σημειώσεις και ιατρικά αρχεία</p>
-   </div>
+   </div>   
    <div class="col-lg-4">
     <em class="fa fa-eye ico-blue fa-2x col-lg-2">
     </em>

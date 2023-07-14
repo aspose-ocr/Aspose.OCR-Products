@@ -227,12 +227,7 @@ description: Python 애플리케이션을 위한 광학 문자 인식(OCR) API�
     <em class="fa fa-language ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">6,000개 이상의 한자를 인식합니다.</p>
-   </div>
-   <div class="col-lg-4">
-    <em class="fa fa-pencil ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">필기 메모, 메모 및 의료 기록에서 텍스트 추출</p>
-   </div>
+   </div>   
    <div class="col-lg-4">
     <em class="fa fa-eye ico-blue fa-2x col-lg-2">
     </em>

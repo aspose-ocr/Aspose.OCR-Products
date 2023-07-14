@@ -1,72 +1,72 @@
 ---
-title: Optical Character Recognition API for Python
+title: Python 光學字符識別 API
 weight: 40
 url: /zh-hant/python-net/ 
-description: An optical character recognition (OCR) API for your Python applications. Extract text from scans and photos, create searchable PDFs, bulk process folders and archives, and more in less than 10 lines of code.
+description: 適用於 Python 應用程序的光學字符識別 (OCR) API。只需不到 10 行代碼即可從掃描件和照片中提取文本、創建可搜索的 PDF、批量處理文件夾和檔案等。
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Optical character recognition API for Python" h2="Extract text from scanned images, photos, and screenshots, create searchable PDFs, search and compare text in images, and more from Python applications." logoImageSrc="https://releases.aspose.com/images/aspose/header-aspose_ocr-for-python.svg" pfName="Aspose.OCR" subTitlepfName="for Python via .NET" downloadUrl="https://releases.aspose.com/ocr/python-net" >}}
+{{< blocks/products/pf/upper-banner h1="Python 光學字符識別 API" h2="從掃描圖像、照片和屏幕截圖中提取文本，創建可搜索的 PDF，搜索和比較圖像中的文本，等等。" logoImageSrc="https://releases.aspose.com/images/aspose/header-aspose_ocr-for-python.svg" pfName="Aspose.OCR" subTitlepfName="for Python via .NET" downloadUrl="https://releases.aspose.com/ocr/python-net" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.OCR" subTitlepfName="for Python via .NET" >}}
 
 {{< blocks/products/pf/sub-menu logoImageSrc="https://releases.aspose.com/images/aspose/aspose_ocr-for-python.svg" liveDemosLink="https://products.aspose.app/ocr/family" PricingLink="https://purchase.aspose.com/pricing/ocr/python-net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/ocr/python-net/" installationsDocsLink="https://docs.aspose.com/ocr/python-net/installation/"  directDownloadLink="https://releases.aspose.com/ocr/python-net/" >}}
 
 {{< blocks/products/pf/tab-content >}}
-<p><b>Aspose.OCR for Python via .NET</b> is a powerful, while easy-to-use optical character recognition (OCR) engine for your Python applications and notebooks. In less than 10 lines of code, you can recognize text in <b>28</b> languages based on Latin, Cyrillic, and Asian scripts, returning results in the most popular document and data interchange formats. There is no need to learn complex mathematical models, build machine learning algorithms and train neural networks &mdash; our simple and robust API will do everything for you.</p>
-<p>The library works equally well with all sources, from a high-quality scan to a quick photo on a smartphone. Whether the image is rotated, distorted or noisy &mdash; automatic pre- and post-processing filters provide the highest recognition accuracy in the shortest time.</p>
+<p><b>Aspose.OCR for Python via .NET</b> 是一款功能強大且易於使用的光學字符識別 (OCR) 引擎，適用於您的 Python 應用程序和筆記本。只需不到 10 行代碼，您就可以識別基於拉丁文、西里爾文和亞洲文字的 <b>28</b> 種語言的文本，並以最流行的文檔和數據交換格式返回結果。無需學習複雜的數學模型、構建機器學習算法和訓練神經網絡 &mdash; 我們簡單而強大的 API 將為您做一切。</p>
+<p>該庫適用於所有來源，從高質量掃描到智能手機上的快速照片。圖像是否旋轉、扭曲或有噪聲 &mdash; 自動預處理和後處理過濾器可在最短的時間內提供最高的識別精度。</p>
 {{< /blocks/products/pf/tab-content >}}
 
 <!--Diagrams Start-->
 {{< blocks/products/pf/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="At a Glance" description="Extract text in major European and Asian languages from any image type" >}}
+{{< blocks/products/pf/carousel-item h3="乍看上去" description="從任何圖像類型中提取主要歐洲和亞洲語言的文本" >}}
 <div class="diagram1 d1-python">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-image">
-    </i>
-    Image types
+    </i>    
+圖像類型
    </header>
-   <ul>
-    <li>Photos</li>
-    <li>Books</li>
-    <li>Articles</li>
-    <li>Contracts</li>
-    <li>ID cards</li>
-    <li>Passports</li>
-    <li>Receipts</li>
-    <li>Invoices</li>
-    <li>License plates</li>
-    <li><i>and more...</i></li>
+   <ul>  
+<li>照片</li>
+    <li>書籍</li>
+    <li>文章</li>
+    <li>合同</li>
+    <li>身份證</li>
+    <li>護照</li>
+    <li>收據</li>
+    <li>發票</li>
+    <li>車牌</li>
+    <li><i>還有更多...</i></li>
    </ul>
   </div>
   <!--/left-->
   <div class="d1-col d1-right">
    <header>
     <i class="fa fa-language">
-    </i>
-    Supported languages
+    </i>    
+支持的語言
    </header>
-   <ul>
-    <li>English</li>
-    <li>Chinese</li>
-    <li>Hindi</li>
-    <li>German</li>
-    <li>French</li>
-    <li>Spanish</li>
-    <li>Russian</li>
-    <li>Italian</li>
-    <li>Polish</li>
-    <li><i>and more...</i></li>
+   <ul>   
+<li>英語</li>
+    <li>中文</li>
+    <li>印地語</li>
+    <li>德語</li>
+    <li>法語</li>
+    <li>西班牙語</li>
+    <li>俄語</li>
+    <li>意大利語</li>
+    <li>波蘭語</li>
+    <li><i>還有更多...</i></li>
    </ul>
   </div>
   <!--/right-->
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img width="70" height="75" alt="Optical Character Recognition Library" src="https://releases.aspose.com/images/aspose/aspose_ocr-for-python.svg"/>
+  <img width="70" height="75" alt="光學字符識別庫" src="https://releases.aspose.com/images/aspose/aspose_ocr-for-python.svg"/>
   <header>
    Aspose.OCR
   </header>
@@ -84,7 +84,7 @@ description: An optical character recognition (OCR) API for your Python applicat
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Platform Independence" description="Aspose.OCR for Python via .NET works under Python version 3.6 or later" >}}
+{{< blocks/products/pf/carousel-item h3="平台獨立性" description="Aspose.OCR for Python via .NET 在 Python 3.6 或更高版本下工作" >}}
 <div class="diagram1 d1-python">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -98,6 +98,7 @@ description: An optical character recognition (OCR) API for your Python applicat
     <li>Windows 8</li>
     <li>Windows 10</li>
     <li>Windows 11</li>
+	<li>Linux</li>
    </ul>  
   </div>
   <!--/left-->
@@ -137,14 +138,14 @@ description: An optical character recognition (OCR) API for your Python applicat
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Supported File Formats" description="Convert any image from a scanner, camera or Internet to the most popular document and data exchange formats" >}}
+{{< blocks/products/pf/carousel-item h3="支持的文件格式" description="將來自掃描儀、相機或互聯網的任何圖像轉換為最流行的文檔和數據交換格式" >}}
 <div class="diagram1 d2 d1-python">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-long-arrow-down">
     </i>
-    Source files
+    源文件
    </header>
    <ul>
     <li>PDF</li>
@@ -160,8 +161,8 @@ description: An optical character recognition (OCR) API for your Python applicat
 <div class="d1-col d1-right">
    <header>
     <i class="fa fa-mail-forward">
-    </i>
-    Recognition results
+    </i>    
+識別結果
    </header>
    <ul>
     <li>Searchable PDF</li>
@@ -177,7 +178,7 @@ description: An optical character recognition (OCR) API for your Python applicat
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img width="70" height="75" alt="Text Recognition API" src="https://releases.aspose.com/images/aspose/aspose_ocr-for-python.svg"/>
+  <img width="70" height="75" alt="文本識別API" src="https://releases.aspose.com/images/aspose/aspose_ocr-for-python.svg"/>
   <header>
    Aspose.OCR
   </header>
@@ -204,75 +205,70 @@ description: An optical character recognition (OCR) API for your Python applicat
  </a>
  <div class="row">
   <div class="container">
-   <h2 class="pr-ft">Features and capabilities</h2>
+   <h2 class="pr-ft">特性和功能</h2>
    <p>
    </p>
    <div class="col-lg-4">
     <em class="fa fa-image ico-blue fa-2x col-lg-2">
     </em>
-    <p class="col-lg-10">Extract text from scans, photos and screenshots</p>
+    <p class="col-lg-10">從掃描件、照片和屏幕截圖中提取文本</p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-file-text-o ico-blue fa-2x col-lg-2">
     </em>
-    <p class="col-lg-10">Convert scanned PDF to searchable and indexable PDFs</p>
+    <p class="col-lg-10">將掃描的 PDF 轉換為可搜索和可索引的 PDF</p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-globe ico-blue fa-2x col-lg-2">
     </em>
-    <p class="col-lg-10">Read Latin, Cyrillic and Asian scripts in all popular typefaces</p>
+    <p class="col-lg-10">閱讀所有流行字體的拉丁文、西里爾文和亞洲文字</p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-language ico-blue fa-2x col-lg-2">
     </em>
-    <p class="col-lg-10">Recognize more than 6,000 Chinese characters</p>
-   </div>
-   <div class="col-lg-4">
-    <em class="fa fa-pencil ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">Extract text from handwritten notes, memos and medical records</p>
-   </div>
+    <p class="col-lg-10">認識6000多個漢字</p>
+   </div>  
    <div class="col-lg-4">
     <em class="fa fa-eye ico-blue fa-2x col-lg-2">
     </em>
-    <p class="col-lg-10">Work with blurry, distorted, rotated, and noisy images</p>
+    <p class="col-lg-10">處理模糊、扭曲、旋轉和有噪聲的圖像</p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-indent ico-blue fa-2x col-lg-2">
     </em>
-    <p class="col-lg-10">Identify and preserve content blocks from the original text layout</p>
+    <p class="col-lg-10">識別並保留原始文本佈局中的內容塊</p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-object-group ico-blue fa-2x col-lg-2">
     </em>
-    <p class="col-lg-10">Detect and read areas of an image: paragraphs, lines and single words</p>
+    <p class="col-lg-10">檢測並讀取圖像的區域：段落、線條和單個單詞</p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-folder-open ico-blue fa-2x col-lg-2">
     </em>
-    <p class="col-lg-10">Bulk process multipage documents, folders and archives</p>
+    <p class="col-lg-10">批量處理多頁文檔、文件夾和檔案</p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-link ico-blue fa-2x col-lg-2">
     </em>
-    <p class="col-lg-10">Recognize images from the Internet without downloading</p>
+    <p class="col-lg-10">識別來自互聯網的圖像，無需下載</p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-check ico-blue fa-2x col-lg-2">
     </em>
-    <p class="col-lg-10">Identify and automatically correct misspelled words</p>
+    <p class="col-lg-10">識別並自動糾正拼寫錯誤的單詞</p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-search ico-blue fa-2x col-lg-2">
     </em>
-    <p class="col-lg-10">Find text in images and intelligently compare image texts</p>
+    <p class="col-lg-10">查找圖像中的文本並智能比較圖像文本</p>
    </div>  
 
 <div class="col-lg-12">
 
-<h2 class="h2title">Easy to use</h2>
+<h2 class="h2title">便於使用</h2>
 
-<p>You only need <b>5</b> lines of code to recognize the image and display the result. Yes, it really is that simple!</p>
+<p>您只需要 <b>5</b> 行代碼即可識別圖像並顯示結果。是的，確實就是這麼簡單！</p>
 
 <!-- BEGIN LCS -->
 <div class="ocr-lcs">
@@ -473,9 +469,9 @@ description: An optical character recognition (OCR) API for your Python applicat
 			<input type="file" accept=".jpg,.jpeg,.png,.bmp,.tif,.tiff,.gif" onchange="OcrLcsFileSelected(this);" />
 			<svg class="ocr-lcs-drop-preload" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 100 100"><g transform="translate(89,50)"><g transform="rotate(0)"><circle cx="0" cy="0" r="5" fill="#29c26a" fill-opacity="1"><animateTransform attributeName="transform" type="scale" begin="-0.8888888888888888s" values="2 2;1 1" keyTimes="0;1" dur="1s" repeatCount="indefinite"></animateTransform><animate attributeName="fill-opacity" keyTimes="0;1" dur="1s" repeatCount="indefinite" values="1;0" begin="-0.8888888888888888s"></animate></circle></g></g><g transform="translate(79.87573328164014,75.06871677777502)"><g transform="rotate(40)"><circle cx="0" cy="0" r="5" fill="#29c26a" fill-opacity="0.8888888888888888"><animateTransform attributeName="transform" type="scale" begin="-0.7777777777777778s" values="2 2;1 1" keyTimes="0;1" dur="1s" repeatCount="indefinite"></animateTransform><animate attributeName="fill-opacity" keyTimes="0;1" dur="1s" repeatCount="indefinite" values="1;0" begin="-0.7777777777777778s"></animate></circle></g></g><g transform="translate(56.772278929010284,88.40750236747611)"><g transform="rotate(80)"><circle cx="0" cy="0" r="5" fill="#29c26a" fill-opacity="0.7777777777777778"><animateTransform attributeName="transform" type="scale" begin="-0.6666666666666666s" values="2 2;1 1" keyTimes="0;1" dur="1s" repeatCount="indefinite"></animateTransform><animate attributeName="fill-opacity" keyTimes="0;1" dur="1s" repeatCount="indefinite" values="1;0" begin="-0.6666666666666666s"></animate></circle></g></g><g transform="translate(30.500000000000007,83.77499074759311)"><g transform="rotate(119.99999999999999)"><circle cx="0" cy="0" r="5" fill="#29c26a" fill-opacity="0.6666666666666666"><animateTransform attributeName="transform" type="scale" begin="-0.5555555555555556s" values="2 2;1 1" keyTimes="0;1" dur="1s" repeatCount="indefinite"></animateTransform><animate attributeName="fill-opacity" keyTimes="0;1" dur="1s" repeatCount="indefinite" values="1;0" begin="-0.5555555555555556s"></animate></circle></g></g><g transform="translate(13.351987789349579,63.33878558970109)"><g transform="rotate(160)"><circle cx="0" cy="0" r="5" fill="#29c26a" fill-opacity="0.5555555555555556"><animateTransform attributeName="transform" type="scale" begin="-0.4444444444444444s" values="2 2;1 1" keyTimes="0;1" dur="1s" repeatCount="indefinite"></animateTransform><animate attributeName="fill-opacity" keyTimes="0;1" dur="1s" repeatCount="indefinite" values="1;0" begin="-0.4444444444444444s"></animate></circle></g></g><g transform="translate(13.351987789349572,36.661214410298925)"><g transform="rotate(200)"><circle cx="0" cy="0" r="5" fill="#29c26a" fill-opacity="0.4444444444444444"><animateTransform attributeName="transform" type="scale" begin="-0.3333333333333333s" values="2 2;1 1" keyTimes="0;1" dur="1s" repeatCount="indefinite"></animateTransform><animate attributeName="fill-opacity" keyTimes="0;1" dur="1s" repeatCount="indefinite" values="1;0" begin="-0.3333333333333333s"></animate></circle></g></g><g transform="translate(30.499999999999982,16.2250092524069)"><g transform="rotate(239.99999999999997)"><circle cx="0" cy="0" r="5" fill="#29c26a" fill-opacity="0.3333333333333333"><animateTransform attributeName="transform" type="scale" begin="-0.2222222222222222s" values="2 2;1 1" keyTimes="0;1" dur="1s" repeatCount="indefinite"></animateTransform><animate attributeName="fill-opacity" keyTimes="0;1" dur="1s" repeatCount="indefinite" values="1;0" begin="-0.2222222222222222s"></animate></circle></g></g><g transform="translate(56.77227892901027,11.59249763252388)"><g transform="rotate(280)"><circle cx="0" cy="0" r="5" fill="#29c26a" fill-opacity="0.2222222222222222"><animateTransform attributeName="transform" type="scale" begin="-0.1111111111111111s" values="2 2;1 1" keyTimes="0;1" dur="1s" repeatCount="indefinite"></animateTransform><animate attributeName="fill-opacity" keyTimes="0;1" dur="1s" repeatCount="indefinite" values="1;0" begin="-0.1111111111111111s"></animate></circle></g></g><g transform="translate(79.87573328164014,24.931283222224955)"><g transform="rotate(320)"><circle cx="0" cy="0" r="5" fill="#29c26a" fill-opacity="0.1111111111111111"><animateTransform attributeName="transform" type="scale" begin="0s" values="2 2;1 1" keyTimes="0;1" dur="1s" repeatCount="indefinite"></animateTransform><animate attributeName="fill-opacity" keyTimes="0;1" dur="1s" repeatCount="indefinite" values="1;0" begin="0s"></animate></circle></g></g><!-- [ldio] generated by https://loading.io/ --></svg>
 			<svg class="ocr-lcs-drop-icon" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 128 128"><path d="M80,0v32h32L80,0z M72,32V0H28c-6.63,0-12,5.37-12,12v104c0,6.62,5.37,12,12,12h72c6.63,0,12-5.37,12-12V40H80.22	C75.57,40,72,36.42,72,32z M88.03,86.03C87.07,87.43,85.55,88,84,88s-3.07-0.59-4.24-1.76L70,76.47V102c0,3.31-2.69,6-6,6	s-6-2.69-6-6V76.47l-9.76,9.76c-2.34,2.34-6.14,2.34-8.49,0s-2.34-6.14,0-8.49l20-20c2.34-2.34,6.14-2.34,8.49,0l20,20	C90.57,80.1,90.57,83.9,88.03,86.03z"/></svg>
-			<span class="ocr-lcs-filename">Ready to recognize <span></span></span>
-			<span class="ocr-lcs-recognizing">Recognizing <span></span></span>
-			<span class="ocr-lcs-hint">Drop a file here or click to browse *</span>
+			<span class="ocr-lcs-filename">準備好識別 <span></span></span>
+			<span class="ocr-lcs-recognizing">認識 <span></span></span>
+			<span class="ocr-lcs-hint">將文件拖放到此處或單擊瀏覽 *</span>
 		</div>
 		<div class="ocr-lcs-mods">
 			<select name="language">
@@ -530,15 +526,15 @@ description: An optical character recognition (OCR) API for your Python applicat
 	</div>
 
 
-	<p class="ocr-lcs-disclaimer">* By uploading your files or using the service you agree with our <a href="https://about.aspose.com/legal/terms-of-use" rel="nofollow noreferrer" target="_blank">Terms of use</a> and <a href="https://about.aspose.com/legal/privacy-policy" rel="nofollow noreferrer" target="_blank">Privacy Policy</a>.</p>
-<div id="code" class="codeblock"><h3>Live code sample - Python 3</h3><pre><code class="cs hljs csharp"><span class="hljs-comment"># Initialize OCR engine</span>
+	<p class="ocr-lcs-disclaimer">* 通過上傳您的文件或使用我們的服務，您同意我們的 <a href="https://about.aspose.com/legal/terms-of-use" rel="nofollow noreferrer" target="_blank">使用條款</a> 和 <a href="https://about.aspose.com/legal/privacy-policy" rel="nofollow noreferrer" target="_blank">隱私政策</a>.</p>
+<div id="code" class="codeblock"><h3>實時代碼示例 - Python 3</h3><pre><code class="cs hljs csharp"><span class="hljs-comment"># 初始化 OCR 引擎</span>
 recognitionEngine = AsposeOcr()
-<span class="hljs-comment"># Add image to batch</span>
+<span class="hljs-comment"># 將圖像添加到批次</span>
 input = OcrInput(InputType.SINGLE_IMAGE)
 input.add("<span class="ocr-lcs-code-filename-placeholder">sample.png</span><span class="ocr-lcs-code-filename-actual"></span>")
-<span class="hljs-comment"># Extract text from image</span>
+<span class="hljs-comment"># 從圖像中提取文本</span>
 result = recognitionEngine.recognize(input)
-<span class="hljs-comment"># Display the recognition result</span>
+<span class="hljs-comment"># 顯示識別結果</span>
 print(result[0].recognition_text)</code></pre></div>
 	<div class="ocr-lcs-result" onclick="OcrLcsCurtainClick(this)">
 		<div>
@@ -638,60 +634,60 @@ print(result[0].recognition_text)</code></pre></div>
 </div>
 
 <div class="col-lg-12">
-<h2 class="h2title">28 recognition languages</h2>
-<p><b>Aspose.OCR for Python via .NET</b> can recognize a large number of languages and all popular writing scripts, including texts with mixed languages:</p>
+<h2 class="h2title">28種識別語言</h2>
+<p><b>Aspose.OCR for Python via .NET</b> 可以識別大量語言和所有流行的書寫文字，包括混合語言的文本：</p>
 <ul>
-<li><b>Extended Latin alphabet</b>: Croatian, Czech, Danish, Dutch, English (including handwritten script), Estonian, Finnish, French, German, Italian, Latvian, Lithuanian, Norwegian, Polish, Portuguese, Romanian, Slovak, Slovene, Spanish, Swedish.</li>
-<li><b>Cyrillic alphabet</b>: Belorussian, Bulgarian, Kazakh, Russian, Serbian, Ukrainian.</li>
-<li><b>Chinese</b>: more than 6,000 characters.</li>
-<li><b>Hindi</b></li>
+<li><b>擴展拉丁字母</b>: 克羅地亞語、捷克語、丹麥語、荷蘭語、英語（包括手寫體）、愛沙尼亞語、芬蘭語、法語、德語、意大利語、拉脫維亞語、立陶宛語、挪威語、波蘭語、葡萄牙語、羅馬尼亞語、斯洛伐克語、斯洛文尼亞語、西班牙語、瑞典語。</li>
+<li><b>西里爾字母</b>：白俄羅斯語、保加利亞語、哈薩克語、俄語、塞爾維亞語、烏克蘭語。</li>
+<li><b>中文</b>：超過 6,000 個字符。</li>
+<li><b>印地語</b></li>
 </ul>
-<p>You can also read texts in other languages based on extended Latin and Cyrillic, even if they are not directly supported by the OCR engine. For example, Latin, Vietnamese, Gaelic, and so on.</p>
+<p>您還可以閱讀基於擴展拉丁語和西里爾語的其他語言的文本，即使 OCR 引擎不直接支持它們。例如拉丁語、越南語、蓋爾語等。</p>
 </div>
 
 <div class="col-lg-12">
-<h2 class="h2title">Powerful processing filters</h2>
-<p>The accuracy and reliability of optical character recognition is highly dependent on the quality of the original image. <b>Aspose.OCR for Python via .NET</b> offers a large number of fully automated and manual image processing filters that enhance an image before it is sent to the OCR engine:</p>
+<h2 class="h2title">強大的處理過濾器</h2>
+<p>光學字符識別的準確性和可靠性很大程度上取決於原始圖像的質量。 <b>Aspose.OCR for Python via .NET</b>提供大量全自動和手動圖像處理過濾器，可在將圖像發送到 OCR 引擎之前對其進行增強：</p>
 <ul>
-<li>Automatically straighten images aligned at a slight angle to the horizontal.</li>
-<li>Manually rotate severely skewed images.</li>
-<li>Automatically remove dirt, spots, scratches, glare, unwanted gradients, and other noise.</li>
-<li>Automatically adjust the image contrast.</li>
-<li>Automatically upscale, or manually resize the image.</li>
-<li>Convert images to black and white or grayscale.</li>
-<li>Invert image colors so that light areas appear dark and dark areas appear light.</li>
-<li>Increase the thickness of characters in an image.</li>
-<li>Blur noisy images while preserving the edges of letters.</li>
-<li>Straighten page curvature and fix camera lens distortion for page photos.</li>
+<li>自動拉直與水平方向成微小角度的圖像。</li>
+<li>手動旋轉嚴重傾斜的圖像。</li>
+<li>自動去除污垢、斑點、划痕、眩光、不需要的漸變和其他噪音。</li>
+<li>自動調整圖像對比度。</li>
+<li>自動放大圖像或手動調整圖像大小。</li>
+<li>將圖像轉換為黑白或灰度圖像。</li>
+<li>反轉圖像顏色，使亮區顯得較暗，暗區顯得較亮。</li>
+<li>增加圖像中字符的粗細。</li>
+<li>模糊嘈雜的圖像，同時保留字母的邊緣。</li>
+<li>拉直頁面曲率並修復頁面照片的相機鏡頭畸變。</li>
 </ul>
-<p>These filters can be combined and applied to the entire image or only to selected areas of the image, as well as in batch processing. Not only can you fine-tune preprocessing in the recognition pipeline, but you can also store processed images for display, caching, and debugging.</p>
+<p>這些濾鏡可以組合併應用於整個圖像或僅應用於圖像的選定區域，以及批處理。您不僅可以在識別管道中微調預處理，還可以存儲處理後的圖像以供顯示、緩存和調試。</p>
 </div>
 
 <div class="col-lg-12">
-<h2 class="h2title">Optimized for specific document types</h2>
-<p><b>Aspose.OCR for Python via .NET</b> offers specially trained neural networks to extract text from certain types of images with maximum accuracy:</p>
+<h2 class="h2title">針對特定文檔類型進行了優化</h2>
+<p><b>Aspose.OCR for Python via .NET</b> 提供經過專門訓練的神經網絡，以最高精度從某些類型的圖像中提取文本：</p>
 <ul>
-<li>Scanned or photographed ID cards and passports.</li>
-<li>Vehicle license plates.</li>
-<li>Invoices.</li>
-<li>Receipts.</li>
+<li>身份證和護照的掃描件或照片。</li>
+<li>車輛牌照。</li>
+<li>發票。</li>
+<li>收據。</li>
 </div>
 
 <div class="col-lg-12">
-<h2 class="h2title">Built-in spell checker</h2>
-<p>Although <b>Aspose.OCR for Python via .NET</b> provides high recognition accuracy, printing defects, dirt, or non-standard fonts may cause certain characters or words to be recognized incorrectly. To further improve recognition results, you can turn on spell checker, which finds and automatically corrects spelling errors based on the selected recognition language.</p>
-<p>If the recognized text contains specialized terminology, abbreviations, and other words which are not present in common spelling dictionaries, you can provide your own word lists.</p>
+<h2 class="h2title">內置拼寫檢查器</h2>
+<p>雖然 <b>Aspose.OCR for Python via .NET</b> 識別精度高，印刷缺陷、污垢或不標準字體可能會導致某些字符或文字無法正確識別。為了進一步提高識別結果，您可以打開拼寫檢查器，它會根據所選的識別語言查找並自動糾正拼寫錯誤。</p>
+<p>如果識別的文本包含專業術語、縮寫詞以及常見拼寫詞典中不存在的其他單詞，您可以提供自己的單詞列表。</p>
 </div>
 
 <div class="col-lg-12">
-<h2 class="h2title">Creating searchable PDFs</h2>
-<p>Even with the highest recognition accuracy, the original image may contain a lot of important non-textual information or simply be of great historical value. <b>Aspose.OCR for Python via .NET</b> offers a simple and elegant solution to combine the best of both worlds. We extract text from an image, PDF document or file package and place it as an invisible text layer on top of the original images. The result is saved in PDF format, which is the industry standard for storing and sharing documents. The resulting files can be searched and indexed, and the text can be selected and copied in the same way as if you selected and copied the original characters.</p>
+<h2 class="h2title">創建可搜索的 PDF</h2>
+<p>即使具有最高的識別精度，原始圖像也可能包含大量重要的非文本信息或者僅僅具有巨大的歷史價值。 <b>Aspose.OCR for Python via .NET</b>提供了一個簡單而優雅的解決方案，結合了兩全其美的優點。我們從圖像、PDF 文檔或文件包中提取文本，並將其作為不可見的文本層放置在原始圖像之上。結果以 PDF 格式保存，這是存儲和共享文檔的行業標準。可以對生成的文件進行搜索和索引，並且可以選擇和復製文本，就像選擇和復制原始字符一樣。</p>
 </div>
 
 <div class="col-lg-12">
-<h2 class="h2title">Bulk recognition</h2>
-<p><b>Aspose.OCR for Python via .NET</b> allows you to recognize multiple files, regardless of their number and type, as simple as reading a single image. With a single API call, you can recognize multiple pages from an auto-feed scanner or extract vehicle license plates from automatic traffic cameras.</p>
-<p>The results can be saved as searchable PDF document or spreadsheets, or returned as plain text, JSON or XML for further analysis.</p>
+<h2 class="h2title">批量識別</h2>
+<p><b>Aspose.OCR for Python via .NET</b> 允許您識別多個文件，無論其數量和類型如何，就像讀取單個圖像一樣簡單。通過一次 API 調用，您可以從自動送紙掃描儀中識別多個頁面，或從自動交通攝像頭中提取車輛牌照。</p>
+<p>結果可以保存為可搜索的 PDF 文檔或電子表格，或以純文本、JSON 或 XML 形式返回以供進一步分析。</p>
 </div>
 
   </div>
@@ -703,29 +699,29 @@ print(result[0].recognition_text)</code></pre></div>
 
 
 {{< blocks/products/pf/support-learning-resources >}}
-{{< blocks/products/pf/slr-tab tabTitle="Learning Resources" tabId="resources" >}}
-{{< blocks/products/pf/slr-element name="Documentation" href="https://docs.aspose.com/ocr/python-net/" >}}
-{{< blocks/products/pf/slr-element name="Repository" href="https://repository.aspose.com/ocr/" >}}
-{{< blocks/products/pf/slr-element name="Tutorial Videos" href="https://www.youtube.com/user/asposevideo" >}}
+{{< blocks/products/pf/slr-tab tabTitle="學習資源" tabId="resources" >}}
+{{< blocks/products/pf/slr-element name="文檔" href="https://docs.aspose.com/ocr/python-net/" >}}
+{{< blocks/products/pf/slr-element name="存儲庫" href="https://repository.aspose.com/ocr/" >}}
+{{< blocks/products/pf/slr-element name="教程視頻" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="Product Support" tabId="support" >}}
-{{< blocks/products/pf/slr-element name="Free Support" href="https://forum.aspose.com/c/ocr" >}}
-{{< blocks/products/pf/slr-element name="Paid Support" href="https://helpdesk.aspose.com/" >}}
-{{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.com/category/ocr/" >}}
-{{< blocks/products/pf/slr-element name="Release Notes" href="https://docs.aspose.com/ocr/python-net/release-notes/latest/" >}}
+{{< blocks/products/pf/slr-tab tabTitle="產品支持" tabId="support" >}}
+{{< blocks/products/pf/slr-element name="免費支持" href="https://forum.aspose.com/c/ocr" >}}
+{{< blocks/products/pf/slr-element name="付費支持" href="https://helpdesk.aspose.com/" >}}
+{{< blocks/products/pf/slr-element name="博客" href="https://blog.aspose.com/category/ocr/" >}}
+{{< blocks/products/pf/slr-element name="發行說明" href="https://docs.aspose.com/ocr/python-net/release-notes/latest/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="Why Aspose.OCR for Python via .NET?" tabId="success-stories" >}}
-{{< blocks/products/pf/slr-element name="Customers List" href="https://company.aspose.com/customers" >}}
-{{< blocks/products/pf/slr-element name="Success Stories" href="https://company.aspose.com/customers/success-stories/" >}}
+{{< blocks/products/pf/slr-tab tabTitle="為什麼 Aspose.OCR for Python via .NET?" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-element name="客戶名單" href="https://company.aspose.com/customers" >}}
+{{< blocks/products/pf/slr-element name="成功的故事" href="https://company.aspose.com/customers/success-stories/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< /blocks/products/pf/support-learning-resources >}}
 
-{{< blocks/products/pf/download-section downloadFreeTrialLink="https://releases.aspose.com/ocr/python-net" pricingInformationLink="https://purchase.aspose.com/pricing/ocr/python-net" >}}
+{{< blocks/products/pf/download-section downloadFreeTrialLink="https://releases.aspose.com/zh/ocr/python-net" pricingInformationLink="https://purchase.aspose.com/pricing/ocr/python-net" >}}
 
-{{< blocks/products/pf/offers-section pfName="Aspose.OCR" description="Aspose also offers native OCR APIs for other popular programming languages:" >}}
+{{< blocks/products/pf/offers-section pfName="Aspose.OCR" description="Aspose 還為其他流行的編程語言提供本機 OCR API：" >}}
 
     {{< blocks/products/pf/offers-section-item link="/ocr/java/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-java.svg" sdkName="Java" >}}
     {{< blocks/products/pf/offers-section-item link="/ocr/cpp/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-cpp.svg" sdkName="C++" >}}
