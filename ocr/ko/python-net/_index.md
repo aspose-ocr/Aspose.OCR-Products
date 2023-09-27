@@ -709,7 +709,7 @@ print(result[0].recognition_text)</code></pre></div>
 {{< blocks/products/pf/slr-element name="무료 지원" href="https://forum.aspose.com/c/ocr" >}}
 {{< blocks/products/pf/slr-element name="유료 지원" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="블로그" href="https://blog.aspose.com/category/ocr/" >}}
-{{< blocks/products/pf/slr-element name="릴리즈 노트" href="https://docs.aspose.com/ocr/python-net/release-notes/latest/" >}}
+{{< blocks/products/pf/slr-element name="릴리즈 노트" href="https://releases.aspose.com/ocr/python-net/release-notes/latest/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="왜 Aspose.OCR for Python via .NET?" tabId="success-stories" >}}

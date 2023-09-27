@@ -708,7 +708,7 @@ print(result[0].recognition_text)</code></pre></div>
 {{< blocks/products/pf/slr-element name="Gratis ondersteuning" href="https://forum.aspose.com/c/ocr" >}}
 {{< blocks/products/pf/slr-element name="Betaalde ondersteuning" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="Bloggen" href="https://blog.aspose.com/category/ocr/" >}}
-{{< blocks/products/pf/slr-element name="Release-opmerkingen" href="https://docs.aspose.com/ocr/python-net/release-notes/latest/" >}}
+{{< blocks/products/pf/slr-element name="Release-opmerkingen" href="https://releases.aspose.com/ocr/python-net/release-notes/latest/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Waarom Aspose.OCR for Python via .NET?" tabId="success-stories" >}}

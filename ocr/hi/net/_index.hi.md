@@ -591,7 +591,7 @@ string text =  result.GetSpellCheckCorrectedText();</code></pre>
 {{< blocks/products/pf/slr-element name="मुफ्त समर्थन" href="https://forum.aspose.com/c/ocr" >}}
 {{< blocks/products/pf/slr-element name="भुगतान समर्थन" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="ब्लॉग" href="https://blog.aspose.com/category/ocr/" >}}
-{{< blocks/products/pf/slr-element name="रिलीज नोट्स" href="https://docs.aspose.com/ocr/net/release-notes/" >}}
+{{< blocks/products/pf/slr-element name="रिलीज नोट्स" href="https://releases.aspose.com/ocr/net/release-notes/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle=".NET के लिए Aspose.OCR क्यों?" tabId="success-stories" >}}

@@ -710,7 +710,7 @@ print(result[0].recognition_text)</code></pre></div>
 {{< blocks/products/pf/slr-element name="मुफ़्त सहायता" href="https://forum.aspose.com/c/ocr" >}}
 {{< blocks/products/pf/slr-element name="सशुल्क सहायता" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="ब्लॉग" href="https://blog.aspose.com/category/ocr/" >}}
-{{< blocks/products/pf/slr-element name="रिलीज नोट्स" href="https://docs.aspose.com/ocr/python-net/release-notes/latest/" >}}
+{{< blocks/products/pf/slr-element name="रिलीज नोट्स" href="https://releases.aspose.com/ocr/python-net/release-notes/latest/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="क्यों Aspose.OCR for Python via .NET?" tabId="success-stories" >}}

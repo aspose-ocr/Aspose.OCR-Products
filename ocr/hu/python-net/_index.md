@@ -709,7 +709,7 @@ Az <p><b>Aspose.OCR for Python via .NET</b> lehetővé teszi több fájl felisme
 {{< blocks/products/pf/slr-element name="Ingyenes támogatás" href="https://forum.aspose.com/c/ocr" >}}
 {{< blocks/products/pf/slr-element name="Fizetett támogatás" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.com/category/ocr/" >}}
-{{< blocks/products/pf/slr-element name="Kiadási megjegyzések" href="https://docs.aspose.com/ocr/python-net/release-notes/latest/" >}}
+{{< blocks/products/pf/slr-element name="Kiadási megjegyzések" href="https://releases.aspose.com/ocr/python-net/release-notes/latest/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Miért Aspose.OCR for Python via .NET?" tabId="success-stories" >}}

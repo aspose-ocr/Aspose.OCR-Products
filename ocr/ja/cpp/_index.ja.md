@@ -477,7 +477,7 @@ size_t res_len = aspose::ocr::page_settings(image_path.c_str(), buffer, len, set
 {{< blocks/products/pf/slr-element name="無料サポート" href="https://forum.aspose.com/c/ocr" >}}
 {{< blocks/products/pf/slr-element name="有料サポート" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="ブログ" href="https://blog.aspose.com/category/ocr/" >}}
-{{< blocks/products/pf/slr-element name="リリースノート" href="https://docs.aspose.com/ocr/cpp/release-notes/" >}}
+{{< blocks/products/pf/slr-element name="リリースノート" href="https://releases.aspose.com/ocr/cpp/release-notes/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="なぜC++用のAspose.OCRなのですか？" tabId="success-stories" >}}

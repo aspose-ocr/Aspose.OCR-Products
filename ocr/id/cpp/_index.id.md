@@ -477,7 +477,7 @@ size_t res_len = aspose::ocr::page_settings(image_path.c_str(), buffer, len, set
 {{< blocks/products/pf/slr-element name="Dukungan Gratis" href="https://forum.aspose.com/c/ocr" >}}
 {{< blocks/products/pf/slr-element name="Dukungan Berbayar" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.com/category/ocr/" >}}
-{{< blocks/products/pf/slr-element name="Catatan Rilis" href="https://docs.aspose.com/ocr/cpp/release-notes/" >}}
+{{< blocks/products/pf/slr-element name="Catatan Rilis" href="https://releases.aspose.com/ocr/cpp/release-notes/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Mengapa Aspose.OCR untuk C++?" tabId="success-stories" >}}

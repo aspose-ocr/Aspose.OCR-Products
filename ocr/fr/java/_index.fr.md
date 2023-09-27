@@ -508,7 +508,7 @@ String result = api.RecognizePageFast("sample.jpg");</code></pre>
 {{< blocks/products/pf/slr-element name="Assistance gratuite" href="https://forum.aspose.com/c/ocr" >}}
 {{< blocks/products/pf/slr-element name="Assistance payante" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.com/category/ocr/" >}}
-{{< blocks/products/pf/slr-element name="Notes de version" href="https://docs.aspose.com/ocr/java/release-notes/" >}}
+{{< blocks/products/pf/slr-element name="Notes de version" href="https://releases.aspose.com/ocr/java/release-notes/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Pourquoi Aspose.OCR pour Java ?" tabId="success-stories" >}}

@@ -477,7 +477,7 @@ size_t res_len = aspose::ocr::page_settings(image_path.c_str(), buffer, len, set
 {{< blocks/products/pf/slr-element name="การสนับสนุนฟรี" href="https://forum.aspose.com/c/ocr" >}}
 {{< blocks/products/pf/slr-element name="การสนับสนุนแบบชำระเงิน" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="บล็อก" href="https://blog.aspose.com/category/ocr/" >}}
-{{< blocks/products/pf/slr-element name="บันทึกประจำรุ่น" href="https://docs.aspose.com/ocr/cpp/release-notes/" >}}
+{{< blocks/products/pf/slr-element name="บันทึกประจำรุ่น" href="https://releases.aspose.com/ocr/cpp/release-notes/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="ทำไมต้อง Aspose.OCR สำหรับ C ++" tabId="success-stories" >}}
