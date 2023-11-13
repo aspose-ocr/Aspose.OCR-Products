@@ -27,7 +27,7 @@ Enhance your C++ applications with optical character recognition capabilities. O
 Extract text from scans, photos, PDF documents directly from the web pages without relying on server-side code. Add OCR functionality to your Electron applications.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.OCR for " title="Node.js via C++" imgSrc="./nodejs-cpp/aspose_ocr-for-javascript-cpp.svg" productLink="https://products.aspose.com/ocr/javascript-cpp" >}}
+{{< blocks/products/pf/product pfName="Aspose.OCR for " title="Node.js via C++" imgSrc="./nodejs-cpp/aspose_ocr-for-javascript-cpp.svg" productLink="https://products.aspose.com/ocr/nodejs-cpp" >}}
 Perform optical character recognition (OCR) in Node.js applications. Extract text from images and convert scans into searchable PDFs with a few lines of JavaScript code.
 {{< /blocks/products/pf/product >}}
 
