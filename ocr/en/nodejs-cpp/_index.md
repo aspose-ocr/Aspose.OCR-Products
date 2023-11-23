@@ -810,9 +810,6 @@ inputs.push_back(input);
 
 </div>
 
-  </div>
- </div>
-</div>
 <!--Feature-section End-->
 
 {{< /blocks/products/pf/main-container >}}
