@@ -339,7 +339,7 @@ description: Perform optical character recognition (OCR) in Node.js applications
 
 <h2 class="h2title">Easy to Use</h2>
 
-<p>Aspose.OCR for Node.js is very easy to start with and master. Do not take our word for it, see for yourself:</p>
+<p>Aspose.OCR for Node.js via C++ is very easy to start with and master. Do not take our word for it, see for yourself:</p>
 
 <!-- BEGIN LCS -->
 <div class="ocr-lcs">
@@ -709,7 +709,7 @@ console.log(result_str);</code></pre></div>
 
 <h2 class="h2title">European and Asian languages</h2>
 
-<p>Aspose.OCR API can extract text in 27 languages based on Latin, Cyrillic, Chinese, and Indic scripts.The library also supports texts in mixed languages.</p>
+<p>Aspose.OCR for Node.js via C++ API can extract text in 27 languages based on Latin, Cyrillic, Chinese, and Indic scripts.The library also supports texts in mixed languages.</p>
 <ul>
 <li><b>Extended Latin alphabet</b>: Croatian, Czech, Danish, Dutch, English, Estonian, Finnish, French, German, Italian, Latvian, Lithuanian, Norwegian, Polish, Portuguese, Romanian, Slovak, Slovenian, Spanish, Swedish.</li>
 <li><b>Cyrillic alphabet</b>: Belorussian, Bulgarian, Kazakh, Russian, Serbian, Ukrainian.</li>
@@ -756,7 +756,7 @@ inputs.push_back(input);
 
 <h2 class="h2title">Image preprocessing</h2>
 
-<p>The accuracy and reliability of text recognition is highly dependent on the quality of the original image. Aspose.OCR offers a large number of fully automated and manual image processing filters that enhance an image before it is sent to the OCR engine:</p>
+<p>The accuracy and reliability of text recognition is highly dependent on the quality of the original image. Aspose.OCR for Node.js via C++ offers a large number of fully automated and manual image processing filters that enhance an image before it is sent to the OCR engine:</p>
 
 <ul>
 	<li>Automatically straighten skewed images.</li>
@@ -777,12 +777,11 @@ input.url = "<span class="hljs-string">../Data/Source/sample.png</span>";
 <span class="hljs-comment">// Prepare settings</span>
 <span class="hljs-keyword">var</span> settings = <span class="hljs-keyword">Module</span>.WasmAsposeOCRRecognitionSettings();
 settings.skew = 5;
-<span class="hljs-keyword">var</span> rects = [ {x: 90, y:186, width:775, height:95} , { x:928, y:606, width:790, height:160 } ];
-settings.rects = rects;
 inputs.push_back(input);
 <span class="hljs-keyword">var</span> result = <span class="hljs-keyword">Module</span>.AsposeOCRRecognize(inputs, settings);
 <span class="hljs-comment">// Serrialize result</span>
 <span class="hljs-keyword">var</span> result_str = <span class="hljs-keyword">Module</span>.AsposeOCRSerializeResult(result, Module.ExportFormat.text);
+</code></pre>
 </div>
 
 </div>
@@ -791,7 +790,7 @@ inputs.push_back(input);
 
 <h2 class="h2title">Specialized recognition models</h2>
 
-<p>Aspose.OCR for C++ offers specifically tuned OCR functions for extracting text from certain types of images:</p>
+<p>Aspose.OCR for Node.js via C++ offers specifically tuned OCR functions for extracting text from certain types of images:</p>
 
 <ul>
 	<li>Digitize scans or photos of passports and other ID cards.</li>
@@ -807,7 +806,7 @@ inputs.push_back(input);
 
 <p>A scanned image or photograph of a text document may contain a large number of blocks of various content - text paragraphs, tables, illustrations, formulas, and the like. Detecting, ordering, and classifying areas of interest on a page is the cornerstone of successful and accurate OCR.</p>
 
-<p>Aspose.OCR offers a number of document areas detection algorithms, allowing you to choose the one that works best for your specific content: from street photos to books and contracts.</p>
+<p>Aspose.OCR for Node.js via C++ offers a number of document areas detection algorithms, allowing you to choose the one that works best for your specific content: from street photos to books and contracts.</p>
 
 </div>
 
@@ -835,7 +834,7 @@ inputs.push_back(input);
 {{< blocks/products/pf/slr-element name="Release Notes" href="https://releases.aspose.com/ocr/nodejs-cpp/release-notes/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="Why Aspose.OCR for Node.js?" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-tab tabTitle="Why Aspose.OCR for Node.js via C++?" tabId="success-stories" >}}
 {{< blocks/products/pf/slr-element name="Customers List" href="https://company.aspose.com/customers" >}}
 {{< blocks/products/pf/slr-element name="Success Stories" href="https://company.aspose.com/customers/success-stories/" >}}
 {{< /blocks/products/pf/slr-tab >}}
