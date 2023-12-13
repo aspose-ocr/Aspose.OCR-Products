@@ -610,8 +610,10 @@ inputs.push_back(input);
 <span class="hljs-keyword">var</span> result = <span class="hljs-keyword">Module</span>.AsposeOCRRecognize(inputs, settings);
 <span class="hljs-comment">// Serrialize result</span>
 <span class="hljs-keyword">var</span> result_str = <span class="hljs-keyword">Module</span>.AsposeOCRSerializeResult(result, Module.ExportFormat.text);
-console.log(result_str);</code></pre></div>
+console.log(result_str);
 }
+</code></pre></div>
+
   <div class="ocr-lcs-result" onclick="OcrLcsCurtainClick(this)">
     <div>
       <header>
@@ -793,11 +795,8 @@ inputs.push_back(input);
 <span class="hljs-keyword">var</span> result = <span class="hljs-keyword">Module</span>.AsposeOCRRecognize(inputs, settings);
 <span class="hljs-comment">// Serrialize result</span>
 <span class="hljs-keyword">var</span> result_str = <span class="hljs-keyword">Module</span>.AsposeOCRSerializeResult(result, Module.ExportFormat.text);
-<<<<<<< HEAD
 }
-=======
 </code></pre>
->>>>>>> main
 </div>
 
 </div>
