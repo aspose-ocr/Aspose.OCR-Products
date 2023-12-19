@@ -35,6 +35,10 @@ Perform optical character recognition (OCR) in Node.js applications. Extract tex
 Add optical character recognition (OCR) capabilities to your data science, AI, and automation solutions written in Python 3.6 or later. Extract text from photos, scans, PDF documents and other graphical files without having to delve into complex mathematical operations, neural networks, and other technical details.
 {{< /blocks/products/pf/product >}}
 
+{{< blocks/products/pf/product pfName="Aspose.OCR for " title="Python via Java" imgSrc="https://releases.aspose.com/images/aspose/aspose_ocr-for-python-java.svg" productLink="https://products.aspose.com/ocr/python-java" >}}
+Powerful OCR (Optical Character Recognition) API that seamlessly integrates with your Python applications through Java. With this solution, you can extract text from images, scans, photos, PDF documents, and more, using the robust capabilities of Aspose.OCR.
+{{< /blocks/products/pf/product >}}
+
 {{< blocks/products/pf/center-button href="https://products.aspose.com/ocr/family/" innerText="View All High Code APIs" >}}
 
 {{< /blocks/products/pf/product-card-row >}}
