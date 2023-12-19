@@ -10,7 +10,7 @@ description: An optical character recognition (OCR) API for your Python applicat
 
 {{< blocks/products/pf/main-container pfName="Aspose.OCR" subTitlepfName="for Python via Java" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://releases.aspose.com/images/aspose/aspose_ocr-for-python.svg" liveDemosLink="https://products.aspose.app/ocr/family" PricingLink="https://purchase.aspose.com/pricing/ocr/python-java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/ocr/python-java/" installationsDocsLink="https://docs.aspose.com/ocr/python-java/installation/"  directDownloadLink="https://releases.aspose.com/ocr/python-java/" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://releases.aspose.com/images/aspose/aspose_ocr-for-python-java.svg" liveDemosLink="https://products.aspose.app/ocr/family" PricingLink="https://purchase.aspose.com/pricing/ocr/python-java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/ocr/python-java/" installationsDocsLink="https://docs.aspose.com/ocr/python-java/installation/"  directDownloadLink="https://releases.aspose.com/ocr/python-java/" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p><b>Aspose.OCR for Python via Java</b> is a powerful, while easy-to-use optical character recognition (OCR) engine for your Python applications and notebooks. In less than 10 lines of code, you can recognize text in <b>28</b> languages based on Latin, Cyrillic, and Asian scripts, returning results in the most popular document and data interchange formats. There is no need to learn complex mathematical models, build machine learning algorithms and train neural networks &mdash; our simple and robust API will do everything for you.</p>
