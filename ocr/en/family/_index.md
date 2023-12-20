@@ -32,7 +32,7 @@ OCR API for extracting text from scans and photos, PDFs, folders and archives in
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.OCR for" title="Node.js via C++" imgSrc="./../nodejs-cpp/aspose_ocr-for-nodejs-cpp.svg" productLink="/ocr/python-net/" >}}
-The OCR API with WebAssembly help will allow you to convert images to text in your products.
+Extract text from scans, photos and screenshots on any platform where Node.js is installed.
 {{< /blocks/products/pf/product >}}
 
 {{< /blocks/products/pf/product-card-row >}}
