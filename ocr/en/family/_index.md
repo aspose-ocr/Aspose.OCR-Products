@@ -35,6 +35,10 @@ OCR API for extracting text from scans and photos, PDFs, folders and archives in
 Extract text from scans, photos and screenshots on any platform where Node.js is installed.
 {{< /blocks/products/pf/product >}}
 
+{{< blocks/products/pf/product pfName="Aspose.OCR for" title="Python via Java" imgSrc="https://releases.aspose.com/images/aspose/aspose_ocr-for-python-java.svg" productLink="/ocr/python-java/" >}}
+OCR API that seamlessly integrates with your Python applications through Java..
+{{< /blocks/products/pf/product >}}
+
 {{< /blocks/products/pf/product-card-row >}}
 {{< /blocks/products/pf/main-container >}}
 
